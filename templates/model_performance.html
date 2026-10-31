@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}{{ t('model_performance') }}{% endblock %}
+{% block content %}
+{% macro cm(c) %}{% set mx = c.matrix|map('max')|max or 1 %}
+<div class="cm" style="grid-template-columns:90px repeat({{ c.labels|length }},1fr)"><div></div>{% for l in c.labels %}<div class="small muted center">{{ l }}</div>{% endfor %}
+{% for row in c.matrix %}{% set ri = loop.index0 %}<div class="small muted" style="align-self:center">{{ c.labels[ri] }}</div>
+{% for v in row %}<div class="cell" style="background:rgba(91,76,240,{{ (0.08 + 0.85*v/mx)|round(2) }});color:{{ '#fff' if v/mx > 0.5 else 'inherit' }}">{{ v }}</div>{% endfor %}{% endfor %}</div>
+<div class="hint">rows = true label, columns = predicted</div>{% endmacro %}
+<div class="page-head"><div><h1>🧠 {{ t('model_performance') }}</h1><p class="muted">All numbers below are computed from real predictions on the held-out test split.</p></div>
+  <form method="post" action="{{ url_for('admin.retrain') }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}"><button class="btn btn-ghost btn-sm">🔁 Retrain &amp; re-evaluate</button></form></div>
+{% if not m %}
+<div class="card empty"><div class="big">🛠️</div><h3>Training required</h3><p>No evaluation results found. Run <code>python training/train.py</code> or press “Retrain &amp; re-evaluate”.</p></div>
+{% else %}
+{% set s = m.results.sentiment %}
+{% if m.dataset.synthetic %}<div class="alert mb">⚠️ The bundled dataset is <b>synthetic</b> (generated from phrase templates, not real college data). Templates repeat across the train and test splits, so these scores are <b>optimistic</b> and only prove the pipeline works. Train on real, human-labelled feedback for trustworthy numbers.</div>{% endif %}
+<div class="grid g2 mb">
+  <div class="card"><h3>Model</h3><dl class="kv">
+    <dt>{{ t('nlp_mode') }} (live)</dt><dd><span class="pill"><span class="dot"></span>{{ info.mode }}</span></dd>
+    <dt>Model name</dt><dd>{{ m.model_name }}</dd><dt>Trained</dt><dd>{{ m.trained_at }}</dd>
+    <dt>Dataset</dt><dd>{{ m.dataset.file }} · {{ m.dataset.size }} rows</dd>
+    <dt>Languages</dt><dd>{{ m.dataset.languages|join(', ') }}</dd>
+    <dt>Split</dt><dd>train {{ m.split.train }} · validation {{ m.split.validation }} · test {{ m.split.test }}<div class="hint">{{ m.split.ratio }}</div></dd>
+    <dt>Hyper-parameter</dt><dd>C = {{ m.hyperparameters.C }}</dd></dl></div>
+  <div class="card"><h3>Sentiment (test split, n={{ s.n }})</h3>
+    <div class="grid g3">
+      {% for k, lab in [('accuracy','Accuracy'),('precision_macro','Precision (macro)'),('recall_macro','Recall (macro)'),('f1_macro','Macro F1'),('f1_weighted','Weighted F1')] %}
+      <div class="stat"><span class="label">{{ lab }}</span><span class="value" style="font-size:1.5rem">{{ (s[k]*100)|round(1) }}%</span></div>{% endfor %}</div></div>
+</div>
+<div class="grid g2 mb">
+  <div class="card"><h3>Per-language performance</h3><div class="table-wrap"><table><thead><tr><th>Language</th><th>n</th><th>Accuracy</th><th>Macro F1</th><th>Weighted F1</th></tr></thead><tbody>
+    {% for name, v in s.per_language.items() %}<tr><td><b>{{ name }}</b></td><td>{{ v.n }}</td><td>{{ (v.accuracy*100)|round(1) }}%</td><td>{{ (v.f1_macro*100)|round(1) }}%</td><td>{{ (v.f1_weighted*100)|round(1) }}%</td></tr>{% endfor %}</tbody></table></div>
+    <details class="mt"><summary>By detailed language label</summary><div class="table-wrap" style="margin-top:.6rem"><table><tbody>
+    {% for name, v in s.per_language_detailed.items() %}<tr><td>{{ name }}</td><td>n={{ v.n }}</td><td>{{ (v.accuracy*100)|round(1) }}%</td></tr>{% endfor %}</tbody></table></div></details></div>
+  <div class="card"><h3>Sentiment confusion matrix</h3>{{ cm(s.confusion_matrix) }}</div>
+</div>
+<div class="grid g2 mb">
+  <div class="card"><h3>Per-aspect performance</h3>
+    <p class="small muted">ML aspect classifier (single-aspect snippets) and the rule-based multi-aspect detector used at inference.</p>
+    <div class="table-wrap"><table><thead><tr><th>Aspect</th><th>Classifier F1</th><th>Rules P</th><th>Rules R</th><th>Rules F1</th></tr></thead><tbody>
+    {% set ac = m.results.aspect_classifier %}{% set ar = m.results.aspect_rules %}
+    {% for a, v in ar.per_aspect.items() %}<tr><td><b>{{ aspect_label(a) }}</b></td><td>{{ ((ac.per_aspect[a].f1 if ac and ac.per_aspect else 0)*100)|round(1) }}%</td><td>{{ (v.precision*100)|round(1) }}%</td><td>{{ (v.recall*100)|round(1) }}%</td><td>{{ (v.f1*100)|round(1) }}%</td></tr>{% endfor %}</tbody></table></div>
+    <p class="small muted mt">Rule-based multi-aspect detection: micro-F1 {{ (ar.f1_micro*100)|round(1) }}% · exact set match {{ (ar.exact_match*100)|round(1) }}% (n={{ ar.n }})</p></div>
+  <div class="card"><h3>Severity rules vs labels</h3><p class="small muted">Rule-based severity compared with labelled severity (macro F1 {{ (m.results.severity_rules.f1_macro*100)|round(1) }}%).</p>{{ cm(m.results.severity_rules.confusion_matrix) }}</div>
+</div>
+{% endif %}
+{% if m and m.results.category_rules %}{% set cr = m.results.category_rules %}
+<div class="grid g2 mb">
+  <div class="card"><h3>Category detection (Academics / Hostel / Others)</h3>
+    <p class="small muted">Rule-based classifier on single-aspect test rows (n={{ cr.n }}): accuracy {{ (cr.accuracy*100)|round(1) }}% · macro F1 {{ (cr.f1_macro*100)|round(1) }}%. Multi-aspect rows: category-set match {{ (cr.multi_aspect_set_match*100)|round(1) }}% (n={{ cr.multi_aspect_n }}).</p>
+    <div class="table-wrap"><table><thead><tr><th>Category</th><th>Precision</th><th>Recall</th><th>F1</th><th>n</th></tr></thead><tbody>
+    {% for c, v in cr.per_category.items() %}<tr><td><b>{{ c }}</b></td><td>{{ (v.precision*100)|round(1) }}%</td><td>{{ (v.recall*100)|round(1) }}%</td><td>{{ (v.f1*100)|round(1) }}%</td><td>{{ v.support }}</td></tr>{% endfor %}</tbody></table></div></div>
+  <div class="card"><h3>Category confusion matrix</h3>{{ cm(cr.confusion_matrix) }}</div>
+</div>{% endif %}
+<div class="grid g2">
+  <div class="card"><h3>Why this model</h3><p class="small">TF-IDF + Logistic Regression is fast, runs fully offline, needs no GPU and — crucially for this project — is <b>explainable</b>: each term’s contribution is tf-idf × coefficient, which powers the “Why?” panels. Combined with Unicode normalisation, Tanglish/Hinglish normalisation and a shared English concept space, one model serves Tamil, Hindi, English and code-mixed text. A fine-tuned XLM-RoBERTa can be plugged in with <code>python training/train.py --transformer</code>; the app then switches to “Multilingual Transformer” mode automatically.</p></div>
+  <div class="card"><h3>Limitations &amp; challenges</h3><ul class="small" style="padding-left:1.1rem;margin:0">
+    <li><b>Dataset:</b> bundled data is synthetic and small; real feedback is noisier and more varied.</li>
+    <li><b>Multilingual:</b> Tamil is agglutinative (many suffixes) and Hindi has several spellings of the same word; the lexicon covers common forms only.</li>
+    <li><b>Tanglish:</b> Romanized spelling is not standardised (<i>romba / rombha / rmba</i>); unseen spellings fall back to raw tokens.</li>
+    <li><b>Code-mixing:</b> language switches inside a clause are handled through concept normalisation, not true cross-lingual understanding.</li>
+    <li><b>Sarcasm, negation scope and unseen vocabulary</b> can cause errors; confidence is a model probability, not a guarantee.</li></ul></div>
+</div>
+{% endblock %}

@@ -1,0 +1,51 @@
+text,language,sentiment,aspect,severity,level,category
+The fee payment process is amazing but The hostel cleanliness is fine.,English,Positive,Administration|Cleanliness,Low,full,Others
+The library books is terrible and needs improvement but The course difficulty is average.,English,Negative,Library|Course Content,High,full,Others
+The classroom infrastructure is decent but The submission deadlines is poor.,English,Negative,Lab/Infrastructure|Assignments,High,full,Academics
+The assignment workload could be better but The campus canteen is excellent,English,Negative,Assignments|Campus Facilities,Medium,full,Academics
+The mentoring is great and I am satisfied but The sports facilities is really helpful and clear,English,Positive,Academic Support|Sports,Low,full,Academics
+The library is a major problem but The room facilities is not that good,English,Negative,Library|Room,Critical,full,Others
+The internet connection is decent but The workshops is neither good nor bad.,English,Neutral,Wi-Fi|Events,Low,full,Academics
+The lecturer is excellent but The submission deadlines is okay and nothing special.,English,Positive,Teaching|Assignments,Low,full,Academics
+The question papers is great and I am satisfied but The library timings is decent.,English,Positive,Exams|Library,Low,full,Academics
+The power supply is neither good nor bad but The internet is great and I am satisfied,English,Positive,Electricity|Wi-Fi,Low,full,Hostel
+My hostel room is great and I am satisfied but The faculty is okay and nothing special.,English,Positive,Room|Teaching,Low,full,Hostel
+The assignments is a major problem but The college events is lacking,English,Negative,Assignments|Events,Critical,full,Academics
+The fee payment process is excellent but The question papers is fine,English,Positive,Administration|Exams,Low,full,Others
+The classroom infrastructure is okay and nothing special but The maintenance team is not good at all.,English,Negative,Lab/Infrastructure|Maintenance,High,full,Academics
+The hostel food is decent but The library books is fine,English,Neutral,Food|Library,Low,full,Hostel
+The WiFi is very good but The academic support is neither good nor bad,English,Positive,Wi-Fi|Academic Support,Low,full,Academics
+The cultural fest is amazing but The laboratory facilities could be better.,English,Negative,Events|Lab/Infrastructure,Medium,full,Others
+The exam schedule is amazing but The laboratory facilities is not good at all,English,Negative,Exams|Lab/Infrastructure,High,full,Academics
+The evaluation is average but The administration is okay and nothing special,English,Neutral,Exams|Administration,Low,full,Academics
+The campus canteen is amazing but The teaching method is really helpful and clear.,English,Positive,Campus Facilities|Teaching,Low,full,Others
+The gym is the worst and nothing works but The library books is excellent.,English,Neutral,Sports|Library,Critical,full,Others
+The doubt clearing sessions is amazing but The hygiene in the hostel could be better.,English,Negative,Academic Support|Cleanliness,Medium,full,Academics
+The library books is great and I am satisfied but The hostel mess is not good at all,English,Negative,Library|Food,High,full,Others
+The hostel washrooms is clean and tidy but The repair work is terrible and needs improvement,English,Negative,Cleanliness|Maintenance,High,full,Hostel
+The library timings is completely useless but The question papers is too difficult and unfair,English,Negative,Library|Exams,Critical,full,Others
+The parking is lacking but The transport facility is fine,English,Negative,Campus Facilities|Transport,Medium,full,Others
+The college events is neither good nor bad but The classroom infrastructure is decent,English,Neutral,Events|Lab/Infrastructure,Low,full,Others
+The hygiene in the hostel is very good but The academic support is completely useless.,English,Neutral,Cleanliness|Academic Support,Critical,full,Hostel
+The lecturer is very good but The hostel maintenance is the worst and nothing works,English,Neutral,Teaching|Maintenance,Critical,full,Academics
+The college events is completely useless but The learning material is fine.,English,Negative,Events|Course Content,Critical,full,Others
+The computer lab is poor but The fee payment process is average.,English,Negative,Lab/Infrastructure|Administration,High,full,Academics
+The transport facility is decent but The submission deadlines is okay and nothing special,English,Neutral,Transport|Assignments,Low,full,Others
+The library is very good but The classroom infrastructure is neither good nor bad,English,Positive,Library|Lab/Infrastructure,Low,full,Others
+The laboratory facilities is decent but The fee payment process is really helpful and clear,English,Positive,Lab/Infrastructure|Administration,Low,full,Academics
+The academic support is poor but The workshops is neither good nor bad.,English,Negative,Academic Support|Events,High,full,Academics
+The college events is great and I am satisfied but The hostel cleanliness is not that good.,English,Negative,Events|Cleanliness,Medium,full,Others
+The college events is decent but The mentoring is fine,English,Neutral,Events|Academic Support,Low,full,Others
+My hostel room is neither good nor bad but The power supply is lacking,English,Negative,Room|Electricity,Medium,full,Hostel
+The office staff is excellent but The hostel rooms is great and I am satisfied,English,Positive,Administration|Room,Low,full,Others
+The assignment workload is okay and nothing special but The campus canteen is really helpful and clear,English,Positive,Assignments|Campus Facilities,Low,full,Academics
+The fee payment process is very bad but The gym is neither good nor bad,English,Negative,Administration|Sports,High,full,Others
+The hostel cleanliness is great and I am satisfied but The office staff is terrible and needs improvement,English,Neutral,Cleanliness|Administration,High,full,Hostel
+The college events is a major problem but The hostel rooms is not that good.,English,Negative,Events|Room,Critical,full,Others
+The library timings is poor but The food in the mess is neither good nor bad,English,Negative,Library|Food,High,full,Others
+The assignments is fine but The subject content is amazing.,English,Positive,Assignments|Course Content,Low,full,Academics
+The library timings is the worst and nothing works but The bus service is average,English,Negative,Library|Transport,Critical,full,Others
+The hostel mess is very good but The doubt clearing sessions is neither good nor bad.,English,Positive,Food|Academic Support,Low,full,Hostel
+The evaluation is excellent but The mess food is amazing,English,Positive,Exams|Food,Low,full,Academics
+The lights are working but the fans are broken,English,Neutral,Electricity|Lab/Infrastructure,Low,full,Electricity
+The teaching is excellent but the lab equipment is poor,English,Neutral,Teaching|Lab/Infrastructure,Low,full,Teaching

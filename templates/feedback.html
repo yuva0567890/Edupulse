@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}{{ t('give_feedback') }}{% endblock %}
+{% block pub %}
+{% set v = values %}
+<div class="page-head"><div><h1>✍️ {{ t('give_feedback') }}</h1><p class="muted">English · தமிழ் · हिन्दी · Tanglish · {{ t('auto_detect') }}</p></div></div>
+<div class="grid" style="grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:1.25rem" id="fb-grid">
+<form class="card" method="post" id="fb-form" novalidate>
+  <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+  <div class="grid g2">
+    <div class="field"><label>{{ t('student_name') }}</label><input type="text" name="student_name" maxlength="120" value="{{ v.get('student_name','') }}"></div>
+    <div class="field"><label>{{ t('student_id') }}</label><input type="text" name="student_id" maxlength="60" value="{{ v.get('student_id','') }}"></div>
+    <div class="field"><label>{{ t('department') }}</label><input type="text" name="department" maxlength="120" list="depts" value="{{ v.get('department','') }}">
+      <datalist id="depts"><option>Computer Science</option><option>Information Technology</option><option>Electronics</option><option>Mechanical</option><option>Civil</option><option>Management Studies</option></datalist></div>
+    <div class="field"><label>{{ t('year') }}</label><select name="year"><option value="">—</option>{% for y in years %}<option value="{{ y }}" {{ 'selected' if v.get('year') == y }}>{{ y }}</option>{% endfor %}</select>
+      {% if errors.year %}<div class="err">Invalid year</div>{% endif %}</div>
+    <div class="field"><label>{{ t('course') }}</label><input type="text" name="course" maxlength="160" value="{{ v.get('course','') }}"></div>
+    <div class="field"><label>{{ t('category') }}</label><select name="category">
+      {% for c in category_choices %}<option value="{{ c }}" {{ 'selected' if v.get('category') == c }}>{{ {'Auto Detect': t('auto_detect'), 'Academics': t('academics'), 'Hostel': t('hostel'), 'Others': t('others')}[c] }}</option>{% endfor %}</select>
+      <div class="hint">{{ t('auto_detect') }}: EduPulse detects Academics / Hostel / Others from your text.</div></div>
+    <div class="field"><label>{{ t('language') }}</label><select name="language">
+      {% for l in lang_hints %}<option value="{{ l }}" {{ 'selected' if v.get('language') == l }}>{{ t('auto_detect') if l == 'Auto Detect' else l }}</option>{% endfor %}</select></div>
+  </div>
+  <div class="field"><label for="text">{{ t('feedback') }} * <span class="char-count" id="cc">0 / 5000</span></label>
+    <textarea id="text" name="text" required maxlength="5000" placeholder="{{ t('feedback_placeholder') }}">{{ v.get('text','') }}</textarea>
+    {% if errors.text %}<div class="err">{{ errors.text if errors.text not in ('empty','short','long') else {'empty':'Please write your feedback.','short':'Feedback is too short (min 3 characters).','long':'Feedback is too long (max 5000 characters).'}[errors.text] }}</div>{% endif %}
+  </div>
+  <div class="field"><label>{{ t('rating') }}</label>
+    <div class="stars">{% for i in [5,4,3,2,1] %}<input type="radio" id="r{{ i }}" name="rating" value="{{ i }}" {{ 'checked' if v.get('rating')|string == i|string }}><label for="r{{ i }}" title="{{ i }}">★</label>{% endfor %}</div></div>
+  <button class="btn btn-primary" id="fb-submit" style="width:100%"><span class="spinner"></span><span>{{ t('analyze_feedback') }}</span></button>
+</form>
+<aside class="card">
+  <h3>Try an example</h3><p class="muted small">Click to fill the box.</p>
+  <div class="chips" style="flex-direction:column;align-items:stretch">
+    {% for ex in ["The teaching is very clear and the lab facilities are good.",
+                  "ஆசிரியர் நன்றாக கற்பிக்கிறார் ஆனால் லேப் வசதிகள் குறைவாக உள்ளது.",
+                  "शिक्षक बहुत अच्छा पढ़ाते हैं लेकिन लैब की सुविधा अच्छी नहीं है।",
+                  "Teaching romba nalla iruku but lab equipment illa.",
+                  "Teacher explanation super but WiFi romba slow.",
+                  "Teacher explanation अच्छा है but WiFi बहुत slow है."] %}
+    <button type="button" class="chip" style="text-align:left" data-example="{{ ex }}">{{ ex }}</button>{% endfor %}
+  </div>
+</aside>
+</div>
+<style>@media(max-width:860px){ #fb-grid{grid-template-columns:1fr!important} }</style>
+{% endblock %}

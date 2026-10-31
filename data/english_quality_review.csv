@@ -1,0 +1,20 @@
+text,language,sentiment,aspect,severity,level,category,action
+The lab equipment is informative,English,Positive,Lab/Infrastructure,Low,clause,Academics,REVIEW
+The syllabus seems fast,English,Positive,Course Content,Low,clause,Academics,REVIEW
+The teaching method was punctual,English,Positive,Teaching,Low,clause,Academics,REVIEW
+Our professors is boring and too fast to follow and The workshops is completely useless.,English,Negative,Teaching|Events,Critical,full,Academics,REVIEW
+The internet connection is fast and reliable,English,Positive,Wi-Fi,Low,clause,Academics,REVIEW
+The subject content seems shortage,English,Negative,Course Content,High,clause,Academics,REVIEW
+The lab computers is really fast-paced,English,Negative,Lab/Infrastructure,High,clause,Academics,REVIEW
+The WiFi speed is fast and reliable,English,Positive,Wi-Fi,Low,clause,Academics,REVIEW
+The campus network is fast and reliable,English,Positive,Wi-Fi,Low,clause,Academics,REVIEW
+The subject content seems problems,English,Negative,Course Content,High,clause,Academics,REVIEW
+The faculty seems smooth,English,Positive,Teaching,Low,clause,Academics,REVIEW
+The mess food is unhygienic and The assignment workload is completely useless.,English,Negative,Food|Assignments,Critical,full,Hostel,REVIEW
+The internet connection seems unhygienic,English,Negative,Wi-Fi,High,clause,Academics,REVIEW
+The college bus is punctual,English,Positive,Transport,Low,clause,Others,REVIEW
+The campus network is really disconnecting,English,Negative,Wi-Fi,High,clause,Academics,REVIEW
+The course difficulty is smelly,English,Negative,Course Content,High,clause,Academics,REVIEW
+The course difficulty is tasty,English,Positive,Course Content,Low,clause,Academics,REVIEW
+The laboratory facilities is stale,English,Negative,Lab/Infrastructure,High,clause,Academics,REVIEW
+The food in the mess is tasty and well cooked,English,Positive,Food,Low,clause,Hostel,REVIEW

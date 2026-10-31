@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ t('login') }}{% endblock %}
+{% block full %}
+<div class="login-wrap"><div class="card login-card">
+  <div class="center mb"><span class="logo" style="margin:0 auto .6rem;width:52px;height:52px;font-size:1.5rem">E</span>
+    <div class="brand" style="justify-content:center;font-size:1.3rem">EduPulse</div>
+    <h2 style="margin-top:.4rem">Welcome Back</h2><p class="muted small" style="margin:0">{{ t('admin_login') }}</p></div>
+  {% if no_users %}<div class="alert mb">👋 No account exists yet. {% if signup_open %}<a href="{{ url_for('admin.signup') }}"><b>Create the first admin account</b></a>.{% endif %}</div>{% endif %}
+  <form method="post" id="auth-form" novalidate autocomplete="on">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <div class="field"><label for="identifier">Email or Username</label>
+      <input id="identifier" name="identifier" type="text" required autofocus autocomplete="username" value="{{ identifier or '' }}" placeholder="you@example.com or username"></div>
+    <div class="field"><label for="password">{{ t('password') }}</label>
+      <div class="pw"><input id="password" name="password" type="password" required autocomplete="current-password">
+        <button type="button" class="pw-toggle" data-toggle="password" aria-label="Show password">👁</button></div></div>
+    <button class="btn btn-primary" style="width:100%" id="auth-submit"><span class="spinner"></span><span>{{ t('login') }}</span></button>
+  </form>
+  <p class="center small muted" style="margin:1.1rem 0 0">Don't have an account? {% if signup_open %}<a href="{{ url_for('admin.signup') }}"><b>Sign Up</b></a>{% else %}<span>Sign up is closed.</span>{% endif %}</p>
+</div></div>
+{% endblock %}

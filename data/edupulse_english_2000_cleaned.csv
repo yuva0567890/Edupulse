@@ -1,0 +1,2001 @@
+language,text,sentiment,category
+English,The college reviews student portal according to its regular schedule.,Neutral,Administration
+English,The hostel has shared rooms and individual rooms.,Neutral,Hostel
+English,Students can find details about classroom teaching in the student handbook.,Neutral,Faculty
+English,I am dissatisfied with the lecture schedule because it is inadequate.,Negative,Academics
+English,Information about hostel Wi-Fi is available through the student portal.,Neutral,Hostel
+English,The department maintains records related to dining area.,Neutral,Food / Mess
+English,The college manages the opening hours well because it is well maintained.,Positive,Library
+English,The college should improve the online learning resources because it is slow.,Negative,Academics
+English,The college should improve the security service because it is confusing.,Negative,Safety and Hygiene
+English,The department maintains records related to registration procedure.,Neutral,Administration
+English,The department maintains records related to assignment feedback.,Neutral,Faculty
+English,The college should improve the project support because it is difficult to use.,Negative,Faculty
+English,Students receive updates about drinking water through official notices.,Neutral,Food / Mess
+English,Students can find details about meal service in the student handbook.,Neutral,Food / Mess
+English,I have had a positive experience with the mess food; it is satisfactory.,Positive,Food / Mess
+English,I have had a positive experience with the waste management; it is well maintained.,Positive,Safety and Hygiene
+English,"In my experience, the medical room is efficient.",Positive,Campus Facilities
+English,The department discusses maintenance service during scheduled meetings.,Neutral,Hostel
+English,"In my experience, the pickup points is uncomfortable.",Negative,Transport
+English,I am dissatisfied with the campus lighting because it is inconsistent.,Negative,Safety and Hygiene
+English,I am satisfied with the classroom furniture because it is well maintained.,Positive,Infrastructure
+English,"In my experience, the course materials is well maintained.",Positive,Academics
+English,The college publishes information about campus pathways on its website.,Neutral,Campus Facilities
+English,I have had a positive experience with the online learning resources; it is excellent.,Positive,Academics
+English,I am dissatisfied with the opening hours because it is unreliable.,Negative,Library
+English,I have had a poor experience with the bus routes; it is difficult to use.,Negative,Transport
+English,The college manages the classroom lighting well because it is consistent.,Positive,Infrastructure
+English,I have had a poor experience with the document verification process; it is confusing.,Negative,Administration
+English,The department assigns a faculty adviser to each student group.,Neutral,Faculty
+English,I have had a poor experience with the maintenance service; it is unsatisfactory.,Negative,Hostel
+English,Campus lights are installed along the main pathways.,Neutral,Campus Facilities
+English,The department maintains records related to digital journals.,Neutral,Library
+English,The campus lighting is inadequate and needs improvement.,Negative,Safety and Hygiene
+English,The food portions are generous for the price.,Positive,Food / Mess
+English,The computer systems are fast and reliable.,Positive,Infrastructure
+English,The emergency exits is helpful and meets students' needs.,Positive,Safety and Hygiene
+English,"In my experience, the document verification process is unreliable.",Negative,Administration
+English,Emergency exits are marked with signs.,Neutral,Safety and Hygiene
+English,The college should improve the online catalogue because it is unsatisfactory.,Negative,Library
+English,I have had a positive experience with the bus service; it is well organized.,Positive,Transport
+English,"In my experience, the drinking water facilities is unreliable.",Negative,Campus Facilities
+English,The bus schedule is stable and changes are announced early.,Positive,Transport
+English,I have had a positive experience with the laboratory exercises; it is consistent.,Positive,Academics
+English,I have had a positive experience with the seating areas; it is helpful.,Positive,Campus Facilities
+English,"In my experience, the bathroom facilities is well maintained.",Positive,Hostel
+English,The lecturer explains important concepts at a suitable pace.,Positive,Faculty
+English,The college reviews sports facilities according to its regular schedule.,Neutral,Campus Facilities
+English,The administration issues receipts for fee payments.,Neutral,Administration
+English,Students can find details about food quality in the student handbook.,Neutral,Food / Mess
+English,The college publishes information about mess food on its website.,Neutral,Food / Mess
+English,Students receive updates about laboratory exercises through official notices.,Neutral,Academics
+English,Information about assessment process is available through the student portal.,Neutral,Academics
+English,Students receive updates about bus routes through official notices.,Neutral,Transport
+English,I am satisfied with the bathroom facilities because it is consistent.,Positive,Hostel
+English,"In my experience, the office hours is inadequate.",Negative,Faculty
+English,I have had a positive experience with the security arrangements; it is well organized.,Positive,Hostel
+English,The department maintains records related to campus lighting.,Neutral,Safety and Hygiene
+English,Students receive course materials through the learning portal.,Neutral,Academics
+English,The fee payment system frequently displays errors.,Negative,Administration
+English,I am dissatisfied with the practical sessions because it is confusing.,Negative,Academics
+English,Information about lecturer's explanations is available through the student portal.,Neutral,Faculty
+English,I am satisfied with the classroom ventilation because it is excellent.,Positive,Infrastructure
+English,I have had a positive experience with the opening hours; it is clear.,Positive,Library
+English,The college has a documented procedure for classroom teaching.,Neutral,Faculty
+English,I have had a positive experience with the medical room; it is efficient.,Positive,Campus Facilities
+English,The department discusses serving staff during scheduled meetings.,Neutral,Food / Mess
+English,The college publishes information about student portal on its website.,Neutral,Administration
+English,The college should improve the mess food because it is unclear.,Negative,Food / Mess
+English,I have had a positive experience with the maintenance service; it is efficient.,Positive,Hostel
+English,The department discusses projectors during scheduled meetings.,Neutral,Infrastructure
+English,Lecturers share course announcements through the student portal.,Neutral,Faculty
+English,The college manages the serving staff well because it is reliable.,Positive,Food / Mess
+English,I am satisfied with the classroom ventilation because it is prompt.,Positive,Infrastructure
+English,I have had a positive experience with the office hours; it is efficient.,Positive,Faculty
+English,The department discusses bus routes during scheduled meetings.,Neutral,Transport
+English,The bus timings is well maintained and meets students' needs.,Positive,Transport
+English,I have had a poor experience with the library collection; it is unsatisfactory.,Negative,Library
+English,"In my experience, the registration procedure is reliable.",Positive,Administration
+English,Students can find details about classroom furniture in the student handbook.,Neutral,Infrastructure
+English,"In my experience, the food quality is inadequate.",Negative,Food / Mess
+English,The maintenance service is slow and needs improvement.,Negative,Hostel
+English,The college manages the drinking water well because it is comfortable.,Positive,Food / Mess
+English,The college should improve the campus lighting because it is poorly maintained.,Negative,Safety and Hygiene
+English,The assignment feedback is unsatisfactory and needs improvement.,Negative,Faculty
+English,"In my experience, the computer laboratory is clear.",Positive,Infrastructure
+English,The department discusses course materials during scheduled meetings.,Neutral,Academics
+English,"The food is fresh, tasty, and served at the right temperature.",Positive,Food / Mess
+English,Students can find details about campus lighting in the student handbook.,Neutral,Safety and Hygiene
+English,"In my experience, the handwashing facilities is reliable.",Positive,Safety and Hygiene
+English,I am satisfied with the laboratory equipment because it is efficient.,Positive,Infrastructure
+English,The department discusses lecturer's explanations during scheduled meetings.,Neutral,Faculty
+English,The college should improve the bus maintenance because it is poorly maintained.,Negative,Transport
+English,I have had a poor experience with the serving staff; it is inefficient.,Negative,Food / Mess
+English,The department maintains records related to lecture schedule.,Neutral,Academics
+English,The sports facilities is unsatisfactory and needs improvement.,Negative,Campus Facilities
+English,The campus pathways are well lit at night.,Positive,Safety and Hygiene
+English,The department discusses hostel rooms during scheduled meetings.,Neutral,Hostel
+English,The college manages the bus routes well because it is prompt.,Positive,Transport
+English,Information about hostel rooms is available through the student portal.,Neutral,Hostel
+English,"In my experience, the meal service is unreliable.",Negative,Food / Mess
+English,I am satisfied with the security arrangements because it is efficient.,Positive,Hostel
+English,I am dissatisfied with the complaint desk because it is inadequate.,Negative,Administration
+English,Students can find details about drinking water facilities in the student handbook.,Neutral,Campus Facilities
+English,The college should improve the food quality because it is inefficient.,Negative,Food / Mess
+English,The college manages the registration procedure well because it is well maintained.,Positive,Administration
+English,Students receive updates about assessment process through official notices.,Neutral,Academics
+English,I am satisfied with the student help desk because it is easy to use.,Positive,Administration
+English,Students can find details about washroom cleanliness in the student handbook.,Neutral,Safety and Hygiene
+English,I am satisfied with the security arrangements because it is satisfactory.,Positive,Hostel
+English,"In my experience, the common areas is unclear.",Negative,Hostel
+English,The college manages the food quality well because it is prompt.,Positive,Food / Mess
+English,The explanations include examples that clarify difficult topics.,Positive,Faculty
+English,The college manages the pickup points well because it is efficient.,Positive,Transport
+English,The college manages the registration procedure well because it is comfortable.,Positive,Administration
+English,The drinking water points are not cleaned regularly.,Negative,Safety and Hygiene
+English,The mess publishes its holiday schedule in advance.,Neutral,Food / Mess
+English,I am satisfied with the drinking water facilities because it is well maintained.,Positive,Campus Facilities
+English,"In my experience, the security service is satisfactory.",Positive,Safety and Hygiene
+English,I am dissatisfied with the bathroom facilities because it is uncomfortable.,Negative,Hostel
+English,The course materials is unsatisfactory and needs improvement.,Negative,Academics
+English,The college publishes information about sports facilities on its website.,Neutral,Campus Facilities
+English,The college reviews handwashing facilities according to its regular schedule.,Neutral,Safety and Hygiene
+English,The classrooms are poorly ventilated and too hot.,Negative,Infrastructure
+English,The rooms are spacious and well ventilated.,Positive,Hostel
+English,I am dissatisfied with the reading area because it is unreliable.,Negative,Library
+English,The borrowing rules is difficult to use and needs improvement.,Negative,Library
+English,The instructor frequently cancels classes without notice.,Negative,Faculty
+English,The department maintains records related to assessment process.,Neutral,Academics
+English,I am dissatisfied with the online catalogue because it is confusing.,Negative,Library
+English,The college should improve the food quality because it is uncomfortable.,Negative,Food / Mess
+English,The hostel dining hall follows a published meal schedule.,Neutral,Hostel
+English,I have had a poor experience with the digital journals; it is unreliable.,Negative,Library
+English,Students receive updates about vegetarian options through official notices.,Neutral,Food / Mess
+English,Students can find details about maintenance service in the student handbook.,Neutral,Hostel
+English,"In my experience, the common areas is easy to use.",Positive,Hostel
+English,The common areas is excellent and meets students' needs.,Positive,Hostel
+English,The campus pathways is unclear and needs improvement.,Negative,Campus Facilities
+English,I am satisfied with the hostel rooms because it is satisfactory.,Positive,Hostel
+English,The department discusses online learning resources during scheduled meetings.,Neutral,Academics
+English,I am satisfied with the project support because it is consistent.,Positive,Faculty
+English,I have had a positive experience with the classroom lighting; it is clear.,Positive,Infrastructure
+English,Students can check bus timings on the college website.,Neutral,Transport
+English,The department discusses fee payment system during scheduled meetings.,Neutral,Administration
+English,I am dissatisfied with the library collection because it is slow.,Negative,Library
+English,Students can submit certificate requests at the main office.,Neutral,Administration
+English,The college manages the washroom cleanliness well because it is comfortable.,Positive,Safety and Hygiene
+English,The department discusses security arrangements during scheduled meetings.,Neutral,Hostel
+English,"In my experience, the document verification process is poorly organized.",Negative,Administration
+English,The college manages the common areas well because it is satisfactory.,Positive,Campus Facilities
+English,The instructor welcomes student questions and discussion.,Positive,Faculty
+English,I am dissatisfied with the online catalogue because it is uncomfortable.,Negative,Library
+English,The college has a documented procedure for lecture schedule.,Neutral,Academics
+English,The transport office publishes route details each semester.,Neutral,Transport
+English,The college publishes information about handwashing facilities on its website.,Neutral,Safety and Hygiene
+English,I have had a poor experience with the serving staff; it is poorly maintained.,Negative,Food / Mess
+English,I am dissatisfied with the drinking water because it is poorly maintained.,Negative,Food / Mess
+English,The college has a documented procedure for laboratory equipment.,Neutral,Infrastructure
+English,The college should improve the drinking water because it is slow.,Negative,Food / Mess
+English,I have had a positive experience with the sports facilities; it is consistent.,Positive,Campus Facilities
+English,The computer laboratory has modern and reliable equipment.,Positive,Infrastructure
+English,I am dissatisfied with the lecturer's explanations because it is confusing.,Negative,Faculty
+English,Information about laundry service is available through the student portal.,Neutral,Hostel
+English,The sports facilities are modern and well maintained.,Positive,Campus Facilities
+English,I have had a poor experience with the laboratory equipment; it is inadequate.,Negative,Infrastructure
+English,The laboratory maintains an inventory of its equipment.,Neutral,Infrastructure
+English,I have had a positive experience with the lecturer's explanations; it is well organized.,Positive,Faculty
+English,The department publishes examination guidelines each semester.,Neutral,Academics
+English,"In my experience, the driver behaviour is consistent.",Positive,Transport
+English,I have had a positive experience with the online catalogue; it is efficient.,Positive,Library
+English,The department discusses meal service during scheduled meetings.,Neutral,Food / Mess
+English,Students receive updates about office hours through official notices.,Neutral,Faculty
+English,Information about reading area is available through the student portal.,Neutral,Library
+English,The medical room is uncomfortable and needs improvement.,Negative,Campus Facilities
+English,The waste management is uncomfortable and needs improvement.,Negative,Safety and Hygiene
+English,The transport fees are reasonable for the service provided.,Positive,Transport
+English,The college reviews drinking water according to its regular schedule.,Neutral,Food / Mess
+English,The meals are served on time.,Positive,Food / Mess
+English,The instructor gives feedback too late to be useful.,Negative,Faculty
+English,I am dissatisfied with the assignment instructions because it is difficult to use.,Negative,Academics
+English,I have had a positive experience with the common areas; it is efficient.,Positive,Hostel
+English,I am satisfied with the campus Wi-Fi because it is efficient.,Positive,Campus Facilities
+English,The college has a documented procedure for drinking water.,Neutral,Food / Mess
+English,"In my experience, the bus routes is poorly organized.",Negative,Transport
+English,I have had a poor experience with the medical room; it is poorly organized.,Negative,Campus Facilities
+English,Information about washroom cleanliness is available through the student portal.,Neutral,Safety and Hygiene
+English,I have had a positive experience with the meal service; it is comfortable.,Positive,Food / Mess
+English,I am satisfied with the laboratory equipment because it is prompt.,Positive,Infrastructure
+English,I have had a poor experience with the driver behaviour; it is inadequate.,Negative,Transport
+English,"In my experience, the common areas is helpful.",Positive,Hostel
+English,The examination dates are listed on the notice board.,Neutral,Academics
+English,Information about handwashing facilities is available through the student portal.,Neutral,Safety and Hygiene
+English,The campus Wi-Fi is inadequate and needs improvement.,Negative,Campus Facilities
+English,"In my experience, the computer laboratory is uncomfortable.",Negative,Infrastructure
+English,The college communicates policy changes clearly and promptly.,Positive,Administration
+English,I have had a positive experience with the security service; it is helpful.,Positive,Safety and Hygiene
+English,The laboratory equipment is damaged or unavailable.,Negative,Infrastructure
+English,I have had a positive experience with the assessment process; it is efficient.,Positive,Academics
+English,I am satisfied with the hostel Wi-Fi because it is comfortable.,Positive,Hostel
+English,"In my experience, the bus timings is clear.",Positive,Transport
+English,The college has a documented procedure for practical sessions.,Neutral,Academics
+English,I am dissatisfied with the classroom furniture because it is inconsistent.,Negative,Infrastructure
+English,The department discusses student portal during scheduled meetings.,Neutral,Administration
+English,"In my experience, the emergency exits is confusing.",Negative,Safety and Hygiene
+English,The college has a documented procedure for campus pathways.,Neutral,Campus Facilities
+English,I have had a poor experience with the opening hours; it is confusing.,Negative,Library
+English,"In my experience, the drinking water points is unclear.",Negative,Safety and Hygiene
+English,The college manages the faculty guidance well because it is reliable.,Positive,Faculty
+English,The college should improve the campus pathways because it is inadequate.,Negative,Campus Facilities
+English,I have had a poor experience with the class discussions; it is inefficient.,Negative,Faculty
+English,The department maintains records related to computer laboratory.,Neutral,Infrastructure
+English,The buses are clean and well maintained.,Positive,Transport
+English,The classrooms are spacious and well ventilated.,Positive,Infrastructure
+English,I have had a poor experience with the computer laboratory; it is uncomfortable.,Negative,Infrastructure
+English,The practical sessions is inefficient and needs improvement.,Negative,Academics
+English,I am satisfied with the hostel rooms because it is prompt.,Positive,Hostel
+English,The hostel Wi-Fi is reliable throughout the building.,Positive,Hostel
+English,The college has a documented procedure for office hours.,Neutral,Faculty
+English,The college should improve the drinking water facilities because it is uncomfortable.,Negative,Campus Facilities
+English,I have had a positive experience with the hostel rooms; it is excellent.,Positive,Hostel
+English,The registration instructions are clear and complete.,Positive,Administration
+English,The hostel rules are displayed near the entrance.,Neutral,Hostel
+English,Students receive updates about laundry service through official notices.,Neutral,Hostel
+English,The library building offers plenty of study space.,Positive,Infrastructure
+English,The college has a documented procedure for borrowing rules.,Neutral,Library
+English,I am satisfied with the drinking water points because it is excellent.,Positive,Safety and Hygiene
+English,The college manages the project support well because it is prompt.,Positive,Faculty
+English,The assignment feedback is confusing and needs improvement.,Negative,Faculty
+English,I have had a positive experience with the handwashing facilities; it is efficient.,Positive,Safety and Hygiene
+English,The office hours are inconvenient for students.,Negative,Administration
+English,I am dissatisfied with the laboratory equipment because it is unclear.,Negative,Infrastructure
+English,The buses are overcrowded during peak hours.,Negative,Transport
+English,The emergency exits is unsatisfactory and needs improvement.,Negative,Safety and Hygiene
+English,I am satisfied with the laundry service because it is reliable.,Positive,Hostel
+English,The college publishes information about security arrangements on its website.,Neutral,Hostel
+English,The college manages the laboratory exercises well because it is consistent.,Positive,Academics
+English,I am satisfied with the complaint desk because it is clear.,Positive,Administration
+English,I have had a positive experience with the fee payment system; it is excellent.,Positive,Administration
+English,Students can find details about seating areas in the student handbook.,Neutral,Campus Facilities
+English,The department maintains records related to assignment instructions.,Neutral,Academics
+English,The college publishes information about practical sessions on its website.,Neutral,Academics
+English,The document verification process involves unnecessary delays.,Negative,Administration
+English,Students can find details about reading area in the student handbook.,Neutral,Library
+English,The campus has Wi-Fi access in the main academic buildings.,Neutral,Campus Facilities
+English,Information about common areas is available through the student portal.,Neutral,Campus Facilities
+English,Information about campus Wi-Fi is available through the student portal.,Neutral,Campus Facilities
+English,The pickup points are inconvenient for many students.,Negative,Transport
+English,The practical sessions are well organized and informative.,Positive,Academics
+English,Students receive updates about classroom lighting through official notices.,Neutral,Infrastructure
+English,The college manages the emergency exits well because it is helpful.,Positive,Safety and Hygiene
+English,The mess food is confusing and needs improvement.,Negative,Food / Mess
+English,The department maintains records related to campus pathways.,Neutral,Campus Facilities
+English,The drinking water facilities is efficient and meets students' needs.,Positive,Campus Facilities
+English,"In my experience, the vegetarian options is well maintained.",Positive,Food / Mess
+English,Bus passes are issued through the transport office.,Neutral,Transport
+English,"In my experience, the waiting areas is poorly maintained.",Negative,Transport
+English,"In my experience, the projectors is easy to use.",Positive,Infrastructure
+English,"In my experience, the library computers is well organized.",Positive,Library
+English,I have had a positive experience with the emergency exits; it is easy to use.,Positive,Safety and Hygiene
+English,The department maintains records related to laundry service.,Neutral,Hostel
+English,The online catalogue is clear and meets students' needs.,Positive,Library
+English,Information about projectors is available through the student portal.,Neutral,Infrastructure
+English,The college publishes information about dining area on its website.,Neutral,Food / Mess
+English,The ramps and lifts are not accessible to all students.,Negative,Infrastructure
+English,The college manages the complaint desk well because it is reliable.,Positive,Administration
+English,The pickup points is unreliable and needs improvement.,Negative,Transport
+English,The laundry service is confusing and needs improvement.,Negative,Hostel
+English,The campus pathways is poorly organized and needs improvement.,Negative,Campus Facilities
+English,The college should improve the seating areas because it is uncomfortable.,Negative,Campus Facilities
+English,The food quality is clear and meets students' needs.,Positive,Food / Mess
+English,The online application portal often fails during submission.,Negative,Administration
+English,Students can find details about drinking water in the student handbook.,Neutral,Food / Mess
+English,I have had a positive experience with the document verification process; it is well maintained.,Positive,Administration
+English,Students receive updates about emergency exits through official notices.,Neutral,Safety and Hygiene
+English,The college should improve the drinking water points because it is inconsistent.,Negative,Safety and Hygiene
+English,"In my experience, the classroom ventilation is clear.",Positive,Infrastructure
+English,The classroom lighting is prompt and meets students' needs.,Positive,Infrastructure
+English,I have had a positive experience with the classroom lighting; it is well maintained.,Positive,Infrastructure
+English,The registration procedure is satisfactory and meets students' needs.,Positive,Administration
+English,The college manages the washroom cleanliness well because it is reliable.,Positive,Safety and Hygiene
+English,The college schedules maintenance during semester breaks.,Neutral,Infrastructure
+English,The college publishes information about registration procedure on its website.,Neutral,Administration
+English,The college manages the registration procedure well because it is excellent.,Positive,Administration
+English,Drinking water points are located near the lecture halls.,Neutral,Campus Facilities
+English,The department maintains records related to bus service.,Neutral,Transport
+English,I have had a positive experience with the borrowing rules; it is consistent.,Positive,Library
+English,The college has a documented procedure for handwashing facilities.,Neutral,Safety and Hygiene
+English,The college has classrooms in several academic buildings.,Neutral,Infrastructure
+English,I have had a poor experience with the maintenance service; it is inconsistent.,Negative,Hostel
+English,The hostel rules are enforced inconsistently.,Negative,Hostel
+English,The department maintains records related to library collection.,Neutral,Library
+English,The college manages the laboratory exercises well because it is well maintained.,Positive,Academics
+English,"In my experience, the classroom ventilation is unclear.",Negative,Infrastructure
+English,The college should improve the fee payment system because it is poorly maintained.,Negative,Administration
+English,"In my experience, the common areas is excellent.",Positive,Campus Facilities
+English,Students receive updates about hostel Wi-Fi through official notices.,Neutral,Hostel
+English,The department discusses opening hours during scheduled meetings.,Neutral,Library
+English,The college reviews mess food according to its regular schedule.,Neutral,Food / Mess
+English,Students receive updates about classroom teaching through official notices.,Neutral,Faculty
+English,I am dissatisfied with the driver behaviour because it is uncomfortable.,Negative,Transport
+English,I have had a poor experience with the bus routes; it is poorly maintained.,Negative,Transport
+English,The college publishes faculty profiles on its website.,Neutral,Faculty
+English,Students receive updates about drinking water facilities through official notices.,Neutral,Campus Facilities
+English,"In my experience, the document verification process is consistent.",Positive,Administration
+English,The assignment feedback is easy to use and meets students' needs.,Positive,Faculty
+English,I have had a positive experience with the practical sessions; it is reliable.,Positive,Academics
+English,Students receive updates about class discussions through official notices.,Neutral,Faculty
+English,The college reviews campus Wi-Fi according to its regular schedule.,Neutral,Campus Facilities
+English,The department maintains records related to hostel rooms.,Neutral,Hostel
+English,I am satisfied with the food quality because it is prompt.,Positive,Food / Mess
+English,The college publishes information about assignment instructions on its website.,Neutral,Academics
+English,I am satisfied with the classroom lighting because it is reliable.,Positive,Infrastructure
+English,Students receive updates about waste management through official notices.,Neutral,Safety and Hygiene
+English,The department maintains records related to laboratory equipment.,Neutral,Infrastructure
+English,"In my experience, the course materials is prompt.",Positive,Academics
+English,The borrowing rules are confusing and inconsistently applied.,Negative,Library
+English,I am satisfied with the bus service because it is efficient.,Positive,Transport
+English,The college should improve the reading area because it is inadequate.,Negative,Library
+English,The college manages the washroom cleanliness well because it is prompt.,Positive,Safety and Hygiene
+English,I am satisfied with the meal service because it is efficient.,Positive,Food / Mess
+English,The library opening hours are displayed at the entrance.,Neutral,Library
+English,The college reviews common areas according to its regular schedule.,Neutral,Campus Facilities
+English,Students receive updates about washroom cleanliness through official notices.,Neutral,Safety and Hygiene
+English,The security service is prompt and meets students' needs.,Positive,Safety and Hygiene
+English,The complaint desk is efficient and meets students' needs.,Positive,Administration
+English,The college manages the fee payment system well because it is prompt.,Positive,Administration
+English,The college manages the emergency exits well because it is reliable.,Positive,Safety and Hygiene
+English,The college reviews faculty guidance according to its regular schedule.,Neutral,Faculty
+English,"In my experience, the student portal is inadequate.",Negative,Administration
+English,I have had a positive experience with the mess food; it is efficient.,Positive,Food / Mess
+English,I am satisfied with the security service because it is consistent.,Positive,Safety and Hygiene
+English,Faculty office hours are listed on the department notice board.,Neutral,Faculty
+English,The bus service is difficult to use and needs improvement.,Negative,Transport
+English,Handwashing facilities are located beside the washrooms.,Neutral,Safety and Hygiene
+English,The college has a documented procedure for drinking water points.,Neutral,Safety and Hygiene
+English,The college has a documented procedure for washroom cleanliness.,Neutral,Safety and Hygiene
+English,I have had a positive experience with the bathroom facilities; it is efficient.,Positive,Hostel
+English,The transport office communicates delays promptly.,Positive,Transport
+English,The projectors is unclear and needs improvement.,Negative,Infrastructure
+English,Students receive updates about campus buildings through official notices.,Neutral,Infrastructure
+English,The college should improve the medical room because it is uncomfortable.,Negative,Campus Facilities
+English,Students receive updates about library computers through official notices.,Neutral,Library
+English,I am satisfied with the assignment feedback because it is prompt.,Positive,Faculty
+English,I am satisfied with the food quality because it is excellent.,Positive,Food / Mess
+English,I am dissatisfied with the laundry service because it is inefficient.,Negative,Hostel
+English,The certificate application process is helpful and meets students' needs.,Positive,Administration
+English,The college should improve the waste management because it is poorly maintained.,Negative,Safety and Hygiene
+English,I have had a poor experience with the complaint desk; it is inconsistent.,Negative,Administration
+English,The faculty guidance is well organized and meets students' needs.,Positive,Faculty
+English,"In my experience, the sports facilities is inadequate.",Negative,Campus Facilities
+English,"In my experience, the library collection is inconsistent.",Negative,Library
+English,I have had a poor experience with the waiting areas; it is inconsistent.,Negative,Transport
+English,Students can contact the help desk during office hours.,Neutral,Administration
+English,The department discusses bathroom facilities during scheduled meetings.,Neutral,Hostel
+English,Drinking water points are available in each main building.,Neutral,Safety and Hygiene
+English,The college should improve the faculty guidance because it is uncomfortable.,Negative,Faculty
+English,The dining area is dirty and poorly ventilated.,Negative,Food / Mess
+English,The college publishes information about classroom teaching on its website.,Neutral,Faculty
+English,The college reviews borrowing rules according to its regular schedule.,Neutral,Library
+English,I have had a positive experience with the medical room; it is reliable.,Positive,Campus Facilities
+English,Visitors must register at the hostel reception.,Neutral,Hostel
+English,The campus security checks are irregular.,Negative,Safety and Hygiene
+English,The classroom lighting is well organized and meets students' needs.,Positive,Infrastructure
+English,I have had a positive experience with the classroom teaching; it is clear.,Positive,Faculty
+English,Projectors are installed in selected lecture halls.,Neutral,Infrastructure
+English,Students receive updates about lecturer's explanations through official notices.,Neutral,Faculty
+English,I have had a positive experience with the opening hours; it is well organized.,Positive,Library
+English,"In my experience, the bathroom facilities is poorly maintained.",Negative,Hostel
+English,I have had a poor experience with the borrowing rules; it is unreliable.,Negative,Library
+English,Students receive updates about maintenance service through official notices.,Neutral,Hostel
+English,The department maintains records related to online catalogue.,Neutral,Library
+English,"In my experience, the maintenance service is poorly organized.",Negative,Hostel
+English,The college manages the certificate application process well because it is excellent.,Positive,Administration
+English,The drinking water points is unsatisfactory and needs improvement.,Negative,Safety and Hygiene
+English,The washrooms are clean and smell fresh.,Positive,Safety and Hygiene
+English,The department maintains records related to medical room.,Neutral,Campus Facilities
+English,The lecturer arrives on time for scheduled classes.,Positive,Faculty
+English,The assignment submission dates are announced in class.,Neutral,Academics
+English,The college reviews opening hours according to its regular schedule.,Neutral,Library
+English,I am dissatisfied with the vegetarian options because it is unsatisfactory.,Negative,Food / Mess
+English,The college manages the digital journals well because it is satisfactory.,Positive,Library
+English,I have had a poor experience with the bus maintenance; it is difficult to use.,Negative,Transport
+English,I have had a poor experience with the library collection; it is poorly maintained.,Negative,Library
+English,"In my experience, the student help desk is easy to use.",Positive,Administration
+English,I am satisfied with the bus routes because it is comfortable.,Positive,Transport
+English,I am satisfied with the hostel Wi-Fi because it is well organized.,Positive,Hostel
+English,I am dissatisfied with the campus buildings because it is unreliable.,Negative,Infrastructure
+English,I have had a positive experience with the drinking water; it is excellent.,Positive,Food / Mess
+English,The college manages the practical sessions well because it is excellent.,Positive,Academics
+English,The feedback on submitted work is vague and unhelpful.,Negative,Faculty
+English,I have had a poor experience with the campus Wi-Fi; it is uncomfortable.,Negative,Campus Facilities
+English,Students receive updates about food quality through official notices.,Neutral,Food / Mess
+English,"In my experience, the course materials is unclear.",Negative,Academics
+English,I am dissatisfied with the common areas because it is inconsistent.,Negative,Hostel
+English,I have had a positive experience with the student portal; it is comfortable.,Positive,Administration
+English,The computers in the library are slow and unreliable.,Negative,Library
+English,I have had a positive experience with the campus lighting; it is easy to use.,Positive,Safety and Hygiene
+English,The college should improve the bus maintenance because it is unreliable.,Negative,Transport
+English,Information about bathroom facilities is available through the student portal.,Neutral,Hostel
+English,The department discusses faculty guidance during scheduled meetings.,Neutral,Faculty
+English,The approval process is efficient and well organized.,Positive,Administration
+English,The department maintains records related to campus Wi-Fi.,Neutral,Campus Facilities
+English,The department discusses hostel Wi-Fi during scheduled meetings.,Neutral,Hostel
+English,The college manages the digital journals well because it is well maintained.,Positive,Library
+English,The college provides an online form for updating student details.,Neutral,Administration
+English,Students receive updates about assignment instructions through official notices.,Neutral,Academics
+English,"In my experience, the projectors is reliable.",Positive,Infrastructure
+English,I am satisfied with the campus buildings because it is prompt.,Positive,Infrastructure
+English,The lectures are difficult to follow because the explanations are unclear.,Negative,Academics
+English,The college publishes information about meal service on its website.,Neutral,Food / Mess
+English,I am dissatisfied with the meal service because it is slow.,Negative,Food / Mess
+English,The common areas is well organized and meets students' needs.,Positive,Hostel
+English,"In my experience, the hostel rooms is helpful.",Positive,Hostel
+English,The college has a documented procedure for laboratory exercises.,Neutral,Academics
+English,The department discusses assignment feedback during scheduled meetings.,Neutral,Faculty
+English,Students receive updates about practical sessions through official notices.,Neutral,Academics
+English,Students can find details about student help desk in the student handbook.,Neutral,Administration
+English,Students can find details about lecturer's explanations in the student handbook.,Neutral,Faculty
+English,I am dissatisfied with the assignment feedback because it is unsatisfactory.,Negative,Faculty
+English,Information about document verification process is available through the student portal.,Neutral,Administration
+English,I am dissatisfied with the online learning resources because it is unreliable.,Negative,Academics
+English,The college should improve the classroom furniture because it is difficult to use.,Negative,Infrastructure
+English,I have had a poor experience with the security service; it is slow.,Negative,Safety and Hygiene
+English,The class discussions is satisfactory and meets students' needs.,Positive,Faculty
+English,The student help desk is inefficient and needs improvement.,Negative,Administration
+English,The college should improve the campus lighting because it is inconsistent.,Negative,Safety and Hygiene
+English,The classroom furniture is broken and uncomfortable.,Negative,Infrastructure
+English,"In my experience, the certificate application process is unreliable.",Negative,Administration
+English,The registration procedure is described on the college website.,Neutral,Administration
+English,The office maintains records of student applications.,Neutral,Administration
+English,The registration procedure is consistent and meets students' needs.,Positive,Administration
+English,"In my experience, the common areas is reliable.",Positive,Campus Facilities
+English,Students receive updates about borrowing rules through official notices.,Neutral,Library
+English,I have had a positive experience with the dining area; it is excellent.,Positive,Food / Mess
+English,The laboratory maintenance is inadequate.,Negative,Infrastructure
+English,I have had a poor experience with the registration procedure; it is unsatisfactory.,Negative,Administration
+English,"In my experience, the project support is efficient.",Positive,Faculty
+English,"In my experience, the campus lighting is prompt.",Positive,Safety and Hygiene
+English,"In my experience, the lecture schedule is poorly maintained.",Negative,Academics
+English,"In my experience, the washroom cleanliness is well maintained.",Positive,Safety and Hygiene
+English,The college has a documented procedure for classroom lighting.,Neutral,Infrastructure
+English,I am satisfied with the faculty guidance because it is well organized.,Positive,Faculty
+English,I have had a positive experience with the security service; it is reliable.,Positive,Safety and Hygiene
+English,I have had a poor experience with the pickup points; it is confusing.,Negative,Transport
+English,Students can find details about projectors in the student handbook.,Neutral,Infrastructure
+English,The campus pathways are uneven and difficult to use.,Negative,Campus Facilities
+English,I have had a positive experience with the campus Wi-Fi; it is well organized.,Positive,Campus Facilities
+English,I am dissatisfied with the mess food because it is unsatisfactory.,Negative,Food / Mess
+English,I have had a positive experience with the campus Wi-Fi; it is helpful.,Positive,Campus Facilities
+English,I am satisfied with the practical sessions because it is clear.,Positive,Academics
+English,The college publishes information about assessment process on its website.,Neutral,Academics
+English,I am satisfied with the certificate application process because it is well maintained.,Positive,Administration
+English,I am dissatisfied with the campus Wi-Fi because it is inadequate.,Negative,Campus Facilities
+English,The emergency exits is confusing and needs improvement.,Negative,Safety and Hygiene
+English,I have had a poor experience with the reading area; it is unclear.,Negative,Library
+English,The instructor gives timely and constructive feedback.,Positive,Faculty
+English,The college reviews library computers according to its regular schedule.,Neutral,Library
+English,The washrooms are dirty and smell unpleasant.,Negative,Safety and Hygiene
+English,The college manages the office hours well because it is clear.,Positive,Faculty
+English,The dining area has separate counters for different meals.,Neutral,Food / Mess
+English,I am satisfied with the bus routes because it is satisfactory.,Positive,Transport
+English,The drinking water facilities are clean and reliable.,Positive,Hostel
+English,I have had a poor experience with the campus Wi-Fi; it is slow.,Negative,Campus Facilities
+English,"In my experience, the laundry service is comfortable.",Positive,Hostel
+English,The department discusses classroom teaching during scheduled meetings.,Neutral,Faculty
+English,The department discusses assignment instructions during scheduled meetings.,Neutral,Academics
+English,The mess does not maintain proper hygiene.,Negative,Food / Mess
+English,The digital journals is satisfactory and meets students' needs.,Positive,Library
+English,I am dissatisfied with the projectors because it is unsatisfactory.,Negative,Infrastructure
+English,The student portal is satisfactory and meets students' needs.,Positive,Administration
+English,The department maintains records related to bus routes.,Neutral,Transport
+English,The library building has insufficient study space.,Negative,Infrastructure
+English,"In my experience, the office hours is unsatisfactory.",Negative,Faculty
+English,The college reviews medical room according to its regular schedule.,Neutral,Campus Facilities
+English,The college should improve the hostel Wi-Fi because it is slow.,Negative,Hostel
+English,The bathrooms are clean and regularly maintained.,Positive,Hostel
+English,The hostel office records resident attendance.,Neutral,Hostel
+English,The department maintains records related to document verification process.,Neutral,Administration
+English,The college manages the handwashing facilities well because it is helpful.,Positive,Safety and Hygiene
+English,The bus routes is well organized and meets students' needs.,Positive,Transport
+English,I have had a poor experience with the classroom furniture; it is inadequate.,Negative,Infrastructure
+English,Information about lecture schedule is available through the student portal.,Neutral,Academics
+English,"In my experience, the emergency exits is uncomfortable.",Negative,Safety and Hygiene
+English,The food quality is easy to use and meets students' needs.,Positive,Food / Mess
+English,The college publishes information about bathroom facilities on its website.,Neutral,Hostel
+English,The drinking water is well maintained and meets students' needs.,Positive,Food / Mess
+English,The college has a documented procedure for assignment instructions.,Neutral,Academics
+English,I am dissatisfied with the opening hours because it is unclear.,Negative,Library
+English,I am dissatisfied with the medical room because it is unsatisfactory.,Negative,Campus Facilities
+English,I have had a poor experience with the lecturer's explanations; it is poorly maintained.,Negative,Faculty
+English,"The mess serves breakfast, lunch, and dinner each day.",Neutral,Food / Mess
+English,I have had a poor experience with the common areas; it is difficult to use.,Negative,Campus Facilities
+English,"In my experience, the security service is excellent.",Positive,Safety and Hygiene
+English,Faculty members participate in departmental meetings.,Neutral,Faculty
+English,The bathrooms are not cleaned regularly.,Negative,Hostel
+English,"In my experience, the bathroom facilities is inconsistent.",Negative,Hostel
+English,The college has washrooms on every academic floor.,Neutral,Safety and Hygiene
+English,I have had a poor experience with the borrowing rules; it is confusing.,Negative,Library
+English,The fee payment system works smoothly.,Positive,Administration
+English,The registration procedure is inefficient and needs improvement.,Negative,Administration
+English,The department maintains records related to opening hours.,Neutral,Library
+English,The college should improve the office hours because it is confusing.,Negative,Faculty
+English,The college has a documented procedure for driver behaviour.,Neutral,Transport
+English,I am satisfied with the lecturer's explanations because it is well maintained.,Positive,Faculty
+English,Students can find details about bus routes in the student handbook.,Neutral,Transport
+English,The campus lighting is slow and needs improvement.,Negative,Safety and Hygiene
+English,I have had a positive experience with the waste management; it is well organized.,Positive,Safety and Hygiene
+English,I have had a poor experience with the common areas; it is inconsistent.,Negative,Hostel
+English,Information about driver behaviour is available through the student portal.,Neutral,Transport
+English,The course materials is well maintained and meets students' needs.,Positive,Academics
+English,The mess maintains excellent hygiene.,Positive,Food / Mess
+English,The emergency exits are clear and easy to access.,Positive,Safety and Hygiene
+English,The projectors is easy to use and meets students' needs.,Positive,Infrastructure
+English,I am satisfied with the dining area because it is clear.,Positive,Food / Mess
+English,Students can find details about waste management in the student handbook.,Neutral,Safety and Hygiene
+English,Information about borrowing rules is available through the student portal.,Neutral,Library
+English,The college has a documented procedure for security arrangements.,Neutral,Hostel
+English,"In my experience, the drinking water is efficient.",Positive,Food / Mess
+English,The department discusses mess food during scheduled meetings.,Neutral,Food / Mess
+English,The college has a documented procedure for waiting areas.,Neutral,Transport
+English,Information about computer laboratory is available through the student portal.,Neutral,Infrastructure
+English,The college reviews meal service according to its regular schedule.,Neutral,Food / Mess
+English,The lighting in the reading area is inadequate.,Negative,Library
+English,The college reviews bathroom facilities according to its regular schedule.,Neutral,Hostel
+English,I am dissatisfied with the bus maintenance because it is inconsistent.,Negative,Transport
+English,The college should improve the drinking water facilities because it is confusing.,Negative,Campus Facilities
+English,The laboratory exercises is well organized and meets students' needs.,Positive,Academics
+English,I have had a poor experience with the washroom cleanliness; it is slow.,Negative,Safety and Hygiene
+English,The college reviews dining area according to its regular schedule.,Neutral,Food / Mess
+English,The college records student registrations for bus routes.,Neutral,Transport
+English,The student recreation area is clean and welcoming.,Positive,Campus Facilities
+English,The college reviews online learning resources according to its regular schedule.,Neutral,Academics
+English,Waste bins are placed near the lecture halls.,Neutral,Safety and Hygiene
+English,The medical room is helpful and meets students' needs.,Positive,Campus Facilities
+English,The lecturer explains concepts clearly and answers questions patiently.,Positive,Faculty
+English,The sports facilities are damaged and need repairs.,Negative,Campus Facilities
+English,"In my experience, the driver behaviour is uncomfortable.",Negative,Transport
+English,Students can renew eligible books through the library portal.,Neutral,Library
+English,The college manages the certificate application process well because it is efficient.,Positive,Administration
+English,The library Wi-Fi is fast and reliable.,Positive,Library
+English,The lecturer rushes through important concepts.,Negative,Faculty
+English,The student help desk is well maintained and meets students' needs.,Positive,Administration
+English,The department discusses classroom ventilation during scheduled meetings.,Neutral,Infrastructure
+English,The complaint desk is reliable and meets students' needs.,Positive,Administration
+English,The charging points in common areas work reliably.,Positive,Campus Facilities
+English,The complaint desk is easy to use and meets students' needs.,Positive,Administration
+English,Information about waiting areas is available through the student portal.,Neutral,Transport
+English,The campus pathways is inconsistent and needs improvement.,Negative,Campus Facilities
+English,The college should improve the campus Wi-Fi because it is inadequate.,Negative,Campus Facilities
+English,The feedback on submitted work is detailed and useful.,Positive,Faculty
+English,The college should improve the sports facilities because it is poorly maintained.,Negative,Campus Facilities
+English,Information about medical room is available through the student portal.,Neutral,Campus Facilities
+English,The college manages the security service well because it is well maintained.,Positive,Safety and Hygiene
+English,The college manages the computer laboratory well because it is reliable.,Positive,Infrastructure
+English,The waiting areas is poorly organized and needs improvement.,Negative,Transport
+English,The college publishes information about student help desk on its website.,Neutral,Administration
+English,The rooms are overcrowded and poorly ventilated.,Negative,Hostel
+English,The drinking water points are clean and well maintained.,Positive,Campus Facilities
+English,Information about classroom lighting is available through the student portal.,Neutral,Infrastructure
+English,The college has a documented procedure for hostel Wi-Fi.,Neutral,Hostel
+English,The college manages the library collection well because it is reliable.,Positive,Library
+English,The college should improve the complaint desk because it is poorly organized.,Negative,Administration
+English,I am dissatisfied with the lecture schedule because it is uncomfortable.,Negative,Academics
+English,The department maintains records related to faculty guidance.,Neutral,Faculty
+English,The vegetarian options are varied and enjoyable.,Positive,Food / Mess
+English,The laboratory exercises is slow and needs improvement.,Negative,Academics
+English,I am dissatisfied with the security arrangements because it is difficult to use.,Negative,Hostel
+English,I have had a positive experience with the online learning resources; it is comfortable.,Positive,Academics
+English,"In my experience, the lecturer's explanations is unreliable.",Negative,Faculty
+English,The projectors work reliably during lectures.,Positive,Infrastructure
+English,The project support is poorly organized and needs improvement.,Negative,Faculty
+English,I am dissatisfied with the common areas because it is unreliable.,Negative,Hostel
+English,Students can find details about library computers in the student handbook.,Neutral,Library
+English,I am satisfied with the classroom teaching because it is helpful.,Positive,Faculty
+English,"In my experience, the bus routes is excellent.",Positive,Transport
+English,"In my experience, the online catalogue is unclear.",Negative,Library
+English,The college has a documented procedure for assignment feedback.,Neutral,Faculty
+English,"In my experience, the classroom furniture is unreliable.",Negative,Infrastructure
+English,The college should improve the document verification process because it is unclear.,Negative,Administration
+English,Students can find details about dining area in the student handbook.,Neutral,Food / Mess
+English,The department discusses sports facilities during scheduled meetings.,Neutral,Campus Facilities
+English,The waste management is easy to use and meets students' needs.,Positive,Safety and Hygiene
+English,Students receive updates about projectors through official notices.,Neutral,Infrastructure
+English,I am dissatisfied with the class discussions because it is poorly organized.,Negative,Faculty
+English,The college publishes information about library computers on its website.,Neutral,Library
+English,I am dissatisfied with the projectors because it is difficult to use.,Negative,Infrastructure
+English,I am dissatisfied with the digital journals because it is unreliable.,Negative,Library
+English,The practical sessions are poorly organized and often start late.,Negative,Academics
+English,Information about emergency exits is available through the student portal.,Neutral,Safety and Hygiene
+English,Students can find details about campus Wi-Fi in the student handbook.,Neutral,Campus Facilities
+English,I am satisfied with the registration procedure because it is well organized.,Positive,Administration
+English,I am dissatisfied with the campus Wi-Fi because it is unsatisfactory.,Negative,Campus Facilities
+English,The instructor treats student questions dismissively.,Negative,Faculty
+English,The security service is inconsistent and needs improvement.,Negative,Safety and Hygiene
+English,The class discussions is excellent and meets students' needs.,Positive,Faculty
+English,I am satisfied with the assessment process because it is reliable.,Positive,Academics
+English,I am satisfied with the bus timings because it is efficient.,Positive,Transport
+English,I am satisfied with the complaint desk because it is satisfactory.,Positive,Administration
+English,The department discusses security service during scheduled meetings.,Neutral,Safety and Hygiene
+English,The hostel rooms are dirty and poorly maintained.,Negative,Hostel
+English,The buses are poorly maintained.,Negative,Transport
+English,"In my experience, the laboratory exercises is inconsistent.",Negative,Academics
+English,I have had a positive experience with the classroom furniture; it is comfortable.,Positive,Infrastructure
+English,The laboratory maintains a register of repair requests.,Neutral,Infrastructure
+English,The college has a documented procedure for reading area.,Neutral,Library
+English,The department discusses student help desk during scheduled meetings.,Neutral,Administration
+English,The office hours is satisfactory and meets students' needs.,Positive,Faculty
+English,The complaint desk is slow and needs improvement.,Negative,Administration
+English,"In my experience, the office hours is difficult to use.",Negative,Faculty
+English,The college has a documented procedure for sports facilities.,Neutral,Campus Facilities
+English,I have had a positive experience with the drinking water; it is comfortable.,Positive,Food / Mess
+English,I have had a positive experience with the student help desk; it is clear.,Positive,Administration
+English,The college should improve the security service because it is unreliable.,Negative,Safety and Hygiene
+English,The warden holds a meeting with residents each month.,Neutral,Hostel
+English,The college manages the assignment feedback well because it is easy to use.,Positive,Faculty
+English,I have had a poor experience with the meal service; it is inefficient.,Negative,Food / Mess
+English,The college publishes information about classroom furniture on its website.,Neutral,Infrastructure
+English,The waste management is reliable and meets students' needs.,Positive,Safety and Hygiene
+English,The college manages the hostel Wi-Fi well because it is comfortable.,Positive,Hostel
+English,The registration procedure is inconsistent and needs improvement.,Negative,Administration
+English,Students can find details about assignment instructions in the student handbook.,Neutral,Academics
+English,"In my experience, the library collection is consistent.",Positive,Library
+English,The sports facilities is poorly maintained and needs improvement.,Negative,Campus Facilities
+English,The administration office is open from Monday to Friday.,Neutral,Administration
+English,Students receive updates about campus lighting through official notices.,Neutral,Safety and Hygiene
+English,The timetable leaves too little time between consecutive classes.,Negative,Academics
+English,The college should improve the lecturer's explanations because it is unreliable.,Negative,Faculty
+English,The drinking water points is consistent and meets students' needs.,Positive,Safety and Hygiene
+English,"In my experience, the course materials is uncomfortable.",Negative,Academics
+English,The college publishes information about driver behaviour on its website.,Neutral,Transport
+English,The department maintains records related to campus buildings.,Neutral,Infrastructure
+English,The classroom ventilation is uncomfortable and needs improvement.,Negative,Infrastructure
+English,I have had a positive experience with the reading area; it is consistent.,Positive,Library
+English,The course materials is slow and needs improvement.,Negative,Academics
+English,The college should improve the lecturer's explanations because it is uncomfortable.,Negative,Faculty
+English,I am dissatisfied with the library collection because it is inefficient.,Negative,Library
+English,The college has a documented procedure for dining area.,Neutral,Food / Mess
+English,The college manages the dining area well because it is prompt.,Positive,Food / Mess
+English,The department discusses campus buildings during scheduled meetings.,Neutral,Infrastructure
+English,The college manages the opening hours well because it is consistent.,Positive,Library
+English,"In my experience, the practical sessions is uncomfortable.",Negative,Academics
+English,I have had a positive experience with the medical room; it is comfortable.,Positive,Campus Facilities
+English,The classroom lighting is too dim for reading.,Negative,Infrastructure
+English,I have had a poor experience with the opening hours; it is poorly maintained.,Negative,Library
+English,The security service is efficient and meets students' needs.,Positive,Safety and Hygiene
+English,The drinking water facilities are unreliable.,Negative,Hostel
+English,Faculty members are approachable and willing to help.,Positive,Faculty
+English,The college reviews washroom cleanliness according to its regular schedule.,Neutral,Safety and Hygiene
+English,Students receive updates about classroom furniture through official notices.,Neutral,Infrastructure
+English,"In my experience, the student help desk is well maintained.",Positive,Administration
+English,I have had a poor experience with the sports facilities; it is confusing.,Negative,Campus Facilities
+English,I am satisfied with the waiting areas because it is clear.,Positive,Transport
+English,"In my experience, the classroom furniture is comfortable.",Positive,Infrastructure
+English,I have had a poor experience with the seating areas; it is unreliable.,Negative,Campus Facilities
+English,The course content is not explained at an appropriate pace.,Negative,Academics
+English,I am dissatisfied with the drinking water because it is inefficient.,Negative,Food / Mess
+English,I have had a poor experience with the maintenance service; it is unreliable.,Negative,Hostel
+English,The college manages the sports facilities well because it is reliable.,Positive,Campus Facilities
+English,I am satisfied with the registration procedure because it is reliable.,Positive,Administration
+English,The assignment instructions is poorly organized and needs improvement.,Negative,Academics
+English,Classroom lights are checked during routine inspections.,Neutral,Infrastructure
+English,I have had a poor experience with the certificate application process; it is difficult to use.,Negative,Administration
+English,The college should improve the bus timings because it is uncomfortable.,Negative,Transport
+English,I am dissatisfied with the laboratory exercises because it is difficult to use.,Negative,Academics
+English,I am dissatisfied with the fee payment system because it is confusing.,Negative,Administration
+English,I have had a positive experience with the assignment feedback; it is reliable.,Positive,Faculty
+English,The college reviews bus service according to its regular schedule.,Neutral,Transport
+English,Students can find details about library collection in the student handbook.,Neutral,Library
+English,The department discusses registration procedure during scheduled meetings.,Neutral,Administration
+English,I am dissatisfied with the drinking water facilities because it is inefficient.,Negative,Campus Facilities
+English,I have had a poor experience with the project support; it is poorly organized.,Negative,Faculty
+English,I am dissatisfied with the common areas because it is uncomfortable.,Negative,Hostel
+English,The student help desk is excellent and meets students' needs.,Positive,Administration
+English,Students receive updates about hostel rooms through official notices.,Neutral,Hostel
+English,The college publishes information about fee payment system on its website.,Neutral,Administration
+English,The campus signs are clear and easy to follow.,Positive,Campus Facilities
+English,Students receive updates about document verification process through official notices.,Neutral,Administration
+English,"In my experience, the student help desk is poorly maintained.",Negative,Administration
+English,Students can find details about office hours in the student handbook.,Neutral,Faculty
+English,The department maintains records related to laboratory exercises.,Neutral,Academics
+English,The college reviews lecture schedule according to its regular schedule.,Neutral,Academics
+English,The online catalogue is difficult to search.,Negative,Library
+English,I am dissatisfied with the student portal because it is unclear.,Negative,Administration
+English,The college manages the common areas well because it is well organized.,Positive,Campus Facilities
+English,The college manages the common areas well because it is comfortable.,Positive,Hostel
+English,The department maintains records related to meal service.,Neutral,Food / Mess
+English,"In my experience, the mess food is poorly organized.",Negative,Food / Mess
+English,The college publishes information about classroom ventilation on its website.,Neutral,Infrastructure
+English,The college manages the reading area well because it is helpful.,Positive,Library
+English,The office hours is difficult to use and needs improvement.,Negative,Faculty
+English,"In my experience, the sports facilities is uncomfortable.",Negative,Campus Facilities
+English,The department discusses campus pathways during scheduled meetings.,Neutral,Campus Facilities
+English,The college reviews seating areas according to its regular schedule.,Neutral,Campus Facilities
+English,The bus routes do not cover several student residential areas.,Negative,Transport
+English,I have had a poor experience with the serving staff; it is inconsistent.,Negative,Food / Mess
+English,The college should improve the waste management because it is confusing.,Negative,Safety and Hygiene
+English,I have had a positive experience with the assessment process; it is satisfactory.,Positive,Academics
+English,The serving staff is unclear and needs improvement.,Negative,Food / Mess
+English,Students can find details about campus pathways in the student handbook.,Neutral,Campus Facilities
+English,The department maintains records related to classroom ventilation.,Neutral,Infrastructure
+English,I am dissatisfied with the online catalogue because it is unclear.,Negative,Library
+English,The college reviews class discussions according to its regular schedule.,Neutral,Faculty
+English,The student portal is unreliable and needs improvement.,Negative,Administration
+English,The course materials are up to date and useful for learning.,Positive,Academics
+English,I have had a positive experience with the mess food; it is comfortable.,Positive,Food / Mess
+English,The library computers are fast and reliable.,Positive,Library
+English,The assignment feedback is excellent and meets students' needs.,Positive,Faculty
+English,The college manages the registration procedure well because it is consistent.,Positive,Administration
+English,I am satisfied with the common areas because it is clear.,Positive,Campus Facilities
+English,The department maintains records related to security service.,Neutral,Safety and Hygiene
+English,The college publishes information about food quality on its website.,Neutral,Food / Mess
+English,The hostel security arrangements make residents feel safe.,Positive,Hostel
+English,The college should improve the faculty guidance because it is unsatisfactory.,Negative,Faculty
+English,The college has a documented procedure for mess food.,Neutral,Food / Mess
+English,Students receive updates about laboratory equipment through official notices.,Neutral,Infrastructure
+English,The college manages the borrowing rules well because it is helpful.,Positive,Library
+English,The college manages the laboratory equipment well because it is well organized.,Positive,Infrastructure
+English,I am satisfied with the common areas because it is well maintained.,Positive,Campus Facilities
+English,I am satisfied with the waiting areas because it is well maintained.,Positive,Transport
+English,The teaching approach makes complex topics harder to understand.,Negative,Faculty
+English,The maintenance team resolves facility issues quickly.,Positive,Campus Facilities
+English,The laundry service is poorly maintained and needs improvement.,Negative,Hostel
+English,The books are well maintained and easy to find.,Positive,Library
+English,Information about faculty guidance is available through the student portal.,Neutral,Faculty
+English,The college has a documented procedure for security service.,Neutral,Safety and Hygiene
+English,I am dissatisfied with the classroom teaching because it is difficult to use.,Negative,Faculty
+English,The department maintains records related to student portal.,Neutral,Administration
+English,I have had a positive experience with the campus buildings; it is clear.,Positive,Infrastructure
+English,The opening hours is uncomfortable and needs improvement.,Negative,Library
+English,The food quality changes noticeably from day to day.,Negative,Food / Mess
+English,Information about online catalogue is available through the student portal.,Neutral,Library
+English,The common areas are overcrowded and uncomfortable.,Negative,Campus Facilities
+English,The department discusses food quality during scheduled meetings.,Neutral,Food / Mess
+English,The college publishes information about campus lighting on its website.,Neutral,Safety and Hygiene
+English,The laboratory exercises is inconsistent and needs improvement.,Negative,Academics
+English,The department discusses library computers during scheduled meetings.,Neutral,Library
+English,"In my experience, the sports facilities is satisfactory.",Positive,Campus Facilities
+English,The college publishes information about waiting areas on its website.,Neutral,Transport
+English,The college reviews assignment feedback according to its regular schedule.,Neutral,Faculty
+English,The handwashing facilities is uncomfortable and needs improvement.,Negative,Safety and Hygiene
+English,The drinking water points are clean and regularly maintained.,Positive,Safety and Hygiene
+English,The office displays its service hours near the entrance.,Neutral,Administration
+English,Information about security arrangements is available through the student portal.,Neutral,Hostel
+English,The college has a documented procedure for assessment process.,Neutral,Academics
+English,I am dissatisfied with the bus timings because it is confusing.,Negative,Transport
+English,The college manages the mess food well because it is prompt.,Positive,Food / Mess
+English,The college should improve the library computers because it is difficult to use.,Negative,Library
+English,The college publishes information about drinking water facilities on its website.,Neutral,Campus Facilities
+English,Students receive room allocations before the semester begins.,Neutral,Hostel
+English,The maintenance team records facility repair requests.,Neutral,Campus Facilities
+English,I am dissatisfied with the bus maintenance because it is poorly organized.,Negative,Transport
+English,The security arrangements is inadequate and needs improvement.,Negative,Hostel
+English,The college reviews emergency exits according to its regular schedule.,Neutral,Safety and Hygiene
+English,"In my experience, the projectors is inadequate.",Negative,Infrastructure
+English,The charging points in common areas do not work.,Negative,Campus Facilities
+English,The waiting areas lack shelter during rain.,Negative,Transport
+English,The campus has a first-aid room near the administration block.,Neutral,Safety and Hygiene
+English,I am dissatisfied with the student portal because it is difficult to use.,Negative,Administration
+English,I have had a poor experience with the opening hours; it is inadequate.,Negative,Library
+English,The digital journals is unreliable and needs improvement.,Negative,Library
+English,"In my experience, the driver behaviour is well maintained.",Positive,Transport
+English,The practical sessions is reliable and meets students' needs.,Positive,Academics
+English,The library is quiet and ideal for focused study.,Positive,Library
+English,I am dissatisfied with the office hours because it is confusing.,Negative,Faculty
+English,Students can find details about driver behaviour in the student handbook.,Neutral,Transport
+English,The classroom lighting is bright and comfortable.,Positive,Infrastructure
+English,I am satisfied with the student help desk because it is well organized.,Positive,Administration
+English,The medical room is clean and well stocked.,Positive,Campus Facilities
+English,The department maintains records related to projectors.,Neutral,Infrastructure
+English,The drinking water points is helpful and meets students' needs.,Positive,Safety and Hygiene
+English,The college should improve the food quality because it is inadequate.,Negative,Food / Mess
+English,"In my experience, the bus routes is unreliable.",Negative,Transport
+English,I am satisfied with the opening hours because it is clear.,Positive,Library
+English,The project support is efficient and meets students' needs.,Positive,Faculty
+English,The college should improve the practical sessions because it is difficult to use.,Negative,Academics
+English,I have had a positive experience with the library collection; it is easy to use.,Positive,Library
+English,The assessment process is uncomfortable and needs improvement.,Negative,Academics
+English,The college manages the mess food well because it is efficient.,Positive,Food / Mess
+English,The college has a documented procedure for fee payment system.,Neutral,Administration
+English,The emergency exits are blocked by stored items.,Negative,Safety and Hygiene
+English,The library has separate sections for textbooks and reference books.,Neutral,Library
+English,"In my experience, the meal service is inefficient.",Negative,Food / Mess
+English,The department maintains records related to mess food.,Neutral,Food / Mess
+English,I am satisfied with the assignment feedback because it is well maintained.,Positive,Faculty
+English,I have had a poor experience with the library computers; it is unclear.,Negative,Library
+English,I have had a poor experience with the common areas; it is confusing.,Negative,Hostel
+English,The department maintains records related to online learning resources.,Neutral,Academics
+English,I have had a poor experience with the assignment feedback; it is uncomfortable.,Negative,Faculty
+English,The department discusses common areas during scheduled meetings.,Neutral,Campus Facilities
+English,I am dissatisfied with the assignment feedback because it is poorly maintained.,Negative,Faculty
+English,The department maintains records related to drinking water points.,Neutral,Safety and Hygiene
+English,The registration procedure is reliable and meets students' needs.,Positive,Administration
+English,The department discusses practical sessions during scheduled meetings.,Neutral,Academics
+English,I have had a poor experience with the assignment instructions; it is inadequate.,Negative,Academics
+English,The college has a documented procedure for course materials.,Neutral,Academics
+English,The power supply remains stable during practical sessions.,Positive,Infrastructure
+English,The college should improve the lecturer's explanations because it is unsatisfactory.,Negative,Faculty
+English,The online learning materials are frequently unavailable.,Negative,Academics
+English,I am satisfied with the pickup points because it is satisfactory.,Positive,Transport
+English,The office hours is poorly maintained and needs improvement.,Negative,Faculty
+English,The faculty guidance is uncomfortable and needs improvement.,Negative,Faculty
+English,I am satisfied with the drinking water because it is comfortable.,Positive,Food / Mess
+English,I am satisfied with the laundry service because it is efficient.,Positive,Hostel
+English,The reading area is reliable and meets students' needs.,Positive,Library
+English,The college manages the fee payment system well because it is comfortable.,Positive,Administration
+English,The college should improve the serving staff because it is poorly organized.,Negative,Food / Mess
+English,"In my experience, the classroom lighting is unsatisfactory.",Negative,Infrastructure
+English,The college should improve the assessment process because it is uncomfortable.,Negative,Academics
+English,The corridors are clean and well maintained.,Positive,Safety and Hygiene
+English,The security staff do not respond quickly to concerns.,Negative,Safety and Hygiene
+English,Information about online learning resources is available through the student portal.,Neutral,Academics
+English,I have had a positive experience with the security service; it is efficient.,Positive,Safety and Hygiene
+English,I have had a poor experience with the medical room; it is unsatisfactory.,Negative,Campus Facilities
+English,The department maintains records related to waste management.,Neutral,Safety and Hygiene
+English,The registration procedure is comfortable and meets students' needs.,Positive,Administration
+English,"In my experience, the common areas is unsatisfactory.",Negative,Campus Facilities
+English,The college has a documented procedure for laundry service.,Neutral,Hostel
+English,The college should improve the vegetarian options because it is poorly maintained.,Negative,Food / Mess
+English,The department discusses reading area during scheduled meetings.,Neutral,Library
+English,The college manages the security service well because it is excellent.,Positive,Safety and Hygiene
+English,The college has a documented procedure for student help desk.,Neutral,Administration
+English,The first-aid supplies are complete and well stocked.,Positive,Safety and Hygiene
+English,The department maintains records related to reading area.,Neutral,Library
+English,The bathroom facilities is helpful and meets students' needs.,Positive,Hostel
+English,"In my experience, the security service is slow.",Negative,Safety and Hygiene
+English,The bus service is excellent and meets students' needs.,Positive,Transport
+English,The college manages the emergency exits well because it is clear.,Positive,Safety and Hygiene
+English,The faculty guidance is satisfactory and meets students' needs.,Positive,Faculty
+English,The college should improve the classroom teaching because it is unreliable.,Negative,Faculty
+English,"In my experience, the complaint desk is unreliable.",Negative,Administration
+English,The ramps and lifts make the buildings accessible.,Positive,Infrastructure
+English,The college library provides access to digital journals.,Neutral,Library
+English,The college publishes information about emergency exits on its website.,Neutral,Safety and Hygiene
+English,The college reviews document verification process according to its regular schedule.,Neutral,Administration
+English,The campus pathways are poorly lit at night.,Negative,Safety and Hygiene
+English,The college should improve the assessment process because it is confusing.,Negative,Academics
+English,The college has a documented procedure for document verification process.,Neutral,Administration
+English,I have had a positive experience with the lecturer's explanations; it is efficient.,Positive,Faculty
+English,"In my experience, the practical sessions is inefficient.",Negative,Academics
+English,I have had a positive experience with the borrowing rules; it is helpful.,Positive,Library
+English,The college has a documented procedure for library computers.,Neutral,Library
+English,I am satisfied with the library collection because it is excellent.,Positive,Library
+English,The department discusses computer laboratory during scheduled meetings.,Neutral,Infrastructure
+English,The library staff help students locate books quickly.,Positive,Library
+English,The cleaning schedule is not followed consistently.,Negative,Safety and Hygiene
+English,"In my experience, the meal service is helpful.",Positive,Food / Mess
+English,"In my experience, the vegetarian options is unreliable.",Negative,Food / Mess
+English,The college should improve the waste management because it is inadequate.,Negative,Safety and Hygiene
+English,The college should improve the campus Wi-Fi because it is confusing.,Negative,Campus Facilities
+English,The class discussions is unsatisfactory and needs improvement.,Negative,Faculty
+English,The assessment criteria are clear and applied consistently.,Positive,Academics
+English,"In my experience, the borrowing rules is prompt.",Positive,Library
+English,The college has a documented procedure for hostel rooms.,Neutral,Hostel
+English,The college publishes information about class discussions on its website.,Neutral,Faculty
+English,The college manages the driver behaviour well because it is helpful.,Positive,Transport
+English,I have had a poor experience with the project support; it is unreliable.,Negative,Faculty
+English,Students can find details about laboratory equipment in the student handbook.,Neutral,Infrastructure
+English,The laboratory equipment is well maintained and meets students' needs.,Positive,Infrastructure
+English,The faculty communicates assignment expectations clearly.,Positive,Faculty
+English,I have had a positive experience with the course materials; it is clear.,Positive,Academics
+English,The college manages the office hours well because it is helpful.,Positive,Faculty
+English,Students can submit questions through the course discussion forum.,Neutral,Faculty
+English,The college should improve the campus buildings because it is poorly maintained.,Negative,Infrastructure
+English,The college manages the waste management well because it is well organized.,Positive,Safety and Hygiene
+English,The college publishes information about project support on its website.,Neutral,Faculty
+English,Students receive updates about medical room through official notices.,Neutral,Campus Facilities
+English,The college has a documented procedure for pickup points.,Neutral,Transport
+English,The college reviews project support according to its regular schedule.,Neutral,Faculty
+English,I have had a positive experience with the sports facilities; it is well maintained.,Positive,Campus Facilities
+English,The college manages the student portal well because it is prompt.,Positive,Administration
+English,"In my experience, the bus service is inadequate.",Negative,Transport
+English,The college should improve the serving staff because it is poorly maintained.,Negative,Food / Mess
+English,I am dissatisfied with the projectors because it is poorly organized.,Negative,Infrastructure
+English,I am satisfied with the bus maintenance because it is clear.,Positive,Transport
+English,"In my experience, the maintenance service is well organized.",Positive,Hostel
+English,The college has a documented procedure for food quality.,Neutral,Food / Mess
+English,The transport office is located near the main gate.,Neutral,Transport
+English,The library is noisy and unsuitable for focused study.,Negative,Library
+English,The bus seats are comfortable and well maintained.,Positive,Transport
+English,Students can find details about assessment process in the student handbook.,Neutral,Academics
+English,The college manages the common areas well because it is consistent.,Positive,Campus Facilities
+English,I have had a poor experience with the classroom ventilation; it is unsatisfactory.,Negative,Infrastructure
+English,The department records faculty attendance.,Neutral,Faculty
+English,"In my experience, the computer laboratory is comfortable.",Positive,Infrastructure
+English,I am dissatisfied with the practical sessions because it is difficult to use.,Negative,Academics
+English,The academic buildings have ramps near their main entrances.,Neutral,Infrastructure
+English,Pickup points are listed in the transport handbook.,Neutral,Transport
+English,I have had a positive experience with the online catalogue; it is satisfactory.,Positive,Library
+English,I am dissatisfied with the opening hours because it is uncomfortable.,Negative,Library
+English,The college publishes information about laboratory equipment on its website.,Neutral,Infrastructure
+English,The opening hours is well maintained and meets students' needs.,Positive,Library
+English,The department maintains records related to drinking water facilities.,Neutral,Campus Facilities
+English,Students can find details about classroom ventilation in the student handbook.,Neutral,Infrastructure
+English,Information about assignment instructions is available through the student portal.,Neutral,Academics
+English,I am dissatisfied with the assignment instructions because it is unreliable.,Negative,Academics
+English,The college manages the classroom ventilation well because it is satisfactory.,Positive,Infrastructure
+English,The college should improve the bus timings because it is inconsistent.,Negative,Transport
+English,The college publishes information about complaint desk on its website.,Neutral,Administration
+English,The faculty adviser reviews project progress at scheduled meetings.,Neutral,Faculty
+English,The college reviews bus timings according to its regular schedule.,Neutral,Transport
+English,The college reviews campus lighting according to its regular schedule.,Neutral,Safety and Hygiene
+English,I have had a positive experience with the reading area; it is satisfactory.,Positive,Library
+English,The college reviews vegetarian options according to its regular schedule.,Neutral,Food / Mess
+English,The college reviews assessment process according to its regular schedule.,Neutral,Academics
+English,Students can find details about hostel rooms in the student handbook.,Neutral,Hostel
+English,The medical room lacks essential supplies.,Negative,Campus Facilities
+English,"The lectures are clear, engaging, and easy to follow.",Positive,Academics
+English,The drinking water tastes unpleasant.,Negative,Food / Mess
+English,I am satisfied with the classroom teaching because it is prompt.,Positive,Faculty
+English,I am dissatisfied with the emergency exits because it is inconsistent.,Negative,Safety and Hygiene
+English,Students can find details about mess food in the student handbook.,Neutral,Food / Mess
+English,The department maintains records related to student help desk.,Neutral,Administration
+English,I have had a poor experience with the food quality; it is inefficient.,Negative,Food / Mess
+English,I have had a poor experience with the hostel rooms; it is inefficient.,Negative,Hostel
+English,Students can find details about bus timings in the student handbook.,Neutral,Transport
+English,I have had a positive experience with the seating areas; it is easy to use.,Positive,Campus Facilities
+English,The transport office does not communicate delays promptly.,Negative,Transport
+English,The college reviews practical sessions according to its regular schedule.,Neutral,Academics
+English,The mess food is inadequate and needs improvement.,Negative,Food / Mess
+English,The projectors frequently fail during lectures.,Negative,Infrastructure
+English,The faculty members are difficult to approach after class.,Negative,Faculty
+English,"In my experience, the drinking water is excellent.",Positive,Food / Mess
+English,The department discusses vegetarian options during scheduled meetings.,Neutral,Food / Mess
+English,The college should improve the hostel rooms because it is poorly organized.,Negative,Hostel
+English,The certificate application process is simple and efficient.,Positive,Administration
+English,I have had a positive experience with the vegetarian options; it is excellent.,Positive,Food / Mess
+English,I have had a positive experience with the drinking water points; it is consistent.,Positive,Safety and Hygiene
+English,The classroom furniture is comfortable and well maintained.,Positive,Infrastructure
+English,There is not enough hot water in the mornings.,Negative,Hostel
+English,"In my experience, the borrowing rules is inefficient.",Negative,Library
+English,The weekly menu is displayed near the dining area.,Neutral,Food / Mess
+English,The department discusses washroom cleanliness during scheduled meetings.,Neutral,Safety and Hygiene
+English,The teaching approach makes complex topics easier to understand.,Positive,Faculty
+English,I have had a poor experience with the seating areas; it is inadequate.,Negative,Campus Facilities
+English,I have had a positive experience with the handwashing facilities; it is excellent.,Positive,Safety and Hygiene
+English,I am satisfied with the campus buildings because it is helpful.,Positive,Infrastructure
+English,I have had a positive experience with the dining area; it is well organized.,Positive,Food / Mess
+English,The opening hours is consistent and meets students' needs.,Positive,Library
+English,I am dissatisfied with the food quality because it is inconsistent.,Negative,Food / Mess
+English,The hostel maintenance schedule is posted on the notice board.,Neutral,Hostel
+English,The maintenance team fixes problems quickly.,Positive,Hostel
+English,The assignment feedback is unclear and needs improvement.,Negative,Faculty
+English,The library staff take too long to locate requested books.,Negative,Library
+English,Students can find details about document verification process in the student handbook.,Neutral,Administration
+English,"In my experience, the computer laboratory is unsatisfactory.",Negative,Infrastructure
+English,I am dissatisfied with the laundry service because it is poorly maintained.,Negative,Hostel
+English,The power supply is unreliable during practical sessions.,Negative,Infrastructure
+English,I am satisfied with the bathroom facilities because it is satisfactory.,Positive,Hostel
+English,The college publishes information about projectors on its website.,Neutral,Infrastructure
+English,The college publishes information about bus timings on its website.,Neutral,Transport
+English,The security arrangements at the hostel are inadequate.,Negative,Hostel
+English,The college has a documented procedure for campus buildings.,Neutral,Infrastructure
+English,"In my experience, the driver behaviour is inadequate.",Negative,Transport
+English,I have had a poor experience with the hostel rooms; it is uncomfortable.,Negative,Hostel
+English,The college reviews classroom ventilation according to its regular schedule.,Neutral,Infrastructure
+English,"In my experience, the fee payment system is comfortable.",Positive,Administration
+English,Students can find details about online learning resources in the student handbook.,Neutral,Academics
+English,Many books are damaged or missing from the shelves.,Negative,Library
+English,The washroom cleanliness is inadequate and needs improvement.,Negative,Safety and Hygiene
+English,The college has a documented procedure for opening hours.,Neutral,Library
+English,The campus buildings is easy to use and meets students' needs.,Positive,Infrastructure
+English,I have had a positive experience with the project support; it is well organized.,Positive,Faculty
+English,The department discusses assessment process during scheduled meetings.,Neutral,Academics
+English,Information about fee payment system is available through the student portal.,Neutral,Administration
+English,"In my experience, the classroom ventilation is poorly organized.",Negative,Infrastructure
+English,I have had a positive experience with the projectors; it is prompt.,Positive,Infrastructure
+English,Students can find details about medical room in the student handbook.,Neutral,Campus Facilities
+English,I am satisfied with the drinking water points because it is satisfactory.,Positive,Safety and Hygiene
+English,I am dissatisfied with the practical sessions because it is uncomfortable.,Negative,Academics
+English,I have had a poor experience with the computer laboratory; it is unreliable.,Negative,Infrastructure
+English,The college should improve the classroom teaching because it is difficult to use.,Negative,Faculty
+English,I have had a poor experience with the campus buildings; it is confusing.,Negative,Infrastructure
+English,The college buses are often late.,Negative,Transport
+English,The college manages the classroom ventilation well because it is consistent.,Positive,Infrastructure
+English,I have had a positive experience with the campus buildings; it is easy to use.,Positive,Infrastructure
+English,The lecturer often arrives late for scheduled classes.,Negative,Faculty
+English,"In my experience, the emergency exits is consistent.",Positive,Safety and Hygiene
+English,I am dissatisfied with the bathroom facilities because it is difficult to use.,Negative,Hostel
+English,"In my experience, the dining area is unclear.",Negative,Food / Mess
+English,The college should improve the drinking water points because it is unsatisfactory.,Negative,Safety and Hygiene
+English,Students can find details about project support in the student handbook.,Neutral,Faculty
+English,The assessment process is easy to use and meets students' needs.,Positive,Academics
+English,The department discusses dining area during scheduled meetings.,Neutral,Food / Mess
+English,The college reviews security service according to its regular schedule.,Neutral,Safety and Hygiene
+English,The college reviews campus buildings according to its regular schedule.,Neutral,Infrastructure
+English,I have had a positive experience with the laundry service; it is comfortable.,Positive,Hostel
+English,The complaint desk is unreliable and needs improvement.,Negative,Administration
+English,The department discusses certificate application process during scheduled meetings.,Neutral,Administration
+English,The lecture schedule is efficient and meets students' needs.,Positive,Academics
+English,The food quality is consistent throughout the week.,Positive,Food / Mess
+English,"In my experience, the drinking water is uncomfortable.",Negative,Food / Mess
+English,The department maintains records related to classroom furniture.,Neutral,Infrastructure
+English,"The hostel rooms are clean, spacious, and comfortable.",Positive,Hostel
+English,I have had a poor experience with the sports facilities; it is inefficient.,Negative,Campus Facilities
+English,The college manages the bus maintenance well because it is helpful.,Positive,Transport
+English,The college reviews complaint desk according to its regular schedule.,Neutral,Administration
+English,I have had a positive experience with the reading area; it is helpful.,Positive,Library
+English,The waiting areas is clear and meets students' needs.,Positive,Transport
+English,I have had a poor experience with the mess food; it is poorly organized.,Negative,Food / Mess
+English,The department maintains records related to project support.,Neutral,Faculty
+English,"In my experience, the security service is reliable.",Positive,Safety and Hygiene
+English,I am dissatisfied with the meal service because it is unclear.,Negative,Food / Mess
+English,The hostel rules are clear and applied fairly.,Positive,Hostel
+English,The handwashing facilities always have soap available.,Positive,Safety and Hygiene
+English,The department maintains records related to hostel Wi-Fi.,Neutral,Hostel
+English,I am dissatisfied with the assessment process because it is unsatisfactory.,Negative,Academics
+English,"In my experience, the dining area is easy to use.",Positive,Food / Mess
+English,Information about pickup points is available through the student portal.,Neutral,Transport
+English,"In my experience, the faculty guidance is inefficient.",Negative,Faculty
+English,Students receive updates about bus maintenance through official notices.,Neutral,Transport
+English,Information about digital journals is available through the student portal.,Neutral,Library
+English,Information about course materials is available through the student portal.,Neutral,Academics
+English,The college manages the assessment process well because it is satisfactory.,Positive,Academics
+English,Information about laboratory exercises is available through the student portal.,Neutral,Academics
+English,Students receive updates about project support through official notices.,Neutral,Faculty
+English,"In my experience, the projectors is unsatisfactory.",Negative,Infrastructure
+English,The waste bins overflow and attract insects.,Negative,Safety and Hygiene
+English,The hostel laundry service frequently loses clothes.,Negative,Hostel
+English,The college reviews maintenance service according to its regular schedule.,Neutral,Hostel
+English,The department maintains records related to washroom cleanliness.,Neutral,Safety and Hygiene
+English,"In my experience, the bathroom facilities is consistent.",Positive,Hostel
+English,Students can find details about registration procedure in the student handbook.,Neutral,Administration
+English,"In my experience, the vegetarian options is satisfactory.",Positive,Food / Mess
+English,Security checks are conducted at the main gate.,Neutral,Safety and Hygiene
+English,The computer laboratory is reliable and meets students' needs.,Positive,Infrastructure
+English,Students receive updates about online learning resources through official notices.,Neutral,Academics
+English,The college publishes information about reading area on its website.,Neutral,Library
+English,The department maintains records related to complaint desk.,Neutral,Administration
+English,Information about library collection is available through the student portal.,Neutral,Library
+English,The department discusses medical room during scheduled meetings.,Neutral,Campus Facilities
+English,I have had a poor experience with the meal service; it is inadequate.,Negative,Food / Mess
+English,I am dissatisfied with the classroom ventilation because it is unsatisfactory.,Negative,Infrastructure
+English,Information about registration procedure is available through the student portal.,Neutral,Administration
+English,I have had a positive experience with the vegetarian options; it is well maintained.,Positive,Food / Mess
+English,I am satisfied with the assignment feedback because it is consistent.,Positive,Faculty
+English,I have had a poor experience with the serving staff; it is unclear.,Negative,Food / Mess
+English,I am dissatisfied with the digital journals because it is difficult to use.,Negative,Library
+English,The dining hall has tables for individual and group seating.,Neutral,Food / Mess
+English,"In my experience, the serving staff is reliable.",Positive,Food / Mess
+English,Information about campus pathways is available through the student portal.,Neutral,Campus Facilities
+English,The department maintains records related to emergency exits.,Neutral,Safety and Hygiene
+English,I am dissatisfied with the assignment feedback because it is slow.,Negative,Faculty
+English,The college publishes emergency contact numbers on notice boards.,Neutral,Safety and Hygiene
+English,I am satisfied with the mess food because it is clear.,Positive,Food / Mess
+English,The department discusses seating areas during scheduled meetings.,Neutral,Campus Facilities
+English,The online application portal is reliable and easy to use.,Positive,Administration
+English,The department maintains records related to pickup points.,Neutral,Transport
+English,"In my experience, the reading area is prompt.",Positive,Library
+English,I have had a poor experience with the reading area; it is uncomfortable.,Negative,Library
+English,The college reviews security arrangements according to its regular schedule.,Neutral,Hostel
+English,I have had a positive experience with the student portal; it is helpful.,Positive,Administration
+English,The college publishes information about office hours on its website.,Neutral,Faculty
+English,I am satisfied with the laundry service because it is satisfactory.,Positive,Hostel
+English,Students can find details about faculty guidance in the student handbook.,Neutral,Faculty
+English,The reading area is consistent and meets students' needs.,Positive,Library
+English,I have had a poor experience with the drinking water; it is inconsistent.,Negative,Food / Mess
+English,I have had a positive experience with the bus maintenance; it is helpful.,Positive,Transport
+English,The drinking water points is satisfactory and meets students' needs.,Positive,Safety and Hygiene
+English,I am dissatisfied with the common areas because it is inadequate.,Negative,Hostel
+English,Hot water is available when students need it.,Positive,Hostel
+English,The bus schedule includes morning and evening services.,Neutral,Transport
+English,The department discusses bus maintenance during scheduled meetings.,Neutral,Transport
+English,The college reviews serving staff according to its regular schedule.,Neutral,Food / Mess
+English,Information about campus lighting is available through the student portal.,Neutral,Safety and Hygiene
+English,I have had a positive experience with the laundry service; it is consistent.,Positive,Hostel
+English,The buses are reliable throughout the semester.,Positive,Transport
+English,The classroom teaching is efficient and meets students' needs.,Positive,Faculty
+English,The serving staff are friendly and efficient.,Positive,Food / Mess
+English,The college has a documented procedure for common areas.,Neutral,Hostel
+English,I have had a positive experience with the complaint desk; it is prompt.,Positive,Administration
+English,Information about classroom furniture is available through the student portal.,Neutral,Infrastructure
+English,The college manages the mess food well because it is excellent.,Positive,Food / Mess
+English,The college should improve the common areas because it is uncomfortable.,Negative,Hostel
+English,The computer laboratory has desktop systems for student use.,Neutral,Infrastructure
+English,The campus Wi-Fi is inefficient and needs improvement.,Negative,Campus Facilities
+English,"In my experience, the digital journals is prompt.",Positive,Library
+English,The campus pathways connect the academic buildings.,Neutral,Campus Facilities
+English,I am satisfied with the classroom ventilation because it is well maintained.,Positive,Infrastructure
+English,The hostel food is often cold and tasteless.,Negative,Hostel
+English,I am dissatisfied with the drinking water because it is slow.,Negative,Food / Mess
+English,The department discusses bus service during scheduled meetings.,Neutral,Transport
+English,I have had a positive experience with the office hours; it is easy to use.,Positive,Faculty
+English,I have had a positive experience with the classroom ventilation; it is comfortable.,Positive,Infrastructure
+English,The drinking water facilities is easy to use and meets students' needs.,Positive,Campus Facilities
+English,The food portions are too small for the price.,Negative,Food / Mess
+English,"In my experience, the sports facilities is slow.",Negative,Campus Facilities
+English,"In my experience, the student help desk is efficient.",Positive,Administration
+English,I am dissatisfied with the security service because it is unclear.,Negative,Safety and Hygiene
+English,"In my experience, the assignment instructions is inefficient.",Negative,Academics
+English,The classroom ventilation is satisfactory and meets students' needs.,Positive,Infrastructure
+English,I have had a positive experience with the emergency exits; it is reliable.,Positive,Safety and Hygiene
+English,The registration procedure is well maintained and meets students' needs.,Positive,Administration
+English,I am satisfied with the washroom cleanliness because it is prompt.,Positive,Safety and Hygiene
+English,I have had a positive experience with the emergency exits; it is consistent.,Positive,Safety and Hygiene
+English,I am satisfied with the bus service because it is easy to use.,Positive,Transport
+English,The course content is delivered at a comfortable pace.,Positive,Academics
+English,Students can find details about security service in the student handbook.,Neutral,Safety and Hygiene
+English,Students can download the syllabus from the department portal.,Neutral,Academics
+English,The drinking water tastes clean and fresh.,Positive,Food / Mess
+English,The college manages the sports facilities well because it is comfortable.,Positive,Campus Facilities
+English,Information about bus maintenance is available through the student portal.,Neutral,Transport
+English,I am dissatisfied with the security service because it is slow.,Negative,Safety and Hygiene
+English,The practical sessions is poorly organized and needs improvement.,Negative,Academics
+English,The hostel provides Wi-Fi in common areas.,Neutral,Hostel
+English,Information about practical sessions is available through the student portal.,Neutral,Academics
+English,"In my experience, the registration procedure is prompt.",Positive,Administration
+English,I have had a positive experience with the campus pathways; it is reliable.,Positive,Campus Facilities
+English,Security staff are present at the campus entrance.,Neutral,Safety and Hygiene
+English,Students can find details about borrowing rules in the student handbook.,Neutral,Library
+English,I am dissatisfied with the hostel rooms because it is poorly organized.,Negative,Hostel
+English,The mess provides vegetarian and non-vegetarian options.,Neutral,Food / Mess
+English,The class discussions is prompt and meets students' needs.,Positive,Faculty
+English,The driver behaviour is uncomfortable and needs improvement.,Negative,Transport
+English,I am dissatisfied with the laundry service because it is unreliable.,Negative,Hostel
+English,"In my experience, the campus lighting is well organized.",Positive,Safety and Hygiene
+English,The college manages the campus Wi-Fi well because it is well maintained.,Positive,Campus Facilities
+English,"In my experience, the student portal is well organized.",Positive,Administration
+English,"In my experience, the student portal is clear.",Positive,Administration
+English,The college reviews laboratory exercises according to its regular schedule.,Neutral,Academics
+English,Students can find details about student portal in the student handbook.,Neutral,Administration
+English,The faculty does not communicate assignment expectations clearly.,Negative,Faculty
+English,The college reviews waiting areas according to its regular schedule.,Neutral,Transport
+English,I have had a positive experience with the library computers; it is consistent.,Positive,Library
+English,I am dissatisfied with the maintenance service because it is unreliable.,Negative,Hostel
+English,The driver behaviour is inefficient and needs improvement.,Negative,Transport
+English,The college manages the practical sessions well because it is well maintained.,Positive,Academics
+English,"In my experience, the certificate application process is consistent.",Positive,Administration
+English,The college publishes information about medical room on its website.,Neutral,Campus Facilities
+English,The campus Wi-Fi is unreliable and disconnects frequently.,Negative,Campus Facilities
+English,I have had a poor experience with the student help desk; it is confusing.,Negative,Administration
+English,The administrative staff respond to student requests promptly.,Positive,Administration
+English,The campus buildings is uncomfortable and needs improvement.,Negative,Infrastructure
+English,The semester timetable is available on the college website.,Neutral,Academics
+English,Cleaning staff record completed tasks in a daily log.,Neutral,Safety and Hygiene
+English,I have had a poor experience with the reading area; it is confusing.,Negative,Library
+English,Students receive updates about dining area through official notices.,Neutral,Food / Mess
+English,The student portal is unclear and needs improvement.,Negative,Administration
+English,The drinking water points is difficult to use and needs improvement.,Negative,Safety and Hygiene
+English,I am satisfied with the campus lighting because it is clear.,Positive,Safety and Hygiene
+English,The serving counter is located beside the dining hall entrance.,Neutral,Food / Mess
+English,I am dissatisfied with the campus pathways because it is difficult to use.,Negative,Campus Facilities
+English,The college publishes information about washroom cleanliness on its website.,Neutral,Safety and Hygiene
+English,The college provides sports facilities for students.,Neutral,Campus Facilities
+English,The college has a documented procedure for maintenance service.,Neutral,Hostel
+English,The college publishes information about opening hours on its website.,Neutral,Library
+English,The transport fees are too high for the service provided.,Negative,Transport
+English,"In my experience, the borrowing rules is efficient.",Positive,Library
+English,Students receive updates about course materials through official notices.,Neutral,Academics
+English,"In my experience, the lecturer's explanations is consistent.",Positive,Faculty
+English,I am satisfied with the serving staff because it is easy to use.,Positive,Food / Mess
+English,The common areas are noisy late at night.,Negative,Hostel
+English,The college reviews digital journals according to its regular schedule.,Neutral,Library
+English,I am dissatisfied with the seating areas because it is inadequate.,Negative,Campus Facilities
+English,Students receive updates about student portal through official notices.,Neutral,Administration
+English,I have had a positive experience with the waste management; it is prompt.,Positive,Safety and Hygiene
+English,The library catalogue is available through the college website.,Neutral,Library
+English,The online learning resources is easy to use and meets students' needs.,Positive,Academics
+English,"In my experience, the fee payment system is helpful.",Positive,Administration
+English,"In my experience, the practical sessions is inadequate.",Negative,Academics
+English,The office staff provide inconsistent information about procedures.,Negative,Administration
+English,Information about drinking water points is available through the student portal.,Neutral,Safety and Hygiene
+English,"In my experience, the classroom ventilation is slow.",Negative,Infrastructure
+English,I am dissatisfied with the dining area because it is poorly maintained.,Negative,Food / Mess
+English,The course materials are outdated and do not cover the current syllabus.,Negative,Academics
+English,The college publishes information about digital journals on its website.,Neutral,Library
+English,The lecture schedule is unclear and needs improvement.,Negative,Academics
+English,Students can find details about common areas in the student handbook.,Neutral,Hostel
+English,The college has a documented procedure for registration procedure.,Neutral,Administration
+English,The campus is well lit after dark.,Positive,Campus Facilities
+English,"In my experience, the handwashing facilities is uncomfortable.",Negative,Safety and Hygiene
+English,I have had a poor experience with the project support; it is difficult to use.,Negative,Faculty
+English,The assignments help me understand the course concepts.,Positive,Academics
+English,The assessment criteria are unclear and inconsistently applied.,Negative,Academics
+English,The buses frequently break down during the journey.,Negative,Transport
+English,The common areas is easy to use and meets students' needs.,Positive,Hostel
+English,I have had a positive experience with the classroom lighting; it is consistent.,Positive,Infrastructure
+English,The office staff provide clear and consistent information.,Positive,Administration
+English,I am dissatisfied with the registration procedure because it is confusing.,Negative,Administration
+English,I have had a poor experience with the seating areas; it is poorly organized.,Negative,Campus Facilities
+English,Students receive updates about registration procedure through official notices.,Neutral,Administration
+English,The college publishes information about waste management on its website.,Neutral,Safety and Hygiene
+English,Students can find details about computer laboratory in the student handbook.,Neutral,Infrastructure
+English,The campus has clear signs for emergency procedures.,Positive,Safety and Hygiene
+English,The explanations lack examples that clarify difficult topics.,Negative,Faculty
+English,Students receive updates about drinking water points through official notices.,Neutral,Safety and Hygiene
+English,Information about seating areas is available through the student portal.,Neutral,Campus Facilities
+English,The borrowing rules are clear and consistently applied.,Positive,Library
+English,The college should improve the course materials because it is inconsistent.,Negative,Academics
+English,The department discusses bus timings during scheduled meetings.,Neutral,Transport
+English,The college publishes information about lecturer's explanations on its website.,Neutral,Faculty
+English,The drinking water is consistent and meets students' needs.,Positive,Food / Mess
+English,The college reviews bus routes at the end of each academic year.,Neutral,Transport
+English,The college should improve the hostel Wi-Fi because it is inconsistent.,Negative,Hostel
+English,"In my experience, the faculty guidance is confusing.",Negative,Faculty
+English,The menu includes a good range of healthy options.,Positive,Food / Mess
+English,The college should improve the classroom teaching because it is unclear.,Negative,Faculty
+English,The college has a documented procedure for serving staff.,Neutral,Food / Mess
+English,The department discusses campus Wi-Fi during scheduled meetings.,Neutral,Campus Facilities
+English,The college manages the fee payment system well because it is clear.,Positive,Administration
+English,The class discussions is confusing and needs improvement.,Negative,Faculty
+English,I am satisfied with the campus pathways because it is efficient.,Positive,Campus Facilities
+English,I am dissatisfied with the online catalogue because it is difficult to use.,Negative,Library
+English,The college publishes information about maintenance service on its website.,Neutral,Hostel
+English,The campus Wi-Fi is fast and reliable.,Positive,Campus Facilities
+English,I have had a poor experience with the laboratory equipment; it is unsatisfactory.,Negative,Infrastructure
+English,Information about waste management is available through the student portal.,Neutral,Safety and Hygiene
+English,The college manages the security arrangements well because it is consistent.,Positive,Hostel
+English,The class discussions is poorly organized and needs improvement.,Negative,Faculty
+English,The waste bins are emptied regularly and kept clean.,Positive,Safety and Hygiene
+English,"In my experience, the certificate application process is prompt.",Positive,Administration
+English,"In my experience, the seating areas is easy to use.",Positive,Campus Facilities
+English,I have had a poor experience with the meal service; it is poorly maintained.,Negative,Food / Mess
+English,The drinking water points is unreliable and needs improvement.,Negative,Safety and Hygiene
+English,I am dissatisfied with the dining area because it is unsatisfactory.,Negative,Food / Mess
+English,The department discusses classroom furniture during scheduled meetings.,Neutral,Infrastructure
+English,I am satisfied with the classroom furniture because it is easy to use.,Positive,Infrastructure
+English,Information about student help desk is available through the student portal.,Neutral,Administration
+English,I have had a positive experience with the student help desk; it is well maintained.,Positive,Administration
+English,Students receive updates about bus service through official notices.,Neutral,Transport
+English,I am satisfied with the sports facilities because it is efficient.,Positive,Campus Facilities
+English,The college should improve the lecture schedule because it is slow.,Negative,Academics
+English,The college has a documented procedure for meal service.,Neutral,Food / Mess
+English,The hostel rooms is poorly organized and needs improvement.,Negative,Hostel
+English,I am dissatisfied with the bus maintenance because it is unclear.,Negative,Transport
+English,The library building contains individual and group study areas.,Neutral,Infrastructure
+English,The assignments are confusing and the instructions are incomplete.,Negative,Academics
+English,The college has a documented procedure for complaint desk.,Neutral,Administration
+English,The college reviews registration procedure according to its regular schedule.,Neutral,Administration
+English,The college should improve the registration procedure because it is unsatisfactory.,Negative,Administration
+English,I am satisfied with the bus routes because it is efficient.,Positive,Transport
+English,Students can find details about drinking water points in the student handbook.,Neutral,Safety and Hygiene
+English,The department maintains records related to vegetarian options.,Neutral,Food / Mess
+English,I have had a poor experience with the waiting areas; it is confusing.,Negative,Transport
+English,The college manages the drinking water well because it is satisfactory.,Positive,Food / Mess
+English,The lecturer's explanations is satisfactory and meets students' needs.,Positive,Faculty
+English,Students can find details about laboratory exercises in the student handbook.,Neutral,Academics
+English,Directional signs are displayed across the campus.,Neutral,Campus Facilities
+English,The administrative staff take too long to respond to requests.,Negative,Administration
+English,Students can find details about laundry service in the student handbook.,Neutral,Hostel
+English,Students can find details about pickup points in the student handbook.,Neutral,Transport
+English,The administration is approachable when students need help.,Positive,Administration
+English,The college reviews computer laboratory according to its regular schedule.,Neutral,Infrastructure
+English,"In my experience, the campus buildings is well maintained.",Positive,Infrastructure
+English,I have had a positive experience with the practical sessions; it is satisfactory.,Positive,Academics
+English,I have had a poor experience with the maintenance service; it is inefficient.,Negative,Hostel
+English,I have had a positive experience with the security arrangements; it is comfortable.,Positive,Hostel
+English,The college publishes information about lecture schedule on its website.,Neutral,Academics
+English,"In my experience, the student portal is reliable.",Positive,Administration
+English,The buses stop at designated pickup points.,Neutral,Transport
+English,The department discusses waste management during scheduled meetings.,Neutral,Safety and Hygiene
+English,The college should improve the drinking water because it is uncomfortable.,Negative,Food / Mess
+English,I am satisfied with the library computers because it is easy to use.,Positive,Library
+English,"In my experience, the laundry service is excellent.",Positive,Hostel
+English,I am satisfied with the student portal because it is comfortable.,Positive,Administration
+English,I have had a poor experience with the hostel rooms; it is unsatisfactory.,Negative,Hostel
+English,The drinking water is poorly organized and needs improvement.,Negative,Food / Mess
+English,I have had a positive experience with the security service; it is excellent.,Positive,Safety and Hygiene
+English,Students can find details about practical sessions in the student handbook.,Neutral,Academics
+English,The department maintains records related to lecturer's explanations.,Neutral,Faculty
+English,Students receive updates about complaint desk through official notices.,Neutral,Administration
+English,"In my experience, the fee payment system is difficult to use.",Negative,Administration
+English,Students can find details about classroom lighting in the student handbook.,Neutral,Infrastructure
+English,The college manages the bathroom facilities well because it is clear.,Positive,Hostel
+English,The maintenance service is well maintained and meets students' needs.,Positive,Hostel
+English,Students can submit maintenance requests to the hostel office.,Neutral,Hostel
+English,The vegetarian options is confusing and needs improvement.,Negative,Food / Mess
+English,I have had a positive experience with the emergency exits; it is excellent.,Positive,Safety and Hygiene
+English,The laboratory equipment is well organized and meets students' needs.,Positive,Infrastructure
+English,The laboratory exercises is efficient and meets students' needs.,Positive,Academics
+English,I have had a poor experience with the certificate application process; it is unsatisfactory.,Negative,Administration
+English,The document verification process takes place at the main office.,Neutral,Administration
+English,"In my experience, the student portal is confusing.",Negative,Administration
+English,The campus lighting is inadequate after dark.,Negative,Campus Facilities
+English,The waiting areas provide shelter during rain.,Positive,Transport
+English,I am satisfied with the assessment process because it is well maintained.,Positive,Academics
+English,I am dissatisfied with the assignment feedback because it is unreliable.,Negative,Faculty
+English,"In my experience, the certificate application process is poorly maintained.",Negative,Administration
+English,Information about bus service is available through the student portal.,Neutral,Transport
+English,The college publishes information about pickup points on its website.,Neutral,Transport
+English,The college manages the digital journals well because it is consistent.,Positive,Library
+English,I have had a poor experience with the campus lighting; it is confusing.,Negative,Safety and Hygiene
+English,I have had a positive experience with the projectors; it is comfortable.,Positive,Infrastructure
+English,The driver behaviour is poorly organized and needs improvement.,Negative,Transport
+English,The library maintains a record of borrowed books.,Neutral,Library
+English,Students can find details about certificate application process in the student handbook.,Neutral,Administration
+English,"In my experience, the hostel rooms is difficult to use.",Negative,Hostel
+English,The department discusses document verification process during scheduled meetings.,Neutral,Administration
+English,The office hours are convenient for students.,Positive,Administration
+English,The college manages the maintenance service well because it is clear.,Positive,Hostel
+English,Students receive updates about assignment feedback through official notices.,Neutral,Faculty
+English,The seating areas are comfortable and well maintained.,Positive,Campus Facilities
+English,"In my experience, the bus maintenance is comfortable.",Positive,Transport
+English,"In my experience, the drinking water points is well maintained.",Positive,Safety and Hygiene
+English,I am satisfied with the handwashing facilities because it is easy to use.,Positive,Safety and Hygiene
+English,The college should improve the student help desk because it is uncomfortable.,Negative,Administration
+English,"In my experience, the library computers is unsatisfactory.",Negative,Library
+English,"In my experience, the food quality is unclear.",Negative,Food / Mess
+English,Several important topics are skipped during lectures.,Negative,Academics
+English,The maintenance team takes too long to fix problems.,Negative,Hostel
+English,Information about classroom ventilation is available through the student portal.,Neutral,Infrastructure
+English,"In my experience, the opening hours is uncomfortable.",Negative,Library
+English,The reference materials are current and useful.,Positive,Library
+English,The hostel has a designated area for laundry.,Neutral,Hostel
+English,The college manages the common areas well because it is easy to use.,Positive,Campus Facilities
+English,"In my experience, the pickup points is reliable.",Positive,Transport
+English,The library has too few books for the courses offered.,Negative,Library
+English,The college should improve the document verification process because it is slow.,Negative,Administration
+English,The utensils are clean and properly maintained.,Positive,Food / Mess
+English,The mess food is comfortable and meets students' needs.,Positive,Food / Mess
+English,"In my experience, the digital journals is inadequate.",Negative,Library
+English,The utensils are not cleaned properly.,Negative,Food / Mess
+English,Information about meal service is available through the student portal.,Neutral,Food / Mess
+English,The department discusses driver behaviour during scheduled meetings.,Neutral,Transport
+English,Students receive updates about faculty guidance through official notices.,Neutral,Faculty
+English,The campus includes buildings for teaching and administration.,Neutral,Infrastructure
+English,I have had a positive experience with the faculty guidance; it is helpful.,Positive,Faculty
+English,The department maintains records related to sports facilities.,Neutral,Campus Facilities
+English,The college reviews certificate application process according to its regular schedule.,Neutral,Administration
+English,The college should improve the security arrangements because it is inefficient.,Negative,Hostel
+English,The library opening hours are too limited.,Negative,Library
+English,Students can find details about bathroom facilities in the student handbook.,Neutral,Hostel
+English,The department discusses waiting areas during scheduled meetings.,Neutral,Transport
+English,I have had a positive experience with the handwashing facilities; it is prompt.,Positive,Safety and Hygiene
+English,The college manages the opening hours well because it is prompt.,Positive,Library
+English,I have had a poor experience with the bus maintenance; it is uncomfortable.,Negative,Transport
+English,The college manages the library computers well because it is excellent.,Positive,Library
+English,"In my experience, the online catalogue is efficient.",Positive,Library
+English,I am dissatisfied with the project support because it is unclear.,Negative,Faculty
+English,I am dissatisfied with the library collection because it is poorly maintained.,Negative,Library
+English,The college should improve the common areas because it is confusing.,Negative,Campus Facilities
+English,The college should improve the fee payment system because it is unclear.,Negative,Administration
+English,The college manages the laundry service well because it is excellent.,Positive,Hostel
+English,The college has a documented procedure for waste management.,Neutral,Safety and Hygiene
+English,Information about drinking water is available through the student portal.,Neutral,Food / Mess
+English,I am dissatisfied with the food quality because it is unreliable.,Negative,Food / Mess
+English,"In my experience, the emergency exits is easy to use.",Positive,Safety and Hygiene
+English,Books are arranged by subject in the library.,Neutral,Library
+English,The library opening hours are convenient for students.,Positive,Library
+English,Document verification is completed without unnecessary delays.,Positive,Administration
+English,The college manages the opening hours well because it is satisfactory.,Positive,Library
+English,"In my experience, the classroom lighting is comfortable.",Positive,Infrastructure
+English,I am dissatisfied with the opening hours because it is difficult to use.,Negative,Library
+English,The driver behaviour is consistent and meets students' needs.,Positive,Transport
+English,The bus routes cover the main student residential areas.,Positive,Transport
+English,I am dissatisfied with the classroom furniture because it is poorly maintained.,Negative,Infrastructure
+English,I have had a poor experience with the campus lighting; it is inadequate.,Negative,Safety and Hygiene
+English,I have had a positive experience with the course materials; it is easy to use.,Positive,Academics
+English,I have had a positive experience with the waiting areas; it is easy to use.,Positive,Transport
+English,I have had a positive experience with the meal service; it is helpful.,Positive,Food / Mess
+English,I have had a positive experience with the common areas; it is prompt.,Positive,Campus Facilities
+English,The college manages the meal service well because it is easy to use.,Positive,Food / Mess
+English,"In my experience, the classroom furniture is excellent.",Positive,Infrastructure
+English,"In my experience, the faculty guidance is excellent.",Positive,Faculty
+English,I have had a positive experience with the lecturer's explanations; it is excellent.,Positive,Faculty
+English,The opening hours is poorly organized and needs improvement.,Negative,Library
+English,The college publishes information about bus service on its website.,Neutral,Transport
+English,I have had a poor experience with the student portal; it is difficult to use.,Negative,Administration
+English,I have had a positive experience with the common areas; it is helpful.,Positive,Campus Facilities
+English,The college manages the vegetarian options well because it is consistent.,Positive,Food / Mess
+English,The department discusses office hours during scheduled meetings.,Neutral,Faculty
+English,Students can find details about lecture schedule in the student handbook.,Neutral,Academics
+English,The college should improve the common areas because it is difficult to use.,Negative,Campus Facilities
+English,The lecturer provides helpful guidance for projects.,Positive,Faculty
+English,The college manages the hostel rooms well because it is satisfactory.,Positive,Hostel
+English,The lecture schedule is inconsistent and needs improvement.,Negative,Academics
+English,The college publishes information about bus routes on its website.,Neutral,Transport
+English,The college manages the assignment instructions well because it is helpful.,Positive,Academics
+English,"In my experience, the complaint desk is confusing.",Negative,Administration
+English,I have had a poor experience with the certificate application process; it is slow.,Negative,Administration
+English,Information about serving staff is available through the student portal.,Neutral,Food / Mess
+English,I have had a poor experience with the security service; it is poorly maintained.,Negative,Safety and Hygiene
+English,Information about opening hours is available through the student portal.,Neutral,Library
+English,Students can find details about serving staff in the student handbook.,Neutral,Food / Mess
+English,Students can find details about bus maintenance in the student handbook.,Neutral,Transport
+English,The college should improve the washroom cleanliness because it is inconsistent.,Negative,Safety and Hygiene
+English,Information about security service is available through the student portal.,Neutral,Safety and Hygiene
+English,The syllabus contains a list of prescribed textbooks.,Neutral,Academics
+English,I have had a poor experience with the complaint desk; it is poorly maintained.,Negative,Administration
+English,The college reviews campus pathways according to its regular schedule.,Neutral,Campus Facilities
+English,The department conducts practical sessions every week.,Neutral,Academics
+English,I have had a positive experience with the food quality; it is prompt.,Positive,Food / Mess
+English,The college should improve the lecturer's explanations because it is inefficient.,Negative,Faculty
+English,The online catalogue is simple and effective.,Positive,Library
+English,There are not enough seats during examination periods.,Negative,Library
+English,I am dissatisfied with the bus service because it is unreliable.,Negative,Transport
+English,I have had a poor experience with the assessment process; it is inefficient.,Negative,Academics
+English,I have had a poor experience with the lecturer's explanations; it is difficult to use.,Negative,Faculty
+English,Students receive updates about pickup points through official notices.,Neutral,Transport
+English,The department discusses online catalogue during scheduled meetings.,Neutral,Library
+English,The meal service is difficult to use and needs improvement.,Negative,Food / Mess
+English,The waste management is comfortable and meets students' needs.,Positive,Safety and Hygiene
+English,The college should improve the office hours because it is difficult to use.,Negative,Faculty
+English,The college publishes information about vegetarian options on its website.,Neutral,Food / Mess
+English,The college manages the assignment instructions well because it is consistent.,Positive,Academics
+English,The menu offers very few healthy options.,Negative,Food / Mess
+English,Students receive updates about online catalogue through official notices.,Neutral,Library
+English,I am satisfied with the borrowing rules because it is well organized.,Positive,Library
+English,The department discusses lecture schedule during scheduled meetings.,Neutral,Academics
+English,I am dissatisfied with the meal service because it is inefficient.,Negative,Food / Mess
+English,The college manages the course materials well because it is comfortable.,Positive,Academics
+English,The college records attendance for every lecture.,Neutral,Academics
+English,The college should improve the lecture schedule because it is unsatisfactory.,Negative,Academics
+English,The instructions for registration are incomplete.,Negative,Administration
+English,I have had a positive experience with the student portal; it is prompt.,Positive,Administration
+English,Students can find details about online catalogue in the student handbook.,Neutral,Library
+English,I am satisfied with the medical room because it is prompt.,Positive,Campus Facilities
+English,Students can find details about emergency exits in the student handbook.,Neutral,Safety and Hygiene
+English,Students receive updates about campus Wi-Fi through official notices.,Neutral,Campus Facilities
+English,The medical room is difficult to use and needs improvement.,Negative,Campus Facilities
+English,The practical sessions is excellent and meets students' needs.,Positive,Academics
+English,"In my experience, the security service is easy to use.",Positive,Safety and Hygiene
+English,The department maintains records related to maintenance service.,Neutral,Hostel
+English,The department schedules guest lectures each semester.,Neutral,Faculty
+English,The college manages the classroom teaching well because it is clear.,Positive,Faculty
+English,I am satisfied with the course materials because it is easy to use.,Positive,Academics
+English,The department discusses laundry service during scheduled meetings.,Neutral,Hostel
+English,I have had a poor experience with the bus routes; it is unreliable.,Negative,Transport
+English,Students can find details about vegetarian options in the student handbook.,Neutral,Food / Mess
+English,The college publishes information about assignment feedback on its website.,Neutral,Faculty
+English,I have had a positive experience with the campus buildings; it is well organized.,Positive,Infrastructure
+English,The campus lacks clear signs for emergency procedures.,Negative,Safety and Hygiene
+English,"In my experience, the common areas is poorly maintained.",Negative,Campus Facilities
+English,I am satisfied with the handwashing facilities because it is satisfactory.,Positive,Safety and Hygiene
+English,I have had a poor experience with the lecture schedule; it is unreliable.,Negative,Academics
+English,The college should improve the bathroom facilities because it is unreliable.,Negative,Hostel
+English,"In my experience, the campus Wi-Fi is slow.",Negative,Campus Facilities
+English,The department discusses emergency exits during scheduled meetings.,Neutral,Safety and Hygiene
+English,Students receive updates about digital journals through official notices.,Neutral,Library
+English,I am dissatisfied with the certificate application process because it is unclear.,Negative,Administration
+English,"In my experience, the seating areas is excellent.",Positive,Campus Facilities
+English,The common areas is inconsistent and needs improvement.,Negative,Campus Facilities
+English,The instructor shares assignment instructions during class.,Neutral,Faculty
+English,Students submit bus pass applications before each semester.,Neutral,Transport
+English,The college manages the complaint desk well because it is efficient.,Positive,Administration
+English,The college publishes information about drinking water points on its website.,Neutral,Safety and Hygiene
+English,The college manages the meal service well because it is prompt.,Positive,Food / Mess
+English,The examination schedule is communicated well in advance.,Positive,Academics
+English,Students can find details about campus buildings in the student handbook.,Neutral,Infrastructure
+English,I am satisfied with the common areas because it is prompt.,Positive,Campus Facilities
+English,The drinking water points is confusing and needs improvement.,Negative,Safety and Hygiene
+English,The college publishes information about course materials on its website.,Neutral,Academics
+English,I have had a positive experience with the laboratory exercises; it is satisfactory.,Positive,Academics
+English,Information about complaint desk is available through the student portal.,Neutral,Administration
+English,The first-aid supplies are incomplete.,Negative,Safety and Hygiene
+English,The college manages the lecture schedule well because it is easy to use.,Positive,Academics
+English,I am dissatisfied with the drinking water because it is confusing.,Negative,Food / Mess
+English,"In my experience, the hostel rooms is poorly maintained.",Negative,Hostel
+English,The student help desk is inadequate and needs improvement.,Negative,Administration
+English,Charging points are available in selected common areas.,Neutral,Campus Facilities
+English,The hostel Wi-Fi is inefficient and needs improvement.,Negative,Hostel
+English,The college reviews laboratory equipment according to its regular schedule.,Neutral,Infrastructure
+English,The college publishes information about borrowing rules on its website.,Neutral,Library
+English,The department maintains records related to class discussions.,Neutral,Faculty
+English,Information about assignment feedback is available through the student portal.,Neutral,Faculty
+English,The college reviews classroom furniture according to its regular schedule.,Neutral,Infrastructure
+English,The course workload is manageable and well planned.,Positive,Academics
+English,The common areas are quiet and comfortable at night.,Positive,Hostel
+English,I am dissatisfied with the waiting areas because it is poorly organized.,Negative,Transport
+English,The waiting areas is unreliable and needs improvement.,Negative,Transport
+English,The college manages the security service well because it is easy to use.,Positive,Safety and Hygiene
+English,I have had a poor experience with the campus pathways; it is slow.,Negative,Campus Facilities
+English,"In my experience, the laboratory exercises is consistent.",Positive,Academics
+English,The college should improve the assignment instructions because it is unreliable.,Negative,Academics
+English,Information about bus routes is available through the student portal.,Neutral,Transport
+English,I have had a poor experience with the student help desk; it is unsatisfactory.,Negative,Administration
+English,The department maintains records related to bathroom facilities.,Neutral,Hostel
+English,I have had a poor experience with the seating areas; it is poorly maintained.,Negative,Campus Facilities
+English,I am dissatisfied with the campus pathways because it is inadequate.,Negative,Campus Facilities
+English,I am satisfied with the sports facilities because it is helpful.,Positive,Campus Facilities
+English,"In my experience, the security service is poorly organized.",Negative,Safety and Hygiene
+English,Information about dining area is available through the student portal.,Neutral,Food / Mess
+English,The vegetarian options are limited and repetitive.,Negative,Food / Mess
+English,Information about project support is available through the student portal.,Neutral,Faculty
+English,I am dissatisfied with the hostel Wi-Fi because it is inconsistent.,Negative,Hostel
+English,The department maintains records related to borrowing rules.,Neutral,Library
+English,I have had a poor experience with the classroom ventilation; it is unclear.,Negative,Infrastructure
+English,The meal service is unsatisfactory and needs improvement.,Negative,Food / Mess
+English,I have had a poor experience with the waste management; it is confusing.,Negative,Safety and Hygiene
+English,The department maintains records related to common areas.,Neutral,Campus Facilities
+English,The college publishes information about certificate application process on its website.,Neutral,Administration
+English,The department discusses laboratory equipment during scheduled meetings.,Neutral,Infrastructure
+English,The academic calendar lists the dates of internal assessments.,Neutral,Academics
+English,Information about maintenance service is available through the student portal.,Neutral,Hostel
+English,The registration procedure is helpful and meets students' needs.,Positive,Administration
+English,I am satisfied with the waiting areas because it is easy to use.,Positive,Transport
+English,The department maintains records related to practical sessions.,Neutral,Academics
+English,The college employs staff to prepare and serve meals.,Neutral,Food / Mess
+English,The drinking water points are dirty and poorly maintained.,Negative,Campus Facilities
+English,Seating areas are available near the library.,Neutral,Campus Facilities
+English,The college publishes information about hostel Wi-Fi on its website.,Neutral,Hostel
+English,I am satisfied with the registration procedure because it is easy to use.,Positive,Administration
+English,Students can find details about assignment feedback in the student handbook.,Neutral,Faculty
+English,I am dissatisfied with the registration procedure because it is inadequate.,Negative,Administration
+English,Each classroom has a seating capacity listed by the department.,Neutral,Infrastructure
+English,I am dissatisfied with the bus timings because it is poorly maintained.,Negative,Transport
+English,Students can find details about course materials in the student handbook.,Neutral,Academics
+English,The handwashing facilities often lack soap.,Negative,Safety and Hygiene
+English,The college manages the food quality well because it is efficient.,Positive,Food / Mess
+English,"In my experience, the office hours is well maintained.",Positive,Faculty
+English,The college manages the reading area well because it is consistent.,Positive,Library
+English,The department maintains records related to classroom lighting.,Neutral,Infrastructure
+English,The student recreation area is often kept untidy.,Negative,Campus Facilities
+English,The department discusses library collection during scheduled meetings.,Neutral,Library
+English,Students can find details about bus service in the student handbook.,Neutral,Transport
+English,"In my experience, the opening hours is clear.",Positive,Library
+English,The fee payment dates are listed in the academic calendar.,Neutral,Administration
+English,The campus lighting is efficient and meets students' needs.,Positive,Safety and Hygiene
+English,The college reviews hostel rooms according to its regular schedule.,Neutral,Hostel
+English,I have had a poor experience with the fee payment system; it is unclear.,Negative,Administration
+English,I have had a poor experience with the library collection; it is inconsistent.,Negative,Library
+English,The college manages the project support well because it is well organized.,Positive,Faculty
+English,The college manages the common areas well because it is excellent.,Positive,Hostel
+English,The college should improve the hostel rooms because it is unreliable.,Negative,Hostel
+English,The college has a documented procedure for seating areas.,Neutral,Campus Facilities
+English,The common areas is efficient and meets students' needs.,Positive,Hostel
+English,The college manages the opening hours well because it is clear.,Positive,Library
+English,Students can find details about class discussions in the student handbook.,Neutral,Faculty
+English,I have had a poor experience with the laundry service; it is unreliable.,Negative,Hostel
+English,"In my experience, the serving staff is consistent.",Positive,Food / Mess
+English,The maintenance service is easy to use and meets students' needs.,Positive,Hostel
+English,The college should improve the campus buildings because it is slow.,Negative,Infrastructure
+English,"In my experience, the mess food is poorly maintained.",Negative,Food / Mess
+English,The college should improve the certificate application process because it is difficult to use.,Negative,Administration
+English,I have had a positive experience with the lecture schedule; it is excellent.,Positive,Academics
+English,The college publishes information about campus Wi-Fi on its website.,Neutral,Campus Facilities
+English,Students receive updates about student help desk through official notices.,Neutral,Administration
+English,I am satisfied with the office hours because it is clear.,Positive,Faculty
+English,The computer laboratory is located on the second floor.,Neutral,Infrastructure
+English,The handwashing facilities is helpful and meets students' needs.,Positive,Safety and Hygiene
+English,I am dissatisfied with the assessment process because it is difficult to use.,Negative,Academics
+English,"In my experience, the campus buildings is satisfactory.",Positive,Infrastructure
+English,The campus Wi-Fi is reliable and meets students' needs.,Positive,Campus Facilities
+English,I am satisfied with the campus lighting because it is reliable.,Positive,Safety and Hygiene
+English,The hostel laundry service is reliable and convenient.,Positive,Hostel
+English,The college manages the pickup points well because it is prompt.,Positive,Transport
+English,I am satisfied with the classroom teaching because it is comfortable.,Positive,Faculty
+English,Students receive updates about security arrangements through official notices.,Neutral,Hostel
+English,I have had a poor experience with the emergency exits; it is confusing.,Negative,Safety and Hygiene
+English,Students receive updates about bathroom facilities through official notices.,Neutral,Hostel
+English,Students receive updates about common areas through official notices.,Neutral,Campus Facilities
+English,The college should improve the campus Wi-Fi because it is inefficient.,Negative,Campus Facilities
+English,The department discusses classroom lighting during scheduled meetings.,Neutral,Infrastructure
+English,"In my experience, the certificate application process is well organized.",Positive,Administration
+English,The course materials is consistent and meets students' needs.,Positive,Academics
+English,The drivers behave rudely toward students.,Negative,Transport
+English,"In my experience, the laundry service is easy to use.",Positive,Hostel
+English,The college should improve the handwashing facilities because it is difficult to use.,Negative,Safety and Hygiene
+English,The campus buildings are clean and well maintained.,Positive,Infrastructure
+English,I am satisfied with the fee payment system because it is clear.,Positive,Administration
+English,The computer laboratory is efficient and meets students' needs.,Positive,Infrastructure
+English,The computer systems are slow and frequently crash.,Negative,Infrastructure
+English,The handwashing facilities is inconsistent and needs improvement.,Negative,Safety and Hygiene
+English,The college should improve the project support because it is inefficient.,Negative,Faculty
+English,The college should improve the complaint desk because it is inconsistent.,Negative,Administration
+English,I have had a poor experience with the registration procedure; it is difficult to use.,Negative,Administration
+English,The college reviews library collection according to its regular schedule.,Neutral,Library
+English,The college should improve the bus service because it is uncomfortable.,Negative,Transport
+English,The serving staff are slow during busy hours.,Negative,Food / Mess
+English,The college has a documented procedure for lecturer's explanations.,Neutral,Faculty
+English,The library Wi-Fi is unreliable.,Negative,Library
+English,I am satisfied with the maintenance service because it is clear.,Positive,Hostel
+English,The college bus routes are listed on the transport office notice board.,Neutral,Transport
+English,The college manages the security arrangements well because it is clear.,Positive,Hostel
+English,I am dissatisfied with the seating areas because it is inconsistent.,Negative,Campus Facilities
+English,Information about vegetarian options is available through the student portal.,Neutral,Food / Mess
+English,The college reviews classroom lighting according to its regular schedule.,Neutral,Infrastructure
+English,The complaint desk is confusing and needs improvement.,Negative,Administration
+English,I am satisfied with the campus Wi-Fi because it is satisfactory.,Positive,Campus Facilities
+English,The department discusses laboratory exercises during scheduled meetings.,Neutral,Academics
+English,The process for obtaining certificates is confusing and slow.,Negative,Administration
+English,Students receive updates about bus timings through official notices.,Neutral,Transport
+English,The department maintains records related to drinking water.,Neutral,Food / Mess
+English,The college manages the online catalogue well because it is efficient.,Positive,Library
+English,The classroom ventilation is unclear and needs improvement.,Negative,Infrastructure
+English,The college should improve the fee payment system because it is difficult to use.,Negative,Administration
+English,I am satisfied with the assessment process because it is excellent.,Positive,Academics
+English,The examination schedule changes without enough notice.,Negative,Academics
+English,The college should improve the mess food because it is inadequate.,Negative,Food / Mess
+English,I have had a poor experience with the laboratory equipment; it is confusing.,Negative,Infrastructure
+English,The drivers are polite and drive safely.,Positive,Transport
+English,The college reviews bus routes according to its regular schedule.,Neutral,Transport
+English,The college should improve the faculty guidance because it is unclear.,Negative,Faculty
+English,I am satisfied with the pickup points because it is well maintained.,Positive,Transport
+English,Students can find details about sports facilities in the student handbook.,Neutral,Campus Facilities
+English,I have had a positive experience with the bus service; it is satisfactory.,Positive,Transport
+English,The college has a documented procedure for vegetarian options.,Neutral,Food / Mess
+English,"In my experience, the seating areas is unsatisfactory.",Negative,Campus Facilities
+English,Information about sports facilities is available through the student portal.,Neutral,Campus Facilities
+English,The college has a documented procedure for campus Wi-Fi.,Neutral,Campus Facilities
+English,The department discusses drinking water during scheduled meetings.,Neutral,Food / Mess
+English,The campus security checks are thorough and consistent.,Positive,Safety and Hygiene
+English,I am satisfied with the security arrangements because it is prompt.,Positive,Hostel
+English,I am satisfied with the emergency exits because it is well organized.,Positive,Safety and Hygiene
+English,The administration publishes notices on the student portal.,Neutral,Administration
+English,I have had a poor experience with the emergency exits; it is inconsistent.,Negative,Safety and Hygiene
+English,The college publishes information about laundry service on its website.,Neutral,Hostel
+English,The college reviews driver behaviour according to its regular schedule.,Neutral,Transport
+English,The hostel food is fresh and enjoyable.,Positive,Hostel
+English,I have had a poor experience with the mess food; it is unreliable.,Negative,Food / Mess
+English,The department maintains records related to certificate application process.,Neutral,Administration
+English,The college manages the mess food well because it is well organized.,Positive,Food / Mess
+English,The common areas is unreliable and needs improvement.,Negative,Hostel
+English,"In my experience, the student help desk is confusing.",Negative,Administration
+English,The department discusses drinking water facilities during scheduled meetings.,Neutral,Campus Facilities
+English,I am dissatisfied with the hostel Wi-Fi because it is inefficient.,Negative,Hostel
+English,It is difficult to contact the administration when help is needed.,Negative,Administration
+English,The department maintains records related to handwashing facilities.,Neutral,Safety and Hygiene
+English,"In my experience, the security arrangements is confusing.",Negative,Hostel
+English,Students receive updates about mess food through official notices.,Neutral,Food / Mess
+English,I am satisfied with the lecture schedule because it is satisfactory.,Positive,Academics
+English,The college has a documented procedure for medical room.,Neutral,Campus Facilities
+English,"In my experience, the bus service is consistent.",Positive,Transport
+English,I am dissatisfied with the waste management because it is uncomfortable.,Negative,Safety and Hygiene
+English,The common areas is satisfactory and meets students' needs.,Positive,Campus Facilities
+English,The college publishes information about computer laboratory on its website.,Neutral,Infrastructure
+English,"In my experience, the hostel Wi-Fi is well maintained.",Positive,Hostel
+English,The mess has enough seating during lunch.,Positive,Food / Mess
+English,The complaint desk provides timely and helpful updates.,Positive,Administration
+English,The student recreation area is open during campus hours.,Neutral,Campus Facilities
+English,The college should improve the complaint desk because it is inefficient.,Negative,Administration
+English,I have had a positive experience with the assignment feedback; it is comfortable.,Positive,Faculty
+English,"In my experience, the document verification process is prompt.",Positive,Administration
+English,I have had a positive experience with the projectors; it is well maintained.,Positive,Infrastructure
+English,The college publishes information about online catalogue on its website.,Neutral,Library
+English,There are enough seats during examination periods.,Positive,Library
+English,I have had a poor experience with the laboratory equipment; it is inefficient.,Negative,Infrastructure
+English,"In my experience, the student help desk is well organized.",Positive,Administration
+English,The campus signs are confusing and difficult to read.,Negative,Campus Facilities
+English,I have had a poor experience with the lecture schedule; it is inefficient.,Negative,Academics
+English,I am satisfied with the campus buildings because it is excellent.,Positive,Infrastructure
+English,Students pay for meals through the college mess account.,Neutral,Food / Mess
+English,The college manages the waste management well because it is excellent.,Positive,Safety and Hygiene
+English,The online catalogue is inconsistent and needs improvement.,Negative,Library
+English,I am satisfied with the washroom cleanliness because it is reliable.,Positive,Safety and Hygiene
+English,I have had a positive experience with the handwashing facilities; it is satisfactory.,Positive,Safety and Hygiene
+English,The department discusses drinking water points during scheduled meetings.,Neutral,Safety and Hygiene
+English,The mess does not provide enough seating at lunch.,Negative,Food / Mess
+English,I am satisfied with the assignment instructions because it is consistent.,Positive,Academics
+English,The library collection is poorly organized and needs improvement.,Negative,Library
+English,The campus buildings need repairs.,Negative,Infrastructure
+English,The department discusses campus lighting during scheduled meetings.,Neutral,Safety and Hygiene
+English,I have had a poor experience with the complaint desk; it is confusing.,Negative,Administration
+English,The college should improve the student help desk because it is unclear.,Negative,Administration
+English,The college has a documented procedure for projectors.,Neutral,Infrastructure
+English,The department maintains records related to classroom teaching.,Neutral,Faculty
+English,The facility maintenance team responds too slowly.,Negative,Campus Facilities
+English,I am satisfied with the library collection because it is efficient.,Positive,Library
+English,I have had a poor experience with the student portal; it is confusing.,Negative,Administration
+English,The college manages the hostel Wi-Fi well because it is easy to use.,Positive,Hostel
+English,The college should improve the seating areas because it is difficult to use.,Negative,Campus Facilities
+English,The college has a documented procedure for library collection.,Neutral,Library
+English,"In my experience, the vegetarian options is clear.",Positive,Food / Mess
+English,The reading area is confusing and needs improvement.,Negative,Library
+English,The college should improve the course materials because it is poorly maintained.,Negative,Academics
+English,The college reviews drinking water points according to its regular schedule.,Neutral,Safety and Hygiene
+English,The college should improve the bus routes because it is inconsistent.,Negative,Transport
+English,The college should improve the seating areas because it is slow.,Negative,Campus Facilities
+English,I am satisfied with the course materials because it is well maintained.,Positive,Academics
+English,"In my experience, the common areas is consistent.",Positive,Hostel
+English,I am dissatisfied with the dining area because it is inconsistent.,Negative,Food / Mess
+English,The college publishes information about campus buildings on its website.,Neutral,Infrastructure
+English,The department maintains records related to course materials.,Neutral,Academics
+English,The vegetarian options is slow and needs improvement.,Negative,Food / Mess
+English,The college reviews bus maintenance according to its regular schedule.,Neutral,Transport
+English,Students can find details about complaint desk in the student handbook.,Neutral,Administration
+English,I am satisfied with the assessment process because it is efficient.,Positive,Academics
+English,"The course includes lectures, tutorials, and laboratory sessions.",Neutral,Academics
+English,I am satisfied with the laboratory exercises because it is helpful.,Positive,Academics
+English,I am dissatisfied with the driver behaviour because it is inconsistent.,Negative,Transport
+English,The college publishes information about online learning resources on its website.,Neutral,Academics
+English,A medical room is located beside the administration block.,Neutral,Campus Facilities
+English,Students receive updates about opening hours through official notices.,Neutral,Library
+English,I have had a positive experience with the campus lighting; it is helpful.,Positive,Safety and Hygiene
+English,The approval process requires too many repeated visits.,Negative,Administration
+English,Students can view meal timings on the college portal.,Neutral,Food / Mess
+English,The document verification process is unreliable and needs improvement.,Negative,Administration
+English,The classroom ventilation is inconsistent and needs improvement.,Negative,Infrastructure
+English,The campus lighting is poorly organized and needs improvement.,Negative,Safety and Hygiene
+English,The waste management is consistent and meets students' needs.,Positive,Safety and Hygiene
+English,"In my experience, the hostel rooms is easy to use.",Positive,Hostel
+English,I have had a poor experience with the pickup points; it is uncomfortable.,Negative,Transport
+English,"In my experience, the lecture schedule is well organized.",Positive,Academics
+English,"In my experience, the online catalogue is inadequate.",Negative,Library
+English,Students receive updates about serving staff through official notices.,Neutral,Food / Mess
+English,The college has a documented procedure for class discussions.,Neutral,Faculty
+English,The college manages the waste management well because it is helpful.,Positive,Safety and Hygiene
+English,The seating areas are uncomfortable and poorly maintained.,Negative,Campus Facilities
+English,Information about office hours is available through the student portal.,Neutral,Faculty
+English,"In my experience, the lecture schedule is uncomfortable.",Negative,Academics
+English,I have had a poor experience with the faculty guidance; it is inconsistent.,Negative,Faculty
+English,The college manages the faculty guidance well because it is prompt.,Positive,Faculty
+English,Students receive updates about driver behaviour through official notices.,Neutral,Transport
+English,The college publishes information about seating areas on its website.,Neutral,Campus Facilities
+English,The college publishes information about library collection on its website.,Neutral,Library
+English,"In my experience, the reading area is inadequate.",Negative,Library
+English,"In my experience, the library collection is easy to use.",Positive,Library
+English,Information about drinking water facilities is available through the student portal.,Neutral,Campus Facilities
+English,The college has a documented procedure for classroom ventilation.,Neutral,Infrastructure
+English,I have had a positive experience with the borrowing rules; it is comfortable.,Positive,Library
+English,I am satisfied with the emergency exits because it is helpful.,Positive,Safety and Hygiene
+English,I have had a poor experience with the opening hours; it is poorly organized.,Negative,Library
+English,The college should improve the classroom ventilation because it is confusing.,Negative,Infrastructure
+English,I am satisfied with the computer laboratory because it is prompt.,Positive,Infrastructure
+English,The college reviews fee payment system according to its regular schedule.,Neutral,Administration
+English,"In my experience, the projectors is confusing.",Negative,Infrastructure
+English,The college has a documented procedure for student portal.,Neutral,Administration
+English,I have had a positive experience with the certificate application process; it is excellent.,Positive,Administration
+English,"In my experience, the common areas is satisfactory.",Positive,Campus Facilities
+English,The college has a documented procedure for bus routes.,Neutral,Transport
+English,I have had a poor experience with the bus service; it is confusing.,Negative,Transport
+English,The department maintains records related to serving staff.,Neutral,Food / Mess
+English,The library provides access to computers for student use.,Neutral,Library
+English,I have had a positive experience with the sports facilities; it is comfortable.,Positive,Campus Facilities
+English,The projectors is inconsistent and needs improvement.,Negative,Infrastructure
+English,The college should improve the digital journals because it is slow.,Negative,Library
+English,Students receive updates about meal service through official notices.,Neutral,Food / Mess
+English,The buses have enough seats during peak hours.,Positive,Transport
+English,The department discusses digital journals during scheduled meetings.,Neutral,Library
+English,The college manages the assessment process well because it is prompt.,Positive,Academics
+English,Information about class discussions is available through the student portal.,Neutral,Faculty
+English,Information about mess food is available through the student portal.,Neutral,Food / Mess
+English,The library has a reading area on the first floor.,Neutral,Library
+English,I have had a positive experience with the seating areas; it is excellent.,Positive,Campus Facilities
+English,The college has a documented procedure for classroom furniture.,Neutral,Infrastructure
+English,The dining area is clean and well ventilated.,Positive,Food / Mess
+English,I have had a positive experience with the maintenance service; it is comfortable.,Positive,Hostel
+English,The college publishes information about drinking water on its website.,Neutral,Food / Mess
+English,The college manages the classroom furniture well because it is clear.,Positive,Infrastructure
+English,I have had a positive experience with the computer laboratory; it is helpful.,Positive,Infrastructure
+English,The college publishes information about laboratory exercises on its website.,Neutral,Academics
+English,The college manages the drinking water facilities well because it is helpful.,Positive,Campus Facilities
+English,The college reviews lecturer's explanations according to its regular schedule.,Neutral,Faculty
+English,The college manages the hostel rooms well because it is consistent.,Positive,Hostel
+English,The instructors explain difficult topics with useful examples.,Positive,Academics
+English,The librarian announces book return dates through email.,Neutral,Library
+English,The washroom cleanliness is unclear and needs improvement.,Negative,Safety and Hygiene
+English,The document verification process is satisfactory and meets students' needs.,Positive,Administration
+English,The department maintains records related to bus timings.,Neutral,Transport
+English,The college manages the project support well because it is helpful.,Positive,Faculty
+English,The college manages the handwashing facilities well because it is well maintained.,Positive,Safety and Hygiene
+English,I am satisfied with the class discussions because it is well organized.,Positive,Faculty
+English,Students use the common areas between classes.,Neutral,Campus Facilities
+English,Students receive updates about security service through official notices.,Neutral,Safety and Hygiene
+English,"In my experience, the reading area is slow.",Negative,Library
+English,"In my experience, the hostel Wi-Fi is prompt.",Positive,Hostel
+English,I am dissatisfied with the student help desk because it is unsatisfactory.,Negative,Administration
+English,The lecturer's explanations is helpful and meets students' needs.,Positive,Faculty
+English,The library computers is prompt and meets students' needs.,Positive,Library
+English,The library publishes borrowing rules on its website.,Neutral,Library
+English,I am satisfied with the bus timings because it is easy to use.,Positive,Transport
+English,The security staff respond quickly and professionally.,Positive,Safety and Hygiene
+English,"In my experience, the hostel rooms is reliable.",Positive,Hostel
+English,The class schedule includes both theory and practical periods.,Neutral,Academics
+English,I have had a positive experience with the washroom cleanliness; it is clear.,Positive,Safety and Hygiene
+English,Students receive updates about handwashing facilities through official notices.,Neutral,Safety and Hygiene
+English,The college should improve the medical room because it is inefficient.,Negative,Campus Facilities
+English,The college has a documented procedure for project support.,Neutral,Faculty
+English,I am satisfied with the lecture schedule because it is consistent.,Positive,Academics
+English,The college reviews course materials according to its regular schedule.,Neutral,Academics
+English,The college has a documented procedure for bus maintenance.,Neutral,Transport
+English,I have had a poor experience with the security arrangements; it is slow.,Negative,Hostel
+English,"In my experience, the drinking water points is efficient.",Positive,Safety and Hygiene
+English,The department maintains records related to seating areas.,Neutral,Campus Facilities
+English,The waste management is poorly maintained and needs improvement.,Negative,Safety and Hygiene
+English,Information about student portal is available through the student portal.,Neutral,Administration
+English,I have had a positive experience with the student help desk; it is comfortable.,Positive,Administration
+English,The department discusses complaint desk during scheduled meetings.,Neutral,Administration
+English,The corridors are often dirty.,Negative,Safety and Hygiene
+English,I am dissatisfied with the emergency exits because it is unclear.,Negative,Safety and Hygiene
+English,The college reviews food quality according to its regular schedule.,Neutral,Food / Mess
+English,The department discusses pickup points during scheduled meetings.,Neutral,Transport
+English,"In my experience, the pickup points is satisfactory.",Positive,Transport
+English,Students receive updates about reading area through official notices.,Neutral,Library
+English,The laboratory exercises reinforce what we learn in class.,Positive,Academics
+English,I have had a poor experience with the maintenance service; it is unclear.,Negative,Hostel
+English,The bus seats are damaged and uncomfortable.,Negative,Transport
+English,I have had a poor experience with the seating areas; it is uncomfortable.,Negative,Campus Facilities
+English,Students can find details about opening hours in the student handbook.,Neutral,Library
+English,"In my experience, the complaint desk is clear.",Positive,Administration
+English,I have had a poor experience with the office hours; it is poorly organized.,Negative,Faculty
+English,The department maintains records related to library computers.,Neutral,Library
+English,The complaint desk is unsatisfactory and needs improvement.,Negative,Administration
+English,I have had a positive experience with the faculty guidance; it is comfortable.,Positive,Faculty
+English,The college should improve the mess food because it is poorly maintained.,Negative,Food / Mess
+English,The opening hours is excellent and meets students' needs.,Positive,Library
+English,"In my experience, the laboratory equipment is unsatisfactory.",Negative,Infrastructure
+English,Information about classroom teaching is available through the student portal.,Neutral,Faculty
+English,"In my experience, the waste management is confusing.",Negative,Safety and Hygiene
+English,The department maintains records related to office hours.,Neutral,Faculty
+English,I am satisfied with the drinking water points because it is efficient.,Positive,Safety and Hygiene
+English,The bus routes is difficult to use and needs improvement.,Negative,Transport
+English,Students receive updates about classroom ventilation through official notices.,Neutral,Infrastructure
+English,I am dissatisfied with the food quality because it is difficult to use.,Negative,Food / Mess
+English,The college manages the complaint desk well because it is well maintained.,Positive,Administration
+English,The bus schedule changes without prior notice.,Negative,Transport
+English,I have had a poor experience with the practical sessions; it is poorly organized.,Negative,Academics
+English,I have had a poor experience with the food quality; it is poorly maintained.,Negative,Food / Mess
+English,The college manages the bus maintenance well because it is efficient.,Positive,Transport
+English,Students can borrow books using their college identification cards.,Neutral,Library
+English,The college reviews projectors according to its regular schedule.,Neutral,Infrastructure
+English,The serving staff is well maintained and meets students' needs.,Positive,Food / Mess
+English,I have had a poor experience with the laboratory exercises; it is unreliable.,Negative,Academics
+English,The classroom lighting is poorly maintained and needs improvement.,Negative,Infrastructure
+English,The college manages the faculty guidance well because it is well maintained.,Positive,Faculty
+English,The department discusses borrowing rules during scheduled meetings.,Neutral,Library
+English,"In my experience, the assignment instructions is unreliable.",Negative,Academics
+English,I have had a positive experience with the laboratory exercises; it is easy to use.,Positive,Academics
+English,The department maintains records related to driver behaviour.,Neutral,Transport
+English,The campus pathways are clean and easy to navigate.,Positive,Campus Facilities
+English,The college reviews online catalogue according to its regular schedule.,Neutral,Library
+English,The fee payment system is clear and meets students' needs.,Positive,Administration
+English,The college reviews assignment instructions according to its regular schedule.,Neutral,Academics
+English,"In my experience, the registration procedure is excellent.",Positive,Administration
+English,The college reviews waste management according to its regular schedule.,Neutral,Safety and Hygiene
+English,The college manages the meal service well because it is efficient.,Positive,Food / Mess
+English,"In my experience, the common areas is efficient.",Positive,Campus Facilities
+English,I am dissatisfied with the reading area because it is confusing.,Negative,Library
+English,Students receive updates about sports facilities through official notices.,Neutral,Campus Facilities
+English,The hostel Wi-Fi disconnects frequently.,Negative,Hostel
+English,The library has a wide range of useful books for every course.,Positive,Library
+English,The complaint desk does not provide timely updates.,Negative,Administration
+English,The college publishes information about serving staff on its website.,Neutral,Food / Mess
+English,The serving staff is confusing and needs improvement.,Negative,Food / Mess
+English,The college manages the lecture schedule well because it is comfortable.,Positive,Academics
+English,Students can find details about fee payment system in the student handbook.,Neutral,Administration
+English,I have had a poor experience with the fee payment system; it is confusing.,Negative,Administration
+English,The department maintains records related to bus maintenance.,Neutral,Transport
+English,The college manages the waiting areas well because it is clear.,Positive,Transport
+English,The assessment process is reliable and meets students' needs.,Positive,Academics
+English,The lecturer's explanations is clear and meets students' needs.,Positive,Faculty
+English,The course workload is excessive and deadlines overlap.,Negative,Academics
+English,The college collects feedback about the mess menu each month.,Neutral,Food / Mess
+English,I have had a positive experience with the dining area; it is efficient.,Positive,Food / Mess
+English,"In my experience, the lecture schedule is unclear.",Negative,Academics
+English,"In my experience, the campus Wi-Fi is unreliable.",Negative,Campus Facilities
+English,The dining area is unsatisfactory and needs improvement.,Negative,Food / Mess
+English,I have had a poor experience with the pickup points; it is unreliable.,Negative,Transport
+English,The dining hall opens at the times listed on the notice board.,Neutral,Food / Mess
+English,The college manages the projectors well because it is consistent.,Positive,Infrastructure
+English,Students receive updates about certificate application process through official notices.,Neutral,Administration
+English,The department maintains records related to waiting areas.,Neutral,Transport
+English,I have had a poor experience with the student help desk; it is inadequate.,Negative,Administration
+English,The laboratory equipment is modern and readily available.,Positive,Infrastructure
+English,The waiting areas is inconsistent and needs improvement.,Negative,Transport
+English,The college operates buses on weekdays.,Neutral,Transport
+English,I am satisfied with the mess food because it is efficient.,Positive,Food / Mess
+English,The borrowing rules is inadequate and needs improvement.,Negative,Library
+English,I have had a positive experience with the registration procedure; it is satisfactory.,Positive,Administration
+English,The college should improve the serving staff because it is inadequate.,Negative,Food / Mess
+English,I am dissatisfied with the faculty guidance because it is poorly maintained.,Negative,Faculty
+English,I have had a poor experience with the assessment process; it is inconsistent.,Negative,Academics
+English,The college should improve the student portal because it is poorly maintained.,Negative,Administration
+English,The college should improve the serving staff because it is unclear.,Negative,Food / Mess
+English,I am dissatisfied with the drinking water because it is unreliable.,Negative,Food / Mess
+English,I have had a poor experience with the lecture schedule; it is uncomfortable.,Negative,Academics
+English,The college reviews student help desk according to its regular schedule.,Neutral,Administration
+English,The reference materials are outdated.,Negative,Library
+English,Students receive updates about waiting areas through official notices.,Neutral,Transport
+English,"In my experience, the driver behaviour is unreliable.",Negative,Transport
+English,Students receive updates about seating areas through official notices.,Neutral,Campus Facilities
+English,I have had a positive experience with the practical sessions; it is excellent.,Positive,Academics
+English,I have had a positive experience with the laboratory equipment; it is well organized.,Positive,Infrastructure
+English,The college should improve the sports facilities because it is inadequate.,Negative,Campus Facilities
+English,"In my experience, the driver behaviour is reliable.",Positive,Transport
+English,The college should improve the drinking water because it is inefficient.,Negative,Food / Mess
+English,The department maintains records related to fee payment system.,Neutral,Administration
+English,The security arrangements is excellent and meets students' needs.,Positive,Hostel
+English,The fee payment system is excellent and meets students' needs.,Positive,Administration
+English,The drinking water facilities is unclear and needs improvement.,Negative,Campus Facilities
+English,The college reviews office hours according to its regular schedule.,Neutral,Faculty
+English,Information about certificate application process is available through the student portal.,Neutral,Administration
+English,I am dissatisfied with the office hours because it is unreliable.,Negative,Faculty
+English,I am dissatisfied with the complaint desk because it is unsatisfactory.,Negative,Administration
+English,The instructor informs students about schedule changes in advance.,Positive,Faculty
+English,The college publishes information about common areas on its website.,Neutral,Hostel
+English,The dining area is well organized and meets students' needs.,Positive,Food / Mess
+English,Information about library computers is available through the student portal.,Neutral,Library
+English,I am satisfied with the library computers because it is excellent.,Positive,Library
+English,The college should improve the security arrangements because it is poorly organized.,Negative,Hostel
+English,The food is often cold and lacks flavor.,Negative,Food / Mess
+English,The college reviews hostel Wi-Fi according to its regular schedule.,Neutral,Hostel
+English,The online learning materials are easy to access.,Positive,Academics
+English,I have had a poor experience with the computer laboratory; it is poorly organized.,Negative,Infrastructure
+English,The bus timings is unreliable and needs improvement.,Negative,Transport
+English,I am dissatisfied with the projectors because it is poorly maintained.,Negative,Infrastructure
+English,The waste management is satisfactory and meets students' needs.,Positive,Safety and Hygiene
+English,The department discusses handwashing facilities during scheduled meetings.,Neutral,Safety and Hygiene
+English,I have had a poor experience with the mess food; it is uncomfortable.,Negative,Food / Mess
+English,"In my experience, the campus lighting is slow.",Negative,Safety and Hygiene
+English,The college has a documented procedure for bus timings.,Neutral,Transport
+English,Students can find details about hostel Wi-Fi in the student handbook.,Neutral,Hostel
+English,The college should improve the dining area because it is unreliable.,Negative,Food / Mess
+English,Information about campus buildings is available through the student portal.,Neutral,Infrastructure
+English,Students receive updates about fee payment system through official notices.,Neutral,Administration
+English,The college publishes information about document verification process on its website.,Neutral,Administration
+English,The reading area has bright and comfortable lighting.,Positive,Library
+English,Registration forms are available through the student portal.,Neutral,Administration
+English,I am dissatisfied with the bathroom facilities because it is unsatisfactory.,Negative,Hostel
+English,I am dissatisfied with the waste management because it is unclear.,Negative,Safety and Hygiene
+English,"In my experience, the registration procedure is easy to use.",Positive,Administration
+English,The college should improve the library collection because it is unclear.,Negative,Library
+English,The college should improve the dining area because it is slow.,Negative,Food / Mess
+English,The department discusses class discussions during scheduled meetings.,Neutral,Faculty
+English,I have had a positive experience with the pickup points; it is well organized.,Positive,Transport
+English,"In my experience, the assignment feedback is inadequate.",Negative,Faculty
+English,The department maintains records related to security arrangements.,Neutral,Hostel
+English,"In my experience, the assessment process is unclear.",Negative,Academics
+English,The college should improve the complaint desk because it is unclear.,Negative,Administration
+English,The lecturer explains concepts poorly and rarely answers questions.,Negative,Faculty
+English,Students receive updates about lecture schedule through official notices.,Neutral,Academics
+English,The college publishes information about security service on its website.,Neutral,Safety and Hygiene
+English,"In my experience, the pickup points is inefficient.",Negative,Transport
+English,The serving staff is unsatisfactory and needs improvement.,Negative,Food / Mess
+English,The assignment instructions is uncomfortable and needs improvement.,Negative,Academics
+English,The hostel Wi-Fi is helpful and meets students' needs.,Positive,Hostel
+English,Information about food quality is available through the student portal.,Neutral,Food / Mess
+English,Students can find details about security arrangements in the student handbook.,Neutral,Hostel
+English,Students can find details about waiting areas in the student handbook.,Neutral,Transport
+English,The college manages the hostel rooms well because it is reliable.,Positive,Hostel
+English,The emergency exits is poorly organized and needs improvement.,Negative,Safety and Hygiene
+English,The college publishes information about faculty guidance on its website.,Neutral,Faculty
+English,Students receive updates about computer laboratory through official notices.,Neutral,Infrastructure
+English,I have had a poor experience with the projectors; it is unclear.,Negative,Infrastructure
+English,The college manages the drinking water well because it is excellent.,Positive,Food / Mess
+English,The cleaning schedule is followed consistently.,Positive,Safety and Hygiene
+English,I have had a positive experience with the waste management; it is comfortable.,Positive,Safety and Hygiene
+English,I have had a positive experience with the laboratory equipment; it is consistent.,Positive,Infrastructure
+English,I am satisfied with the classroom teaching because it is reliable.,Positive,Faculty
+English,"In my experience, the online catalogue is well organized.",Positive,Library
+English,The digital journals is efficient and meets students' needs.,Positive,Library
+English,The college has a documented procedure for computer laboratory.,Neutral,Infrastructure
+English,The college should improve the maintenance service because it is poorly organized.,Negative,Hostel
+English,"In my experience, the campus Wi-Fi is unsatisfactory.",Negative,Campus Facilities
+English,The college reviews laundry service according to its regular schedule.,Neutral,Hostel
+English,The college has a documented procedure for emergency exits.,Neutral,Safety and Hygiene
+English,I am dissatisfied with the classroom lighting because it is inefficient.,Negative,Infrastructure
+English,Students receive updates about library collection through official notices.,Neutral,Library
+English,"In my experience, the course materials is unsatisfactory.",Negative,Academics
+English,"In my experience, the food quality is uncomfortable.",Negative,Food / Mess
+English,The college has a documented procedure for faculty guidance.,Neutral,Faculty
+English,The drinking water facilities is helpful and meets students' needs.,Positive,Campus Facilities
+English,The college does not communicate policy changes clearly.,Negative,Administration
+English,I have had a poor experience with the opening hours; it is inconsistent.,Negative,Library
+English,The college buses arrive on time.,Positive,Transport
+English,The campus Wi-Fi is clear and meets students' needs.,Positive,Campus Facilities
+English,The instructor uses slides during most lectures.,Neutral,Faculty
+English,I have had a poor experience with the emergency exits; it is inefficient.,Negative,Safety and Hygiene
+English,The college should improve the drinking water because it is unclear.,Negative,Food / Mess
+English,I have had a positive experience with the common areas; it is reliable.,Positive,Hostel
+English,The college publishes information about classroom lighting on its website.,Neutral,Infrastructure
+English,The college reviews reading area according to its regular schedule.,Neutral,Library
+English,The timetable provides enough time between classes.,Positive,Academics
+English,I have had a poor experience with the digital journals; it is inconsistent.,Negative,Library
+English,I am dissatisfied with the seating areas because it is poorly maintained.,Negative,Campus Facilities
+English,The bathroom facilities is well organized and meets students' needs.,Positive,Hostel
+English,The college has a documented procedure for certificate application process.,Neutral,Administration
+English,Students can find details about handwashing facilities in the student handbook.,Neutral,Safety and Hygiene
+English,The college should improve the library collection because it is inadequate.,Negative,Library
+English,Lecturers provide reading lists for each course.,Neutral,Faculty
+English,The waiting areas is efficient and meets students' needs.,Positive,Transport
+English,I have had a positive experience with the classroom lighting; it is reliable.,Positive,Infrastructure
+English,The student help desk is unclear and needs improvement.,Negative,Administration
+English,I am dissatisfied with the complaint desk because it is inconsistent.,Negative,Administration
+English,The certificate application process is consistent and meets students' needs.,Positive,Administration
+English,"In my experience, the sports facilities is poorly maintained.",Negative,Campus Facilities
+English,The college publishes information about bus maintenance on its website.,Neutral,Transport
+English,The college publishes information about hostel rooms on its website.,Neutral,Hostel
+English,The meals are frequently served later than scheduled.,Negative,Food / Mess
+English,The common areas are spacious and comfortable.,Positive,Campus Facilities
+English,I have had a poor experience with the campus buildings; it is uncomfortable.,Negative,Infrastructure
+English,I am satisfied with the campus pathways because it is excellent.,Positive,Campus Facilities
+English,The college manages the pickup points well because it is reliable.,Positive,Transport
+English,The campus has a procedure for reporting safety concerns.,Neutral,Safety and Hygiene
+English,"In my experience, the washroom cleanliness is easy to use.",Positive,Safety and Hygiene
+English,The hostel has separate floors for different student groups.,Neutral,Hostel
+English,The college reviews drinking water facilities according to its regular schedule.,Neutral,Campus Facilities
+English,The college has a documented procedure for bus service.,Neutral,Transport
+English,"In my experience, the washroom cleanliness is unreliable.",Negative,Safety and Hygiene
+English,The cleaning schedule is displayed near the main office.,Neutral,Safety and Hygiene
+English,The computer laboratory has outdated equipment.,Negative,Infrastructure
+English,The department discusses project support during scheduled meetings.,Neutral,Faculty
+English,I have had a poor experience with the classroom teaching; it is uncomfortable.,Negative,Faculty
+English,The college has a documented procedure for drinking water facilities.,Neutral,Campus Facilities
+English,Information about laboratory equipment is available through the student portal.,Neutral,Infrastructure
+English,The laboratory exercises do not match the topics taught in class.,Negative,Academics
+English,The college has a documented procedure for campus lighting.,Neutral,Safety and Hygiene
+English,Students can find details about digital journals in the student handbook.,Neutral,Library
+English,The college should improve the reading area because it is unsatisfactory.,Negative,Library
+English,The lecturer does not provide enough guidance for projects.,Negative,Faculty
+English,"In my experience, the laundry service is unclear.",Negative,Hostel
+English,Students receive updates about campus pathways through official notices.,Neutral,Campus Facilities
+English,The college manages the lecturer's explanations well because it is easy to use.,Positive,Faculty
+English,I am satisfied with the security service because it is clear.,Positive,Safety and Hygiene
+English,I am dissatisfied with the seating areas because it is confusing.,Negative,Campus Facilities
+English,The pickup points are convenient for students.,Positive,Transport
+English,The college should improve the security arrangements because it is confusing.,Negative,Hostel
+English,The college should improve the borrowing rules because it is poorly organized.,Negative,Library
+English,Information about bus timings is available through the student portal.,Neutral,Transport
+English,The college has a documented procedure for digital journals.,Neutral,Library
+English,The laboratory is clean and well maintained.,Positive,Infrastructure
+English,The lecture schedule is uncomfortable and needs improvement.,Negative,Academics

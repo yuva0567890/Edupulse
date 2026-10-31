@@ -1,0 +1,17 @@
+{# shared filter inputs. Expects: options, filters (dict). Optional: show_search #}
+{% macro sel(name, label, values, labels=none) %}
+<div><label>{{ label }}</label><select name="{{ name }}"><option value="">{{ t('all') }}</option>
+{% for v in values %}<option value="{{ v }}" {{ 'selected' if filters.get(name) == v|string }}>{{ labels[v] if labels and v in labels else v }}</option>{% endfor %}</select></div>
+{% endmacro %}
+{% if show_search %}<div style="grid-column:span 2"><label>{{ t('search') }}</label><input type="search" name="search" value="{{ filters.get('search','') }}" placeholder="wifi, லேப், वाईफाई, EDU-2026-0001 …"></div>{% endif %}
+<div><label>{{ t('date_from') }}</label><input type="date" name="date_from" value="{{ filters.get('date_from','') }}"></div>
+<div><label>{{ t('date_to') }}</label><input type="date" name="date_to" value="{{ filters.get('date_to','') }}"></div>
+{{ sel('category', t('category'), options.categories, {'Academics': t('academics'), 'Hostel': t('hostel'), 'Others': t('others')}) }}
+{{ sel('language', t('language'), options.languages) }}
+{{ sel('sentiment', t('sentiment'), ['Positive','Neutral','Negative'], {'Positive': t('positive'), 'Neutral': t('neutral'), 'Negative': t('negative')}) }}
+{{ sel('aspect', t('aspect'), options.aspects) }}
+{{ sel('priority', t('priority'), ['LOW','MEDIUM','HIGH','CRITICAL']) }}
+{{ sel('status', t('status'), options.statuses) }}
+{{ sel('department', t('department'), options.departments) }}
+{{ sel('year', t('year'), options.years) }}
+{{ sel('course', t('course'), options.courses) }}

@@ -1,0 +1,1069 @@
+{
+  "model_name": "TF-IDF (word 1-2 grams) + Logistic Regression + multilingual rules",
+  "mode": "Fallback / Demo",
+  "trained_at": "2026-10-23T07:08:32Z",
+  "dataset": {
+    "file": "training_data.csv",
+    "size": 3614,
+    "languages": [
+      "English",
+      "Hindi",
+      "Hindi + English",
+      "Hinglish",
+      "Mixed",
+      "Tamil",
+      "Tamil + English",
+      "Tanglish"
+    ],
+    "language_counts": {
+      "English": 597,
+      "Tanglish": 497,
+      "Tamil + English": 474,
+      "Hinglish": 464,
+      "Hindi + English": 457,
+      "Tamil": 454,
+      "Hindi": 448,
+      "Mixed": 223
+    },
+    "sentiment_counts": {
+      "Negative": 1582,
+      "Positive": 1194,
+      "Neutral": 838
+    },
+    "synthetic": true
+  },
+  "split": {
+    "train": 2529,
+    "validation": 542,
+    "test": 543,
+    "ratio": "70 / 15 / 15 (stratified by sentiment, seed 42)"
+  },
+  "hyperparameters": {
+    "C": 8.0,
+    "validation_macro_f1_by_C": {
+      "0.5": 0.9313,
+      "2.0": 0.957,
+      "8.0": 0.9583,
+      "32.0": 0.9537
+    }
+  },
+  "results": {
+    "sentiment": {
+      "n": 543,
+      "accuracy": 0.9632,
+      "precision_macro": 0.9617,
+      "recall_macro": 0.9656,
+      "f1_macro": 0.9634,
+      "f1_weighted": 0.9631,
+      "confusion_matrix": {
+        "labels": [
+          "Negative",
+          "Neutral",
+          "Positive"
+        ],
+        "matrix": [
+          [
+            225,
+            4,
+            9
+          ],
+          [
+            3,
+            122,
+            1
+          ],
+          [
+            2,
+            1,
+            176
+          ]
+        ]
+      },
+      "per_language": {
+        "English": {
+          "n": 83,
+          "accuracy": 0.7952,
+          "precision_macro": 0.7985,
+          "recall_macro": 0.8055,
+          "f1_macro": 0.7983,
+          "f1_weighted": 0.7938
+        },
+        "Hindi": {
+          "n": 210,
+          "accuracy": 0.9952,
+          "precision_macro": 0.9958,
+          "recall_macro": 0.9961,
+          "f1_macro": 0.9959,
+          "f1_weighted": 0.9952
+        },
+        "Mixed": {
+          "n": 28,
+          "accuracy": 1.0,
+          "precision_macro": 1.0,
+          "recall_macro": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0
+        },
+        "Tamil": {
+          "n": 222,
+          "accuracy": 0.991,
+          "precision_macro": 0.989,
+          "recall_macro": 0.9935,
+          "f1_macro": 0.9911,
+          "f1_weighted": 0.991
+        },
+        "Overall": {
+          "n": 543,
+          "accuracy": 0.9632,
+          "precision_macro": 0.9617,
+          "recall_macro": 0.9656,
+          "f1_macro": 0.9634,
+          "f1_weighted": 0.9631
+        }
+      },
+      "per_language_detailed": {
+        "English": {
+          "n": 83,
+          "accuracy": 0.7952,
+          "precision_macro": 0.7985,
+          "recall_macro": 0.8055,
+          "f1_macro": 0.7983,
+          "f1_weighted": 0.7938
+        },
+        "Hindi": {
+          "n": 78,
+          "accuracy": 1.0,
+          "precision_macro": 1.0,
+          "recall_macro": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0
+        },
+        "Hindi + English": {
+          "n": 60,
+          "accuracy": 1.0,
+          "precision_macro": 1.0,
+          "recall_macro": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0
+        },
+        "Hinglish": {
+          "n": 72,
+          "accuracy": 0.9861,
+          "precision_macro": 0.9848,
+          "recall_macro": 0.9892,
+          "f1_macro": 0.9868,
+          "f1_weighted": 0.9862
+        },
+        "Mixed": {
+          "n": 28,
+          "accuracy": 1.0,
+          "precision_macro": 1.0,
+          "recall_macro": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0
+        },
+        "Tamil": {
+          "n": 68,
+          "accuracy": 0.9853,
+          "precision_macro": 0.9841,
+          "recall_macro": 0.9877,
+          "f1_macro": 0.9856,
+          "f1_weighted": 0.9853
+        },
+        "Tamil + English": {
+          "n": 69,
+          "accuracy": 1.0,
+          "precision_macro": 1.0,
+          "recall_macro": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0
+        },
+        "Tanglish": {
+          "n": 85,
+          "accuracy": 0.9882,
+          "precision_macro": 0.9825,
+          "recall_macro": 0.9924,
+          "f1_macro": 0.9872,
+          "f1_weighted": 0.9883
+        }
+      }
+    },
+    "aspect_classifier": {
+      "n": 344,
+      "accuracy": 1.0,
+      "precision_macro": 0.9524,
+      "recall_macro": 0.9524,
+      "f1_macro": 0.9524,
+      "f1_weighted": 1.0,
+      "per_aspect": {
+        "Teaching": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 35
+        },
+        "Lab/Infrastructure": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 26
+        },
+        "Course Content": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 31
+        },
+        "Wi-Fi": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 31
+        },
+        "Exams": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 15
+        },
+        "Assignments": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "Academic Support": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 18
+        },
+        "Food": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 17
+        },
+        "Room": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 11
+        },
+        "Cleanliness": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 11
+        },
+        "Water": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 13
+        },
+        "Electricity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 15
+        },
+        "Security": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 13
+        },
+        "Maintenance": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 20
+        },
+        "Hostel Facilities": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "Transport": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 15
+        },
+        "Library": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 14
+        },
+        "Sports": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 11
+        },
+        "Events": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "Administration": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 14
+        },
+        "Campus Facilities": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 14
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "Teaching",
+          "Lab/Infrastructure",
+          "Course Content",
+          "Wi-Fi",
+          "Exams",
+          "Assignments",
+          "Academic Support",
+          "Food",
+          "Room",
+          "Cleanliness",
+          "Water",
+          "Electricity",
+          "Security",
+          "Maintenance",
+          "Hostel Facilities",
+          "Transport",
+          "Library",
+          "Sports",
+          "Events",
+          "Administration",
+          "Campus Facilities"
+        ],
+        "matrix": [
+          [
+            35,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            17,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            14,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            14
+          ]
+        ]
+      }
+    },
+    "aspect_rules": {
+      "n": 543,
+      "precision_micro": 0.9542,
+      "recall_micro": 0.931,
+      "f1_micro": 0.9425,
+      "exact_match": 0.8766,
+      "per_aspect": {
+        "Teaching": {
+          "precision": 0.8088,
+          "recall": 0.9649,
+          "f1": 0.88,
+          "support": 57
+        },
+        "Lab/Infrastructure": {
+          "precision": 0.8,
+          "recall": 1.0,
+          "f1": 0.8889,
+          "support": 44
+        },
+        "Course Content": {
+          "precision": 0.9259,
+          "recall": 0.9434,
+          "f1": 0.9346,
+          "support": 53
+        },
+        "Wi-Fi": {
+          "precision": 0.9808,
+          "recall": 1.0,
+          "f1": 0.9903,
+          "support": 51
+        },
+        "Exams": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 36
+        },
+        "Assignments": {
+          "precision": 1.0,
+          "recall": 0.8684,
+          "f1": 0.9296,
+          "support": 38
+        },
+        "Academic Support": {
+          "precision": 1.0,
+          "recall": 0.5526,
+          "f1": 0.7119,
+          "support": 38
+        },
+        "Food": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 39
+        },
+        "Room": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 26
+        },
+        "Cleanliness": {
+          "precision": 0.9565,
+          "recall": 0.88,
+          "f1": 0.9167,
+          "support": 25
+        },
+        "Water": {
+          "precision": 1.0,
+          "recall": 0.8438,
+          "f1": 0.9153,
+          "support": 32
+        },
+        "Electricity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 35
+        },
+        "Security": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 36
+        },
+        "Maintenance": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 44
+        },
+        "Hostel Facilities": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "Transport": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 35
+        },
+        "Library": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 33
+        },
+        "Sports": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 22
+        },
+        "Events": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 24
+        },
+        "Administration": {
+          "precision": 1.0,
+          "recall": 0.8438,
+          "f1": 0.9153,
+          "support": 32
+        },
+        "Campus Facilities": {
+          "precision": 1.0,
+          "recall": 0.7179,
+          "f1": 0.8358,
+          "support": 39
+        }
+      }
+    },
+    "severity_rules": {
+      "n": 543,
+      "accuracy": 0.9116,
+      "precision_macro": 0.8875,
+      "recall_macro": 0.8506,
+      "f1_macro": 0.8616,
+      "f1_weighted": 0.9074,
+      "confusion_matrix": {
+        "labels": [
+          "Low",
+          "Medium",
+          "High",
+          "Critical"
+        ],
+        "matrix": [
+          [
+            299,
+            3,
+            0,
+            1
+          ],
+          [
+            3,
+            38,
+            26,
+            0
+          ],
+          [
+            11,
+            4,
+            84,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            74
+          ]
+        ]
+      }
+    },
+    "category_rules": {
+      "n": 344,
+      "accuracy": 0.9302,
+      "precision_macro": 0.922,
+      "recall_macro": 0.9288,
+      "f1_macro": 0.9249,
+      "f1_weighted": 0.9311,
+      "confusion_matrix": {
+        "labels": [
+          "Academics",
+          "Hostel",
+          "Others"
+        ],
+        "matrix": [
+          [
+            153,
+            0,
+            13
+          ],
+          [
+            0,
+            98,
+            2
+          ],
+          [
+            9,
+            0,
+            69
+          ]
+        ]
+      },
+      "per_category": {
+        "Academics": {
+          "precision": 0.9444,
+          "recall": 0.9217,
+          "f1": 0.9329,
+          "support": 166
+        },
+        "Hostel": {
+          "precision": 1.0,
+          "recall": 0.98,
+          "f1": 0.9899,
+          "support": 100
+        },
+        "Others": {
+          "precision": 0.8214,
+          "recall": 0.8846,
+          "f1": 0.8519,
+          "support": 78
+        }
+      },
+      "multi_aspect_set_match": 0.8543,
+      "multi_aspect_n": 199
+    }
+  }
+}

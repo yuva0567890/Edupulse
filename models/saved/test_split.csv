@@ -1,0 +1,544 @@
+text,language,sentiment,aspect,severity,level,category
+होस्टल का भोजन औसत है,Hindi,Neutral,Food,Low,clause,Hostel
+faculty average hai,Hinglish,Neutral,Teaching,Low,clause,Academics
+college events bahut accha hai,Hinglish,Positive,Events,Low,clause,Others
+The gym not working ஆக உள்ளது,Tamil + English,Negative,Sports,Critical,clause,Others
+The repair work बहुत helpful है,Hindi + English,Positive,Maintenance,Low,clause,Hostel
+hostel ki bijli average hai lekin hostel ki safai theek-thaak hai,Hinglish,Neutral,Electricity|Cleanliness,Low,full,Hostel
+Faculty teaching बहुत poor है,Hindi + English,Negative,Teaching,High,clause,Academics
+subject content average ah iruku,Tanglish,Neutral,Course Content,Low,clause,Academics
+வினாத்தாள்கள் சுமாராக உள்ளது,Tamil,Neutral,Exams,Low,clause,Academics
+डाउट क्लियरिंग सत्र न अच्छा है न बुरा,Hindi,Neutral,Academic Support,Low,clause,Academics
+mess food nalla illa and hostel maintenance romba nalla iruku.,Tanglish,Negative,Food|Maintenance,Medium,full,Hostel
+The doubt clearing sessions fine ஆக உள்ளது but The hostel washrooms fine ஆக உள்ளது.,Tamil + English,Neutral,Academic Support|Cleanliness,Low,full,Academics
+The college bus is the worst and nothing works while hostel maintenance work agala,Tanglish,Negative,Transport|Maintenance,Critical,full,Others
+The course difficulty is decent,English,Neutral,Course Content,Low,clause,Academics
+प्राध्यापकों का पढ़ाना सामान्य है,Hindi,Neutral,Teaching,Low,clause,Academics
+The security guards not good है,Hindi + English,Negative,Security,Medium,clause,Hostel
+administration bahut badi problem hai aur hostel ka khana average hai,Hinglish,Negative,Administration|Food,Critical,full,Others
+college events waste ah iruku but हॉस्टल के शौचालय न अच्छा है न बुरा.,Mixed,Negative,Events|Cleanliness,High,full,Others
+campus facilities nalla illa,Tanglish,Negative,Campus Facilities,Medium,clause,Others
+வைஃபை சாதாரணமாக உள்ளது ஆனால் कार्यालय के कर्मचारी बहुत बढ़िया है,Mixed,Positive,Wi-Fi|Administration,Low,full,Academics
+நிர்வாகம் முற்றிலும் வேலை செய்யவில்லை,Tamil,Negative,Administration,Critical,clause,Others
+The doubt clearing sessions is the worst and nothing works,English,Negative,Academic Support,Critical,clause,Academics
+डाउट क्लियरिंग सत्र औसत है लेकिन मेस का खाना बहुत अच्छा है,Hindi,Positive,Academic Support|Food,Low,full,Academics
+पुस्तकालय पर्याप्त नहीं है लेकिन असाइनमेंट का बोझ संतोषजनक है.,Hindi,Negative,Library|Assignments,Medium,full,Others
+The water supply in the hostel fine है,Hindi + English,Neutral,Water,Low,clause,Hostel
+library average hai,Hinglish,Neutral,Library,Low,clause,Others
+கல்லூரி பேருந்து okay ஆக உள்ளது,Tamil + English,Neutral,Transport,Low,clause,Others
+ஆசிரியர்கள் கற்பிக்கும் முறை ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Teaching,Low,clause,Academics
+The library timings fine है,Hindi + English,Neutral,Library,Low,clause,Others
+hostel security average ah iruku but library normal ah iruku,Tanglish,Neutral,Security|Library,Low,full,Hostel
+hostel ka khana ganda hai,Hinglish,Negative,Food,High,clause,Hostel
+The hostel cleanliness is average,English,Neutral,Cleanliness,Low,clause,Hostel
+The internet connection seems unhygienic,English,Negative,Wi-Fi,High,clause,Academics
+விடுதி பாதுகாப்பு பரவாயில்லை,Tamil,Neutral,Security,Low,clause,Hostel
+wifi speed romba slow ah iruku,Tanglish,Negative,Wi-Fi,High,clause,Academics
+प्राध्यापकों का पढ़ाना ठीक-ठाक है,Hindi,Neutral,Teaching,Low,clause,Academics
+ஆசிரியர்கள் கற்பிக்கும் முறை சாதாரணமாக உள்ளது,Tamil,Neutral,Teaching,Low,clause,Academics
+The sports facilities is fine,English,Neutral,Sports,Low,clause,Others
+The college events excellent ஆக உள்ளது,Tamil + English,Positive,Events,Low,clause,Others
+வளாக வசதிகள் excellent ஆக உள்ளது,Tamil + English,Positive,Campus Facilities,Low,clause,Others
+The office staff மிகவும் poor ஆக உள்ளது ஆனால் The power supply மிகவும் poor ஆக உள்ளது.,Tamil + English,Negative,Administration|Electricity,High,full,Others
+Our professors was reliable,English,Positive,Teaching,Low,clause,Academics
+जमा करने की समय-सीमा बहुत बढ़िया है,Hindi,Positive,Assignments,Low,clause,Academics
+The WiFi is terrible and needs improvement,English,Negative,Wi-Fi,High,clause,Academics
+விடுதி மின்சாரம் மிகவும் மோசமாக உள்ளது,Tamil,Negative,Electricity,High,clause,Hostel
+शिक्षकों की व्याख्या बहुत अच्छे से समझाते हैं,Hindi,Positive,Teaching,Low,clause,Academics
+விடுதி பாதுகாப்பு சிறப்பாக உள்ளது மற்றும் தேர்வு அட்டவணை மோசமாக உள்ளது,Tamil,Negative,Security|Exams,High,full,Hostel
+The power supply terrible ஆக உள்ளது,Tamil + English,Negative,Electricity,High,clause,Hostel
+प्रयोगशाला के उपकरण औसत है,Hindi,Neutral,Lab/Infrastructure,Low,clause,Academics
+बस सेवा completely useless है,Hindi + English,Negative,Transport,Critical,clause,Others
+power supply kammi ah iruku,Tanglish,Negative,Electricity,Medium,clause,Hostel
+डाउट क्लियरिंग सत्र बहुत अच्छा है,Hindi,Positive,Academic Support,Low,clause,Academics
+Study material completely useless है लेकिन The exam schedule average है,Hindi + English,Negative,Course Content|Exams,Critical,full,Academics
+வினாத்தாள்கள் சிறப்பாக உள்ளது,Tamil,Positive,Exams,Low,clause,Academics
+பாட உள்ளடக்கம் குறைவாக உள்ளது,Tamil,Negative,Course Content,Medium,clause,Academics
+The hygiene in the hostel not good है लेकिन The administration बहुत helpful है.,Hindi + English,Negative,Cleanliness|Administration,Medium,full,Hostel
+The evaluation is very good,English,Positive,Exams,Low,clause,Academics
+hostel maintenance average ah iruku,Tanglish,Neutral,Maintenance,Low,clause,Hostel
+The course difficulty is smelly,English,Negative,Course Content,High,clause,Academics
+நிர்வாகம் பரவாயில்லை மற்றும் விடுதி சுத்தம் சரியாக இல்லை,Tamil,Negative,Administration|Cleanliness,Medium,full,Others
+குடிநீர் very helpful ஆக உள்ளது,Tamil + English,Positive,Water,Low,clause,Hostel
+hostel room romba mokkai ah iruku,Tanglish,Negative,Room,High,clause,Hostel
+மெஸ் உணவு முற்றிலும் வேலை செய்யவில்லை ஆனால் பாடத்திட்டம் திருப்தியாக உள்ளது.,Tamil,Negative,Food|Course Content,Critical,full,Hostel
+பாட உள்ளடக்கம் ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Course Content,Low,clause,Academics
+இணைய இணைப்பு அருமையாக உள்ளது மற்றும் லேப் வசதிகள் குறைவாக உள்ளது.,Tamil,Negative,Wi-Fi|Lab/Infrastructure,Medium,full,Academics
+The subject content is really nice,English,Positive,Course Content,Low,clause,Academics
+sports facilities average hai,Hinglish,Neutral,Sports,Low,clause,Others
+lab equipment theek-thaak hai,Hinglish,Neutral,Lab/Infrastructure,Low,clause,Academics
+library bahut accha hai,Hinglish,Positive,Library,Low,clause,Others
+mess ka khana bahut badi problem hai,Hinglish,Negative,Food,Critical,clause,Hostel
+The lab computers is okay and nothing special,English,Neutral,Lab/Infrastructure,Low,clause,Academics
+The library timings average ஆக உள்ளது,Tamil + English,Neutral,Library,Low,clause,Others
+The hostel food excellent ஆக உள்ளது,Tamil + English,Positive,Food,Low,clause,Hostel
+ஆசிரியர்கள் கற்பிக்கும் முறை மிகவும் நன்றாக உள்ளது,Tamil,Positive,Teaching,Low,clause,Academics
+The mentoring completely useless ஆக உள்ளது but The hostel maintenance average ஆக உள்ளது.,Tamil + English,Negative,Academic Support|Maintenance,Critical,full,Academics
+हॉस्टल के शौचालय पर्याप्त नहीं है लेकिन परिसर की सुविधाएं न अच्छा है न बुरा,Hindi,Negative,Cleanliness|Campus Facilities,Medium,full,Hostel
+பேருந்து சேவை முற்றிலும் வேலை செய்யவில்லை மற்றும் The room facilities excellent ஆக உள்ளது.,Mixed,Negative,Transport|Room,Critical,full,Others
+wifi average hai,Hinglish,Neutral,Wi-Fi,Low,clause,Academics
+விடுதி பராமரிப்பு சிறப்பாக உள்ளது,Tamil,Positive,Maintenance,Low,clause,Hostel
+प्रश्नपत्र शानदार है और प्राध्यापकों का पढ़ाना न अच्छा है न बुरा,Hindi,Positive,Exams|Teaching,Low,full,Academics
+drinking water normal hai,Hinglish,Neutral,Water,Low,clause,Hostel
+खेल की सुविधाएं सामान्य है और हॉस्टल की बिजली बहुत बड़ी समस्या है.,Hindi,Negative,Sports|Electricity,Critical,full,Others
+வளாக வசதிகள் மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Campus Facilities,Low,clause,Others
+हॉस्टल की सुरक्षा अच्छा नहीं है लेकिन पढ़ाई की सामग्री पुराना है,Hindi,Negative,Security|Course Content,High,full,Hostel
+விடுதி கழிவறைகள் மிகவும் நன்றாக உள்ளது ஆனால் வளாக வசதிகள் குறைவாக உள்ளது.,Tamil,Negative,Cleanliness|Campus Facilities,Medium,full,Hostel
+The power supply is neither good nor bad,English,Neutral,Electricity,Low,clause,Hostel
+प्रशासन बहुत बढ़िया है लेकिन मेस का खाना शानदार है.,Hindi,Positive,Administration|Food,Low,full,Others
+ஒப்படைப்பு காலக்கெடு பயனற்றதாக உள்ளது மற்றும் The library books is okay and nothing special,Mixed,Negative,Assignments|Library,High,full,Academics
+The transport facility very helpful ஆக உள்ளது but இணைய இணைப்பு மிகப்பெரிய பிரச்சனையாக உள்ளது.,Mixed,Negative,Transport|Wi-Fi,Critical,full,Others
+hostel ka khana theek-thaak hai,Hinglish,Neutral,Food,Low,clause,Hostel
+college events romba useful ah iruku but question paper romba nalla iruku,Tanglish,Positive,Events|Exams,Low,full,Others
+The repair work is terrible and needs improvement,English,Negative,Maintenance,High,clause,Hostel
+The internet is poor,English,Negative,Wi-Fi,High,clause,Academics
+internet bahut badhiya hai,Hinglish,Positive,Wi-Fi,Low,clause,Academics
+hostel ki bijli mast hai,Hinglish,Positive,Electricity,Low,clause,Hostel
+lab ki suvidha mast hai lekin शिक्षण बहुत बढ़िया है,Mixed,Positive,Lab/Infrastructure|Teaching,Low,full,Academics
+The internet connection is great,English,Positive,Wi-Fi,Low,clause,Academics
+administration romba useful ah iruku aana hostel thanni average ah iruku,Tanglish,Positive,Administration|Water,Low,full,Others
+Internet மிகவும் poor ஆக உள்ளது,Tamil + English,Negative,Wi-Fi,High,clause,Academics
+Teacher explanation बिल्कुल not working है,Hindi + English,Negative,Teaching,Critical,clause,Academics
+drinking water enough nahi hai,Hinglish,Negative,Water,Medium,clause,Hostel
+hostel saapadu kammi ah iruku,Tanglish,Negative,Food,Medium,clause,Hostel
+हॉस्टल का रखरखाव बहुत बड़ी समस्या है,Hindi,Negative,Maintenance,Critical,clause,Hostel
+Faculty teaching okay है,Hindi + English,Neutral,Teaching,Low,clause,Academics
+The internet connection is useful,English,Positive,Wi-Fi,Low,clause,Academics
+lab ke computers bahut kharab hai,Hinglish,Negative,Lab/Infrastructure,High,clause,Academics
+विषय की सामग्री fine है,Hindi + English,Neutral,Course Content,Low,clause,Academics
+The campus canteen is really helpful and clear while The exam schedule is lacking.,English,Negative,Campus Facilities|Exams,Medium,full,Others
+office staff arumaiya iruku and exam schedule romba nalla iruku,Tanglish,Positive,Administration|Exams,Low,full,Others
+हॉस्टल के कमरे excellent है,Hindi + English,Positive,Room,Low,clause,Hostel
+hostel ke room bahut accha hai,Hinglish,Positive,Room,Low,clause,Hostel
+The internet connection is average,English,Neutral,Wi-Fi,Low,clause,Academics
+administration nalla illa aana hostel security romba mosam,Tanglish,Negative,Administration|Security,High,full,Others
+The laboratory facilities is okay and nothing special,English,Neutral,Lab/Infrastructure,Low,clause,Academics
+डाउट क्लियरिंग सत्र पर्याप्त नहीं है,Hindi,Negative,Academic Support,Medium,clause,Academics
+internet romba periya problem aana hostel security super ah iruku.,Tanglish,Negative,Wi-Fi|Security,Critical,full,Academics
+doubt clearing session nalla illa,Tanglish,Negative,Academic Support,Medium,clause,Academics
+Faculty teaching மிகவும் slow ஆக உள்ளது,Tamil + English,Negative,Teaching,High,clause,Academics
+पीने का पानी बहुत बढ़िया है,Hindi,Positive,Water,Low,clause,Hostel
+நூலகம் மிகவும் good ஆக உள்ளது ஆனால் hostel saapadu romba mosam.,Tanglish,Negative,Library|Food,High,full,Others
+प्रश्नपत्र अच्छा नहीं है,Hindi,Negative,Exams,Medium,clause,Academics
+விடுதி பராமரிப்பு சுமாராக உள்ளது மற்றும் கல்லூரி நெட்வொர்க் திருப்தியாக உள்ளது.,Tamil,Positive,Maintenance|Wi-Fi,Low,full,Hostel
+The doubt clearing sessions बहुत poor है,Hindi + English,Negative,Academic Support,High,clause,Academics
+The power supply okay है,Hindi + English,Neutral,Electricity,Low,clause,Hostel
+The WiFi is neither good nor bad,English,Neutral,Wi-Fi,Low,clause,Academics
+bus service bahut useful hai,Hinglish,Positive,Transport,Low,clause,Others
+hostel ki security bekar hai lekin lab ki suvidha theek-thaak hai,Hinglish,Negative,Security|Lab/Infrastructure,High,full,Hostel
+हॉस्टल में पानी की सुविधा संतोषजनक है,Hindi,Positive,Water,Low,clause,Hostel
+हॉस्टल के शौचालय बहुत helpful है,Hindi + English,Positive,Cleanliness,Low,clause,Hostel
+बस सेवा बहुत good है,Hindi + English,Positive,Transport,Low,clause,Others
+हॉस्टल की सुरक्षा पर्याप्त नहीं है,Hindi,Negative,Security,Medium,clause,Hostel
+शिक्षण औसत है,Hindi,Neutral,Teaching,Low,clause,Academics
+हॉस्टल की सफाई completely useless है,Hindi + English,Negative,Cleanliness,Critical,clause,Hostel
+lab ke computers sahi hai,Hinglish,Positive,Lab/Infrastructure,Low,clause,Academics
+library romba periya problem,Tanglish,Negative,Library,Critical,clause,Others
+college events normal hai,Hinglish,Neutral,Events,Low,clause,Others
+The drinking water terrible ஆக உள்ளது,Tamil + English,Negative,Water,High,clause,Hostel
+doubt clearing session romba nalla iruku and wifi speed normal ah iruku,Tanglish,Positive,Academic Support|Wi-Fi,Low,full,Academics
+college bus theek-thaak hai,Hinglish,Neutral,Transport,Low,clause,Others
+library average ah iruku,Tanglish,Neutral,Library,Low,clause,Others
+campus facilities bilkul kaam nahi karta,Hinglish,Negative,Campus Facilities,Critical,clause,Others
+hostel ki safai bahut badhiya hai lekin hostel ki bijli accha nahi hai.,Hinglish,Negative,Cleanliness|Electricity,Medium,full,Hostel
+hostel room romba nalla iruku aana assignment workload average ah iruku,Tanglish,Positive,Room|Assignments,Low,full,Hostel
+WiFi excellent ஆக உள்ளது ஆனால் The fee payment process okay ஆக உள்ளது.,Tamil + English,Positive,Wi-Fi|Administration,Low,full,Academics
+drinking water romba mosam,Tanglish,Negative,Water,High,clause,Hostel
+teacher ki explanation ganda hai,Hinglish,Negative,Teaching,High,clause,Academics
+कॉलेज के कार्यक्रम घटिया है,Hindi,Negative,Events,High,clause,Others
+faculty accha nahi hai lekin hostel mein paani bahut accha hai,Hinglish,Negative,Teaching|Water,Medium,full,Academics
+लैब की सुविधा शानदार है,Hindi,Positive,Lab/Infrastructure,Low,clause,Academics
+The internet connection is confusing,English,Negative,Wi-Fi,High,clause,Academics
+power supply arumaiya iruku aana பணிகளின் சுமை பரவாயில்லை.,Mixed,Positive,Electricity|Assignments,Low,full,Hostel
+प्राध्यापकों का पढ़ाना अच्छा नहीं है,Hindi,Negative,Teaching,Medium,clause,Academics
+The assignment workload is average while The drinking water is fine.,English,Neutral,Assignments|Water,Low,full,Academics
+lab ki suvidha sahi hai lekin hostel ki bijli theek-thaak hai,Hinglish,Positive,Lab/Infrastructure|Electricity,Low,full,Academics
+இணைய இணைப்பு not working ஆக உள்ளது,Tamil + English,Negative,Wi-Fi,Critical,clause,Academics
+Study material okay है but The bus service बहुत helpful है,Hindi + English,Positive,Course Content|Transport,Low,full,Academics
+हॉस्टल का रखरखाव बेकार है और परिसर की सुविधाएं न अच्छा है न बुरा,Hindi,Negative,Maintenance|Campus Facilities,High,full,Hostel
+ஒப்படைப்பு காலக்கெடு மிகவும் நன்றாக உள்ளது ஆனால் வளாக வசதிகள் மோசமாக உள்ளது.,Tamil,Negative,Assignments|Campus Facilities,High,full,Academics
+जमा करने की समय-सीमा पर्याप्त नहीं है,Hindi,Negative,Assignments,Medium,clause,Academics
+The office staff okay है,Hindi + English,Neutral,Administration,Low,clause,Others
+पढ़ाई की सामग्री बहुत उपयोगी है,Hindi,Positive,Course Content,Low,clause,Academics
+The academic support is fine while The food in the mess is average,English,Neutral,Academic Support|Food,Low,full,Academics
+பணிகளின் சுமை சுமாராக உள்ளது ஆனால் குடிநீர் சிறப்பாக உள்ளது,Tamil,Positive,Assignments|Water,Low,full,Academics
+The power supply is fine,English,Neutral,Electricity,Low,clause,Hostel
+நூலகம் ஓரளவு சரியாக உள்ளது ஆனால் விடுதி பராமரிப்பு அருமையாக உள்ளது,Tamil,Positive,Library|Maintenance,Low,full,Others
+The campus canteen is amazing but The teaching method is really helpful and clear.,English,Positive,Campus Facilities|Teaching,Low,full,Others
+விரிவுரையாளர்களின் கற்பித்தல் சாதாரணமாக உள்ளது,Tamil,Neutral,Teaching,Low,clause,Academics
+நூலகம் சாதாரணமாக உள்ளது,Tamil,Neutral,Library,Low,clause,Others
+அலுவலக ஊழியர்கள் பரவாயில்லை,Tamil,Neutral,Administration,Low,clause,Others
+நூலகம் மிகவும் நன்றாக உள்ளது,Tamil,Positive,Library,Low,clause,Others
+हॉस्टल की सुरक्षा सामान्य है,Hindi,Neutral,Security,Low,clause,Hostel
+The laboratory facilities is really unavailable,English,Negative,Lab/Infrastructure,High,clause,Academics
+हॉस्टल का खाना बहुत उपयोगी है,Hindi,Positive,Food,Low,clause,Hostel
+hostel ke room bahut kam hai lekin The maintenance team is very good,Hinglish,Negative,Room|Maintenance,Medium,full,Hostel
+சந்தேகம் தீர்க்கும் அமர்வுகள் மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Academic Support,Low,clause,Academics
+पाठ्यक्रम बिल्कुल not working है,Hindi + English,Negative,Course Content,Critical,clause,Academics
+The campus facilities is the worst and nothing works while hostel ke room bahut kharab hai.,Hinglish,Negative,Campus Facilities|Room,Critical,full,Others
+exam schedule bilkul kaam nahi karta,Hinglish,Negative,Exams,Critical,clause,Academics
+hostel room kammi ah iruku,Tanglish,Negative,Room,Medium,clause,Hostel
+The course content is excellent,English,Positive,Course Content,Low,clause,Academics
+விடுதி மின்சாரம் போதுமானதாக இல்லை ஆனால் நூலகம் சரியாக இல்லை,Tamil,Negative,Electricity|Library,Medium,full,Hostel
+Faculty teaching average है,Hindi + English,Neutral,Teaching,Low,clause,Academics
+question paper theek-thaak hai aur wifi speed bahut badhiya hai,Hinglish,Positive,Exams|Wi-Fi,Low,full,Academics
+internet enough illa,Tanglish,Negative,Wi-Fi,Medium,clause,Academics
+हॉस्टल के कमरे बहुत poor है,Hindi + English,Negative,Room,High,clause,Hostel
+The internet connection was old,English,Negative,Wi-Fi,High,clause,Academics
+हॉस्टल का रखरखाव न अच्छा है न बुरा,Hindi,Neutral,Maintenance,Low,clause,Hostel
+administration bahut accha hai lekin hostel mein paani bahut accha hai,Hinglish,Positive,Administration|Water,Low,full,Others
+The safety in the hostel बहुत helpful है लेकिन The college events average है,Hindi + English,Positive,Security|Events,Low,full,Hostel
+college bus work agala,Tanglish,Negative,Transport,Critical,clause,Others
+The academic support is really helpful and clear and The WiFi is really helpful and clear,English,Positive,Academic Support|Wi-Fi,Low,full,Academics
+परिसर की सुविधाएं बहुत बड़ी समस्या है और हॉस्टल के शौचालय घटिया है,Hindi,Negative,Campus Facilities|Cleanliness,Critical,full,Others
+इंटरनेट की स्पीड सामान्य है,Hindi,Neutral,Wi-Fi,Low,clause,Academics
+வகுப்பறை வசதிகள் பரவாயில்லை,Tamil,Neutral,Lab/Infrastructure,Low,clause,Academics
+வகுப்பறை வசதிகள் சிறப்பாக உள்ளது,Tamil,Positive,Lab/Infrastructure,Low,clause,Academics
+study material bahut kharab hai,Hinglish,Negative,Course Content,High,clause,Academics
+பேருந்து சேவை மிகவும் நன்றாக உள்ளது,Tamil,Positive,Transport,Low,clause,Others
+syllabus average hai lekin The library बिल्कुल not working है,Hinglish,Negative,Course Content|Library,Critical,full,Academics
+hostel security paravala but library average ah iruku.,Tanglish,Neutral,Security|Library,Low,full,Hostel
+The assignment workload बहुत helpful है,Hindi + English,Positive,Assignments,Low,clause,Academics
+कोर्स की कठिनाई ठीक-ठाक है,Hindi,Neutral,Course Content,Low,clause,Academics
+hostel ka khana normal hai,Hinglish,Neutral,Food,Low,clause,Hostel
+கல்லூரி பேருந்து ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Transport,Low,clause,Others
+விடுதி பராமரிப்பு சரியாக இல்லை ஆனால் ஒப்படைப்பு காலக்கெடு மோசமாக உள்ளது,Tamil,Negative,Maintenance|Assignments,High,full,Hostel
+question paper bahut badi problem hai,Hinglish,Negative,Exams,Critical,clause,Academics
+असाइनमेंट का बोझ बहुत अच्छा है और परीक्षा समय-सारणी शानदार है.,Hindi,Positive,Assignments|Exams,Low,full,Academics
+हॉस्टल की सफाई पर्याप्त नहीं है और जमा करने की समय-सीमा बहुत कम है,Hindi,Negative,Cleanliness|Assignments,Medium,full,Hostel
+The question papers is very bad,English,Negative,Exams,High,clause,Academics
+college bus bahut badhiya hai aur sports facilities mast hai,Hinglish,Positive,Transport|Sports,Low,full,Others
+परिसर की सुविधाएं बहुत उपयोगी है और The repair work could be better,Mixed,Negative,Campus Facilities|Maintenance,Medium,full,Others
+The teaching method is not that good,English,Negative,Teaching,Medium,clause,Academics
+Classroom facilities बिल्कुल not working है,Hindi + English,Negative,Lab/Infrastructure,Critical,clause,Academics
+assignment ka load bahut badhiya hai lekin हॉस्टल का रखरखाव बहुत बढ़िया है,Mixed,Positive,Assignments|Maintenance,Low,full,Academics
+The hostel maintenance is okay and nothing special and The teaching method is the worst and nothing works,English,Negative,Maintenance|Teaching,Critical,full,Hostel
+My hostel room மிகவும் good ஆக உள்ளது but The playground very helpful ஆக உள்ளது.,Tamil + English,Positive,Room|Sports,Low,full,Hostel
+Subject content बहुत good है,Hindi + English,Positive,Course Content,Low,clause,Academics
+hostel maintenance romba useful ah iruku,Tanglish,Positive,Maintenance,Low,clause,Hostel
+The hostel mess is okay and nothing special while The hostel security is poor,English,Negative,Food|Security,High,full,Hostel
+पाठ्यक्रम बहुत helpful है,Hindi + English,Positive,Course Content,Low,clause,Academics
+मैदान okay है,Hindi + English,Neutral,Sports,Low,clause,Others
+பாடத்திட்டம் காலாவதியாக உள்ளது மற்றும் கற்பித்தல் மிகவும் பயனுள்ளதாக உள்ளது.,Tamil,Negative,Course Content|Teaching,High,full,Academics
+தேர்வு அட்டவணை okay ஆக உள்ளது ஆனால் जमा करने की समय-सीमा बिल्कुल not working है.,Mixed,Negative,Exams|Assignments,Critical,full,Academics
+குடிநீர் ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Water,Low,clause,Hostel
+The room facilities is amazing,English,Positive,Room,Low,clause,Hostel
+The library books not working ஆக உள்ளது,Tamil + English,Negative,Library,Critical,clause,Others
+इंटरनेट कनेक्शन excellent है,Hindi + English,Positive,Wi-Fi,Low,clause,Academics
+कॉलेज की बस ठीक-ठाक है,Hindi,Neutral,Transport,Low,clause,Others
+office staff average hai,Hinglish,Neutral,Administration,Low,clause,Others
+The repair work okay ஆக உள்ளது,Tamil + English,Neutral,Maintenance,Low,clause,Hostel
+classroom ki suvidha theek-thaak hai aur doubt clearing session normal hai,Hinglish,Neutral,Lab/Infrastructure|Academic Support,Low,full,Academics
+நூலகம் very helpful ஆக உள்ளது,Tamil + English,Positive,Library,Low,clause,Others
+hostel maintenance super ah iruku,Tanglish,Positive,Maintenance,Low,clause,Hostel
+The library timings is the worst and nothing works but The bus service is average,English,Negative,Library|Transport,Critical,full,Others
+mess food normal ah iruku,Tanglish,Neutral,Food,Low,clause,Hostel
+डाउट क्लियरिंग सत्र ठीक-ठाक है,Hindi,Neutral,Academic Support,Low,clause,Academics
+डाउट क्लियरिंग सत्र बिल्कुल काम नहीं करता,Hindi,Negative,Academic Support,Critical,clause,Academics
+drinking water arumaiya iruku but study material normal ah iruku,Tanglish,Positive,Water|Course Content,Low,full,Hostel
+drinking water average ah iruku,Tanglish,Neutral,Water,Low,clause,Hostel
+lab ki suvidha bahut accha hai,Hinglish,Positive,Lab/Infrastructure,Low,clause,Academics
+கல்லூரி நிகழ்வுகள் not good ஆக உள்ளது,Tamil + English,Negative,Events,Medium,clause,Others
+कॉलेज के कार्यक्रम बहुत बढ़िया है,Hindi,Positive,Events,Low,clause,Others
+The exam schedule மிகவும் slow ஆக உள்ளது ஆனால் The parking fine ஆக உள்ளது,Tamil + English,Negative,Exams|Campus Facilities,High,full,Academics
+library kammi ah iruku,Tanglish,Negative,Library,Medium,clause,Others
+Study material very helpful ஆக உள்ளது ஆனால் The college bus super ஆக உள்ளது,Tamil + English,Positive,Course Content|Transport,Low,full,Academics
+हॉस्टल का खाना excellent है,Hindi + English,Positive,Food,Low,clause,Hostel
+The assignment workload is very bad and The classroom infrastructure is great and I am satisfied.,English,Neutral,Assignments|Lab/Infrastructure,High,full,Academics
+lab facilities work agala,Tanglish,Negative,Lab/Infrastructure,Critical,clause,Academics
+இணைய வேகம் ஓரளவு சரியாக உள்ளது மற்றும் பணிகளின் சுமை மிகவும் நன்றாக உள்ளது,Tamil,Positive,Wi-Fi|Assignments,Low,full,Academics
+The teaching is amazing,English,Positive,Teaching,Low,clause,Academics
+प्रयोगशाला के उपकरण संतोषजनक है,Hindi,Positive,Lab/Infrastructure,Low,clause,Academics
+office staff theek-thaak hai lekin assignment ka load normal hai,Hinglish,Neutral,Administration|Assignments,Low,full,Others
+इंटरनेट की स्पीड ठीक-ठाक है,Hindi,Neutral,Wi-Fi,Low,clause,Academics
+computer lab romba useful ah iruku,Tanglish,Positive,Lab/Infrastructure,Low,clause,Academics
+Computer lab மிகவும் poor ஆக உள்ளது,Tamil + English,Negative,Lab/Infrastructure,High,clause,Academics
+The course difficulty is poor while assignment workload paravala,Tanglish,Negative,Course Content|Assignments,High,full,Academics
+aasiriyar teaching style work agala and hostel washroom okay okay iruku,Tanglish,Negative,Teaching|Cleanliness,Critical,full,Academics
+parking okay okay iruku,Tanglish,Neutral,Campus Facilities,Low,clause,Others
+விடுதி பாதுகாப்பு சரியாக இல்லை,Tamil,Negative,Security,Medium,clause,Hostel
+assignment ka load normal hai,Hinglish,Neutral,Assignments,Low,clause,Academics
+प्रश्नपत्र completely useless है,Hindi + English,Negative,Exams,Critical,clause,Academics
+The campus facilities fine है लेकिन हॉस्टल की बिजली बहुत good है,Hindi + English,Positive,Campus Facilities|Electricity,Low,full,Others
+hostel cleanliness okay okay iruku,Tanglish,Neutral,Cleanliness,Low,clause,Hostel
+जमा करने की समय-सीमा बहुत कम है लेकिन डाउट क्लियरिंग सत्र बहुत उपयोगी है.,Hindi,Negative,Assignments|Academic Support,Medium,full,Academics
+मेस का खाना शानदार है,Hindi,Positive,Food,Low,clause,Hostel
+course content bahut badhiya hai aur The evaluation excellent ஆக உள்ளது,Mixed,Positive,Course Content|Exams,Low,full,Academics
+Lab facilities okay ஆக உள்ளது,Tamil + English,Neutral,Lab/Infrastructure,Low,clause,Academics
+The fee payment process மிகவும் slow ஆக உள்ளது ஆனால் சந்தேகம் தீர்க்கும் அமர்வுகள் very helpful ஆக உள்ளது.,Tamil + English,Negative,Administration|Academic Support,High,full,Others
+parking work agala,Tanglish,Negative,Campus Facilities,Critical,clause,Others
+होस्टल का भोजन न अच्छा है न बुरा लेकिन The security guards terrible है,Mixed,Negative,Food|Security,High,full,Hostel
+பாடத்திட்டம் சிறப்பாக உள்ளது,Tamil,Positive,Course Content,Low,clause,Academics
+hostel maintenance accha nahi hai,Hinglish,Negative,Maintenance,Medium,clause,Hostel
+Faculty teaching बहुत good है but The library books बिल्कुल not working है,Hindi + English,Negative,Teaching|Library,Critical,full,Academics
+प्रश्नपत्र घटिया है,Hindi,Negative,Exams,High,clause,Academics
+விடுதி பராமரிப்பு அருமையாக உள்ளது,Tamil,Positive,Maintenance,Low,clause,Hostel
+डाउट क्लियरिंग सत्र संतोषजनक है,Hindi,Positive,Academic Support,Low,clause,Academics
+விரிவுரையாளர்களின் கற்பித்தல் மோசமாக உள்ளது,Tamil,Negative,Teaching,High,clause,Academics
+lab ke computers bahut badi problem hai,Hinglish,Negative,Lab/Infrastructure,Critical,clause,Academics
+ஆசிரியர்களின் விளக்கம் completely useless ஆக உள்ளது,Tamil + English,Negative,Teaching,Critical,clause,Academics
+The campus canteen is very good,English,Positive,Campus Facilities,Low,clause,Others
+doubt clearing session enough illa but The parking மிகவும் slow ஆக உள்ளது.,Tanglish,Negative,Academic Support|Campus Facilities,High,full,Academics
+நூலகம் ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Library,Low,clause,Others
+power supply okay okay iruku,Tanglish,Neutral,Electricity,Low,clause,Hostel
+The lab equipment is not good at all while The bus service is neither good nor bad,English,Negative,Lab/Infrastructure|Transport,High,full,Academics
+हॉस्टल का रखरखाव घटिया है,Hindi,Negative,Maintenance,High,clause,Hostel
+அலுவலக ஊழியர்கள் திருப்தியாக உள்ளது,Tamil,Positive,Administration,Low,clause,Others
+சந்தேகம் தீர்க்கும் அமர்வுகள் பயனற்றதாக உள்ளது,Tamil,Negative,Academic Support,High,clause,Academics
+Computer lab not good ஆக உள்ளது,Tamil + English,Negative,Lab/Infrastructure,Medium,clause,Academics
+The hostel washrooms बहुत good है,Hindi + English,Positive,Cleanliness,Low,clause,Hostel
+hostel ki security theek-thaak hai aur பணிகளின் சுமை very helpful ஆக உள்ளது.,Mixed,Positive,Security|Assignments,Low,full,Hostel
+study material romba mosam aana hostel security nalla illa.,Tanglish,Negative,Course Content|Security,High,full,Academics
+The water supply in the hostel not good है,Hindi + English,Negative,Water,Medium,clause,Hostel
+कॉलेज के कार्यक्रम संतोषजनक है और प्रशासन बेकार है,Hindi,Negative,Events|Administration,High,full,Others
+खेल की सुविधाएं बहुत खराब है और हॉस्टल में पानी की सुविधा शानदार है,Hindi,Negative,Sports|Water,High,full,Others
+The WiFi is poor,English,Negative,Wi-Fi,High,clause,Academics
+hostel ki security normal hai aur drinking water bahut kam hai,Hinglish,Negative,Security|Water,Medium,full,Hostel
+The safety in the hostel very helpful ஆக உள்ளது,Tamil + English,Positive,Security,Low,clause,Hostel
+lab equipment average hai,Hinglish,Neutral,Lab/Infrastructure,Low,clause,Academics
+விடுதி கழிவறைகள் fine ஆக உள்ளது,Tamil + English,Neutral,Cleanliness,Low,clause,Hostel
+The academic support बहुत slow है,Hindi + English,Negative,Academic Support,High,clause,Academics
+The campus network is neither good nor bad,English,Neutral,Wi-Fi,Low,clause,Academics
+syllabus okay okay iruku and doubt clearing session waste ah iruku,Tanglish,Negative,Course Content|Academic Support,High,full,Academics
+doubt clearing session bahut badhiya hai lekin course content average hai,Hinglish,Positive,Academic Support|Course Content,Low,full,Academics
+The power backup बहुत slow है लेकिन Lab facilities terrible है,Hindi + English,Negative,Electricity|Lab/Infrastructure,High,full,Hostel
+study material waste ah iruku,Tanglish,Negative,Course Content,High,clause,Academics
+The classroom has 40 benches,English,Neutral,Lab/Infrastructure,Low,full,Lab/Infrastructure
+விடுதி மின்சாரம் போதுமானதாக இல்லை,Tamil,Negative,Electricity,Medium,clause,Hostel
+விடுதி பராமரிப்பு சாதாரணமாக உள்ளது ஆனால் சந்தேகம் தீர்க்கும் அமர்வுகள் மிகவும் மோசமாக உள்ளது.,Tamil,Negative,Maintenance|Academic Support,High,full,Hostel
+campus facilities mast hai,Hinglish,Positive,Campus Facilities,Low,clause,Others
+हॉस्टल के कमरे बहुत बढ़िया है और मैदान बहुत अच्छा है.,Hindi,Positive,Room|Sports,Low,full,Hostel
+The hostel food okay ஆக உள்ளது but விடுதி அறைகள் fine ஆக உள்ளது,Tamil + English,Neutral,Food|Room,Low,full,Hostel
+college events romba useful ah iruku but hostel current romba nalla iruku,Tanglish,Positive,Events|Electricity,Low,full,Others
+விடுதி மின்சாரம் திருப்தியாக உள்ளது மற்றும் வகுப்பறை வசதிகள் பரவாயில்லை.,Tamil,Positive,Electricity|Lab/Infrastructure,Low,full,Hostel
+power supply romba periya problem,Tanglish,Negative,Electricity,Critical,clause,Hostel
+The water supply in the hostel is great and I am satisfied while portion arumaiya iruku,Tanglish,Positive,Water|Course Content,Low,full,Hostel
+விடுதி பாதுகாப்பு very helpful ஆக உள்ளது ஆனால் வளாக வசதிகள் not working ஆக உள்ளது,Tamil + English,Negative,Security|Campus Facilities,Critical,full,Hostel
+The cultural fest is neither good nor bad,English,Neutral,Events,Low,clause,Others
+असाइनमेंट का बोझ बहुत good है,Hindi + English,Positive,Assignments,Low,clause,Academics
+बस सेवा बहुत अच्छा है,Hindi,Positive,Transport,Low,clause,Others
+पीने का पानी बहुत good है but The library excellent है,Hindi + English,Positive,Water|Library,Low,full,Hostel
+कॉलेज का नेटवर्क घटिया है,Hindi,Negative,Wi-Fi,High,clause,Academics
+The evaluation மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Exams,Low,clause,Academics
+The subject content is prompt,English,Positive,Course Content,Low,clause,Academics
+ஒப்படைப்பு காலக்கெடு fine ஆக உள்ளது but sports facilities accha nahi hai,Mixed,Negative,Assignments|Sports,Medium,full,Academics
+ஒப்படைப்பு காலக்கெடு சுமாராக உள்ளது மற்றும் லேப் வசதிகள் ஓரளவு சரியாக உள்ளது.,Tamil,Neutral,Assignments|Lab/Infrastructure,Low,full,Academics
+இணைய வேகம் சாதாரணமாக உள்ளது,Tamil,Neutral,Wi-Fi,Low,clause,Academics
+The lab computers is not good at all,English,Negative,Lab/Infrastructure,High,clause,Academics
+campus facilities bahut kam hai aur hostel ki safai accha nahi hai.,Hinglish,Negative,Campus Facilities|Cleanliness,Medium,full,Others
+playground kammi ah iruku but college bus nalla illa.,Tanglish,Negative,Sports|Transport,Medium,full,Others
+मेस का खाना बहुत अच्छा है और पाठ्यक्रम औसत है.,Hindi,Positive,Food|Course Content,Low,full,Hostel
+விடுதி மின்சாரம் சுமாராக உள்ளது மற்றும் நூலகம் பயனற்றதாக உள்ளது,Tamil,Negative,Electricity|Library,High,full,Hostel
+कोर्स की कठिनाई शानदार है,Hindi,Positive,Course Content,Low,clause,Academics
+The parking is lacking but The transport facility is fine,English,Negative,Campus Facilities|Transport,Medium,full,Others
+The hostel cleanliness is lacking,English,Negative,Cleanliness,Medium,clause,Hostel
+hostel cleanliness normal ah iruku and hostel saapadu romba mokkai ah iruku,Tanglish,Negative,Cleanliness|Food,High,full,Hostel
+doubt clearing session sahi hai aur classroom ki suvidha bahut badi problem hai,Hinglish,Negative,Academic Support|Lab/Infrastructure,Critical,full,Academics
+lab equipment average ah iruku and exam schedule kammi ah iruku,Tanglish,Negative,Lab/Infrastructure|Exams,Medium,full,Academics
+The exam schedule மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Exams,Low,clause,Academics
+कॉलेज की बस न अच्छा है न बुरा,Hindi,Neutral,Transport,Low,clause,Others
+हॉस्टल की सुरक्षा बिल्कुल काम नहीं करता,Hindi,Negative,Security,Critical,clause,Hostel
+The assignment workload not good है,Hindi + English,Negative,Assignments,Medium,clause,Academics
+The assignments is very good,English,Positive,Assignments,Low,clause,Academics
+The food in the mess fine है लेकिन असाइनमेंट का बोझ बिल्कुल not working है.,Hindi + English,Negative,Food|Assignments,Critical,full,Hostel
+हॉस्टल का रखरखाव घटिया है लेकिन The WiFi is a major problem.,Mixed,Negative,Maintenance|Wi-Fi,Critical,full,Hostel
+தேர்வு அட்டவணை மிகவும் மோசமாக உள்ளது மற்றும் வளாக வசதிகள் மோசமாக உள்ளது,Tamil,Negative,Exams|Campus Facilities,High,full,Academics
+हॉस्टल के कमरे बहुत उपयोगी है और हॉस्टल का रखरखाव शानदार है,Hindi,Positive,Room|Maintenance,Low,full,Hostel
+course content romba periya problem,Tanglish,Negative,Course Content,Critical,clause,Academics
+The evaluation is okay and nothing special,English,Neutral,Exams,Low,clause,Academics
+வைஃபை மிகவும் slow ஆக உள்ளது,Tamil + English,Negative,Wi-Fi,High,clause,Academics
+The laboratory facilities is not good at all,English,Negative,Lab/Infrastructure,High,clause,Academics
+விளையாட்டு வசதிகள் சிறப்பாக உள்ளது,Tamil,Positive,Sports,Low,clause,Others
+hostel maintenance enough nahi hai,Hinglish,Negative,Maintenance,Medium,clause,Hostel
+subject ka content bahut kharab hai aur exam schedule bahut accha hai,Hinglish,Negative,Course Content|Exams,High,full,Academics
+बस सेवा not good है लेकिन प्रश्नपत्र fine है,Hindi + English,Negative,Transport|Exams,Medium,full,Others
+விரிவுரையாளர்களின் கற்பித்தல் சரியாக இல்லை,Tamil,Negative,Teaching,Medium,clause,Academics
+The teaching method is clear and easy to understand,English,Positive,Teaching,Low,clause,Academics
+sports facility okay okay iruku,Tanglish,Neutral,Sports,Low,clause,Others
+The room facilities not good ஆக உள்ளது ஆனால் தேர்வு அட்டவணை okay ஆக உள்ளது,Tamil + English,Negative,Room|Exams,Medium,full,Hostel
+wifi average ah iruku,Tanglish,Neutral,Wi-Fi,Low,clause,Academics
+campus facilities bekar hai,Hinglish,Negative,Campus Facilities,High,clause,Others
+कंप्यूटर लैब न अच्छा है न बुरा लेकिन The mentoring is neither good nor bad,Mixed,Neutral,Lab/Infrastructure|Academic Support,Low,full,Academics
+Our professors was disconnect,English,Negative,Teaching,High,clause,Academics
+assignment workload waste ah iruku but hostel maintenance romba mokkai ah iruku,Tanglish,Negative,Assignments|Maintenance,High,full,Academics
+The WiFi speed was regular,English,Positive,Wi-Fi,Low,clause,Academics
+The maintenance team is amazing while The teaching is lacking,English,Negative,Maintenance|Teaching,Medium,full,Hostel
+The lecturer is very good but The hostel maintenance is the worst and nothing works,English,Neutral,Teaching|Maintenance,Critical,full,Academics
+நிர்வாகம் மிகவும் பயனுள்ளதாக உள்ளது ஆனால் தேர்வு அட்டவணை சாதாரணமாக உள்ளது,Tamil,Positive,Administration|Exams,Low,full,Others
+The hygiene in the hostel excellent ஆக உள்ளது,Tamil + English,Positive,Cleanliness,Low,clause,Hostel
+हॉस्टल का रखरखाव औसत है और mess food average ah iruku,Mixed,Neutral,Maintenance|Food,Low,full,Hostel
+The campus canteen excellent है लेकिन Teaching okay है,Hindi + English,Positive,Campus Facilities|Teaching,Low,full,Others
+The library books is great and I am satisfied but The hostel mess is not good at all,English,Negative,Library|Food,High,full,Others
+computer lab kammi ah iruku but college events romba useful ah iruku,Tanglish,Negative,Lab/Infrastructure|Events,Medium,full,Academics
+question paper arumaiya iruku but assignment workload romba mokkai ah iruku,Tanglish,Negative,Exams|Assignments,High,full,Academics
+The hostel mess super ஆக உள்ளது,Tamil + English,Positive,Food,Low,clause,Hostel
+hostel saapadu paravala,Tanglish,Neutral,Food,Low,clause,Hostel
+The WiFi is really weak,English,Negative,Wi-Fi,High,clause,Academics
+இணைய இணைப்பு மோசமாக உள்ளது மற்றும் The submission deadlines is very bad,Mixed,Negative,Wi-Fi|Assignments,High,full,Academics
+course content romba useful ah iruku and classroom vasathi normal ah iruku,Tanglish,Positive,Course Content|Lab/Infrastructure,Low,full,Academics
+पाठ्यक्रम घटिया है,Hindi,Negative,Course Content,High,clause,Academics
+college bus work agala but course content average ah iruku,Tanglish,Negative,Transport|Course Content,Critical,full,Others
+வளாக வசதிகள் மிகவும் slow ஆக உள்ளது ஆனால் The repair work terrible ஆக உள்ளது,Tamil + English,Negative,Campus Facilities|Maintenance,High,full,Others
+The maintenance team fine ஆக உள்ளது,Tamil + English,Neutral,Maintenance,Low,clause,Hostel
+इंटरनेट की स्पीड बहुत बढ़िया है,Hindi,Positive,Wi-Fi,Low,clause,Academics
+parking average ah iruku aana hostel food arumaiya iruku,Tanglish,Positive,Campus Facilities|Food,Low,full,Others
+question paper average hai,Hinglish,Neutral,Exams,Low,clause,Academics
+लैब की सुविधा बहुत बड़ी समस्या है,Hindi,Negative,Lab/Infrastructure,Critical,clause,Academics
+The learning material is amazing,English,Positive,Course Content,Low,clause,Academics
+The power supply completely useless ஆக உள்ளது,Tamil + English,Negative,Electricity,Critical,clause,Hostel
+The exam schedule average है लेकिन The library बहुत good है,Hindi + English,Positive,Exams|Library,Low,full,Academics
+The maintenance team is really helpful and clear,English,Positive,Maintenance,Low,clause,Hostel
+Study material excellent है but इंटरनेट कनेक्शन okay है,Hindi + English,Positive,Course Content|Wi-Fi,Low,full,Academics
+campus facilities semma iruku,Tanglish,Positive,Campus Facilities,Low,clause,Others
+wifi speed paravala,Tanglish,Neutral,Wi-Fi,Low,clause,Academics
+மைதானம் not good ஆக உள்ளது,Tamil + English,Negative,Sports,Medium,clause,Others
+power supply work agala,Tanglish,Negative,Electricity,Critical,clause,Hostel
+प्रशासन okay है,Hindi + English,Neutral,Administration,Low,clause,Others
+power supply super ah iruku,Tanglish,Positive,Electricity,Low,clause,Hostel
+Lights and fans are not working properly,English,Negative,Electricity,Low,full,Electricity
+Internet okay ஆக உள்ளது but நூலகம் not working ஆக உள்ளது,Tamil + English,Negative,Wi-Fi|Library,Critical,full,Academics
+doubt clearing session romba periya problem,Tanglish,Negative,Academic Support,Critical,clause,Academics
+குடிநீர் சாதாரணமாக உள்ளது ஆனால் விடுதி கழிவறைகள் திருப்தியாக உள்ளது,Tamil,Positive,Water|Cleanliness,Low,full,Hostel
+The mess food is great and I am satisfied,English,Positive,Food,Low,clause,Hostel
+internet bilkul kaam nahi karta,Hinglish,Negative,Wi-Fi,Critical,clause,Academics
+The campus facilities is decent,English,Neutral,Campus Facilities,Low,clause,Others
+விடுதி உணவு அருமையாக உள்ளது மற்றும் விடுதி பாதுகாப்பு பயனற்றதாக உள்ளது,Tamil,Negative,Food|Security,High,full,Hostel
+The college events is completely useless but The learning material is fine.,English,Negative,Events|Course Content,Critical,full,Others
+office staff sahi hai,Hinglish,Positive,Administration,Low,clause,Others
+The food in the mess completely useless ஆக உள்ளது ஆனால் வளாக வசதிகள் excellent ஆக உள்ளது,Tamil + English,Negative,Food|Campus Facilities,Critical,full,Hostel
+परिसर की सुविधाएं संतोषजनक है,Hindi,Positive,Campus Facilities,Low,clause,Others
+college events sahi hai aur assignment ka load bahut badi problem hai.,Hinglish,Negative,Events|Assignments,Critical,full,Others
+The hostel cleanliness மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Cleanliness,Low,clause,Hostel
+Our professors is okay and nothing special,English,Neutral,Teaching,Low,clause,Academics
+playground semma iruku,Tanglish,Positive,Sports,Low,clause,Others
+மெஸ் உணவு சாதாரணமாக உள்ளது,Tamil,Neutral,Food,Low,clause,Hostel
+office staff okay okay iruku,Tanglish,Neutral,Administration,Low,clause,Others
+sports facilities normal hai aur हॉस्टल की बिजली न अच्छा है न बुरा,Mixed,Neutral,Sports|Electricity,Low,full,Others
+கல்லூரி பேருந்து fine ஆக உள்ளது ஆனால் நூலகம் மிகவும் பயனுள்ளதாக உள்ளது.,Mixed,Positive,Transport|Library,Low,full,Others
+லேப் வசதிகள் terrible ஆக உள்ளது,Tamil + English,Negative,Lab/Infrastructure,High,clause,Academics
+bus service enough illa,Tanglish,Negative,Transport,Medium,clause,Others
+The fee payment process super ஆக உள்ளது,Tamil + English,Positive,Administration,Low,clause,Others
+வளாக வசதிகள் சிறப்பாக உள்ளது ஆனால் நூலகம் மிகவும் பயனுள்ளதாக உள்ளது.,Tamil,Positive,Campus Facilities|Library,Low,full,Others
+My hostel room is fine,English,Neutral,Room,Low,clause,Hostel
+The safety in the hostel is really helpful and clear,English,Positive,Security,Low,clause,Hostel
+hostel ki bijli bahut accha hai,Hinglish,Positive,Electricity,Low,clause,Hostel
+மெஸ் உணவு fine ஆக உள்ளது,Tamil + English,Neutral,Food,Low,clause,Hostel
+कॉलेज के कार्यक्रम बहुत अच्छा है,Hindi,Positive,Events,Low,clause,Others
+விடுதி பராமரிப்பு சாதாரணமாக உள்ளது,Tamil,Neutral,Maintenance,Low,clause,Hostel
+college events theek-thaak hai,Hinglish,Neutral,Events,Low,clause,Others
+hostel security romba mosam,Tanglish,Negative,Security,High,clause,Hostel
+The faculty seems smooth,English,Positive,Teaching,Low,clause,Academics
+hostel room romba mosam aana The gym is poor.,Tanglish,Negative,Room|Sports,High,full,Hostel
+The hostel security excellent है,Hindi + English,Positive,Security,Low,clause,Hostel
+college bus normal ah iruku,Tanglish,Neutral,Transport,Low,clause,Others
+शिक्षकों की व्याख्या बहुत कम है,Hindi,Negative,Teaching,Medium,clause,Academics
+The workshops completely useless है but The transport facility excellent है,Hindi + English,Negative,Events|Transport,Critical,full,Others
+पढ़ाने का तरीका बहुत अच्छे से समझाते हैं,Hindi,Positive,Teaching,Low,clause,Academics
+बस सेवा न अच्छा है न बुरा और प्राध्यापकों का पढ़ाना बहुत कम है,Hindi,Negative,Transport|Teaching,Medium,full,Others
+question paper mast hai,Hinglish,Positive,Exams,Low,clause,Academics
+The hostel maintenance is very bad,English,Negative,Maintenance,High,clause,Hostel
+அலுவலக ஊழியர்கள் சுமாராக உள்ளது,Tamil,Neutral,Administration,Low,clause,Others
+The course difficulty is tasty,English,Positive,Course Content,Low,clause,Academics
+exam schedule accha nahi hai aur teacher ki explanation normal hai,Hinglish,Negative,Exams|Teaching,Medium,full,Academics
+assignment workload romba useful ah iruku and library kammi ah iruku.,Tanglish,Negative,Assignments|Library,Medium,full,Academics
+teacher explanation super ah iruku,Tanglish,Positive,Teaching,Low,clause,Academics
+हॉस्टल की बिजली बहुत अच्छा है लेकिन कॉलेज की बस ठीक-ठाक है,Hindi,Positive,Electricity|Transport,Low,full,Hostel
+கணினி ஆய்வகம் ஓரளவு சரியாக உள்ளது,Tamil,Neutral,Lab/Infrastructure,Low,clause,Academics
+The teaching could be better,English,Negative,Teaching,Medium,clause,Academics
+The teaching method is very good,English,Positive,Teaching,Low,clause,Academics
+जमा करने की समय-सीमा अच्छा नहीं है,Hindi,Negative,Assignments,Medium,clause,Academics
+hostel mein paani bahut kam hai,Hinglish,Negative,Water,Medium,clause,Hostel
+The office staff is excellent,English,Positive,Administration,Low,clause,Others
+कक्षा की सुविधाएं घटिया है,Hindi,Negative,Lab/Infrastructure,High,clause,Academics
+Faculty teaching excellent है,Hindi + English,Positive,Teaching,Low,clause,Academics
+The subject content seems problems,English,Negative,Course Content,High,clause,Academics
+இணைய இணைப்பு முற்றிலும் வேலை செய்யவில்லை மற்றும் மைதானம் சுமாராக உள்ளது,Tamil,Negative,Wi-Fi|Sports,Critical,full,Academics
+சந்தேகம் தீர்க்கும் அமர்வுகள் excellent ஆக உள்ளது,Tamil + English,Positive,Academic Support,Low,clause,Academics
+हॉस्टल में पानी की सुविधा शानदार है और விடுதி அறைகள் excellent ஆக உள்ளது,Mixed,Positive,Water|Room,Low,full,Hostel
+விடுதி பாதுகாப்பு மிகவும் slow ஆக உள்ளது ஆனால் இணைய இணைப்பு not good ஆக உள்ளது,Tamil + English,Negative,Security|Wi-Fi,High,full,Hostel
+office staff arumaiya iruku,Tanglish,Positive,Administration,Low,clause,Others
+खेल की सुविधाएं अच्छा नहीं है,Hindi,Negative,Sports,Medium,clause,Others
+கல்லூரி பேருந்து அருமையாக உள்ளது மற்றும் The mentoring is terrible and needs improvement,Mixed,Negative,Transport|Academic Support,High,full,Others
+The room facilities बहुत helpful है,Hindi + English,Positive,Room,Low,clause,Hostel
+library work agala,Tanglish,Negative,Library,Critical,clause,Others
+drinking water arumaiya iruku,Tanglish,Positive,Water,Low,clause,Hostel
+கல்லூரி நிகழ்வுகள் very helpful ஆக உள்ளது,Tamil + English,Positive,Events,Low,clause,Others
+Syllabus மிகவும் good ஆக உள்ளது,Tamil + English,Positive,Course Content,Low,clause,Academics
+जमा करने की समय-सीमा बहुत अच्छा है,Hindi,Positive,Assignments,Low,clause,Academics
+The maintenance team மிகவும் poor ஆக உள்ளது,Tamil + English,Negative,Maintenance,High,clause,Hostel
+wifi okay okay iruku and hostel maintenance average ah iruku,Tanglish,Neutral,Wi-Fi|Maintenance,Low,full,Academics
+The sports facilities completely useless है,Hindi + English,Negative,Sports,Critical,clause,Others
+The hostel washrooms is not that good,English,Negative,Cleanliness,Medium,clause,Hostel
+தேர்வு அட்டவணை okay ஆக உள்ளது,Tamil + English,Neutral,Exams,Low,clause,Academics
+hostel ki bijli bahut badi problem hai lekin administration mast hai.,Hinglish,Negative,Electricity|Administration,Critical,full,Hostel
+padhane ka tarika bahut accha hai,Hinglish,Positive,Teaching,Low,clause,Academics
+கல்லூரி நெட்வொர்க் பரவாயில்லை,Tamil,Neutral,Wi-Fi,Low,clause,Academics
+hostel current average ah iruku but hostel security paravala.,Tanglish,Neutral,Electricity|Security,Low,full,Hostel
+teaching nalla illa,Tanglish,Negative,Teaching,Medium,clause,Academics
+விடுதி தண்ணீர் வசதி மிகப்பெரிய பிரச்சனையாக உள்ளது ஆனால் கல்லூரி நிகழ்வுகள் திருப்தியாக உள்ளது,Tamil,Negative,Water|Events,Critical,full,Hostel
+campus facilities bahut accha hai lekin doubt clearing session bahut badhiya hai,Hinglish,Positive,Campus Facilities|Academic Support,Low,full,Others
+campus facilities work agala and college ka network bahut kharab hai.,Mixed,Negative,Campus Facilities|Wi-Fi,Critical,full,Others
+The campus facilities बिल्कुल not working है but The WiFi is excellent,Hindi + English,Negative,Campus Facilities|Wi-Fi,Critical,full,Others
+The mess food बहुत good है but The transport facility बहुत helpful है,Hindi + English,Positive,Food|Transport,Low,full,Hostel
+drinking water romba useful ah iruku aana doubt clearing session romba nalla iruku.,Tanglish,Positive,Water|Academic Support,Low,full,Hostel
+Course content excellent है,Hindi + English,Positive,Course Content,Low,clause,Academics
+पीने का पानी बहुत बढ़िया है लेकिन मैदान बहुत बढ़िया है,Hindi,Positive,Water|Sports,Low,full,Hostel
+கல்லூரி பேருந்து முற்றிலும் வேலை செய்யவில்லை,Tamil,Negative,Transport,Critical,clause,Others
+परिसर की सुविधाएं बहुत good है,Hindi + English,Positive,Campus Facilities,Low,clause,Others
+हॉस्टल की सुरक्षा बहुत खराब है और पुस्तकालय घटिया है,Hindi,Negative,Security|Library,High,full,Hostel
+விடுதி பாதுகாப்பு completely useless ஆக உள்ளது ஆனால் The hot water excellent ஆக உள்ளது.,Tamil + English,Negative,Security|Water,Critical,full,Hostel
+விடுதி அறைகள் பரவாயில்லை,Tamil,Neutral,Room,Low,clause,Hostel
+Syllabus fine ஆக உள்ளது but The hostel food okay ஆக உள்ளது,Tamil + English,Neutral,Course Content|Food,Low,full,Academics
+பணிகளின் சுமை மிகவும் நன்றாக உள்ளது மற்றும் The college events fine ஆக உள்ளது,Mixed,Positive,Assignments|Events,Low,full,Academics
+விடுதி பராமரிப்பு சாதாரணமாக உள்ளது ஆனால் அலுவலக ஊழியர்கள் சுமாராக உள்ளது,Tamil,Neutral,Maintenance|Administration,Low,full,Hostel
+The academic support very helpful ஆக உள்ளது,Tamil + English,Positive,Academic Support,Low,clause,Academics
+Study material மிகவும் slow ஆக உள்ளது,Tamil + English,Negative,Course Content,High,clause,Academics
+The bus service is the worst and nothing works and The academic support is not that good,English,Neutral,Transport|Academic Support,Critical,full,Others
+असाइनमेंट का बोझ औसत है लेकिन हॉस्टल का रखरखाव बहुत उपयोगी है.,Hindi,Positive,Assignments|Maintenance,Low,full,Academics
+हॉस्टल की सुरक्षा घटिया है और पाठ्यक्रम बहुत बड़ी समस्या है,Hindi,Negative,Security|Course Content,Critical,full,Hostel
+course content enough nahi hai,Hinglish,Negative,Course Content,Medium,clause,Academics
+The college events fine ஆக உள்ளது but Lecturer okay ஆக உள்ளது,Tamil + English,Neutral,Events|Teaching,Low,full,Others
+The power supply is the worst and nothing works and வளாக வசதிகள் முற்றிலும் வேலை செய்யவில்லை,Mixed,Negative,Electricity|Campus Facilities,Critical,full,Hostel
+जमा करने की समय-सीमा संतोषजनक है,Hindi,Positive,Assignments,Low,clause,Academics
+The campus canteen okay ஆக உள்ளது,Tamil + English,Neutral,Campus Facilities,Low,clause,Others
+All classroom lights are functioning correctly,English,Positive,Electricity,Low,full,Electricity
+கல்லூரி பேருந்து திருப்தியாக உள்ளது,Tamil,Positive,Transport,Low,clause,Others
+प्रशासन शानदार है,Hindi,Positive,Administration,Low,clause,Others
+हॉस्टल की सुरक्षा बहुत कम है लेकिन aasiriyar teaching style romba nalla iruku,Mixed,Negative,Security|Teaching,Medium,full,Hostel
+hostel room romba useful ah iruku and power supply semma iruku.,Tanglish,Positive,Room|Electricity,Low,full,Hostel
+விடுதி அறைகள் super ஆக உள்ளது,Tamil + English,Positive,Room,Low,clause,Hostel
+விடுதி பராமரிப்பு மிகவும் good ஆக உள்ளது ஆனால் The mess food is really helpful and clear,Tamil + English,Positive,Maintenance|Food,Low,full,Hostel
+The room facilities is average,English,Neutral,Room,Low,clause,Hostel
+The teaching method is excellent but लैब की सुविधा fine है.,Hindi + English,Positive,Teaching|Lab/Infrastructure,Low,full,Academics
+syllabus bahut kam hai,Hinglish,Negative,Course Content,Medium,clause,Academics
+college events average hai aur hostel maintenance bahut useful hai,Hinglish,Positive,Events|Maintenance,Low,full,Others
+hostel security arumaiya iruku,Tanglish,Positive,Security,Low,clause,Hostel
+The faculty is excellent while The college events बहुत poor है.,Hindi + English,Negative,Teaching|Events,High,full,Academics
+कोर्स की कठिनाई औसत है,Hindi,Neutral,Course Content,Low,clause,Academics
+குடிநீர் மிகப்பெரிய பிரச்சனையாக உள்ளது மற்றும் விரிவுரையாளர்களின் கற்பித்தல் சுமாராக உள்ளது,Tamil,Negative,Water|Teaching,Critical,full,Hostel
+The food in the mess is terrible and needs improvement,English,Negative,Food,High,clause,Hostel
+The subject content seems shortage,English,Negative,Course Content,High,clause,Academics
+hostel security nalla illa,Tanglish,Negative,Security,Medium,clause,Hostel
+கற்பித்தல் முற்றிலும் வேலை செய்யவில்லை ஆனால் வகுப்பறை வசதிகள் பயனற்றதாக உள்ளது,Tamil,Negative,Teaching|Lab/Infrastructure,Critical,full,Academics
+hostel maintenance theek-thaak hai,Hinglish,Neutral,Maintenance,Low,clause,Hostel
+The power supply fine ஆக உள்ளது,Tamil + English,Neutral,Electricity,Low,clause,Hostel
+அலுவலக ஊழியர்கள் அருமையாக உள்ளது மற்றும் விடுதி அறைகள் அருமையாக உள்ளது.,Tamil,Positive,Administration|Room,Low,full,Others
+The hostel mess மிகவும் poor ஆக உள்ளது ஆனால் கல்லூரி பேருந்து okay ஆக உள்ளது.,Tamil + English,Negative,Food|Transport,High,full,Hostel
+wifi romba useful ah iruku,Tanglish,Positive,Wi-Fi,Low,clause,Academics
+The hot water is okay and nothing special and The academic support is very good,English,Positive,Water|Academic Support,Low,full,Hostel
+doubt clearing session bahut useful hai,Hinglish,Positive,Academic Support,Low,clause,Academics
+The library timings is excellent,English,Positive,Library,Low,clause,Others
+விடுதி பாதுகாப்பு not working ஆக உள்ளது,Tamil + English,Negative,Security,Critical,clause,Hostel
+शिक्षकों की व्याख्या बहुत अच्छे से समझाते हैं लेकिन वाईफाई बार-बार डिस्कनेक्ट हो जाता है.,Hindi,Negative,Teaching|Wi-Fi,High,full,Academics
+ஆசிரியர்களின் விளக்கம் பயனற்றதாக உள்ளது,Tamil,Negative,Teaching,High,clause,Academics
+हॉस्टल की सुरक्षा बहुत helpful है लेकिन पढ़ाने का तरीका बहुत helpful है,Hindi + English,Positive,Security|Teaching,Low,full,Hostel
+விரிவுரையாளர்களின் கற்பித்தல் சுமாராக உள்ளது மற்றும் drinking water ganda hai,Mixed,Negative,Teaching|Water,High,full,Academics
+My hostel room average है but The exam schedule fine है,Hindi + English,Neutral,Room|Exams,Low,full,Hostel
+sports facility romba mosam,Tanglish,Negative,Sports,High,clause,Others
+doubt clearing session normal hai,Hinglish,Neutral,Academic Support,Low,clause,Academics
+The mentoring is average,English,Neutral,Academic Support,Low,clause,Academics
+हॉस्टल के शौचालय fine है,Hindi + English,Neutral,Cleanliness,Low,clause,Hostel
+விடுதி பராமரிப்பு மிகவும் slow ஆக உள்ளது,Tamil + English,Negative,Maintenance,High,clause,Hostel
+hostel ki security mast hai aur My hostel room terrible ஆக உள்ளது.,Mixed,Negative,Security|Room,High,full,Hostel
+நிர்வாகம் average ஆக உள்ளது,Tamil + English,Neutral,Administration,Low,clause,Others
+The syllabus seems disorganized,English,Negative,Course Content,High,clause,Academics

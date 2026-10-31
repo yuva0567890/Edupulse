@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% from "_macros.html" import status_badge, cat_badge with context %}
+{% block title %}Feedback #{{ d.id }}{% endblock %}
+{% block content %}
+<div class="page-head"><div><a class="small" href="{{ url_for('admin.explorer') }}">← {{ t('back') }}</a><h1>Feedback #{{ d.id }} {% if d.issue_id %}<span class="muted" style="font-size:1rem">· {{ d.issue_id }}</span>{% endif %}</h1>
+  <p class="muted small">{{ t('created') }}: {{ d.timestamp.replace('T',' ') }} · {{ t('updated') }}: {{ d.updated_at.replace('T',' ') if d.updated_at else '—' }}<br>
+  {{ t('student') }}: {{ d.student_name or '—' }}{% if d.student_id %} ({{ d.student_id }}){% endif %} · {{ d.department or '—' }} · {{ t('year') }} {{ d.year or '—' }} · {{ d.course or '—' }}{% if d.rating %} · ★ {{ d.rating }}{% endif %}</p></div></div>
+
+<div class="grid g2 mb">
+  <div class="card"><h3>🎫 {{ t('status') }} {{ status_badge(d.status) }}</h3>
+    {% if d.issue %}
+    <form method="post" action="{{ url_for('admin.update_feedback', fid=d.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <div class="field"><label>{{ t('status') }}</label><select name="status">{% for o in statuses %}<option {{ 'selected' if o == d.status }}>{{ o }}</option>{% endfor %}</select></div>
+      <div class="field"><label>Note (optional, saved in history)</label><input type="text" name="note" maxlength="500"></div>
+      <button class="btn btn-primary btn-sm">{{ t('update') }}</button></form>
+    {% else %}
+    <p class="muted small">No issue has been opened for this feedback (it is not negative).</p>
+    <form method="post" action="{{ url_for('admin.update_feedback', fid=d.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}"><input type="hidden" name="action" value="create_issue"><button class="btn btn-ghost btn-sm">Create issue</button></form>
+    {% endif %}
+    {% if d.history %}<h3 class="mt" style="margin-top:1.2rem">History</h3><div class="hist">
+      {% for h in d.history|reverse %}<div class="it"><b>{{ h.old or '—' }} → {{ h.new }}</b> <span class="muted small">{{ h.at.replace('T',' ') }} · {{ h.by }}</span>{% if h.note %}<div class="small">{{ h.note }}</div>{% endif %}</div>{% endfor %}</div>{% endif %}
+  </div>
+  <div class="card"><h3>💬 {{ t('admin_response') }}</h3>
+    <form method="post" action="{{ url_for('admin.update_feedback', fid=d.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <div class="field"><label>{{ t('write_response') }}</label><textarea name="response" maxlength="4000" style="min-height:110px"></textarea></div>
+      <div class="field"><label>{{ t('status') }} ({{ t('update') }})</label><select name="status"><option value="">— unchanged —</option>{% for o in statuses %}<option>{{ o }}</option>{% endfor %}</select></div>
+      <button class="btn btn-primary btn-sm">Save response</button></form>
+    {% if d.responses %}<h3 style="margin-top:1.2rem">Previous responses</h3>
+      {% for r in d.responses|reverse %}<div class="quote mb" style="margin-bottom:.6rem">{{ r.response }}<div class="mini muted" style="margin-top:.3rem">{{ r.admin }} · {{ r.at.replace('T',' ') }}</div></div>{% endfor %}
+    {% else %}<p class="muted small" style="margin-top:1rem">{{ t('no_response') }}</p>{% endif %}
+  </div>
+</div>
+
+{% if similar %}<div class="card mb"><h3>🧩 {{ t('recurring_issues') }} · Similar Complaints: {{ similar[0].cluster.count }}</h3>
+  {% for sm in similar %}<p class="small" style="margin:.3rem 0"><b>{{ aspect_label(sm.cluster.aspect) }} — {{ sm.cluster.label }}</b>: {{ sm.cluster.count }} similar complaint(s){% if sm.others %} · also: {% for o in sm.others[:12] %}<a href="{{ url_for('admin.detail', fid=o) }}">#{{ o }}</a>{{ ', ' if not loop.last }}{% endfor %}{% endif %}</p>{% endfor %}</div>{% endif %}
+
+{% include "_analysis.html" %}
+<p class="muted small">Model: {{ d.model_version }}</p>
+{% endblock %}

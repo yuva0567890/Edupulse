@@ -1,0 +1,360 @@
+days_ago,student_name,student_id,department,year,course,language_hint,feedback_text,rating
+29,Vikram,,Electronics,4,Signals and Systems,Auto Detect,हॉस्टल के शौचालय पर्याप्त नहीं है,3
+58,,S2479,Information Technology,2,Cloud Computing,Auto Detect,விடுதி கழிவறைகள் சரியாக இல்லை,4
+23,Suresh,S2846,Electronics,3,Digital Electronics,Auto Detect,wifi average hai,3
+25,Arun,,Mechanical,4,Fluid Mechanics,Auto Detect,The workshops is fine and The bus service is neither good nor bad.,2
+9,Mohan,S6428,Management Studies,1,Finance,Auto Detect,The repair work is completely useless,2
+7,,S1192,Mechanical,3,Fluid Mechanics,Auto Detect,पीने का पानी बहुत बढ़िया है,2
+25,Meena,S8013,Computer Science,3,Data Structures,Auto Detect,lab computers equipment kidaikala,2
+3,,S3439,Computer Science,2,Machine Learning,Auto Detect,The workshops completely useless है but The transport facility excellent है,3
+20,Anita,,Civil,4,Surveying,Auto Detect,The WiFi is really weak,5
+58,,S4333,Mechanical,1,Thermodynamics,Auto Detect,விடுதி பராமரிப்பு super ஆக உள்ளது but assignment workload romba periya problem,5
+28,,S5689,Mechanical,4,Thermodynamics,Auto Detect,वाईफाई पर्याप्त नहीं है,4
+10,Anita,S5190,Information Technology,3,Computer Networks,Auto Detect,மெஸ் உணவு சரியாக இல்லை,5
+19,Suresh,S3741,Information Technology,2,Web Technology,Auto Detect,The internet connection is dislike,1
+57,,S8421,Civil,3,Structural Analysis,Auto Detect,The library very helpful ஆக உள்ளது,3
+35,Priya,S2492,Information Technology,3,Web Technology,Auto Detect,college bus bilkul kaam nahi karta,2
+51,Arun,,Electronics,4,Signals and Systems,Auto Detect,விடுதி அறைகள் பரவாயில்லை ஆனால் प्रश्नपत्र बहुत उपयोगी है,3
+33,Rahul,S2016,Management Studies,4,Finance,Auto Detect,प्रश्नपत्र average है लेकिन हॉस्टल की सुरक्षा excellent है.,4
+8,,S4538,Electronics,1,Signals and Systems,Auto Detect,बस सेवा सामान्य है लेकिन खेल की सुविधाएं बेकार है,1
+25,,S6112,Mechanical,1,Thermodynamics,Auto Detect,पीने का पानी बहुत कम है,
+45,,,Mechanical,4,Thermodynamics,Auto Detect,விடுதி கழிவறைகள் okay ஆக உள்ளது ஆனால் விடுதி மின்சாரம் super ஆக உள்ளது,
+59,,,Mechanical,4,Fluid Mechanics,Auto Detect,वाईफाई बहुत poor है,1
+14,Vikram,,Computer Science,1,DBMS,Auto Detect,The playground completely useless है,
+49,Karthik,S1615,Civil,3,Surveying,Auto Detect,ஆசிரியர்கள் கற்பிக்கும் முறை ஓரளவு சரியாக உள்ளது ஆனால் பாடத்திட்டம் ஓரளவு சரியாக உள்ளது,5
+33,,,Electronics,1,Digital Electronics,Auto Detect,पुस्तकालय बहुत poor है,
+33,,S5274,Electronics,2,Embedded Systems,Auto Detect,விடுதி பாதுகாப்பு சரியாக இல்லை ஆனால் வளாக வசதிகள் சாதாரணமாக உள்ளது,
+34,Sneha,S6183,Computer Science,2,DBMS,Auto Detect,கல்லூரி பேருந்து fine ஆக உள்ளது ஆனால் நூலகம் மிகவும் பயனுள்ளதாக உள்ளது.,4
+35,Mohan,,Information Technology,3,Web Technology,Auto Detect,குடிநீர் முற்றிலும் வேலை செய்யவில்லை,
+31,,,Information Technology,1,Computer Networks,Auto Detect,The drinking water is poor,1
+27,,S1558,Management Studies,3,Operations,Auto Detect,internet kammi ah iruku,3
+43,Arun,,Electronics,1,Digital Electronics,Auto Detect,The hostel rooms completely useless है,3
+19,,S8620,Information Technology,2,Computer Networks,Auto Detect,விடுதி மின்சாரம் அருமையாக உள்ளது ஆனால் கணினி ஆய்வகம் திருப்தியாக உள்ளது,2
+39,Karthik,,Computer Science,4,DBMS,Auto Detect,விடுதி தண்ணீர் வசதி பரவாயில்லை,5
+38,Mohan,S1387,Computer Science,2,DBMS,Auto Detect,प्रश्नपत्र ठीक-ठाक है लेकिन हॉस्टल का खाना संतोषजनक है.,
+3,Sneha,,Management Studies,3,Operations,Auto Detect,The course difficulty was disorganised,
+59,Divya,S9598,Computer Science,4,Data Structures,Auto Detect,पीने का पानी घटिया है,2
+46,Anita,,Management Studies,4,Marketing,Auto Detect,parking super ah iruku but hostel ki security normal hai,
+5,Anita,S3026,Computer Science,2,DBMS,Auto Detect,hostel room super ah iruku aana college bus romba mokkai ah iruku,2
+52,,S8757,Electronics,2,Signals and Systems,Auto Detect,The administration बहुत helpful है but The exam schedule terrible है,4
+12,Pooja,,Mechanical,1,CAD/CAM,Auto Detect,The hostel security மிகவும் good ஆக உள்ளது but நிர்வாகம் completely useless ஆக உள்ளது,3
+51,,S7153,Information Technology,1,Computer Networks,Auto Detect,wifi bilkul kaam nahi karta,
+16,Priya,,Computer Science,3,Machine Learning,Auto Detect,விடுதி பாதுகாப்பு மிகவும் பயனுள்ளதாக உள்ளது,2
+39,Pooja,,Electronics,3,Signals and Systems,Auto Detect,The hygiene in the hostel fine है but The library timings fine है,2
+46,,,Computer Science,1,Data Structures,Auto Detect,परिसर की सुविधाएं बहुत खराब है,1
+30,,S7332,Computer Science,3,DBMS,Auto Detect,परीक्षा समय-सारणी बहुत बड़ी समस्या है लेकिन சந்தேகம் தீர்க்கும் அமர்வுகள் மிகவும் slow ஆக உள்ளது.,3
+59,Arun,,Information Technology,3,Cloud Computing,Auto Detect,ஆசிரியர் நன்றாக கற்பிக்கிறார் ஆனால் லேப் வசதிகள் குறைவாக உள்ளது.,1
+15,Anita,S2294,Civil,2,Structural Analysis,Auto Detect,வைஃபை completely useless ஆக உள்ளது,1
+26,Arun,S9922,Information Technology,3,Web Technology,Auto Detect,விடுதி சுத்தம் போதுமானதாக இல்லை,3
+4,Priya,S7898,Computer Science,4,DBMS,Auto Detect,பேருந்து சேவை சாதாரணமாக உள்ளது,1
+8,Meena,,Information Technology,2,Cloud Computing,Auto Detect,wifi speed romba slow ah iruku,4
+48,Rahul,S5385,Management Studies,3,Finance,Auto Detect,WiFi बिल्कुल not working है,5
+12,Karthik,S3512,Electronics,3,Embedded Systems,Auto Detect,हॉस्टल के शौचालय सामान्य है,1
+4,Divya,S4790,Electronics,1,Embedded Systems,Auto Detect,Classroom facilities बिल्कुल not working है,3
+6,Divya,,Computer Science,3,Data Structures,Auto Detect,lab facilities work agala,2
+7,Meena,,Information Technology,2,Web Technology,Auto Detect,Faculty teaching बहुत good है but The library books बिल्कुल not working है,2
+55,Meena,S1103,Civil,1,Concrete Technology,Auto Detect,The laboratory facilities is a major problem,4
+39,Arun,S3316,Management Studies,1,Marketing,Auto Detect,college network arumaiya iruku and computer lab paravala,2
+38,,,Computer Science,1,Machine Learning,Auto Detect,The WiFi is poor,3
+23,Rahul,S1515,Management Studies,4,Operations,Auto Detect,पुस्तकालय संतोषजनक है और हॉस्टल का खाना अच्छा नहीं है,3
+26,Mohan,,Computer Science,2,Data Structures,Auto Detect,நூலகம் பயனற்றதாக உள்ளது,5
+25,,S5641,Information Technology,3,Computer Networks,Auto Detect,The mentoring completely useless है but मेस का खाना completely useless है,
+47,Anita,S1298,Electronics,3,Embedded Systems,Auto Detect,campus facilities bahut kam hai aur hostel ki safai accha nahi hai.,1
+46,Arun,S3565,Mechanical,4,Thermodynamics,Auto Detect,The bus service average ஆக உள்ளது but Syllabus not working ஆக உள்ளது,
+36,,S3663,Mechanical,2,Thermodynamics,Auto Detect,हॉस्टल की सफाई संतोषजनक है लेकिन शिक्षकों की व्याख्या संतोषजनक है,
+9,,,Civil,1,Concrete Technology,Auto Detect,हॉस्टल में पानी की सुविधा ठीक-ठाक है और The power supply is poor,4
+47,Karthik,S3651,Electronics,2,Digital Electronics,Auto Detect,classroom ki suvidha bahut useful hai aur bus service average hai.,
+31,,,Mechanical,2,Fluid Mechanics,Auto Detect,விரிவுரையாளர்களின் கற்பித்தல் மிகவும் மோசமாக உள்ளது,1
+58,Arun,,Computer Science,4,Data Structures,Auto Detect,hostel ke room ganda hai,5
+44,,S4638,Civil,4,Concrete Technology,Auto Detect,प्राध्यापकों का पढ़ाना न अच्छा है न बुरा और मैदान बहुत कम है,1
+11,Arun,S9485,Mechanical,2,Fluid Mechanics,Auto Detect,इंटरनेट की स्पीड बिल्कुल काम नहीं करता,2
+9,Pooja,,Computer Science,2,Data Structures,Auto Detect,administration bahut badhiya hai,4
+2,,S7387,Management Studies,4,Operations,Auto Detect,hostel thanni work agala but teacher explanation semma iruku,5
+41,Meena,S7376,Electronics,3,Signals and Systems,Auto Detect,लैब में कंप्यूटर बहुत slow हैं।,4
+11,Meena,,Mechanical,4,Thermodynamics,Auto Detect,ஆசிரியர்கள் கற்பிக்கும் முறை பரவாயில்லை மற்றும் விடுதி அறைகள் மோசமாக உள்ளது,3
+49,,,Civil,4,Structural Analysis,Auto Detect,drinking water paravala aana college events romba mokkai ah iruku.,
+8,Anita,S8241,Computer Science,1,Data Structures,Auto Detect,விடுதி அறைகள் ஓரளவு சரியாக உள்ளது மற்றும் நிர்வாகம் ஓரளவு சரியாக உள்ளது,5
+5,,S9380,Information Technology,1,Web Technology,Auto Detect,The maintenance team is average and The lab computers is amazing,4
+41,,S2087,Mechanical,1,Thermodynamics,Auto Detect,The library books not good ஆக உள்ளது ஆனால் பணிகளின் சுமை completely useless ஆக உள்ளது,1
+18,,,Mechanical,2,CAD/CAM,Auto Detect,கல்லூரி நிகழ்வுகள் சிறப்பாக உள்ளது,5
+4,,,Information Technology,3,Web Technology,Auto Detect,The campus facilities बिल्कुल not working है but The WiFi is excellent,2
+17,,S5164,Civil,4,Surveying,Auto Detect,The room facilities is very good while The subject content is terrible and needs improvement.,4
+39,Anita,S4259,Electronics,2,Signals and Systems,Auto Detect,hostel ki security bahut useful hai aur hostel ki bijli normal hai,1
+59,Anita,,Management Studies,2,Finance,Auto Detect,The security guards terrible ஆக உள்ளது but The college events not good ஆக உள்ளது.,
+3,,S8422,Civil,1,Structural Analysis,Auto Detect,कंप्यूटर लैब बेकार है और पढ़ाई की सामग्री औसत है,4
+54,Anita,S7044,Management Studies,2,Finance,Auto Detect,hostel food super ah iruku,2
+28,Meena,,Computer Science,1,Machine Learning,Auto Detect,हॉस्टल के कमरे अच्छा नहीं है और विषय की सामग्री बहुत बढ़िया है,4
+19,,,Electronics,3,Embedded Systems,Auto Detect,Teacher explanation super but WiFi romba slow.,
+2,Rahul,,Management Studies,4,Finance,Auto Detect,डाउट क्लियरिंग सत्र औसत है लेकिन वाईफाई संतोषजनक है,4
+57,Sneha,S1746,Electronics,1,Digital Electronics,Auto Detect,mess food waste ah iruku,
+22,Vikram,S4674,Civil,4,Concrete Technology,Auto Detect,விடுதி மின்சாரம் பயனற்றதாக உள்ளது,2
+8,Meena,,Civil,2,Surveying,Auto Detect,The fee payment process is excellent but The question papers is fine,
+45,Priya,S3370,Information Technology,3,Computer Networks,Auto Detect,The library is a major problem but The room facilities is not that good,2
+3,,S6739,Computer Science,4,DBMS,Auto Detect,The lab equipment is not good at all while The bus service is neither good nor bad,1
+57,Arun,S7651,Information Technology,2,Web Technology,Auto Detect,வைஃபை மிகவும் slow ஆக உள்ளது,1
+58,,S4231,Computer Science,2,DBMS,Auto Detect,submission deadline nalla illa but teacher explanation normal ah iruku,1
+38,,,Civil,4,Concrete Technology,Auto Detect,The computer lab seems pathetic,1
+19,Suresh,S8830,Civil,1,Structural Analysis,Auto Detect,Teaching is very good and explanations are clear.,3
+58,Pooja,,Management Studies,2,Marketing,Auto Detect,The safety in the hostel not working ஆக உள்ளது,
+14,,S5313,Electronics,1,Signals and Systems,Auto Detect,कक्षा की सुविधाएं घटिया है,5
+43,Vikram,,Civil,3,Concrete Technology,Auto Detect,power supply kammi ah iruku,1
+56,Karthik,S4868,Computer Science,2,Operating Systems,Auto Detect,hostel cleanliness waste ah iruku,5
+12,,S4918,Electronics,4,Embedded Systems,Auto Detect,The academic support terrible है लेकिन शिक्षकों की व्याख्या बहुत good है.,5
+53,,S9693,Management Studies,1,Marketing,Auto Detect,The internet connection was old,3
+14,Rahul,,Management Studies,4,Operations,Auto Detect,The power supply is neither good nor bad while The repair work is not good at all.,4
+36,,S1440,Computer Science,1,Data Structures,Auto Detect,बस सेवा न अच्छा है न बुरा और प्राध्यापकों का पढ़ाना बहुत कम है,4
+22,,,Information Technology,1,Web Technology,Auto Detect,drinking water bahut kam hai,1
+41,,,Management Studies,1,Marketing,Auto Detect,The WiFi speed is the worst and nothing works,4
+12,,,Electronics,1,Embedded Systems,Auto Detect,शिक्षक बहुत अच्छा पढ़ाते हैं लेकिन लैब की सुविधा अच्छी नहीं है।,3
+15,Priya,S2433,Computer Science,3,DBMS,Auto Detect,The library books is completely useless and The hostel mess बहुत good है,
+6,,,Information Technology,3,Computer Networks,Auto Detect,விடுதி மின்சாரம் average ஆக உள்ளது but The college events மிகவும் good ஆக உள்ளது.,2
+16,Rahul,,Mechanical,1,CAD/CAM,Auto Detect,internet enough illa,2
+49,,S5712,Electronics,1,Signals and Systems,Auto Detect,The hostel rooms average ஆக உள்ளது,
+33,,S1788,Mechanical,2,CAD/CAM,Auto Detect,faculty mast hai lekin college events bahut kam hai,
+52,Mohan,S4310,Civil,3,Surveying,Auto Detect,கல்லூரி நெட்வொர்க் முற்றிலும் வேலை செய்யவில்லை,
+31,Pooja,,Electronics,2,Signals and Systems,Auto Detect,அலுவலக ஊழியர்கள் திருப்தியாக உள்ளது,4
+53,Meena,,Electronics,3,Digital Electronics,Auto Detect,சந்தேகம் தீர்க்கும் அமர்வுகள் fine ஆக உள்ளது ஆனால் The water supply in the hostel excellent ஆக உள்ளது,5
+31,Suresh,,Information Technology,4,Cloud Computing,Auto Detect,हॉस्टल की सफाई अच्छा नहीं है,4
+40,Priya,S7465,Computer Science,1,DBMS,Auto Detect,college events arumaiya iruku aana college bus waste ah iruku,5
+23,Rahul,S9928,Computer Science,2,DBMS,Auto Detect,हॉस्टल की सुरक्षा बहुत helpful है लेकिन पढ़ाने का तरीका बहुत helpful है,5
+29,Meena,,Information Technology,1,Computer Networks,Auto Detect,விடுதி கழிவறைகள் சுமாராக உள்ளது ஆனால் ஒப்படைப்பு காலக்கெடு ஓரளவு சரியாக உள்ளது,4
+33,Sneha,,Electronics,3,Digital Electronics,Auto Detect,நூலகம் மிகவும் good ஆக உள்ளது ஆனால் The hostel washrooms average ஆக உள்ளது,3
+44,,S3065,Mechanical,3,Fluid Mechanics,Auto Detect,The administration is completely useless,5
+15,Rahul,S3532,Management Studies,2,Marketing,Auto Detect,college network romba mosam and college bus semma iruku.,5
+38,Karthik,S4101,Electronics,3,Embedded Systems,Auto Detect,वाईफाई average है,
+42,Mohan,S3430,Information Technology,3,Cloud Computing,Auto Detect,The power supply बहुत good है,2
+17,Suresh,,Mechanical,3,Thermodynamics,Auto Detect,कॉलेज का नेटवर्क बहुत कम है,3
+2,Mohan,,Mechanical,3,Fluid Mechanics,Auto Detect,The assignments average ஆக உள்ளது,
+16,,S4969,Information Technology,4,Cloud Computing,Auto Detect,The safety in the hostel not working ஆக உள்ளது,4
+47,,,Civil,2,Concrete Technology,Auto Detect,The power supply is the worst and nothing works,1
+7,Anita,S2603,Management Studies,4,Marketing,Auto Detect,कॉलेज के कार्यक्रम बिल्कुल काम नहीं करता लेकिन विषय की सामग्री बहुत बढ़िया है.,3
+45,,S7939,Management Studies,4,Finance,Auto Detect,हॉस्टल की बिजली अच्छा नहीं है और हॉस्टल के कमरे औसत है.,
+54,Suresh,,Civil,2,Concrete Technology,Auto Detect,The security guards बहुत poor है but प्रशासन average है,2
+24,,,Computer Science,1,Data Structures,Auto Detect,The security guards बहुत good है but teaching normal ah iruku,2
+13,Divya,S2656,Civil,4,Concrete Technology,Auto Detect,office staff arumaiya iruku and exam schedule romba nalla iruku,1
+30,Suresh,,Management Studies,3,Operations,Auto Detect,course content romba useful ah iruku and classroom vasathi normal ah iruku,2
+47,,S4011,Mechanical,4,CAD/CAM,Auto Detect,The subject content is the worst and nothing works while The teaching method is fine,
+39,Arun,S7256,Management Studies,4,Marketing,Auto Detect,விடுதி தண்ணீர் வசதி மிகப்பெரிய பிரச்சனையாக உள்ளது ஆனால் ஒப்படைப்பு காலக்கெடு பரவாயில்லை,
+26,,,Computer Science,3,Machine Learning,Auto Detect,The administration okay ஆக உள்ளது but हॉस्टल के शौचालय अच्छा नहीं है,
+19,,,Information Technology,2,Computer Networks,Auto Detect,wifi speed enough illa,3
+10,Priya,,Information Technology,2,Computer Networks,Auto Detect,hostel ke room theek-thaak hai aur college ka network mast hai.,5
+46,Karthik,S7771,Civil,4,Structural Analysis,Auto Detect,hostel ki security bahut kharab hai,4
+8,,S4775,Management Studies,3,Operations,Auto Detect,प्रशासन बहुत बड़ी समस्या है लेकिन हॉस्टल के कमरे पर्याप्त नहीं है,3
+16,,,Management Studies,4,Marketing,Auto Detect,The hygiene in the hostel बहुत good है लेकिन The playground average ஆக உள்ளது,5
+22,Rahul,S8944,Electronics,4,Embedded Systems,Auto Detect,விடுதி பாதுகாப்பு போதுமானதாக இல்லை ஆனால் ஒப்படைப்பு காலக்கெடு சிறப்பாக உள்ளது,5
+42,,S5967,Computer Science,4,Data Structures,Auto Detect,The hygiene in the hostel is great and I am satisfied,
+57,Karthik,S6654,Civil,1,Concrete Technology,Auto Detect,The WiFi is really overloaded,
+4,,S2663,Information Technology,2,Web Technology,Auto Detect,college events average ah iruku aana parking normal ah iruku,1
+22,,S7594,Mechanical,2,CAD/CAM,Auto Detect,padhane ka tarika average hai,5
+50,Vikram,,Civil,3,Surveying,Auto Detect,The laboratory facilities is the worst and nothing works,3
+13,Pooja,,Management Studies,1,Operations,Auto Detect,The hostel washrooms not good है,
+26,Karthik,S1957,Electronics,4,Signals and Systems,Auto Detect,விளையாட்டு வசதிகள் சாதாரணமாக உள்ளது,1
+31,Karthik,S1108,Management Studies,2,Finance,Auto Detect,The college bus completely useless है,3
+36,Rahul,,Management Studies,3,Finance,Auto Detect,bus service normal hai aur hostel ki security theek-thaak hai,3
+4,Anita,,Management Studies,1,Marketing,Auto Detect,पुस्तकालय excellent है but Internet average है,4
+43,,,Computer Science,1,DBMS,Auto Detect,விடுதி சுத்தம் பரவாயில்லை ஆனால் பேருந்து சேவை முற்றிலும் வேலை செய்யவில்லை,3
+2,Mohan,,Information Technology,3,Web Technology,Auto Detect,விளையாட்டு வசதிகள் முற்றிலும் வேலை செய்யவில்லை மற்றும் கல்லூரி நிகழ்வுகள் சுமாராக உள்ளது,5
+21,Vikram,S4452,Electronics,3,Signals and Systems,Auto Detect,குடிநீர் very helpful ஆக உள்ளது,2
+16,Rahul,S9089,Mechanical,4,Fluid Mechanics,Auto Detect,The teaching is very clear and the lab facilities are good.,4
+55,Divya,,Electronics,1,Signals and Systems,Auto Detect,हॉस्टल की बिजली बहुत अच्छा है,1
+45,Meena,,Electronics,1,Digital Electronics,Auto Detect,लैब की सुविधा okay है,3
+35,,S1814,Management Studies,4,Finance,Auto Detect,कॉलेज की बस अच्छा नहीं है,
+2,Sneha,,Computer Science,1,DBMS,Auto Detect,हॉस्टल की बिजली बहुत बढ़िया है,4
+40,,,Information Technology,1,Web Technology,Auto Detect,The library books is not that good while The parking is amazing.,
+40,Karthik,S3970,Management Studies,1,Finance,Auto Detect,The water supply in the hostel is great and I am satisfied while portion arumaiya iruku,
+0,Karthik,,Management Studies,3,Finance,Auto Detect,पुस्तकालय बेकार है,1
+2,Mohan,S1894,Mechanical,4,CAD/CAM,Auto Detect,हॉस्टल का रखरखाव घटिया है,4
+52,Mohan,S7629,Computer Science,4,Data Structures,Auto Detect,The laboratory facilities seems modern,
+24,Suresh,,Management Studies,4,Finance,Auto Detect,The WiFi is terrible and needs improvement,4
+5,,S3486,Computer Science,1,DBMS,Auto Detect,हॉस्टल की सुरक्षा घटिया है लेकिन पीने का पानी औसत है,
+43,,,Computer Science,1,Operating Systems,Auto Detect,hostel mein paani ganda hai,
+30,Pooja,S8385,Information Technology,2,Web Technology,Auto Detect,வைஃபை மிகப்பெரிய பிரச்சனையாக உள்ளது,2
+45,,S2381,Management Studies,3,Operations,Auto Detect,sports facilities normal hai,4
+31,Rahul,,Management Studies,1,Operations,Auto Detect,கல்லூரி பேருந்து முற்றிலும் வேலை செய்யவில்லை,
+3,Suresh,,Computer Science,1,DBMS,Auto Detect,पाठ्यक्रम शानदार है और हॉस्टल की बिजली संतोषजनक है,2
+46,,,Electronics,4,Embedded Systems,Auto Detect,The lab computers is really fast-paced,
+23,,,Electronics,4,Embedded Systems,Auto Detect,computer lab romba pazhaya mathiri iruku,1
+51,Suresh,S7847,Information Technology,4,Computer Networks,Auto Detect,The campus canteen super ஆக உள்ளது but பாடத்திட்டம் super ஆக உள்ளது,3
+50,,S5585,Electronics,1,Embedded Systems,Auto Detect,पढ़ाने का तरीका बहुत good है but परीक्षा समय-सारणी fine है.,5
+51,,S1253,Management Studies,2,Operations,Auto Detect,The hostel cleanliness terrible है,2
+27,,S7346,Civil,4,Concrete Technology,Auto Detect,நூலகம் பயனற்றதாக உள்ளது,1
+18,,S5391,Mechanical,4,Thermodynamics,Auto Detect,कॉलेज के कार्यक्रम not good है,4
+18,,,Computer Science,2,Machine Learning,Auto Detect,hostel room arumaiya iruku but होस्टल का भोजन संतोषजनक है,4
+49,,S2393,Management Studies,4,Finance,Auto Detect,குடிநீர் okay ஆக உள்ளது but The playground மிகவும் slow ஆக உள்ளது,1
+59,,S1943,Management Studies,4,Finance,Auto Detect,The sports facilities completely useless है,5
+59,Arun,,Information Technology,4,Cloud Computing,Auto Detect,விடுதி பாதுகாப்பு சாதாரணமாக உள்ளது மற்றும் வகுப்பறை வசதிகள் மிகவும் பயனுள்ளதாக உள்ளது.,
+51,Priya,S9536,Civil,3,Concrete Technology,Auto Detect,WiFi terrible है,2
+32,Divya,S2510,Mechanical,2,CAD/CAM,Auto Detect,पीने का पानी not good है,2
+36,Mohan,,Electronics,2,Digital Electronics,Auto Detect,The power backup बिल्कुल not working है,
+23,,S8592,Mechanical,1,Thermodynamics,Auto Detect,कॉलेज के कार्यक्रम बेकार है और The gym is excellent,2
+1,Vikram,,Civil,1,Surveying,Auto Detect,hostel food normal ah iruku aana The administration बिल्कुल not working है.,1
+31,Divya,S5584,Civil,4,Surveying,Auto Detect,My hostel room is not good at all,3
+52,,S1620,Civil,3,Surveying,Auto Detect,हॉस्टल का रखरखाव बहुत कम है,1
+5,Arun,S8508,Mechanical,4,Thermodynamics,Auto Detect,hostel ki bijli bahut kharab hai,4
+25,,,Management Studies,1,Finance,Auto Detect,The food in the mess is terrible and needs improvement,2
+14,,,Civil,4,Surveying,Auto Detect,வளாக வசதிகள் திருப்தியாக உள்ளது மற்றும் நூலகம் மோசமாக உள்ளது,3
+23,,,Information Technology,2,Web Technology,Auto Detect,WiFi speed மிகவும் poor ஆக உள்ளது,
+22,Vikram,,Electronics,1,Signals and Systems,Auto Detect,हॉस्टल में पानी की सुविधा घटिया है,4
+47,,,Management Studies,1,Marketing,Auto Detect,விடுதி பாதுகாப்பு பரவாயில்லை ஆனால் பணிகளின் சுமை முற்றிலும் வேலை செய்யவில்லை,1
+48,Divya,,Electronics,3,Embedded Systems,Auto Detect,The drinking water is fine,4
+48,,S7089,Mechanical,3,Fluid Mechanics,Auto Detect,faculty okay okay iruku aana submission deadline kammi ah iruku.,
+30,Sneha,S3345,Electronics,1,Signals and Systems,Auto Detect,The college events average ஆக உள்ளது but குடிநீர் completely useless ஆக உள்ளது,5
+51,Divya,S7112,Information Technology,2,Computer Networks,Auto Detect,लैब की सुविधा बहुत poor है,
+53,Priya,S6566,Mechanical,3,Thermodynamics,Auto Detect,The laboratory facilities is average but campus facilities bahut accha hai,3
+40,Anita,S1929,Computer Science,2,DBMS,Auto Detect,வளாக வசதிகள் ஓரளவு சரியாக உள்ளது மற்றும் விடுதி மின்சாரம் மோசமாக உள்ளது.,4
+28,,S7746,Information Technology,2,Web Technology,Auto Detect,power supply romba periya problem,
+36,,S3749,Electronics,3,Signals and Systems,Auto Detect,lab ki suvidha sahi hai lekin hostel ki bijli theek-thaak hai,
+29,,S9412,Electronics,1,Embedded Systems,Auto Detect,The lab equipment is tasteless,5
+35,Rahul,S4303,Information Technology,3,Computer Networks,Auto Detect,प्रशासन बहुत अच्छा है और प्रयोगशाला के उपकरण बेकार है,2
+59,Mohan,S3657,Information Technology,1,Cloud Computing,Auto Detect,ஆசிரியர் நன்றாக கற்பிக்கிறார்.,2
+40,Vikram,S3296,Information Technology,4,Web Technology,Auto Detect,college bus work agala but question paper average ah iruku,4
+11,Arun,,Electronics,2,Signals and Systems,Auto Detect,The campus facilities completely useless ஆக உள்ளது ஆனால் The repair work not working ஆக உள்ளது,4
+8,,S4775,Information Technology,2,Web Technology,Auto Detect,The hot water not good ஆக உள்ளது,4
+53,Meena,,Computer Science,3,Operating Systems,Auto Detect,கணினி ஆய்வகம் பழையதாக உள்ளது,1
+39,,,Information Technology,2,Cloud Computing,Auto Detect,The WiFi keeps disconnecting and is not working in the library at all.,2
+0,Pooja,S1907,Information Technology,3,Computer Networks,Auto Detect,वाईफाई बहुत खराब है,2
+55,,S7709,Management Studies,4,Marketing,Auto Detect,கல்லூரி நிகழ்வுகள் not good ஆக உள்ளது,5
+15,Anita,S7081,Electronics,1,Signals and Systems,Auto Detect,The lab computers is not good at all,4
+33,Anita,,Mechanical,3,CAD/CAM,Auto Detect,The internet connection seems unhygienic,3
+48,,S2764,Civil,4,Structural Analysis,Auto Detect,வைஃபை மிகவும் மெதுவாக உள்ளது மற்றும் அடிக்கடி துண்டிக்கப்படுகிறது.,4
+33,,S4990,Computer Science,1,Operating Systems,Auto Detect,குடிநீர் சாதாரணமாக உள்ளது ஆனால் விடுதி கழிவறைகள் திருப்தியாக உள்ளது,4
+10,Rahul,S1492,Information Technology,1,Web Technology,Auto Detect,hostel security average ah iruku but library normal ah iruku,5
+12,Meena,,Management Studies,4,Operations,Auto Detect,WiFi बहुत poor है,1
+28,Priya,,Management Studies,1,Finance,Auto Detect,WiFi speed terrible है,
+31,Rahul,S2991,Mechanical,4,Thermodynamics,Auto Detect,hostel room normal ah iruku aana The exam schedule बहुत good है,4
+14,,S8570,Civil,4,Surveying,Auto Detect,power supply okay okay iruku,
+24,,S9611,Management Studies,1,Finance,Auto Detect,campus facilities bilkul kaam nahi karta lekin college bus average hai,
+21,Anita,,Electronics,3,Signals and Systems,Auto Detect,मैदान बिल्कुल काम नहीं करता,4
+20,Suresh,,Computer Science,2,DBMS,Auto Detect,administration romba useful ah iruku aana hostel thanni average ah iruku,5
+0,Vikram,S6314,Management Studies,4,Marketing,Auto Detect,इंटरनेट कनेक्शन terrible है,4
+1,Mohan,,Management Studies,4,Operations,Auto Detect,hostel cleanliness super ah iruku aana ஆசிரியர்கள் கற்பிக்கும் முறை குறைவாக உள்ளது,
+2,,,Computer Science,3,Data Structures,Auto Detect,"Syllabus romba kastam, portion romba pazhaya mathiri iruku.",4
+16,Arun,S1645,Computer Science,3,Data Structures,Auto Detect,The maintenance team is the worst and nothing works,2
+41,Arun,S9417,Electronics,3,Digital Electronics,Auto Detect,पुस्तकालय बहुत बड़ी समस्या है लेकिन कॉलेज के कार्यक्रम बहुत उपयोगी है.,3
+34,,S9382,Civil,2,Structural Analysis,Auto Detect,The WiFi speed is unavailable in the hostel,3
+18,Pooja,S9950,Civil,3,Structural Analysis,Auto Detect,The classroom infrastructure is poor,4
+36,Mohan,S7009,Management Studies,4,Operations,Auto Detect,The safety in the hostel terrible है,2
+30,Rahul,S6466,Civil,2,Surveying,Auto Detect,The security guards not good है,4
+24,,S6777,Civil,2,Surveying,Auto Detect,The transport facility is poor,2
+20,Rahul,,Civil,2,Structural Analysis,Auto Detect,The sports facilities is lacking,
+10,Meena,,Computer Science,4,Data Structures,Auto Detect,கற்பித்தல் okay ஆக உள்ளது but The hostel food okay है,4
+53,Pooja,,Mechanical,2,CAD/CAM,Auto Detect,The internet connection seems unhygienic,5
+26,Anita,S4317,Information Technology,3,Cloud Computing,Auto Detect,हॉस्टल में पानी की सुविधा excellent है but The library timings fine है.,
+54,,,Management Studies,4,Finance,Auto Detect,The internet is really issue,5
+40,,S2693,Management Studies,1,Finance,Auto Detect,पढ़ाने का तरीका बहुत बड़ी समस्या है,4
+7,Meena,S5576,Civil,1,Structural Analysis,Auto Detect,hostel mein paani bekar hai lekin हॉस्टल के कमरे औसत है,3
+29,Anita,S7400,Management Studies,4,Operations,Auto Detect,wifi bahut dhima hai,2
+50,,,Computer Science,4,DBMS,Auto Detect,The hostel maintenance is very bad,2
+34,Karthik,S7176,Information Technology,2,Web Technology,Auto Detect,पीने का पानी पर्याप्त नहीं है,2
+53,,S6338,Electronics,2,Signals and Systems,Auto Detect,வகுப்பறை வசதிகள் போதுமானதாக இல்லை,
+3,Sneha,S9789,Computer Science,3,DBMS,Auto Detect,hostel ki security theek-thaak hai aur பணிகளின் சுமை very helpful ஆக உள்ளது.,4
+46,,S6860,Civil,1,Concrete Technology,Auto Detect,assignment workload average ah iruku aana doubt clearing session work agala,5
+28,,,Electronics,2,Digital Electronics,Auto Detect,sports facility romba periya problem,3
+32,Vikram,,Electronics,2,Digital Electronics,Auto Detect,The academic support not working ஆக உள்ளது but அலுவலக ஊழியர்கள் excellent ஆக உள்ளது.,3
+25,Meena,,Mechanical,3,CAD/CAM,Auto Detect,कॉलेज का नेटवर्क अच्छा नहीं है,4
+52,Anita,S2230,Management Studies,3,Operations,Auto Detect,The security guards is not safe at night,1
+41,,,Computer Science,4,Operating Systems,Auto Detect,The hostel washrooms மிகவும் good ஆக உள்ளது but பேருந்து சேவை மிகவும் slow ஆக உள்ளது,4
+52,Vikram,,Electronics,4,Digital Electronics,Auto Detect,வைஃபை மிகவும் பயனுள்ளதாக உள்ளது,
+36,,S1693,Management Studies,4,Marketing,Auto Detect,lab equipment normal hai aur The library books is lacking,
+45,,S5988,Electronics,4,Digital Electronics,Auto Detect,பணிகளின் சுமை மிகவும் நன்றாக உள்ளது மற்றும் The college events fine ஆக உள்ளது,4
+42,Karthik,S5358,Computer Science,2,Operating Systems,Auto Detect,The bus service is poor,3
+7,Vikram,,Civil,1,Surveying,Auto Detect,पढ़ाने का तरीका excellent है,
+10,,S8659,Computer Science,4,Data Structures,Auto Detect,கல்லூரி நிகழ்வுகள் பயனற்றதாக உள்ளது மற்றும் விடுதி மின்சாரம் சாதாரணமாக உள்ளது,5
+43,,S4903,Computer Science,3,Machine Learning,Auto Detect,கல்லூரி நிகழ்வுகள் மிகவும் பயனுள்ளதாக உள்ளது மற்றும் விடுதி தண்ணீர் வசதி குறைவாக உள்ளது,1
+17,,,Computer Science,1,Machine Learning,Auto Detect,पुस्तकालय ठीक-ठाक है लेकिन डाउट क्लियरिंग सत्र घटिया है.,1
+39,Arun,S7487,Mechanical,1,Fluid Mechanics,Auto Detect,इंटरनेट कनेक्शन बहुत poor है,
+15,Arun,S3843,Civil,3,Surveying,Auto Detect,hostel current nalla illa and library work agala.,3
+26,,,Electronics,4,Digital Electronics,Auto Detect,library enough illa aana doubt clearing session romba periya problem,1
+24,,S7774,Management Studies,3,Finance,Auto Detect,Classroom facilities not good ஆக உள்ளது,5
+1,,S3842,Mechanical,2,Fluid Mechanics,Auto Detect,லேப் வசதிகள் terrible ஆக உள்ளது,3
+0,,S6946,Information Technology,1,Computer Networks,Auto Detect,விளையாட்டு வசதிகள் ஓரளவு சரியாக உள்ளது ஆனால் வினாத்தாள்கள் சிறப்பாக உள்ளது,4
+21,Priya,,Mechanical,4,Fluid Mechanics,Auto Detect,ஆய்வக உபகரணங்கள் not good ஆக உள்ளது,4
+24,Rahul,S8136,Information Technology,1,Computer Networks,Auto Detect,The cultural fest is very bad,5
+21,,S3127,Computer Science,1,Operating Systems,Auto Detect,sports facilities enough nahi hai,2
+53,,S8652,Civil,2,Surveying,Auto Detect,हॉस्टल का रखरखाव संतोषजनक है लेकिन हॉस्टल के कमरे बहुत बड़ी समस्या है,2
+13,,S4408,Electronics,3,Signals and Systems,Auto Detect,Syllabus not good ஆக உள்ளது,4
+14,,,Information Technology,3,Cloud Computing,Auto Detect,drinking water romba useful ah iruku aana doubt clearing session romba nalla iruku.,3
+23,Mohan,,Civil,2,Surveying,Auto Detect,administration romba nalla iruku and library work agala.,
+32,Rahul,,Management Studies,4,Marketing,Auto Detect,விடுதி மின்சாரம் முற்றிலும் வேலை செய்யவில்லை,5
+36,Arun,S2409,Management Studies,2,Marketing,Auto Detect,The computer lab is really unclear,2
+42,,S6922,Information Technology,3,Web Technology,Auto Detect,drinking water arumaiya iruku,
+19,Rahul,S7536,Management Studies,3,Finance,Auto Detect,நிர்வாகம் போதுமானதாக இல்லை,3
+49,,,Mechanical,2,Fluid Mechanics,Auto Detect,வைஃபை பயனற்றதாக உள்ளது,1
+23,,,Computer Science,3,DBMS,Auto Detect,मेस का खाना बहुत slow है,
+45,,S7562,Management Studies,3,Operations,Auto Detect,Classroom facilities not working ஆக உள்ளது,
+18,Meena,,Information Technology,1,Computer Networks,Auto Detect,कॉलेज के कार्यक्रम न अच्छा है न बुरा और subject ka content bahut badhiya hai,
+10,Rahul,S1642,Civil,3,Concrete Technology,Auto Detect,வினாத்தாள்கள் சுமாராக உள்ளது மற்றும் விளையாட்டு வசதிகள் சுமாராக உள்ளது.,5
+36,,S9532,Information Technology,3,Computer Networks,Auto Detect,hostel ki bijli bahut badi problem hai lekin administration mast hai.,5
+36,Arun,S5691,Management Studies,1,Operations,Auto Detect,lab equipment sahi hai,4
+3,,,Management Studies,1,Finance,Auto Detect,Teacher explanation बहुत helpful है लेकिन The academic support excellent है,1
+47,,S7449,Electronics,2,Signals and Systems,Auto Detect,hostel ki security theek-thaak hai lekin The question papers is a major problem.,4
+22,,S6575,Computer Science,4,Data Structures,Auto Detect,The lab computers is broken,5
+13,Vikram,,Management Studies,2,Finance,Auto Detect,exam schedule ganda hai,1
+44,,S3859,Computer Science,2,Operating Systems,Auto Detect,The hostel cleanliness is very good while The question papers is fine.,4
+15,,S6689,Electronics,4,Digital Electronics,Auto Detect,The course difficulty is poor while assignment workload paravala,1
+19,Suresh,,Management Studies,4,Marketing,Auto Detect,office staff arumaiya iruku and The academic support is okay and nothing special,5
+0,Sneha,S6758,Information Technology,3,Web Technology,Auto Detect,aasiriyar teaching style average ah iruku,5
+37,Anita,,Information Technology,1,Cloud Computing,Auto Detect,हॉस्टल का रखरखाव बेकार है और परिसर की सुविधाएं न अच्छा है न बुरा,3
+43,,S8555,Information Technology,4,Web Technology,Auto Detect,lab ke computers bilkul kaam nahi karta,
+18,Sneha,S1988,Management Studies,3,Finance,Auto Detect,हॉस्टल का खाना घटिया है और हॉस्टल की सुरक्षा अच्छा नहीं है.,1
+44,Priya,S8292,Computer Science,4,Machine Learning,Auto Detect,The subject content is prompt,2
+35,Arun,S8954,Information Technology,1,Cloud Computing,Auto Detect,The course content is okay and the teaching is average.,5
+47,Priya,,Electronics,4,Signals and Systems,Auto Detect,The hostel cleanliness is decent but WiFi average ஆக உள்ளது.,1
+20,Priya,,Civil,3,Concrete Technology,Auto Detect,நூலகம் குறைவாக உள்ளது மற்றும் குடிநீர் சரியாக இல்லை.,1
+8,,S7476,Computer Science,2,Machine Learning,Auto Detect,exam schedule bahut badhiya hai aur The safety in the hostel is very good.,2
+40,Suresh,S6084,Information Technology,3,Computer Networks,Auto Detect,The parking is excellent while நூலகம் குறைவாக உள்ளது,1
+52,Divya,S7050,Management Studies,3,Marketing,Auto Detect,The water supply in the hostel மிகவும் poor ஆக உள்ளது,
+6,Suresh,,Computer Science,4,Data Structures,Auto Detect,जमा करने की समय-सीमा बहुत कम है लेकिन डाउट क्लियरिंग सत्र बहुत उपयोगी है.,1
+27,Karthik,,Mechanical,1,Thermodynamics,Auto Detect,கல்லூரி நிகழ்வுகள் மிகவும் மோசமாக உள்ளது ஆனால் பணிகளின் சுமை சுமாராக உள்ளது,5
+10,Suresh,,Information Technology,1,Web Technology,Auto Detect,parking work agala,3
+12,Anita,S9376,Mechanical,4,Thermodynamics,Auto Detect,The internet connection is dislike,2
+42,Pooja,S6548,Computer Science,1,DBMS,Auto Detect,தேர்வு அட்டவணை okay ஆக உள்ளது ஆனால் जमा करने की समय-सीमा बिल्कुल not working है.,
+52,Pooja,S5845,Management Studies,1,Finance,Auto Detect,wifi speed bahut slow hai,4
+22,Sneha,S6303,Management Studies,4,Finance,Auto Detect,hostel maintenance average hai aur faculty bahut badhiya hai.,4
+55,Mohan,,Management Studies,1,Marketing,Auto Detect,college events romba mokkai ah iruku,5
+21,,S7899,Management Studies,3,Finance,Auto Detect,office staff bahut useful hai aur The hostel security is great and I am satisfied,5
+8,Anita,S1456,Management Studies,2,Marketing,Auto Detect,Computer lab completely useless ஆக உள்ளது,5
+28,,S7095,Management Studies,4,Finance,Auto Detect,Campus network excellent है but लैब की सुविधा बहुत poor है,4
+36,Rahul,S3957,Information Technology,2,Cloud Computing,Auto Detect,The teacher's explanation is very good while விடுதி கழிவறைகள் மிகவும் slow ஆக உள்ளது,5
+14,,S2555,Computer Science,2,Machine Learning,Auto Detect,hostel thanni paravala,5
+14,Divya,S2851,Mechanical,1,Fluid Mechanics,Auto Detect,शिक्षकों की व्याख्या बहुत अच्छे से समझाते हैं लेकिन वाईफाई बार-बार डिस्कनेक्ट हो जाता है.,5
+51,Vikram,S2877,Computer Science,1,DBMS,Auto Detect,Teaching romba nalla iruku but lab equipment illa.,5
+34,Divya,S2525,Mechanical,2,Fluid Mechanics,Auto Detect,பாடங்களின் கடினத்தன்மை திருப்தியாக உள்ளது ஆனால் வைஃபை மிகவும் மெதுவாக உள்ளது,4
+25,Anita,S4491,Computer Science,4,Machine Learning,Auto Detect,The internet is poor,
+8,Priya,,Management Studies,2,Operations,Auto Detect,प्राध्यापकों का पढ़ाना बहुत कम है और प्रशासन बेकार है.,
+55,Anita,,Management Studies,3,Operations,Auto Detect,पुस्तकालय पर्याप्त नहीं है,5
+52,Divya,S9596,Computer Science,3,DBMS,Auto Detect,hostel ki bijli normal hai,
+22,Vikram,S2850,Civil,1,Concrete Technology,Auto Detect,The security guards not good है,1
+22,Sneha,S8206,Electronics,1,Digital Electronics,Auto Detect,bus service bahut useful hai,3
+4,,S5751,Computer Science,4,Operating Systems,Auto Detect,The parking மிகவும் slow ஆக உள்ளது,4
+34,,,Electronics,3,Signals and Systems,Auto Detect,அலுவலக ஊழியர்கள் not good ஆக உள்ளது,
+21,,S8929,Computer Science,1,Data Structures,Auto Detect,प्रशासन सामान्य है और hostel maintenance paravala,
+39,,,Information Technology,4,Computer Networks,Auto Detect,hostel room okay okay iruku,1
+54,Divya,,Management Studies,1,Finance,Auto Detect,The room facilities is very bad,2
+13,Karthik,S1715,Civil,2,Surveying,Auto Detect,hostel security nalla illa,2
+29,Sneha,S6794,Management Studies,3,Marketing,Auto Detect,हॉस्टल की सुरक्षा पर्याप्त नहीं है,2
+30,Arun,S1743,Civil,2,Concrete Technology,Auto Detect,Syllabus is outdated and has no practical relevance.,5
+17,Priya,S5293,Information Technology,3,Cloud Computing,Auto Detect,விடுதி பாதுகாப்பு திருப்தியாக உள்ளது,4
+37,,,Civil,1,Concrete Technology,Auto Detect,कॉलेज का नेटवर्क घटिया है,
+49,Meena,,Information Technology,3,Computer Networks,Auto Detect,WiFi speed மிகவும் slow ஆக உள்ளது,1
+43,Anita,,Information Technology,2,Computer Networks,Auto Detect,hostel ke room accha nahi hai,4
+25,Pooja,S6295,Management Studies,4,Operations,Auto Detect,The hostel washrooms is average,2
+51,Anita,S4364,Information Technology,1,Cloud Computing,Auto Detect,study material mast hai,3
+28,Rahul,,Mechanical,1,Thermodynamics,Auto Detect,लैब की सुविधा बहुत बड़ी समस्या है,2
+19,Meena,S6578,Management Studies,1,Marketing,Auto Detect,The internet connection is irregular,4
+37,Meena,S8665,Computer Science,3,DBMS,Auto Detect,हॉस्टल का रखरखाव बेकार है लेकिन शिक्षण औसत है.,5
+53,Karthik,S5219,Computer Science,1,Operating Systems,Auto Detect,college events average hai lekin mess ka khana normal hai.,5
+15,,S7546,Electronics,4,Digital Electronics,Auto Detect,கணினி ஆய்வகம் மிகவும் மோசமாக உள்ளது ஆனால் வினாத்தாள்கள் மோசமாக உள்ளது,4
+55,Priya,S1930,Electronics,2,Embedded Systems,Auto Detect,कॉलेज का नेटवर्क बार-बार डिस्कनेक्ट हो जाता है,
+4,,,Computer Science,3,Operating Systems,Auto Detect,हॉस्टल का खाना terrible है,
+17,Arun,,Information Technology,1,Web Technology,Auto Detect,lab ke computers enough nahi hai,2
+55,,,Electronics,4,Embedded Systems,Auto Detect,परिसर की सुविधाएं सामान्य है,5
+11,Mohan,,Electronics,1,Embedded Systems,Auto Detect,"वाईफाई बिल्कुल काम नहीं करता, बहुत बड़ी समस्या है।",4
+49,Meena,S8591,Electronics,1,Digital Electronics,Auto Detect,हॉस्टल के कमरे fine है,2
+41,,S6393,Civil,2,Surveying,Auto Detect,बस सेवा न अच्छा है न बुरा,
+13,Priya,S6926,Information Technology,4,Computer Networks,Auto Detect,Teacher explanation अच्छा है but WiFi बहुत slow है.,4
+37,,S6420,Management Studies,2,Operations,Auto Detect,The power supply बहुत slow है लेकिन My hostel room बहुत good है,4
+52,,,Electronics,3,Embedded Systems,Auto Detect,வைஃபை முற்றிலும் வேலை செய்யவில்லை,4
+29,Anita,S5488,Management Studies,2,Finance,Auto Detect,The hostel security is not safe at night,
+30,Anita,S4738,Civil,4,Surveying,Auto Detect,The laboratory facilities is stale,
+8,Vikram,S3978,Civil,3,Concrete Technology,Auto Detect,விடுதி மின்சாரம் குறைவாக உள்ளது,2

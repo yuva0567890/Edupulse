@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}{{ t('home') }}{% endblock %}
+{% block full %}
+<section class="hero"><div class="inner">
+  <div>
+    <span class="pill"><span class="dot"></span>English · தமிழ் · हिन्दी · Tanglish</span>
+    <h1 style="margin-top:1rem">{{ t('hero_title_1') }}<br><span class="grad">{{ t('hero_title_2') }}</span></h1>
+    <p class="lead">{{ t('hero_sub') }}</p>
+    <div class="row mt">
+      <a class="btn btn-primary" href="{{ url_for('public.feedback') }}">✍️ {{ t('try_it') }}</a>
+      <a class="btn btn-ghost" href="{{ url_for('admin.dashboard') }}">📊 {{ t('view_dashboard') }}</a>
+    </div>
+  </div>
+  <div class="demo-card" aria-hidden="true">
+    <div class="small muted">Teacher explanation super but WiFi romba slow.</div>
+    <div class="row mt" style="gap:.5rem">
+      <span class="badge b-negative">Negative</span><span class="badge b-positive">Teaching ✓</span><span class="badge b-negative">Wi-Fi ✗</span>
+    </div>
+    <div class="mt"><div class="small muted">{{ t('priority') }}</div><div class="scorebar" style="margin-top:.3rem"><i style="width:62%;background:linear-gradient(90deg,var(--neu),var(--high))"></i></div></div>
+    <div class="reco mt small">⚡ Check network speed, access points, connectivity and internet availability.</div>
+  </div>
+</div></section>
+<div class="container">
+  <h2 class="center mb">{{ t('features') }}</h2>
+  <div class="grid g3">
+    {% for ic, title, body in [
+      ('🌐','Multilingual & code-mixed','Language identification and Tanglish / Hinglish normalisation for Tamil, Hindi, English and mixed text.'),
+      ('🎯','Aspect-based sentiment','Teaching, Lab / Infrastructure, Course Content and Wi-Fi - each with its own sentiment.'),
+      ('🔥','Priority scoring','Severity × Frequency × Aspect criticality, normalised to 0-100 from real stored feedback.'),
+      ('🔍','TF-IDF explainability','See the exact words that drove each classification, in plain language.'),
+      ('💡','Action recommendations','Rule-based actions in English, Tamil and Hindi with escalation for recurring issues.'),
+      ('📈','Live analytics','Eight charts, filters, search, CSV export and a feedback explorer for administrators.')] %}
+    <div class="card hover feature"><div class="ic">{{ ic }}</div><div><h3>{{ title }}</h3><p class="muted small" style="margin:0">{{ body }}</p></div></div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

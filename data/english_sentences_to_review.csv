@@ -1,0 +1,530 @@
+﻿language,text,sentiment,category,review_reason,review_status
+English,The college manages the opening hours well because it is well maintained.,Positive,Library,"well maintained, awkward_college_manages",PENDING
+English,The college should improve the online learning resources because it is slow.,Negative,Academics,slow,PENDING
+English,I have had a positive experience with the waste management; it is well maintained.,Positive,Safety and Hygiene,well maintained,PENDING
+English,"In my experience, the medical room is efficient.",Positive,Campus Facilities,efficient,PENDING
+English,The department discusses maintenance service during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,I am satisfied with the classroom furniture because it is well maintained.,Positive,Infrastructure,well maintained,PENDING
+English,"In my experience, the course materials is well maintained.",Positive,Academics,well maintained,PENDING
+English,The college manages the classroom lighting well because it is consistent.,Positive,Infrastructure,"consistent, awkward_college_manages",PENDING
+English,The emergency exits is helpful and meets students' needs.,Positive,Safety and Hygiene,grammar_suspect,PENDING
+English,"In my experience, the drinking water facilities is unreliable.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,I have had a positive experience with the laboratory exercises; it is consistent.,Positive,Academics,consistent,PENDING
+English,"In my experience, the bathroom facilities is well maintained.",Positive,Hostel,"well maintained, grammar_suspect",PENDING
+English,I am satisfied with the bathroom facilities because it is consistent.,Positive,Hostel,consistent,PENDING
+English,I have had a positive experience with the medical room; it is efficient.,Positive,Campus Facilities,efficient,PENDING
+English,The department discusses serving staff during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,I have had a positive experience with the maintenance service; it is efficient.,Positive,Hostel,efficient,PENDING
+English,The department discusses projectors during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,The college manages the serving staff well because it is reliable.,Positive,Food / Mess,awkward_college_manages,PENDING
+English,I am satisfied with the classroom ventilation because it is prompt.,Positive,Infrastructure,prompt,PENDING
+English,I have had a positive experience with the office hours; it is efficient.,Positive,Faculty,efficient,PENDING
+English,The department discusses bus routes during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,The bus timings is well maintained and meets students' needs.,Positive,Transport,well maintained,PENDING
+English,The maintenance service is slow and needs improvement.,Negative,Hostel,slow,PENDING
+English,The college manages the drinking water well because it is comfortable.,Positive,Food / Mess,"comfortable, awkward_college_manages",PENDING
+English,The department discusses course materials during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,"In my experience, the handwashing facilities is reliable.",Positive,Safety and Hygiene,grammar_suspect,PENDING
+English,I am satisfied with the laboratory equipment because it is efficient.,Positive,Infrastructure,efficient,PENDING
+English,The department discusses lecturer's explanations during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The sports facilities is unsatisfactory and needs improvement.,Negative,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses hostel rooms during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,The college manages the bus routes well because it is prompt.,Positive,Transport,"prompt, awkward_college_manages",PENDING
+English,Information about hostel rooms is available through the student portal.,Neutral,Hostel,grammar_suspect,PENDING
+English,I am satisfied with the security arrangements because it is efficient.,Positive,Hostel,efficient,PENDING
+English,The college manages the registration procedure well because it is well maintained.,Positive,Administration,"well maintained, awkward_college_manages",PENDING
+English,I am satisfied with the student help desk because it is easy to use.,Positive,Administration,easy to use,PENDING
+English,"In my experience, the common areas is unclear.",Negative,Hostel,grammar_suspect,PENDING
+English,The college manages the food quality well because it is prompt.,Positive,Food / Mess,"prompt, awkward_college_manages",PENDING
+English,The college manages the pickup points well because it is efficient.,Positive,Transport,"efficient, awkward_college_manages",PENDING
+English,The college manages the registration procedure well because it is comfortable.,Positive,Administration,"comfortable, awkward_college_manages",PENDING
+English,I am satisfied with the drinking water facilities because it is well maintained.,Positive,Campus Facilities,well maintained,PENDING
+English,"In my experience, the common areas is easy to use.",Positive,Hostel,"easy to use, grammar_suspect",PENDING
+English,The common areas is excellent and meets students' needs.,Positive,Hostel,grammar_suspect,PENDING
+English,The department discusses online learning resources during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,I am satisfied with the project support because it is consistent.,Positive,Faculty,consistent,PENDING
+English,The department discusses fee payment system during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,I am dissatisfied with the library collection because it is slow.,Negative,Library,slow,PENDING
+English,The college manages the washroom cleanliness well because it is comfortable.,Positive,Safety and Hygiene,"comfortable, awkward_college_manages",PENDING
+English,The department discusses security arrangements during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,The college manages the common areas well because it is satisfactory.,Positive,Campus Facilities,awkward_college_manages,PENDING
+English,The college should improve the drinking water because it is slow.,Negative,Food / Mess,slow,PENDING
+English,I have had a positive experience with the sports facilities; it is consistent.,Positive,Campus Facilities,consistent,PENDING
+English,The sports facilities are modern and well maintained.,Positive,Campus Facilities,well maintained,PENDING
+English,"In my experience, the driver behaviour is consistent.",Positive,Transport,consistent,PENDING
+English,I have had a positive experience with the online catalogue; it is efficient.,Positive,Library,efficient,PENDING
+English,The department discusses meal service during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,I have had a positive experience with the common areas; it is efficient.,Positive,Hostel,efficient,PENDING
+English,I am satisfied with the campus Wi-Fi because it is efficient.,Positive,Campus Facilities,efficient,PENDING
+English,"In my experience, the bus routes is poorly organized.",Negative,Transport,grammar_suspect,PENDING
+English,I have had a positive experience with the meal service; it is comfortable.,Positive,Food / Mess,comfortable,PENDING
+English,I am satisfied with the laboratory equipment because it is prompt.,Positive,Infrastructure,prompt,PENDING
+English,"In my experience, the common areas is helpful.",Positive,Hostel,grammar_suspect,PENDING
+English,Information about handwashing facilities is available through the student portal.,Neutral,Safety and Hygiene,grammar_suspect,PENDING
+English,I have had a positive experience with the assessment process; it is efficient.,Positive,Academics,efficient,PENDING
+English,I am satisfied with the hostel Wi-Fi because it is comfortable.,Positive,Hostel,comfortable,PENDING
+English,The department discusses student portal during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,"In my experience, the emergency exits is confusing.",Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the faculty guidance well because it is reliable.,Positive,Faculty,awkward_college_manages,PENDING
+English,The buses are clean and well maintained.,Positive,Transport,well maintained,PENDING
+English,I am satisfied with the hostel rooms because it is prompt.,Positive,Hostel,prompt,PENDING
+English,The college manages the project support well because it is prompt.,Positive,Faculty,"prompt, awkward_college_manages",PENDING
+English,I have had a positive experience with the handwashing facilities; it is efficient.,Positive,Safety and Hygiene,efficient,PENDING
+English,The emergency exits is unsatisfactory and needs improvement.,Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the laboratory exercises well because it is consistent.,Positive,Academics,"consistent, awkward_college_manages",PENDING
+English,Information about common areas is available through the student portal.,Neutral,Campus Facilities,grammar_suspect,PENDING
+English,The college manages the emergency exits well because it is helpful.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The drinking water facilities is efficient and meets students' needs.,Positive,Campus Facilities,"efficient, grammar_suspect",PENDING
+English,"In my experience, the vegetarian options is well maintained.",Positive,Food / Mess,well maintained,PENDING
+English,"In my experience, the waiting areas is poorly maintained.",Negative,Transport,grammar_suspect,PENDING
+English,"In my experience, the projectors is easy to use.",Positive,Infrastructure,easy to use,PENDING
+English,I have had a positive experience with the emergency exits; it is easy to use.,Positive,Safety and Hygiene,easy to use,PENDING
+English,The college manages the complaint desk well because it is reliable.,Positive,Administration,awkward_college_manages,PENDING
+English,I have had a positive experience with the document verification process; it is well maintained.,Positive,Administration,well maintained,PENDING
+English,The classroom lighting is prompt and meets students' needs.,Positive,Infrastructure,prompt,PENDING
+English,I have had a positive experience with the classroom lighting; it is well maintained.,Positive,Infrastructure,well maintained,PENDING
+English,The college manages the washroom cleanliness well because it is reliable.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The college manages the registration procedure well because it is excellent.,Positive,Administration,awkward_college_manages,PENDING
+English,I have had a positive experience with the borrowing rules; it is consistent.,Positive,Library,consistent,PENDING
+English,The college manages the laboratory exercises well because it is well maintained.,Positive,Academics,"well maintained, awkward_college_manages",PENDING
+English,"In my experience, the common areas is excellent.",Positive,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses opening hours during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,"In my experience, the document verification process is consistent.",Positive,Administration,consistent,PENDING
+English,The assignment feedback is easy to use and meets students' needs.,Positive,Faculty,easy to use,PENDING
+English,I am satisfied with the food quality because it is prompt.,Positive,Food / Mess,prompt,PENDING
+English,"In my experience, the course materials is prompt.",Positive,Academics,prompt,PENDING
+English,I am satisfied with the bus service because it is efficient.,Positive,Transport,efficient,PENDING
+English,The college manages the washroom cleanliness well because it is prompt.,Positive,Safety and Hygiene,"prompt, awkward_college_manages",PENDING
+English,I am satisfied with the meal service because it is efficient.,Positive,Food / Mess,efficient,PENDING
+English,The security service is prompt and meets students' needs.,Positive,Safety and Hygiene,prompt,PENDING
+English,The complaint desk is efficient and meets students' needs.,Positive,Administration,efficient,PENDING
+English,The college manages the fee payment system well because it is prompt.,Positive,Administration,"prompt, awkward_college_manages",PENDING
+English,The college manages the emergency exits well because it is reliable.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,I have had a positive experience with the mess food; it is efficient.,Positive,Food / Mess,efficient,PENDING
+English,I am satisfied with the security service because it is consistent.,Positive,Safety and Hygiene,consistent,PENDING
+English,I have had a positive experience with the bathroom facilities; it is efficient.,Positive,Hostel,efficient,PENDING
+English,I am satisfied with the assignment feedback because it is prompt.,Positive,Faculty,prompt,PENDING
+English,"In my experience, the sports facilities is inadequate.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses bathroom facilities during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,"In my experience, the bathroom facilities is poorly maintained.",Negative,Hostel,grammar_suspect,PENDING
+English,The college manages the certificate application process well because it is excellent.,Positive,Administration,awkward_college_manages,PENDING
+English,The college manages the digital journals well because it is satisfactory.,Positive,Library,awkward_college_manages,PENDING
+English,"In my experience, the student help desk is easy to use.",Positive,Administration,easy to use,PENDING
+English,I am satisfied with the bus routes because it is comfortable.,Positive,Transport,comfortable,PENDING
+English,The college manages the practical sessions well because it is excellent.,Positive,Academics,awkward_college_manages,PENDING
+English,I have had a positive experience with the student portal; it is comfortable.,Positive,Administration,comfortable,PENDING
+English,The computers in the library are slow and unreliable.,Negative,Library,slow,PENDING
+English,I have had a positive experience with the campus lighting; it is easy to use.,Positive,Safety and Hygiene,easy to use,PENDING
+English,Information about bathroom facilities is available through the student portal.,Neutral,Hostel,grammar_suspect,PENDING
+English,The department discusses faculty guidance during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The approval process is efficient and well organized.,Positive,Administration,efficient,PENDING
+English,The department discusses hostel Wi-Fi during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,The college manages the digital journals well because it is well maintained.,Positive,Library,"well maintained, awkward_college_manages",PENDING
+English,I am satisfied with the campus buildings because it is prompt.,Positive,Infrastructure,prompt,PENDING
+English,I am dissatisfied with the meal service because it is slow.,Negative,Food / Mess,slow,PENDING
+English,The common areas is well organized and meets students' needs.,Positive,Hostel,grammar_suspect,PENDING
+English,"In my experience, the hostel rooms is helpful.",Positive,Hostel,grammar_suspect,PENDING
+English,The department discusses assignment feedback during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,I have had a poor experience with the security service; it is slow.,Negative,Safety and Hygiene,slow,PENDING
+English,The registration procedure is consistent and meets students' needs.,Positive,Administration,consistent,PENDING
+English,"In my experience, the common areas is reliable.",Positive,Campus Facilities,grammar_suspect,PENDING
+English,"In my experience, the project support is efficient.",Positive,Faculty,efficient,PENDING
+English,"In my experience, the campus lighting is prompt.",Positive,Safety and Hygiene,prompt,PENDING
+English,"In my experience, the washroom cleanliness is well maintained.",Positive,Safety and Hygiene,well maintained,PENDING
+English,I am satisfied with the certificate application process because it is well maintained.,Positive,Administration,well maintained,PENDING
+English,The emergency exits is confusing and needs improvement.,Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the office hours well because it is clear.,Positive,Faculty,awkward_college_manages,PENDING
+English,I have had a poor experience with the campus Wi-Fi; it is slow.,Negative,Campus Facilities,slow,PENDING
+English,"In my experience, the laundry service is comfortable.",Positive,Hostel,comfortable,PENDING
+English,The department discusses classroom teaching during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The department discusses assignment instructions during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,The college should improve the hostel Wi-Fi because it is slow.,Negative,Hostel,slow,PENDING
+English,The college manages the handwashing facilities well because it is helpful.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The bus routes is well organized and meets students' needs.,Positive,Transport,grammar_suspect,PENDING
+English,"In my experience, the emergency exits is uncomfortable.",Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The food quality is easy to use and meets students' needs.,Positive,Food / Mess,easy to use,PENDING
+English,The drinking water is well maintained and meets students' needs.,Positive,Food / Mess,well maintained,PENDING
+English,"In my experience, the bathroom facilities is inconsistent.",Negative,Hostel,grammar_suspect,PENDING
+English,I am satisfied with the lecturer's explanations because it is well maintained.,Positive,Faculty,well maintained,PENDING
+English,The campus lighting is slow and needs improvement.,Negative,Safety and Hygiene,slow,PENDING
+English,The course materials is well maintained and meets students' needs.,Positive,Academics,well maintained,PENDING
+English,The projectors is easy to use and meets students' needs.,Positive,Infrastructure,easy to use,PENDING
+English,"In my experience, the drinking water is efficient.",Positive,Food / Mess,efficient,PENDING
+English,The department discusses mess food during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,I have had a poor experience with the washroom cleanliness; it is slow.,Negative,Safety and Hygiene,slow,PENDING
+English,The college manages the certificate application process well because it is efficient.,Positive,Administration,"efficient, awkward_college_manages",PENDING
+English,The student help desk is well maintained and meets students' needs.,Positive,Administration,well maintained,PENDING
+English,The department discusses classroom ventilation during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,The complaint desk is easy to use and meets students' needs.,Positive,Administration,easy to use,PENDING
+English,Information about waiting areas is available through the student portal.,Neutral,Transport,grammar_suspect,PENDING
+English,The college manages the security service well because it is well maintained.,Positive,Safety and Hygiene,"well maintained, awkward_college_manages",PENDING
+English,The college manages the computer laboratory well because it is reliable.,Positive,Infrastructure,awkward_college_manages,PENDING
+English,The waiting areas is poorly organized and needs improvement.,Negative,Transport,grammar_suspect,PENDING
+English,The drinking water points are clean and well maintained.,Positive,Campus Facilities,well maintained,PENDING
+English,The college manages the library collection well because it is reliable.,Positive,Library,awkward_college_manages,PENDING
+English,The laboratory exercises is slow and needs improvement.,Negative,Academics,slow,PENDING
+English,I have had a positive experience with the online learning resources; it is comfortable.,Positive,Academics,comfortable,PENDING
+English,"In my experience, the bus routes is excellent.",Positive,Transport,grammar_suspect,PENDING
+English,The department discusses sports facilities during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,The waste management is easy to use and meets students' needs.,Positive,Safety and Hygiene,easy to use,PENDING
+English,Information about emergency exits is available through the student portal.,Neutral,Safety and Hygiene,grammar_suspect,PENDING
+English,I am satisfied with the bus timings because it is efficient.,Positive,Transport,efficient,PENDING
+English,The department discusses security service during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,I have had a positive experience with the classroom furniture; it is comfortable.,Positive,Infrastructure,comfortable,PENDING
+English,The department discusses student help desk during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,The complaint desk is slow and needs improvement.,Negative,Administration,slow,PENDING
+English,I have had a positive experience with the drinking water; it is comfortable.,Positive,Food / Mess,comfortable,PENDING
+English,The college manages the assignment feedback well because it is easy to use.,Positive,Faculty,"easy to use, awkward_college_manages",PENDING
+English,The college manages the hostel Wi-Fi well because it is comfortable.,Positive,Hostel,"comfortable, awkward_college_manages",PENDING
+English,"In my experience, the library collection is consistent.",Positive,Library,consistent,PENDING
+English,The sports facilities is poorly maintained and needs improvement.,Negative,Campus Facilities,grammar_suspect,PENDING
+English,The drinking water points is consistent and meets students' needs.,Positive,Safety and Hygiene,consistent,PENDING
+English,I have had a positive experience with the reading area; it is consistent.,Positive,Library,consistent,PENDING
+English,The course materials is slow and needs improvement.,Negative,Academics,slow,PENDING
+English,The college manages the dining area well because it is prompt.,Positive,Food / Mess,"prompt, awkward_college_manages",PENDING
+English,The department discusses campus buildings during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,The college manages the opening hours well because it is consistent.,Positive,Library,"consistent, awkward_college_manages",PENDING
+English,I have had a positive experience with the medical room; it is comfortable.,Positive,Campus Facilities,comfortable,PENDING
+English,The security service is efficient and meets students' needs.,Positive,Safety and Hygiene,efficient,PENDING
+English,"In my experience, the student help desk is well maintained.",Positive,Administration,well maintained,PENDING
+English,"In my experience, the classroom furniture is comfortable.",Positive,Infrastructure,comfortable,PENDING
+English,The college manages the sports facilities well because it is reliable.,Positive,Campus Facilities,awkward_college_manages,PENDING
+English,The department discusses registration procedure during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,The college manages the common areas well because it is well organized.,Positive,Campus Facilities,awkward_college_manages,PENDING
+English,The college manages the common areas well because it is comfortable.,Positive,Hostel,"comfortable, awkward_college_manages",PENDING
+English,The college manages the reading area well because it is helpful.,Positive,Library,awkward_college_manages,PENDING
+English,"In my experience, the sports facilities is uncomfortable.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses campus pathways during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,I have had a positive experience with the mess food; it is comfortable.,Positive,Food / Mess,comfortable,PENDING
+English,The college manages the registration procedure well because it is consistent.,Positive,Administration,"consistent, awkward_college_manages",PENDING
+English,The college manages the borrowing rules well because it is helpful.,Positive,Library,awkward_college_manages,PENDING
+English,The college manages the laboratory equipment well because it is well organized.,Positive,Infrastructure,awkward_college_manages,PENDING
+English,I am satisfied with the common areas because it is well maintained.,Positive,Campus Facilities,well maintained,PENDING
+English,I am satisfied with the waiting areas because it is well maintained.,Positive,Transport,well maintained,PENDING
+English,The books are well maintained and easy to find.,Positive,Library,well maintained,PENDING
+English,The department discusses food quality during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,The department discusses library computers during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,"In my experience, the sports facilities is satisfactory.",Positive,Campus Facilities,grammar_suspect,PENDING
+English,The handwashing facilities is uncomfortable and needs improvement.,Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the mess food well because it is prompt.,Positive,Food / Mess,"prompt, awkward_college_manages",PENDING
+English,"In my experience, the driver behaviour is well maintained.",Positive,Transport,well maintained,PENDING
+English,The classroom lighting is bright and comfortable.,Positive,Infrastructure,comfortable,PENDING
+English,"In my experience, the bus routes is unreliable.",Negative,Transport,grammar_suspect,PENDING
+English,The project support is efficient and meets students' needs.,Positive,Faculty,efficient,PENDING
+English,I have had a positive experience with the library collection; it is easy to use.,Positive,Library,easy to use,PENDING
+English,The college manages the mess food well because it is efficient.,Positive,Food / Mess,"efficient, awkward_college_manages",PENDING
+English,I am satisfied with the assignment feedback because it is well maintained.,Positive,Faculty,well maintained,PENDING
+English,The department discusses common areas during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,The department discusses practical sessions during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,I am satisfied with the drinking water because it is comfortable.,Positive,Food / Mess,comfortable,PENDING
+English,I am satisfied with the laundry service because it is efficient.,Positive,Hostel,efficient,PENDING
+English,The college manages the fee payment system well because it is comfortable.,Positive,Administration,"comfortable, awkward_college_manages",PENDING
+English,The corridors are clean and well maintained.,Positive,Safety and Hygiene,well maintained,PENDING
+English,I have had a positive experience with the security service; it is efficient.,Positive,Safety and Hygiene,efficient,PENDING
+English,The registration procedure is comfortable and meets students' needs.,Positive,Administration,comfortable,PENDING
+English,"In my experience, the common areas is unsatisfactory.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses reading area during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,The college manages the security service well because it is excellent.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The bathroom facilities is helpful and meets students' needs.,Positive,Hostel,grammar_suspect,PENDING
+English,"In my experience, the security service is slow.",Negative,Safety and Hygiene,slow,PENDING
+English,The college manages the emergency exits well because it is clear.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,I have had a positive experience with the lecturer's explanations; it is efficient.,Positive,Faculty,efficient,PENDING
+English,The department discusses computer laboratory during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,"In my experience, the borrowing rules is prompt.",Positive,Library,prompt,PENDING
+English,The college manages the driver behaviour well because it is helpful.,Positive,Transport,awkward_college_manages,PENDING
+English,The laboratory equipment is well maintained and meets students' needs.,Positive,Infrastructure,well maintained,PENDING
+English,The college manages the office hours well because it is helpful.,Positive,Faculty,awkward_college_manages,PENDING
+English,The college manages the waste management well because it is well organized.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,I have had a positive experience with the sports facilities; it is well maintained.,Positive,Campus Facilities,well maintained,PENDING
+English,The college manages the student portal well because it is prompt.,Positive,Administration,"prompt, awkward_college_manages",PENDING
+English,The bus seats are comfortable and well maintained.,Positive,Transport,"comfortable, well maintained",PENDING
+English,The college manages the common areas well because it is consistent.,Positive,Campus Facilities,"consistent, awkward_college_manages",PENDING
+English,"In my experience, the computer laboratory is comfortable.",Positive,Infrastructure,comfortable,PENDING
+English,The opening hours is well maintained and meets students' needs.,Positive,Library,well maintained,PENDING
+English,The college manages the classroom ventilation well because it is satisfactory.,Positive,Infrastructure,awkward_college_manages,PENDING
+English,I am satisfied with the classroom teaching because it is prompt.,Positive,Faculty,prompt,PENDING
+English,I have had a positive experience with the seating areas; it is easy to use.,Positive,Campus Facilities,easy to use,PENDING
+English,The department discusses vegetarian options during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,The certificate application process is simple and efficient.,Positive,Administration,efficient,PENDING
+English,I have had a positive experience with the drinking water points; it is consistent.,Positive,Safety and Hygiene,consistent,PENDING
+English,The classroom furniture is comfortable and well maintained.,Positive,Infrastructure,"comfortable, well maintained",PENDING
+English,The department discusses washroom cleanliness during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,The opening hours is consistent and meets students' needs.,Positive,Library,consistent,PENDING
+English,"In my experience, the fee payment system is comfortable.",Positive,Administration,comfortable,PENDING
+English,The campus buildings is easy to use and meets students' needs.,Positive,Infrastructure,easy to use,PENDING
+English,The department discusses assessment process during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,I have had a positive experience with the projectors; it is prompt.,Positive,Infrastructure,prompt,PENDING
+English,The college manages the classroom ventilation well because it is consistent.,Positive,Infrastructure,"consistent, awkward_college_manages",PENDING
+English,I have had a positive experience with the campus buildings; it is easy to use.,Positive,Infrastructure,easy to use,PENDING
+English,"In my experience, the emergency exits is consistent.",Positive,Safety and Hygiene,"consistent, grammar_suspect",PENDING
+English,The assessment process is easy to use and meets students' needs.,Positive,Academics,easy to use,PENDING
+English,The department discusses dining area during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,I have had a positive experience with the laundry service; it is comfortable.,Positive,Hostel,comfortable,PENDING
+English,The department discusses certificate application process during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,The lecture schedule is efficient and meets students' needs.,Positive,Academics,efficient,PENDING
+English,The food quality is consistent throughout the week.,Positive,Food / Mess,consistent,PENDING
+English,"The hostel rooms are clean, spacious, and comfortable.",Positive,Hostel,comfortable,PENDING
+English,The college manages the bus maintenance well because it is helpful.,Positive,Transport,awkward_college_manages,PENDING
+English,The waiting areas is clear and meets students' needs.,Positive,Transport,grammar_suspect,PENDING
+English,"In my experience, the dining area is easy to use.",Positive,Food / Mess,easy to use,PENDING
+English,The college manages the assessment process well because it is satisfactory.,Positive,Academics,awkward_college_manages,PENDING
+English,"In my experience, the bathroom facilities is consistent.",Positive,Hostel,"consistent, grammar_suspect",PENDING
+English,The department discusses medical room during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,I have had a positive experience with the vegetarian options; it is well maintained.,Positive,Food / Mess,well maintained,PENDING
+English,I am satisfied with the assignment feedback because it is consistent.,Positive,Faculty,consistent,PENDING
+English,I am dissatisfied with the assignment feedback because it is slow.,Negative,Faculty,slow,PENDING
+English,The department discusses seating areas during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,The online application portal is reliable and easy to use.,Positive,Administration,easy to use,PENDING
+English,"In my experience, the reading area is prompt.",Positive,Library,prompt,PENDING
+English,The reading area is consistent and meets students' needs.,Positive,Library,consistent,PENDING
+English,The department discusses bus maintenance during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,I have had a positive experience with the laundry service; it is consistent.,Positive,Hostel,consistent,PENDING
+English,The classroom teaching is efficient and meets students' needs.,Positive,Faculty,efficient,PENDING
+English,The serving staff are friendly and efficient.,Positive,Food / Mess,efficient,PENDING
+English,I have had a positive experience with the complaint desk; it is prompt.,Positive,Administration,prompt,PENDING
+English,The college manages the mess food well because it is excellent.,Positive,Food / Mess,awkward_college_manages,PENDING
+English,"In my experience, the digital journals is prompt.",Positive,Library,prompt,PENDING
+English,I am satisfied with the classroom ventilation because it is well maintained.,Positive,Infrastructure,well maintained,PENDING
+English,I am dissatisfied with the drinking water because it is slow.,Negative,Food / Mess,slow,PENDING
+English,The department discusses bus service during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,I have had a positive experience with the office hours; it is easy to use.,Positive,Faculty,easy to use,PENDING
+English,I have had a positive experience with the classroom ventilation; it is comfortable.,Positive,Infrastructure,comfortable,PENDING
+English,The drinking water facilities is easy to use and meets students' needs.,Positive,Campus Facilities,"easy to use, grammar_suspect",PENDING
+English,"In my experience, the sports facilities is slow.",Negative,Campus Facilities,"slow, grammar_suspect",PENDING
+English,"In my experience, the student help desk is efficient.",Positive,Administration,efficient,PENDING
+English,The registration procedure is well maintained and meets students' needs.,Positive,Administration,well maintained,PENDING
+English,I am satisfied with the washroom cleanliness because it is prompt.,Positive,Safety and Hygiene,prompt,PENDING
+English,I have had a positive experience with the emergency exits; it is consistent.,Positive,Safety and Hygiene,consistent,PENDING
+English,I am satisfied with the bus service because it is easy to use.,Positive,Transport,easy to use,PENDING
+English,The course content is delivered at a comfortable pace.,Positive,Academics,comfortable,PENDING
+English,The college manages the sports facilities well because it is comfortable.,Positive,Campus Facilities,"comfortable, awkward_college_manages",PENDING
+English,I am dissatisfied with the security service because it is slow.,Negative,Safety and Hygiene,slow,PENDING
+English,"In my experience, the registration procedure is prompt.",Positive,Administration,prompt,PENDING
+English,The class discussions is prompt and meets students' needs.,Positive,Faculty,prompt,PENDING
+English,The college manages the campus Wi-Fi well because it is well maintained.,Positive,Campus Facilities,"well maintained, awkward_college_manages",PENDING
+English,I have had a positive experience with the library computers; it is consistent.,Positive,Library,consistent,PENDING
+English,The college manages the practical sessions well because it is well maintained.,Positive,Academics,"well maintained, awkward_college_manages",PENDING
+English,"In my experience, the certificate application process is consistent.",Positive,Administration,consistent,PENDING
+English,"In my experience, the borrowing rules is efficient.",Positive,Library,efficient,PENDING
+English,"In my experience, the lecturer's explanations is consistent.",Positive,Faculty,consistent,PENDING
+English,I am satisfied with the serving staff because it is easy to use.,Positive,Food / Mess,easy to use,PENDING
+English,I have had a positive experience with the waste management; it is prompt.,Positive,Safety and Hygiene,prompt,PENDING
+English,The online learning resources is easy to use and meets students' needs.,Positive,Academics,easy to use,PENDING
+English,"In my experience, the classroom ventilation is slow.",Negative,Infrastructure,slow,PENDING
+English,"In my experience, the handwashing facilities is uncomfortable.",Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The common areas is easy to use and meets students' needs.,Positive,Hostel,"easy to use, grammar_suspect",PENDING
+English,I have had a positive experience with the classroom lighting; it is consistent.,Positive,Infrastructure,consistent,PENDING
+English,The office staff provide clear and consistent information.,Positive,Administration,consistent,PENDING
+English,Information about seating areas is available through the student portal.,Neutral,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses bus timings during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,The drinking water is consistent and meets students' needs.,Positive,Food / Mess,consistent,PENDING
+English,The department discusses campus Wi-Fi during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,The college manages the fee payment system well because it is clear.,Positive,Administration,awkward_college_manages,PENDING
+English,I am satisfied with the campus pathways because it is efficient.,Positive,Campus Facilities,efficient,PENDING
+English,The college manages the security arrangements well because it is consistent.,Positive,Hostel,"consistent, awkward_college_manages",PENDING
+English,"In my experience, the certificate application process is prompt.",Positive,Administration,prompt,PENDING
+English,"In my experience, the seating areas is easy to use.",Positive,Campus Facilities,"easy to use, grammar_suspect",PENDING
+English,The department discusses classroom furniture during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,I am satisfied with the classroom furniture because it is easy to use.,Positive,Infrastructure,easy to use,PENDING
+English,I have had a positive experience with the student help desk; it is well maintained.,Positive,Administration,well maintained,PENDING
+English,I am satisfied with the sports facilities because it is efficient.,Positive,Campus Facilities,efficient,PENDING
+English,The college should improve the lecture schedule because it is slow.,Negative,Academics,slow,PENDING
+English,The hostel rooms is poorly organized and needs improvement.,Negative,Hostel,grammar_suspect,PENDING
+English,I am satisfied with the bus routes because it is efficient.,Positive,Transport,efficient,PENDING
+English,The college manages the drinking water well because it is satisfactory.,Positive,Food / Mess,awkward_college_manages,PENDING
+English,"In my experience, the campus buildings is well maintained.",Positive,Infrastructure,well maintained,PENDING
+English,I have had a positive experience with the security arrangements; it is comfortable.,Positive,Hostel,comfortable,PENDING
+English,The department discusses waste management during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,I am satisfied with the library computers because it is easy to use.,Positive,Library,easy to use,PENDING
+English,I am satisfied with the student portal because it is comfortable.,Positive,Administration,comfortable,PENDING
+English,The college manages the bathroom facilities well because it is clear.,Positive,Hostel,awkward_college_manages,PENDING
+English,The maintenance service is well maintained and meets students' needs.,Positive,Hostel,well maintained,PENDING
+English,The laboratory exercises is efficient and meets students' needs.,Positive,Academics,efficient,PENDING
+English,I am satisfied with the assessment process because it is well maintained.,Positive,Academics,well maintained,PENDING
+English,The college manages the digital journals well because it is consistent.,Positive,Library,"consistent, awkward_college_manages",PENDING
+English,I have had a positive experience with the projectors; it is comfortable.,Positive,Infrastructure,comfortable,PENDING
+English,"In my experience, the hostel rooms is difficult to use.",Negative,Hostel,grammar_suspect,PENDING
+English,The department discusses document verification process during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,The college manages the maintenance service well because it is clear.,Positive,Hostel,awkward_college_manages,PENDING
+English,The seating areas are comfortable and well maintained.,Positive,Campus Facilities,"comfortable, well maintained",PENDING
+English,"In my experience, the bus maintenance is comfortable.",Positive,Transport,comfortable,PENDING
+English,"In my experience, the drinking water points is well maintained.",Positive,Safety and Hygiene,well maintained,PENDING
+English,I am satisfied with the handwashing facilities because it is easy to use.,Positive,Safety and Hygiene,easy to use,PENDING
+English,The college manages the common areas well because it is easy to use.,Positive,Campus Facilities,"easy to use, awkward_college_manages",PENDING
+English,The college should improve the document verification process because it is slow.,Negative,Administration,slow,PENDING
+English,The mess food is comfortable and meets students' needs.,Positive,Food / Mess,comfortable,PENDING
+English,The department discusses driver behaviour during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,The department discusses waiting areas during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,I have had a positive experience with the handwashing facilities; it is prompt.,Positive,Safety and Hygiene,prompt,PENDING
+English,The college manages the opening hours well because it is prompt.,Positive,Library,"prompt, awkward_college_manages",PENDING
+English,The college manages the library computers well because it is excellent.,Positive,Library,awkward_college_manages,PENDING
+English,"In my experience, the online catalogue is efficient.",Positive,Library,efficient,PENDING
+English,The college manages the laundry service well because it is excellent.,Positive,Hostel,awkward_college_manages,PENDING
+English,"In my experience, the emergency exits is easy to use.",Positive,Safety and Hygiene,"easy to use, grammar_suspect",PENDING
+English,The college manages the opening hours well because it is satisfactory.,Positive,Library,awkward_college_manages,PENDING
+English,"In my experience, the classroom lighting is comfortable.",Positive,Infrastructure,comfortable,PENDING
+English,The driver behaviour is consistent and meets students' needs.,Positive,Transport,consistent,PENDING
+English,I have had a positive experience with the course materials; it is easy to use.,Positive,Academics,easy to use,PENDING
+English,I have had a positive experience with the waiting areas; it is easy to use.,Positive,Transport,easy to use,PENDING
+English,I have had a positive experience with the common areas; it is prompt.,Positive,Campus Facilities,prompt,PENDING
+English,The college manages the meal service well because it is easy to use.,Positive,Food / Mess,"easy to use, awkward_college_manages",PENDING
+English,The college manages the vegetarian options well because it is consistent.,Positive,Food / Mess,"consistent, awkward_college_manages",PENDING
+English,The department discusses office hours during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The college manages the hostel rooms well because it is satisfactory.,Positive,Hostel,awkward_college_manages,PENDING
+English,The college manages the assignment instructions well because it is helpful.,Positive,Academics,awkward_college_manages,PENDING
+English,I have had a poor experience with the certificate application process; it is slow.,Negative,Administration,slow,PENDING
+English,I have had a positive experience with the food quality; it is prompt.,Positive,Food / Mess,prompt,PENDING
+English,The department discusses online catalogue during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,The waste management is comfortable and meets students' needs.,Positive,Safety and Hygiene,comfortable,PENDING
+English,The college manages the assignment instructions well because it is consistent.,Positive,Academics,"consistent, awkward_college_manages",PENDING
+English,The department discusses lecture schedule during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,The college manages the course materials well because it is comfortable.,Positive,Academics,"comfortable, awkward_college_manages",PENDING
+English,I have had a positive experience with the student portal; it is prompt.,Positive,Administration,prompt,PENDING
+English,I am satisfied with the medical room because it is prompt.,Positive,Campus Facilities,prompt,PENDING
+English,"In my experience, the security service is easy to use.",Positive,Safety and Hygiene,easy to use,PENDING
+English,The college manages the classroom teaching well because it is clear.,Positive,Faculty,awkward_college_manages,PENDING
+English,I am satisfied with the course materials because it is easy to use.,Positive,Academics,easy to use,PENDING
+English,The department discusses laundry service during scheduled meetings.,Neutral,Hostel,awkward_department_discusses,PENDING
+English,"In my experience, the common areas is poorly maintained.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,"In my experience, the campus Wi-Fi is slow.",Negative,Campus Facilities,slow,PENDING
+English,The department discusses emergency exits during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,"In my experience, the seating areas is excellent.",Positive,Campus Facilities,grammar_suspect,PENDING
+English,The common areas is inconsistent and needs improvement.,Negative,Campus Facilities,grammar_suspect,PENDING
+English,The college manages the complaint desk well because it is efficient.,Positive,Administration,"efficient, awkward_college_manages",PENDING
+English,The college manages the meal service well because it is prompt.,Positive,Food / Mess,"prompt, awkward_college_manages",PENDING
+English,I am satisfied with the common areas because it is prompt.,Positive,Campus Facilities,prompt,PENDING
+English,The college manages the lecture schedule well because it is easy to use.,Positive,Academics,"easy to use, awkward_college_manages",PENDING
+English,"In my experience, the hostel rooms is poorly maintained.",Negative,Hostel,grammar_suspect,PENDING
+English,The common areas are quiet and comfortable at night.,Positive,Hostel,comfortable,PENDING
+English,The waiting areas is unreliable and needs improvement.,Negative,Transport,grammar_suspect,PENDING
+English,The college manages the security service well because it is easy to use.,Positive,Safety and Hygiene,"easy to use, awkward_college_manages",PENDING
+English,I have had a poor experience with the campus pathways; it is slow.,Negative,Campus Facilities,slow,PENDING
+English,"In my experience, the laboratory exercises is consistent.",Positive,Academics,consistent,PENDING
+English,Information about bus routes is available through the student portal.,Neutral,Transport,grammar_suspect,PENDING
+English,The department discusses laboratory equipment during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,I am satisfied with the waiting areas because it is easy to use.,Positive,Transport,easy to use,PENDING
+English,I am satisfied with the registration procedure because it is easy to use.,Positive,Administration,easy to use,PENDING
+English,The college manages the food quality well because it is efficient.,Positive,Food / Mess,"efficient, awkward_college_manages",PENDING
+English,"In my experience, the office hours is well maintained.",Positive,Faculty,well maintained,PENDING
+English,The college manages the reading area well because it is consistent.,Positive,Library,"consistent, awkward_college_manages",PENDING
+English,The department discusses library collection during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,The campus lighting is efficient and meets students' needs.,Positive,Safety and Hygiene,efficient,PENDING
+English,The college manages the project support well because it is well organized.,Positive,Faculty,awkward_college_manages,PENDING
+English,The college manages the common areas well because it is excellent.,Positive,Hostel,awkward_college_manages,PENDING
+English,The common areas is efficient and meets students' needs.,Positive,Hostel,"efficient, grammar_suspect",PENDING
+English,The college manages the opening hours well because it is clear.,Positive,Library,awkward_college_manages,PENDING
+English,"In my experience, the serving staff is consistent.",Positive,Food / Mess,consistent,PENDING
+English,The maintenance service is easy to use and meets students' needs.,Positive,Hostel,easy to use,PENDING
+English,The college should improve the campus buildings because it is slow.,Negative,Infrastructure,slow,PENDING
+English,The handwashing facilities is helpful and meets students' needs.,Positive,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the pickup points well because it is prompt.,Positive,Transport,"prompt, awkward_college_manages",PENDING
+English,I am satisfied with the classroom teaching because it is comfortable.,Positive,Faculty,comfortable,PENDING
+English,The department discusses classroom lighting during scheduled meetings.,Neutral,Infrastructure,awkward_department_discusses,PENDING
+English,The course materials is consistent and meets students' needs.,Positive,Academics,consistent,PENDING
+English,"In my experience, the laundry service is easy to use.",Positive,Hostel,easy to use,PENDING
+English,The campus buildings are clean and well maintained.,Positive,Infrastructure,well maintained,PENDING
+English,The computer laboratory is efficient and meets students' needs.,Positive,Infrastructure,efficient,PENDING
+English,The computer systems are slow and frequently crash.,Negative,Infrastructure,slow,PENDING
+English,The handwashing facilities is inconsistent and needs improvement.,Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The serving staff are slow during busy hours.,Negative,Food / Mess,slow,PENDING
+English,The college manages the security arrangements well because it is clear.,Positive,Hostel,awkward_college_manages,PENDING
+English,The department discusses laboratory exercises during scheduled meetings.,Neutral,Academics,awkward_department_discusses,PENDING
+English,The process for obtaining certificates is confusing and slow.,Negative,Administration,slow,PENDING
+English,The college manages the online catalogue well because it is efficient.,Positive,Library,"efficient, awkward_college_manages",PENDING
+English,I am satisfied with the pickup points because it is well maintained.,Positive,Transport,well maintained,PENDING
+English,"In my experience, the seating areas is unsatisfactory.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,Information about sports facilities is available through the student portal.,Neutral,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses drinking water during scheduled meetings.,Neutral,Food / Mess,awkward_department_discusses,PENDING
+English,The campus security checks are thorough and consistent.,Positive,Safety and Hygiene,consistent,PENDING
+English,I am satisfied with the security arrangements because it is prompt.,Positive,Hostel,prompt,PENDING
+English,The college manages the mess food well because it is well organized.,Positive,Food / Mess,awkward_college_manages,PENDING
+English,The common areas is unreliable and needs improvement.,Negative,Hostel,grammar_suspect,PENDING
+English,The department discusses drinking water facilities during scheduled meetings.,Neutral,Campus Facilities,awkward_department_discusses,PENDING
+English,"In my experience, the bus service is consistent.",Positive,Transport,consistent,PENDING
+English,The common areas is satisfactory and meets students' needs.,Positive,Campus Facilities,grammar_suspect,PENDING
+English,"In my experience, the hostel Wi-Fi is well maintained.",Positive,Hostel,well maintained,PENDING
+English,I have had a positive experience with the assignment feedback; it is comfortable.,Positive,Faculty,comfortable,PENDING
+English,"In my experience, the document verification process is prompt.",Positive,Administration,prompt,PENDING
+English,I have had a positive experience with the projectors; it is well maintained.,Positive,Infrastructure,well maintained,PENDING
+English,The college manages the waste management well because it is excellent.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The department discusses drinking water points during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,I am satisfied with the assignment instructions because it is consistent.,Positive,Academics,consistent,PENDING
+English,The department discusses campus lighting during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,I am satisfied with the library collection because it is efficient.,Positive,Library,efficient,PENDING
+English,The college manages the hostel Wi-Fi well because it is easy to use.,Positive,Hostel,"easy to use, awkward_college_manages",PENDING
+English,The college should improve the seating areas because it is slow.,Negative,Campus Facilities,slow,PENDING
+English,I am satisfied with the course materials because it is well maintained.,Positive,Academics,well maintained,PENDING
+English,"In my experience, the common areas is consistent.",Positive,Hostel,"consistent, grammar_suspect",PENDING
+English,The vegetarian options is slow and needs improvement.,Negative,Food / Mess,slow,PENDING
+English,I am satisfied with the assessment process because it is efficient.,Positive,Academics,efficient,PENDING
+English,The waste management is consistent and meets students' needs.,Positive,Safety and Hygiene,consistent,PENDING
+English,"In my experience, the hostel rooms is easy to use.",Positive,Hostel,"easy to use, grammar_suspect",PENDING
+English,The college manages the waste management well because it is helpful.,Positive,Safety and Hygiene,awkward_college_manages,PENDING
+English,The college manages the faculty guidance well because it is prompt.,Positive,Faculty,"prompt, awkward_college_manages",PENDING
+English,"In my experience, the library collection is easy to use.",Positive,Library,easy to use,PENDING
+English,Information about drinking water facilities is available through the student portal.,Neutral,Campus Facilities,grammar_suspect,PENDING
+English,I have had a positive experience with the borrowing rules; it is comfortable.,Positive,Library,comfortable,PENDING
+English,I am satisfied with the computer laboratory because it is prompt.,Positive,Infrastructure,prompt,PENDING
+English,"In my experience, the common areas is satisfactory.",Positive,Campus Facilities,grammar_suspect,PENDING
+English,I have had a positive experience with the sports facilities; it is comfortable.,Positive,Campus Facilities,comfortable,PENDING
+English,The college should improve the digital journals because it is slow.,Negative,Library,slow,PENDING
+English,The department discusses digital journals during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,The college manages the assessment process well because it is prompt.,Positive,Academics,"prompt, awkward_college_manages",PENDING
+English,I have had a positive experience with the maintenance service; it is comfortable.,Positive,Hostel,comfortable,PENDING
+English,The college manages the classroom furniture well because it is clear.,Positive,Infrastructure,awkward_college_manages,PENDING
+English,The college manages the drinking water facilities well because it is helpful.,Positive,Campus Facilities,awkward_college_manages,PENDING
+English,The college manages the hostel rooms well because it is consistent.,Positive,Hostel,"consistent, awkward_college_manages",PENDING
+English,The college manages the project support well because it is helpful.,Positive,Faculty,awkward_college_manages,PENDING
+English,The college manages the handwashing facilities well because it is well maintained.,Positive,Safety and Hygiene,"well maintained, awkward_college_manages",PENDING
+English,"In my experience, the reading area is slow.",Negative,Library,slow,PENDING
+English,"In my experience, the hostel Wi-Fi is prompt.",Positive,Hostel,prompt,PENDING
+English,The library computers is prompt and meets students' needs.,Positive,Library,prompt,PENDING
+English,I am satisfied with the bus timings because it is easy to use.,Positive,Transport,easy to use,PENDING
+English,"In my experience, the hostel rooms is reliable.",Positive,Hostel,grammar_suspect,PENDING
+English,I am satisfied with the lecture schedule because it is consistent.,Positive,Academics,consistent,PENDING
+English,I have had a poor experience with the security arrangements; it is slow.,Negative,Hostel,slow,PENDING
+English,"In my experience, the drinking water points is efficient.",Positive,Safety and Hygiene,efficient,PENDING
+English,I have had a positive experience with the student help desk; it is comfortable.,Positive,Administration,comfortable,PENDING
+English,The department discusses complaint desk during scheduled meetings.,Neutral,Administration,awkward_department_discusses,PENDING
+English,The department discusses pickup points during scheduled meetings.,Neutral,Transport,awkward_department_discusses,PENDING
+English,I have had a positive experience with the faculty guidance; it is comfortable.,Positive,Faculty,comfortable,PENDING
+English,I am satisfied with the drinking water points because it is efficient.,Positive,Safety and Hygiene,efficient,PENDING
+English,The bus routes is difficult to use and needs improvement.,Negative,Transport,grammar_suspect,PENDING
+English,The college manages the complaint desk well because it is well maintained.,Positive,Administration,"well maintained, awkward_college_manages",PENDING
+English,The college manages the bus maintenance well because it is efficient.,Positive,Transport,"efficient, awkward_college_manages",PENDING
+English,The serving staff is well maintained and meets students' needs.,Positive,Food / Mess,well maintained,PENDING
+English,The college manages the faculty guidance well because it is well maintained.,Positive,Faculty,"well maintained, awkward_college_manages",PENDING
+English,The department discusses borrowing rules during scheduled meetings.,Neutral,Library,awkward_department_discusses,PENDING
+English,I have had a positive experience with the laboratory exercises; it is easy to use.,Positive,Academics,easy to use,PENDING
+English,The college manages the meal service well because it is efficient.,Positive,Food / Mess,"efficient, awkward_college_manages",PENDING
+English,"In my experience, the common areas is efficient.",Positive,Campus Facilities,"efficient, grammar_suspect",PENDING
+English,The college manages the lecture schedule well because it is comfortable.,Positive,Academics,"comfortable, awkward_college_manages",PENDING
+English,The college manages the waiting areas well because it is clear.,Positive,Transport,awkward_college_manages,PENDING
+English,I have had a positive experience with the dining area; it is efficient.,Positive,Food / Mess,efficient,PENDING
+English,The college manages the projectors well because it is consistent.,Positive,Infrastructure,"consistent, awkward_college_manages",PENDING
+English,The waiting areas is inconsistent and needs improvement.,Negative,Transport,grammar_suspect,PENDING
+English,I am satisfied with the mess food because it is efficient.,Positive,Food / Mess,efficient,PENDING
+English,The drinking water facilities is unclear and needs improvement.,Negative,Campus Facilities,grammar_suspect,PENDING
+English,The department discusses handwashing facilities during scheduled meetings.,Neutral,Safety and Hygiene,awkward_department_discusses,PENDING
+English,"In my experience, the campus lighting is slow.",Negative,Safety and Hygiene,slow,PENDING
+English,The reading area has bright and comfortable lighting.,Positive,Library,comfortable,PENDING
+English,"In my experience, the registration procedure is easy to use.",Positive,Administration,easy to use,PENDING
+English,The college should improve the dining area because it is slow.,Negative,Food / Mess,slow,PENDING
+English,The department discusses class discussions during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The college manages the hostel rooms well because it is reliable.,Positive,Hostel,awkward_college_manages,PENDING
+English,The emergency exits is poorly organized and needs improvement.,Negative,Safety and Hygiene,grammar_suspect,PENDING
+English,The college manages the drinking water well because it is excellent.,Positive,Food / Mess,awkward_college_manages,PENDING
+English,I have had a positive experience with the waste management; it is comfortable.,Positive,Safety and Hygiene,comfortable,PENDING
+English,I have had a positive experience with the laboratory equipment; it is consistent.,Positive,Infrastructure,consistent,PENDING
+English,The digital journals is efficient and meets students' needs.,Positive,Library,efficient,PENDING
+English,The drinking water facilities is helpful and meets students' needs.,Positive,Campus Facilities,grammar_suspect,PENDING
+English,The bathroom facilities is well organized and meets students' needs.,Positive,Hostel,grammar_suspect,PENDING
+English,The waiting areas is efficient and meets students' needs.,Positive,Transport,"efficient, grammar_suspect",PENDING
+English,The certificate application process is consistent and meets students' needs.,Positive,Administration,consistent,PENDING
+English,"In my experience, the sports facilities is poorly maintained.",Negative,Campus Facilities,grammar_suspect,PENDING
+English,The common areas are spacious and comfortable.,Positive,Campus Facilities,comfortable,PENDING
+English,The college manages the pickup points well because it is reliable.,Positive,Transport,awkward_college_manages,PENDING
+English,"In my experience, the washroom cleanliness is easy to use.",Positive,Safety and Hygiene,easy to use,PENDING
+English,The department discusses project support during scheduled meetings.,Neutral,Faculty,awkward_department_discusses,PENDING
+English,The college manages the lecturer's explanations well because it is easy to use.,Positive,Faculty,"easy to use, awkward_college_manages",PENDING
+English,The laboratory is clean and well maintained.,Positive,Infrastructure,well maintained,PENDING

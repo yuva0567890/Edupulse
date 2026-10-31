@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}{{ t('analytics') }}{% endblock %}
+{% block head %}<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>{% endblock %}
+{% block content %}
+<div class="page-head"><div><h1>📈 {{ t('analytics') }}</h1><p class="muted">Aspects, languages and recurring (similar) complaints</p></div></div>
+<details class="card mb"><summary>🔎 {{ t('filters') }}</summary>
+<form id="filters" onsubmit="return false" style="margin-top:.9rem"><div class="filters">
+  {% include "_filter_fields.html" %}
+  <div class="row" style="gap:.4rem"><button class="btn btn-primary btn-sm" id="apply">{{ t('apply') }}</button><button class="btn btn-ghost btn-sm" id="reset" type="button">{{ t('reset') }}</button></div>
+</div></form></details>
+<div id="a-empty" class="card empty" style="display:none"><div class="big">📭</div><h3>{{ t('no_feedback_yet') }}</h3></div>
+<div class="grid g-dash mb">
+  <div class="card chart-card"><h3>{{ t('aspect_distribution') }}</h3><div class="chart-box tall"><canvas id="c-aspect"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('aspect_heatmap') }}</h3><div id="heatmap" class="scroll-x"></div></div>
+  <div class="card chart-card"><h3>{{ t('language_sentiment') }}</h3><div class="chart-box"><canvas id="c-langsent"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('top_complaints') }}</h3><div class="chart-box"><canvas id="c-complaints"></canvas></div></div>
+</div>
+<div class="card mb"><h3>🧩 {{ t('recurring_issues') }}</h3><div id="clusters"></div></div>
+<script>window.EP_I18N={Positive:{{ t('positive')|tojson }},Neutral:{{ t('neutral')|tojson }},Negative:{{ t('negative')|tojson }}};
+window.EP_ASPECTS={{ aspect_names|tojson }};</script>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/common.js') }}"></script><script src="{{ url_for('static', filename='js/analytics.js') }}"></script>{% endblock %}

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Sign Up{% endblock %}
+{% block full %}
+<div class="login-wrap"><div class="card login-card" style="width:min(460px,100%)">
+  <div class="center mb"><span class="logo" style="margin:0 auto .6rem;width:52px;height:52px;font-size:1.5rem">E</span>
+    <div class="brand" style="justify-content:center;font-size:1.3rem">EduPulse</div>
+    <h2 style="margin-top:.4rem">Create Admin Account</h2></div>
+  {% if closed %}<div class="alert err">Sign up is closed. Ask an existing administrator for access.</div>
+  <p class="center small" style="margin-top:1rem"><a href="{{ url_for('admin.login') }}">← Login</a></p>
+  {% else %}
+  <form method="post" id="auth-form" novalidate data-min="{{ min_len }}" autocomplete="on">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <div class="field"><label for="username">Username</label>
+      <input id="username" name="username" type="text" required autofocus autocomplete="username" maxlength="40" value="{{ values.get('username','') }}">
+      <div class="err" data-err="username">{{ errors.get('username','') }}</div></div>
+    <div class="field"><label for="email">Email</label>
+      <input id="email" name="email" type="email" required autocomplete="email" maxlength="255" value="{{ values.get('email','') }}">
+      <div class="err" data-err="email">{{ errors.get('email','') }}</div></div>
+    <div class="field"><label for="password">{{ t('password') }}</label>
+      <div class="pw"><input id="password" name="password" type="password" required autocomplete="new-password" minlength="{{ min_len }}">
+        <button type="button" class="pw-toggle" data-toggle="password" aria-label="Show password">👁</button></div>
+      <div class="meter"><i id="pw-meter"></i></div><div class="hint">At least {{ min_len }} characters.</div>
+      <div class="err" data-err="password">{{ errors.get('password','') }}</div></div>
+    <div class="field"><label for="confirm">Confirm Password</label>
+      <div class="pw"><input id="confirm" name="confirm" type="password" required autocomplete="new-password">
+        <button type="button" class="pw-toggle" data-toggle="confirm" aria-label="Show password">👁</button></div>
+      <div class="err" data-err="confirm">{{ errors.get('confirm','') }}</div></div>
+    {% if code_required %}<div class="field"><label for="signup_code">Invitation code</label>
+      <input id="signup_code" name="signup_code" type="password" autocomplete="off"><div class="err" data-err="signup_code">{{ errors.get('signup_code','') }}</div></div>{% endif %}
+    <button class="btn btn-primary" style="width:100%" id="auth-submit"><span class="spinner"></span><span>Sign Up</span></button>
+  </form>
+  <p class="center small muted" style="margin:1.1rem 0 0">Already have an account? <a href="{{ url_for('admin.login') }}"><b>Login</b></a></p>
+  {% endif %}
+</div></div>
+{% endblock %}

@@ -1,0 +1,6 @@
+{% macro sent_badge(s) %}<span class="badge b-{{ s|lower }}">{{ sent_label(s) }}</span>{% endmacro %}
+{% macro prio_badge(p) %}<span class="badge p-{{ p|lower }} {{ 'pulse' if p == 'CRITICAL' }}">{{ level_label(p) }}</span>{% endmacro %}
+{% macro sev_badge(s) %}<span class="badge p-{{ {'Low':'low','Medium':'medium','High':'high','Critical':'critical'}.get(s,'low') }}">{{ s }}</span>{% endmacro %}
+{% macro terms(list) %}{% for x in list %}<span class="term">{{ x.display }}</span>{% else %}<span class="muted small">—</span>{% endfor %}{% endmacro %}
+{% macro cat_badge(c) %}<span class="badge c-badge cat-{{ c|lower }}">{{ {'Academics': t('academics'), 'Hostel': t('hostel'), 'Others': t('others')}.get(c, c) }}</span>{% endmacro %}
+{% macro status_badge(s) %}{% if s %}<span class="badge st-{{ s|lower|replace(' ','-') }}">{{ s }}</span>{% else %}<span class="muted small">—</span>{% endif %}{% endmacro %}

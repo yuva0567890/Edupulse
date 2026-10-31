@@ -1,0 +1,60 @@
+text,language,sentiment,aspect,severity,level,category,reviewed_sentiment,review_note
+The room facilities is completely useless and The campus facilities is excellent.,English,Negative,Room|Campus Facilities,Critical,full,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The lab equipment is really unhelpful,English,Negative,Lab/Infrastructure,High,clause,Academics,Negative,Review suggestion only; verify sentence meaning before training.
+The bus service is the worst and nothing works and The academic support is not that good,English,Negative,Transport|Academic Support,Critical,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The water supply in the hostel is neither good nor bad,English,Neutral,Water,Low,clause,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The library is neither good nor bad,English,Neutral,Library,Low,clause,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The question papers is great and I am satisfied and The power backup is the worst and nothing works.,English,Negative,Exams|Electricity,Critical,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The power supply is neither good nor bad while The repair work is not good at all.,English,Negative,Electricity|Maintenance,High,full,Hostel,Negative,Review suggestion only; verify sentence meaning before training.
+The bus service is great and I am satisfied while The academic support is completely useless.,English,Negative,Transport|Academic Support,Critical,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The internet connection is decent but The workshops is neither good nor bad.,English,Neutral,Wi-Fi|Events,Low,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The gym is neither good nor bad,English,Neutral,Sports,Low,clause,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The workshops is fine and The bus service is neither good nor bad.,English,Neutral,Events|Transport,Low,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The gym is amazing while The food in the mess is completely useless,English,Negative,Sports|Food,Critical,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The assignment workload is neither good nor bad,English,Neutral,Assignments,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The fee payment process is neither good nor bad,English,Neutral,Administration,Low,clause,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The power supply is neither good nor bad but The internet is great and I am satisfied,English,Positive,Electricity|Wi-Fi,Low,full,Hostel,Positive,Review suggestion only; verify sentence meaning before training.
+The hostel security is neither good nor bad,English,Neutral,Security,Low,clause,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The power backup is great and I am satisfied while The hot water is neither good nor bad.,English,Positive,Electricity|Water,Low,full,Hostel,Positive,Review suggestion only; verify sentence meaning before training.
+The WiFi is very good but The academic support is neither good nor bad,English,Positive,Wi-Fi|Academic Support,Low,full,Academics,Positive,Review suggestion only; verify sentence meaning before training.
+The WiFi speed is neither good nor bad and The administration is very good,English,Positive,Wi-Fi|Administration,Low,full,Academics,Positive,Review suggestion only; verify sentence meaning before training.
+The assignment workload is very bad and The classroom infrastructure is great and I am satisfied.,English,Negative,Assignments|Lab/Infrastructure,High,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The laboratory facilities is neither good nor bad,English,Neutral,Lab/Infrastructure,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The gym is the worst and nothing works but The library books is excellent.,English,Negative,Sports|Library,Critical,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The maintenance team is neither good nor bad,English,Neutral,Maintenance,Low,clause,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The sports facilities is neither good nor bad,English,Neutral,Sports,Low,clause,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The power backup is neither good nor bad and The library books is not good at all,English,Negative,Electricity|Library,High,full,Hostel,Negative,Review suggestion only; verify sentence meaning before training.
+The course content is neither good nor bad,English,Neutral,Course Content,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The college events is neither good nor bad but The classroom infrastructure is decent,English,Neutral,Events|Lab/Infrastructure,Low,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The hygiene in the hostel is very good but The academic support is completely useless.,English,Negative,Cleanliness|Academic Support,Critical,full,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The lecturer is very good but The hostel maintenance is the worst and nothing works,English,Negative,Teaching|Maintenance,Critical,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The internet is very bad while The power backup is amazing,English,Negative,Wi-Fi|Electricity,High,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The faculty is neither good nor bad,English,Neutral,Teaching,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The WiFi is excellent and The cultural fest is terrible and needs improvement.,English,Negative,Wi-Fi|Events,High,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The room facilities is very good while The subject content is terrible and needs improvement.,English,Negative,Room|Course Content,High,full,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The internet is neither good nor bad,English,Neutral,Wi-Fi,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The library is very good but The classroom infrastructure is neither good nor bad,English,Positive,Library|Lab/Infrastructure,Low,full,Others,Positive,Review suggestion only; verify sentence meaning before training.
+The lab equipment is not good at all while The bus service is neither good nor bad,English,Negative,Lab/Infrastructure|Transport,High,full,Academics,Negative,Review suggestion only; verify sentence meaning before training.
+The academic support is poor but The workshops is neither good nor bad.,English,Negative,Academic Support|Events,High,full,Academics,Negative,Review suggestion only; verify sentence meaning before training.
+My hostel room is neither good nor bad but The power supply is lacking,English,Negative,Room|Electricity,Medium,full,Hostel,Negative,Review suggestion only; verify sentence meaning before training.
+The college bus is not that good while The electricity in the hostel is terrible and needs improvement,English,Negative,Transport|Electricity,High,full,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The hostel maintenance is very bad while The playground is really helpful and clear,English,Negative,Maintenance|Sports,High,full,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The classroom infrastructure is neither good nor bad,English,Neutral,Lab/Infrastructure,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The cultural fest is neither good nor bad,English,Neutral,Events,Low,clause,Others,Neutral,Review suggestion only; verify sentence meaning before training.
+The assignments is neither good nor bad,English,Neutral,Assignments,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The fee payment process is very bad but The gym is neither good nor bad,English,Negative,Administration|Sports,High,full,Others,Negative,Review suggestion only; verify sentence meaning before training.
+The WiFi is neither good nor bad,English,Neutral,Wi-Fi,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The hostel cleanliness is great and I am satisfied but The office staff is terrible and needs improvement,English,Negative,Cleanliness|Administration,High,full,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The hot water is neither good nor bad while The hostel security is great and I am satisfied,English,Positive,Water|Security,Low,full,Hostel,Positive,Review suggestion only; verify sentence meaning before training.
+The hygiene in the hostel is neither good nor bad,English,Neutral,Cleanliness,Low,clause,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The evaluation is neither good nor bad,English,Neutral,Exams,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The library timings is poor but The food in the mess is neither good nor bad,English,Negative,Library|Food,High,full,Others,Negative,Review suggestion only; verify sentence meaning before training.
+The campus network is neither good nor bad,English,Neutral,Wi-Fi,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The laboratory facilities is terrible and needs improvement and The college events is amazing,English,Negative,Lab/Infrastructure|Events,High,full,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The academic support could be better and The gym is neither good nor bad,English,Negative,Academic Support|Sports,Medium,full,Academics,Negative,Review suggestion only; verify sentence meaning before training.
+The hostel mess is very good but The doubt clearing sessions is neither good nor bad.,English,Positive,Food|Academic Support,Low,full,Hostel,Positive,Review suggestion only; verify sentence meaning before training.
+The classroom infrastructure is neither good nor bad and The sports facilities is great and I am satisfied,English,Positive,Lab/Infrastructure|Sports,Low,full,Academics,Positive,Review suggestion only; verify sentence meaning before training.
+The power supply is neither good nor bad,English,Neutral,Electricity,Low,clause,Hostel,Neutral,Review suggestion only; verify sentence meaning before training.
+The syllabus is neither good nor bad,English,Neutral,Course Content,Low,clause,Academics,Neutral,Review suggestion only; verify sentence meaning before training.
+The library timings is the worst and nothing works while The bus service is neither good nor bad,English,Negative,Library|Transport,Critical,full,Others,Negative,Review suggestion only; verify sentence meaning before training.
+The teaching is excellent but the lab equipment is poor,English,Neutral,Teaching|Lab/Infrastructure,Low,full,Teaching,Neutral,Review suggestion only; verify sentence meaning before training.

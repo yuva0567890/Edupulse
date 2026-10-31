@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "_macros.html" import prio_badge, cat_badge, status_badge with context %}
+{% block title %}{{ t('issues') }}{% endblock %}
+{% block content %}
+{% macro sortlink(key, label) %}{% set nd = 'asc' if (sort == key and direction == 'desc') else 'desc' %}
+<a href="{{ url_for('admin.issues', **dict(qs, sort=key, dir=nd)) }}">{{ label }}{% if sort == key %} {{ '▼' if direction == 'desc' else '▲' }}{% endif %}</a>{% endmacro %}
+<div class="page-head"><div><h1>🎫 {{ t('issues') }}</h1><p class="muted">Negative feedback becomes a trackable issue (EDU-YYYY-NNNN)</p></div></div>
+<div class="grid g4 mb">
+  <div class="card stat"><span class="label">Open</span><span class="value c-negative">{{ counts.open }}</span></div>
+  <div class="card stat"><span class="label">In Progress</span><span class="value c-neutral">{{ counts.in_progress }}</span></div>
+  <div class="card stat"><span class="label">Resolved</span><span class="value c-positive">{{ counts.resolved }}</span></div>
+  <div class="card stat"><span class="label">Closed</span><span class="value">{{ counts.closed }}</span></div>
+</div>
+<form class="card mb" method="get"><div class="filters">
+  <div style="grid-column:span 2"><label>{{ t('search') }}</label><input type="search" name="search" value="{{ filters.get('search','') }}"></div>
+  <div><label>{{ t('status') }}</label><select name="status"><option value="">{{ t('all') }}</option>{% for o in statuses %}<option {{ 'selected' if filters.get('status') == o }}>{{ o }}</option>{% endfor %}</select></div>
+  <div><label>{{ t('category') }}</label><select name="category"><option value="">{{ t('all') }}</option>{% for o in options.categories %}<option {{ 'selected' if filters.get('category') == o }}>{{ o }}</option>{% endfor %}</select></div>
+  <div><label>{{ t('priority') }}</label><select name="priority"><option value="">{{ t('all') }}</option>{% for o in ['LOW','MEDIUM','HIGH','CRITICAL'] %}<option {{ 'selected' if filters.get('priority') == o }}>{{ o }}</option>{% endfor %}</select></div>
+  <div class="row" style="gap:.4rem"><button class="btn btn-primary btn-sm">{{ t('apply') }}</button><a class="btn btn-ghost btn-sm" href="{{ url_for('admin.issues') }}">{{ t('reset') }}</a></div>
+</div></form>
+{% if data["items"] %}
+<div class="table-wrap"><table><thead><tr><th>{{ sortlink('issue_id', t('issue_id')) }}</th><th>{{ sortlink('title', 'Issue') }}</th><th>{{ sortlink('category', t('category')) }}</th><th>{{ sortlink('priority', t('priority')) }}</th><th>{{ sortlink('status', t('status')) }}</th><th>{{ sortlink('created', t('created')) }}</th><th>{{ t('update') }}</th></tr></thead><tbody>
+{% for i in data["items"] %}<tr>
+  <td><a href="{{ url_for('admin.detail', fid=i.feedback_id) }}"><b>{{ i.issue_id }}</b></a></td>
+  <td class="text"><div class="clamp">{{ i.title }}</div></td><td>{{ cat_badge(i.category) }}</td>
+  <td>{{ prio_badge(i.priority) }}<div class="mini muted">{{ i.score|round|int }}/100</div></td><td>{{ status_badge(i.status) }}</td><td class="small">{{ i.created[:10] }}</td>
+  <td><form method="post" action="{{ url_for('admin.issue_status', fid=i.feedback_id) }}" class="row" style="gap:.3rem;flex-wrap:nowrap"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <select name="status" style="padding:.3rem .5rem;min-width:120px">{% for o in statuses %}<option {{ 'selected' if o == i.status }}>{{ o }}</option>{% endfor %}</select><button class="btn btn-ghost btn-sm">✓</button></form></td></tr>{% endfor %}
+</tbody></table></div>
+<div class="pager"><span class="muted small">{{ t('page') }} {{ data.page }} / {{ data.pages }} · {{ data.total }} {{ t('issues') }}</span><span class="row" style="gap:.4rem">
+  {% if data.page > 1 %}<a class="btn btn-ghost btn-sm" href="{{ url_for('admin.issues', **dict(qs, page=data.page-1)) }}">← {{ t('prev') }}</a>{% endif %}
+  {% if data.page < data.pages %}<a class="btn btn-ghost btn-sm" href="{{ url_for('admin.issues', **dict(qs, page=data.page+1)) }}">{{ t('next') }} →</a>{% endif %}</span></div>
+{% else %}<div class="card empty"><div class="big">🎫</div><h3>No issues found</h3><p>Issues are created automatically for negative feedback.</p></div>{% endif %}
+{% endblock %}

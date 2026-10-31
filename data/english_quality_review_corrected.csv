@@ -1,0 +1,20 @@
+﻿original_text,corrected_text,sentiment,review_note
+The lab equipment is informative,The lab equipment is useful.,Positive,Rewritten: natural phrasing
+The syllabus seems fast,The syllabus progresses too quickly.,Negative,Rewritten: interprets 'fast' as too fast
+The teaching method was punctual,The teaching sessions started on time.,Positive,Rewritten: natural phrasing
+Our professors is boring and too fast to follow and The workshops is completely useless.,"Our professors are boring and speak too quickly, and the workshops are completely useless.",Negative,Grammar corrected; negative meaning preserved
+The internet connection is fast and reliable,The internet connection is fast and reliable.,Positive,Kept
+The subject content seems shortage,The subject content is insufficient.,Negative,Rewritten: natural phrasing
+The lab computers is really fast-paced,The lab computers are extremely slow.,Negative,Rewritten based on existing negative label; verify intended meaning
+The WiFi speed is fast and reliable,The Wi-Fi connection is fast and reliable.,Positive,Grammar/style corrected
+The campus network is fast and reliable,The campus network is fast and reliable.,Positive,Kept
+The subject content seems problems,The subject content has several problems.,Negative,Grammar corrected
+The faculty seems smooth,The faculty explains concepts clearly.,Positive,Rewritten: interprets intended positive feedback
+The mess food is unhygienic and The assignment workload is completely useless.,"The mess food is unhygienic, and the assignment workload is unreasonable.",Negative,Grammar/style corrected; negative meaning preserved
+The internet connection seems unhygienic,The internet connection is unreliable.,Negative,Rewritten: interprets likely intended complaint
+The college bus is punctual,The college bus arrives on time.,Positive,Rewritten: natural phrasing
+The campus network is really disconnecting,The campus network keeps disconnecting.,Negative,Grammar corrected
+The course difficulty is smelly,The course material is poorly organized.,Negative,Rewritten; intended meaning is uncertain—verify
+The course difficulty is tasty,The course content is interesting and enjoyable.,Positive,Rewritten; intended meaning is uncertain—verify
+The laboratory facilities is stale,The laboratory facilities are outdated.,Negative,Grammar corrected; natural phrasing
+The food in the mess is tasty and well cooked,The food in the mess is tasty and well cooked.,Positive,Kept

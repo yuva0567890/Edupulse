@@ -1,0 +1,2001 @@
+language,text,sentiment,category
+English,"Overall, I am unhappy with dining area.",Negative,Food / Mess
+English,I am disappointed with the current condition of instructor explanations.,Negative,Faculty
+English,I am satisfied with the quality of faculty response.,Positive,Faculty
+English,The college has a designated area or process for classroom fans.,Neutral,Infrastructure
+English,I am dissatisfied with the quality of drinking water facility.,Negative,Food / Mess
+English,"There are no major problems with campus infrastructure, and I am satisfied.",Positive,Infrastructure
+English,The current condition of certificate service is unacceptable.,Negative,Administration
+English,Students can depend on hostel rules when needed.,Positive,Hostel
+English,"There are no major problems with mentor, and I am satisfied.",Positive,Faculty
+English,The college has not maintained an acceptable standard for library collection.,Negative,Library
+English,I have had a negative experience with transport office.,Negative,Transport
+English,Students cannot depend on campus lighting at night when needed.,Negative,Safety and Hygiene
+English,The college has assigned responsibility for campus hygiene to a staff member.,Neutral,Safety and Hygiene
+English,"Overall, I am unhappy with classroom furniture.",Negative,Infrastructure
+English,The college has maintained a good standard for college buses.,Positive,Transport
+English,"Overall, I am happy with document verification.",Positive,Administration
+English,Students from different year groups use or access laboratory equipment.,Neutral,Infrastructure
+English,The current condition of corridor cleanliness meets my expectations.,Positive,Safety and Hygiene
+English,The college manages drinking water hygiene very well.,Positive,Safety and Hygiene
+English,The college has assigned responsibility for bus seating to a staff member.,Neutral,Transport
+English,I have had a positive experience with transport office.,Positive,Transport
+English,Details about college buses are shared during student orientation.,Neutral,Transport
+English,The college has assigned responsibility for classroom space to a staff member.,Neutral,Infrastructure
+English,The standard of academic support is good and reliable.,Positive,Academics
+English,I have had a positive experience with reading rooms.,Positive,Library
+English,I have had a negative experience with campus infrastructure.,Negative,Infrastructure
+English,The arrangements for hostel staff are described in college guidelines.,Neutral,Hostel
+English,The arrangements for fee payment process are described in college guidelines.,Neutral,Administration
+English,The college records updates related to sports ground in its administrative system.,Neutral,Campus Facilities
+English,Details about admission process are shared during student orientation.,Neutral,Administration
+English,The department maintains records related to maintenance checks.,Neutral,Safety and Hygiene
+English,The schedule for campus Wi-Fi is announced by the college.,Neutral,Campus Facilities
+English,I would rate study environment highly because it works well.,Positive,Hostel
+English,Details about office staff are shared during student orientation.,Neutral,Administration
+English,I find student records service useful and convenient.,Positive,Administration
+English,The schedule for menu variety is announced by the college.,Neutral,Food / Mess
+English,I am dissatisfied with the quality of waste disposal system.,Negative,Safety and Hygiene
+English,Information about hostel rules is available in the student handbook.,Neutral,Hostel
+English,Students cannot depend on classroom fans when needed.,Negative,Infrastructure
+English,The college publishes information about library seating through its official channels.,Neutral,Library
+English,The department maintains records related to assignment instructions.,Neutral,Academics
+English,The department maintains records related to fee payment process.,Neutral,Administration
+English,Students cannot depend on hostel rules when needed.,Negative,Hostel
+English,"Overall, I am unhappy with college buses.",Negative,Transport
+English,Students can find details about water supply on the college notice board.,Neutral,Hostel
+English,Information about mess staff is available in the student handbook.,Neutral,Food / Mess
+English,"There are no major problems with hostel rules, and I am satisfied.",Positive,Hostel
+English,Students from different year groups use or access student activity areas.,Neutral,Campus Facilities
+English,I would rate bus cleanliness highly because it works well.,Positive,Transport
+English,The support provided through college buses is inadequate.,Negative,Transport
+English,The college needs to improve department faculty.,Negative,Faculty
+English,Students can depend on parking area when needed.,Positive,Campus Facilities
+English,The support provided through library study spaces is helpful.,Positive,Library
+English,The college has maintained a good standard for hostel rooms.,Positive,Hostel
+English,The college has maintained a good standard for reading rooms.,Positive,Library
+English,There are several unresolved problems with course instructor.,Negative,Faculty
+English,There are several unresolved problems with teaching methods.,Negative,Academics
+English,The college has maintained a good standard for bus timings.,Positive,Transport
+English,Students can contact the relevant office for details about library study spaces.,Neutral,Library
+English,There are several unresolved problems with assignment instructions.,Negative,Academics
+English,I have had a positive experience with hostel rooms.,Positive,Hostel
+English,The college publishes information about hostel maintenance through its official channels.,Neutral,Hostel
+English,The college has maintained a good standard for fee payment process.,Positive,Administration
+English,The department maintains records related to corridor cleanliness.,Neutral,Safety and Hygiene
+English,I find hostel facilities inconvenient and unreliable.,Negative,Hostel
+English,The current condition of mentor is unacceptable.,Negative,Faculty
+English,The college has not maintained an acceptable standard for campus cleanliness.,Negative,Campus Facilities
+English,The college has assigned responsibility for mentor to a staff member.,Neutral,Faculty
+English,The college needs to improve transport service.,Negative,Transport
+English,The schedule for hostel maintenance is announced by the college.,Neutral,Hostel
+English,The college has assigned responsibility for library seating to a staff member.,Neutral,Library
+English,"Overall, I am unhappy with hostel cleanliness.",Negative,Hostel
+English,I find lab instructor useful and convenient.,Positive,Faculty
+English,The support provided through course instructor is inadequate.,Negative,Faculty
+English,I have had a positive experience with lab instructor.,Positive,Faculty
+English,The arrangements for corridor cleanliness are described in college guidelines.,Neutral,Safety and Hygiene
+English,The college has listed fee payment process in its campus information.,Neutral,Administration
+English,Details about dinner quality are shared during student orientation.,Neutral,Food / Mess
+English,The college records updates related to classroom furniture in its administrative system.,Neutral,Infrastructure
+English,Students cannot depend on campus infrastructure when needed.,Negative,Infrastructure
+English,The college includes lecturer in its regular operations.,Neutral,Faculty
+English,The college does not manage serving process properly.,Negative,Food / Mess
+English,The college has a designated area or process for student help desk.,Neutral,Administration
+English,The department maintains records related to lecturer.,Neutral,Faculty
+English,The department maintains records related to classroom fans.,Neutral,Infrastructure
+English,The arrangements for hostel rules are described in college guidelines.,Neutral,Hostel
+English,Students can contact the relevant office for details about hostel common areas.,Neutral,Hostel
+English,I am pleased with how the college provides classroom fans.,Positive,Infrastructure
+English,"Overall, I am unhappy with drinking water points.",Negative,Campus Facilities
+English,I am dissatisfied with the quality of library study spaces.,Negative,Library
+English,I find electrical facilities useful and convenient.,Positive,Infrastructure
+English,There are several unresolved problems with transport service.,Negative,Transport
+English,The department maintains records related to lecture explanations.,Neutral,Academics
+English,"There are no major problems with classroom fans, and I am satisfied.",Positive,Infrastructure
+English,The quality of faculty feedback is poor.,Negative,Academics
+English,The college has a designated area or process for student activity areas.,Neutral,Campus Facilities
+English,The quality of hostel facilities is poor.,Negative,Hostel
+English,Details about administrative response are shared during student orientation.,Neutral,Administration
+English,The college includes classroom space in its regular operations.,Neutral,Infrastructure
+English,I find campus lighting at night useful and convenient.,Positive,Safety and Hygiene
+English,I appreciate the improvements made to transport service.,Positive,Transport
+English,The department reviews information related to mentor each semester.,Neutral,Faculty
+English,I have had a negative experience with water supply.,Negative,Hostel
+English,The current condition of book borrowing service is unacceptable.,Negative,Library
+English,I am satisfied with the quality of academic support.,Positive,Academics
+English,Students can contact the relevant office for details about teaching assistant.,Neutral,Faculty
+English,The college has not maintained an acceptable standard for notice system.,Negative,Administration
+English,The college has listed certificate service in its campus information.,Neutral,Administration
+English,Students can find details about food hygiene on the college notice board.,Neutral,Food / Mess
+English,I have had a positive experience with faculty response.,Positive,Faculty
+English,The college has assigned responsibility for dining area to a staff member.,Neutral,Food / Mess
+English,Students can depend on pickup points when needed.,Positive,Transport
+English,The department maintains records related to food hygiene.,Neutral,Food / Mess
+English,I am dissatisfied with the quality of emergency arrangements.,Negative,Safety and Hygiene
+English,The quality of library study spaces is excellent.,Positive,Library
+English,The college has assigned responsibility for department faculty to a staff member.,Neutral,Faculty
+English,Information about college buses is available in the student handbook.,Neutral,Transport
+English,I am pleased with how the college provides drinking water facility.,Positive,Food / Mess
+English,Students can depend on campus security arrangements when needed.,Positive,Campus Facilities
+English,The quality of teaching assistant is excellent.,Positive,Faculty
+English,I have had a negative experience with academic adviser.,Negative,Faculty
+English,The college records updates related to classroom fans in its administrative system.,Neutral,Infrastructure
+English,The college includes library study spaces in its regular operations.,Neutral,Library
+English,I would rate drinking water points highly because it works well.,Positive,Campus Facilities
+English,Students can contact the relevant office for details about faculty feedback.,Neutral,Academics
+English,The current condition of transport schedule is unacceptable.,Negative,Transport
+English,The support provided through campus cleanliness is inadequate.,Negative,Campus Facilities
+English,Students can contact the relevant office for details about hostel rules.,Neutral,Hostel
+English,The quality of hostel cleanliness is poor.,Negative,Hostel
+English,Students can depend on student help desk when needed.,Positive,Administration
+English,"Overall, I am happy with admission process.",Positive,Administration
+English,The college has assigned responsibility for corridor cleanliness to a staff member.,Neutral,Safety and Hygiene
+English,"Overall, I am unhappy with guest lecturer.",Negative,Faculty
+English,The college has not maintained an acceptable standard for sports ground.,Negative,Campus Facilities
+English,The college has maintained a good standard for first-aid arrangements.,Positive,Safety and Hygiene
+English,I find library staff inconvenient and unreliable.,Negative,Library
+English,The standard of campus lighting at night is good and reliable.,Positive,Safety and Hygiene
+English,I have had a negative experience with campus lighting at night.,Negative,Safety and Hygiene
+English,The college has a designated area or process for academic support.,Neutral,Academics
+English,The current condition of campus facilities meets my expectations.,Positive,Campus Facilities
+English,The quality of waste disposal system is poor.,Negative,Safety and Hygiene
+English,The standard of campus infrastructure is good and reliable.,Positive,Infrastructure
+English,The college publishes information about bus seating through its official channels.,Neutral,Transport
+English,The college manages classroom lighting very well.,Positive,Infrastructure
+English,The support provided through sports ground is helpful.,Positive,Campus Facilities
+English,The support provided through teaching methods is inadequate.,Negative,Academics
+English,The college publishes information about campus facilities through its official channels.,Neutral,Campus Facilities
+English,The support provided through driver behaviour is inadequate.,Negative,Transport
+English,The department maintains records related to classroom lessons.,Neutral,Academics
+English,The department reviews information related to laboratory equipment each semester.,Neutral,Infrastructure
+English,The arrangements for campus facilities are described in college guidelines.,Neutral,Campus Facilities
+English,The college needs to improve certificate service.,Negative,Administration
+English,I find document verification inconvenient and unreliable.,Negative,Administration
+English,The support provided through dinner quality is inadequate.,Negative,Food / Mess
+English,I am satisfied with the quality of department faculty.,Positive,Faculty
+English,The college records updates related to department faculty in its administrative system.,Neutral,Faculty
+English,The current condition of drinking water hygiene meets my expectations.,Positive,Safety and Hygiene
+English,There are several unresolved problems with mess food.,Negative,Food / Mess
+English,The current condition of teaching methods meets my expectations.,Positive,Academics
+English,The college has listed parking area in its campus information.,Neutral,Campus Facilities
+English,I have had a negative experience with dining area.,Negative,Food / Mess
+English,I am satisfied with the quality of drinking water facility.,Positive,Food / Mess
+English,The college has a designated area or process for computer systems.,Neutral,Infrastructure
+English,"Overall, I am unhappy with electrical facilities.",Negative,Infrastructure
+English,The arrangements for recreation facilities are described in college guidelines.,Neutral,Campus Facilities
+English,The college does not manage computer systems properly.,Negative,Infrastructure
+English,The college manages hostel maintenance very well.,Positive,Hostel
+English,"Overall, I am unhappy with bus seating.",Negative,Transport
+English,Students cannot depend on food hygiene when needed.,Negative,Food / Mess
+English,The college has a designated area or process for assignment instructions.,Neutral,Academics
+English,I find transport office inconvenient and unreliable.,Negative,Transport
+English,I appreciate the improvements made to lecturer.,Positive,Faculty
+English,I find medical room useful and convenient.,Positive,Campus Facilities
+English,The college has a designated area or process for hostel common areas.,Neutral,Hostel
+English,Information about bus timings is available in the student handbook.,Neutral,Transport
+English,I am satisfied with the quality of instructor explanations.,Positive,Faculty
+English,The college manages lecture explanations very well.,Positive,Academics
+English,I would rate certificate service highly because it works well.,Positive,Administration
+English,I would rate student activity areas highly because it works well.,Positive,Campus Facilities
+English,The quality of lab instructor is excellent.,Positive,Faculty
+English,I am disappointed with the current condition of breakfast service.,Negative,Food / Mess
+English,I find dining area useful and convenient.,Positive,Food / Mess
+English,"Overall, I am happy with sports ground.",Positive,Campus Facilities
+English,I would rate assignment instructions highly because it works well.,Positive,Academics
+English,I would rate assignment instructions poorly because it causes problems.,Negative,Academics
+English,I am dissatisfied with the quality of maintenance checks.,Negative,Safety and Hygiene
+English,I am dissatisfied with the quality of course materials.,Negative,Academics
+English,Students can find details about academic adviser on the college notice board.,Neutral,Faculty
+English,I am satisfied with the quality of complaint handling process.,Positive,Administration
+English,The college manages lab instructor very well.,Positive,Faculty
+English,"Overall, I am happy with recreation facilities.",Positive,Campus Facilities
+English,I find campus infrastructure inconvenient and unreliable.,Negative,Infrastructure
+English,The college has not maintained an acceptable standard for library seating.,Negative,Library
+English,The quality of bus cleanliness is excellent.,Positive,Transport
+English,Details about classroom fans are shared during student orientation.,Neutral,Infrastructure
+English,The quality of room ventilation is excellent.,Positive,Hostel
+English,Students cannot depend on hostel common areas when needed.,Negative,Hostel
+English,I find classroom lighting useful and convenient.,Positive,Infrastructure
+English,Students can contact the relevant office for details about office staff.,Neutral,Administration
+English,The support provided through bus cleanliness is helpful.,Positive,Transport
+English,Students can depend on laboratory computers when needed.,Positive,Infrastructure
+English,I find hostel staff inconvenient and unreliable.,Negative,Hostel
+English,"Overall, I am unhappy with hostel rules.",Negative,Hostel
+English,I am disappointed with the current condition of book borrowing service.,Negative,Library
+English,The college publishes information about breakfast service through its official channels.,Neutral,Food / Mess
+English,I appreciate the improvements made to library collection.,Positive,Library
+English,"Overall, I am happy with student help desk.",Positive,Administration
+English,The college has not maintained an acceptable standard for assignment instructions.,Negative,Academics
+English,Details about digital library are shared during student orientation.,Neutral,Library
+English,Students from different year groups use or access bus seating.,Neutral,Transport
+English,The department reviews information related to drinking water points each semester.,Neutral,Campus Facilities
+English,I am satisfied with the quality of faculty feedback.,Positive,Academics
+English,Students cannot depend on digital library when needed.,Negative,Library
+English,I would rate campus security arrangements poorly because it causes problems.,Negative,Campus Facilities
+English,The department reviews information related to drinking water hygiene each semester.,Neutral,Safety and Hygiene
+English,The current condition of water supply meets my expectations.,Positive,Hostel
+English,I appreciate the improvements made to hostel facilities.,Positive,Hostel
+English,Students can depend on admission process when needed.,Positive,Administration
+English,The college does not manage dinner quality properly.,Negative,Food / Mess
+English,The college has listed lab instructor in its campus information.,Neutral,Faculty
+English,The standard of course materials is below expectations.,Negative,Academics
+English,The standard of classroom space is good and reliable.,Positive,Infrastructure
+English,The college has not maintained an acceptable standard for library opening hours.,Negative,Library
+English,I am pleased with how the college provides study environment.,Positive,Hostel
+English,The college has not maintained an acceptable standard for lecturer.,Negative,Faculty
+English,There are several unresolved problems with admission process.,Negative,Administration
+English,The standard of reading rooms is below expectations.,Negative,Library
+English,Information about notice system is available in the student handbook.,Neutral,Administration
+English,The college does not manage certificate service properly.,Negative,Administration
+English,The college has assigned responsibility for recreation facilities to a staff member.,Neutral,Campus Facilities
+English,The college needs to improve laboratory equipment.,Negative,Infrastructure
+English,The quality of certificate service is poor.,Negative,Administration
+English,I am disappointed with the current condition of course instructor.,Negative,Faculty
+English,The department reviews information related to college buses each semester.,Neutral,Transport
+English,"There are no major problems with transport service, and I am satisfied.",Positive,Transport
+English,The college does not manage academic adviser properly.,Negative,Faculty
+English,The standard of food hygiene is good and reliable.,Positive,Food / Mess
+English,Students can find details about bus timings on the college notice board.,Neutral,Transport
+English,I am pleased with how the college provides lab instructor.,Positive,Faculty
+English,The support provided through practical sessions is inadequate.,Negative,Academics
+English,The quality of menu variety is excellent.,Positive,Food / Mess
+English,Information about library collection is available in the student handbook.,Neutral,Library
+English,I would rate complaint handling process poorly because it causes problems.,Negative,Administration
+English,I am pleased with how the college provides course materials.,Positive,Academics
+English,The arrangements for exam schedule are described in college guidelines.,Neutral,Academics
+English,The schedule for driver behaviour is announced by the college.,Neutral,Transport
+English,Students can find details about library collection on the college notice board.,Neutral,Library
+English,Students can depend on digital library when needed.,Positive,Library
+English,The college has maintained a good standard for department faculty.,Positive,Faculty
+English,I would rate reading rooms poorly because it causes problems.,Negative,Library
+English,The schedule for safety measures is announced by the college.,Neutral,Safety and Hygiene
+English,The quality of certificate service is excellent.,Positive,Administration
+English,The current condition of washroom cleanliness meets my expectations.,Positive,Safety and Hygiene
+English,The arrangements for department faculty are described in college guidelines.,Neutral,Faculty
+English,The college has maintained a good standard for sports ground.,Positive,Campus Facilities
+English,The standard of campus security arrangements is below expectations.,Negative,Campus Facilities
+English,I would rate lab instructor highly because it works well.,Positive,Faculty
+English,The support provided through fee payment process is helpful.,Positive,Administration
+English,Information about recreation facilities is available in the student handbook.,Neutral,Campus Facilities
+English,I find classroom space inconvenient and unreliable.,Negative,Infrastructure
+English,Details about complaint handling process are shared during student orientation.,Neutral,Administration
+English,I have had a negative experience with lab instructor.,Negative,Faculty
+English,I have had a positive experience with emergency arrangements.,Positive,Safety and Hygiene
+English,I have had a positive experience with library staff.,Positive,Library
+English,The college manages pickup points very well.,Positive,Transport
+English,The quality of campus Wi-Fi is poor.,Negative,Campus Facilities
+English,The college includes reference materials in its regular operations.,Neutral,Library
+English,The college has assigned responsibility for campus facilities to a staff member.,Neutral,Campus Facilities
+English,The department maintains records related to reading rooms.,Neutral,Library
+English,The college manages reading rooms very well.,Positive,Library
+English,I have had a negative experience with campus cleanliness.,Negative,Campus Facilities
+English,The quality of campus lighting at night is excellent.,Positive,Safety and Hygiene
+English,Students from different year groups use or access campus cleanliness.,Neutral,Campus Facilities
+English,The quality of course instructor is excellent.,Positive,Faculty
+English,The standard of exam schedule is good and reliable.,Positive,Academics
+English,The college publishes information about computer systems through its official channels.,Neutral,Infrastructure
+English,The college does not manage corridor cleanliness properly.,Negative,Safety and Hygiene
+English,The standard of sports ground is good and reliable.,Positive,Campus Facilities
+English,The arrangements for library computers are described in college guidelines.,Neutral,Library
+English,I have had a positive experience with campus Wi-Fi.,Positive,Campus Facilities
+English,I have had a positive experience with campus cleanliness.,Positive,Campus Facilities
+English,The college includes mess food in its regular operations.,Neutral,Food / Mess
+English,The support provided through faculty feedback is helpful.,Positive,Academics
+English,The college does not manage library opening hours properly.,Negative,Library
+English,Students can depend on bus seating when needed.,Positive,Transport
+English,I am pleased with how the college provides classroom space.,Positive,Infrastructure
+English,The support provided through classroom space is inadequate.,Negative,Infrastructure
+English,The college has assigned responsibility for drinking water hygiene to a staff member.,Neutral,Safety and Hygiene
+English,I would rate exam schedule highly because it works well.,Positive,Academics
+English,The schedule for library opening hours is announced by the college.,Neutral,Library
+English,"Overall, I am unhappy with classroom lighting.",Negative,Infrastructure
+English,The college publishes information about book borrowing service through its official channels.,Neutral,Library
+English,Students cannot depend on classroom lighting when needed.,Negative,Infrastructure
+English,The college includes practical sessions in its regular operations.,Neutral,Academics
+English,There are several unresolved problems with library opening hours.,Negative,Library
+English,The college publishes information about exam schedule through its official channels.,Neutral,Academics
+English,The schedule for college buses is announced by the college.,Neutral,Transport
+English,The standard of instructor explanations is good and reliable.,Positive,Faculty
+English,"Overall, I am unhappy with library staff.",Negative,Library
+English,The support provided through complaint handling process is inadequate.,Negative,Administration
+English,The quality of bus routes is excellent.,Positive,Transport
+English,The college records updates related to electrical facilities in its administrative system.,Neutral,Infrastructure
+English,I am disappointed with the current condition of maintenance checks.,Negative,Safety and Hygiene
+English,The college includes teaching methods in its regular operations.,Neutral,Academics
+English,Students can depend on administrative response when needed.,Positive,Administration
+English,The support provided through reading rooms is helpful.,Positive,Library
+English,The current condition of student help desk is unacceptable.,Negative,Administration
+English,I would rate practical sessions poorly because it causes problems.,Negative,Academics
+English,I am pleased with how the college provides lecturer.,Positive,Faculty
+English,The schedule for hostel cleanliness is announced by the college.,Neutral,Hostel
+English,Information about transport office is available in the student handbook.,Neutral,Transport
+English,I have had a negative experience with faculty response.,Negative,Faculty
+English,The college includes hostel staff in its regular operations.,Neutral,Hostel
+English,I would rate hostel staff poorly because it causes problems.,Negative,Hostel
+English,Students from different year groups use or access classroom space.,Neutral,Infrastructure
+English,The college publishes information about transport schedule through its official channels.,Neutral,Transport
+English,The college records updates related to reading rooms in its administrative system.,Neutral,Library
+English,The quality of college buses is poor.,Negative,Transport
+English,I find reading rooms inconvenient and unreliable.,Negative,Library
+English,Students can contact the relevant office for details about book borrowing service.,Neutral,Library
+English,I find laboratory equipment inconvenient and unreliable.,Negative,Infrastructure
+English,I have had a positive experience with lecturer.,Positive,Faculty
+English,Students cannot depend on corridor cleanliness when needed.,Negative,Safety and Hygiene
+English,The current condition of emergency arrangements meets my expectations.,Positive,Safety and Hygiene
+English,The current condition of hostel common areas is unacceptable.,Negative,Hostel
+English,There are several unresolved problems with campus security arrangements.,Negative,Campus Facilities
+English,"Overall, I am unhappy with digital library.",Negative,Library
+English,"Overall, I am unhappy with syllabus.",Negative,Academics
+English,The standard of guest lecturer is good and reliable.,Positive,Faculty
+English,Information about complaint handling process is available in the student handbook.,Neutral,Administration
+English,The standard of parking area is good and reliable.,Positive,Campus Facilities
+English,I am pleased with how the college provides transport schedule.,Positive,Transport
+English,The support provided through library study spaces is inadequate.,Negative,Library
+English,The schedule for parking area is announced by the college.,Neutral,Campus Facilities
+English,The college includes transport service in its regular operations.,Neutral,Transport
+English,I find faculty feedback inconvenient and unreliable.,Negative,Academics
+English,I find reading rooms useful and convenient.,Positive,Library
+English,I am satisfied with the quality of campus buildings.,Positive,Infrastructure
+English,The college manages transport service very well.,Positive,Transport
+English,The college manages mess staff very well.,Positive,Food / Mess
+English,The quality of safety measures is poor.,Negative,Safety and Hygiene
+English,The college includes transport schedule in its regular operations.,Neutral,Transport
+English,Students can find details about hostel staff on the college notice board.,Neutral,Hostel
+English,I find classroom lessons inconvenient and unreliable.,Negative,Academics
+English,The college has not maintained an acceptable standard for campus lighting at night.,Negative,Safety and Hygiene
+English,Students can contact the relevant office for details about breakfast service.,Neutral,Food / Mess
+English,The quality of fee payment process is poor.,Negative,Administration
+English,The support provided through dining area is helpful.,Positive,Food / Mess
+English,Students can depend on electrical facilities when needed.,Positive,Infrastructure
+English,The quality of hostel rooms is poor.,Negative,Hostel
+English,I would rate electrical facilities poorly because it causes problems.,Negative,Infrastructure
+English,Information about campus hygiene is available in the student handbook.,Neutral,Safety and Hygiene
+English,The college has not maintained an acceptable standard for campus facilities.,Negative,Campus Facilities
+English,I have had a negative experience with teaching assistant.,Negative,Faculty
+English,The arrangements for library study spaces are described in college guidelines.,Neutral,Library
+English,The college has not maintained an acceptable standard for lecture explanations.,Negative,Academics
+English,The college manages academic adviser very well.,Positive,Faculty
+English,The college has listed classroom furniture in its campus information.,Neutral,Infrastructure
+English,The department reviews information related to sports ground each semester.,Neutral,Campus Facilities
+English,Information about transport schedule is available in the student handbook.,Neutral,Transport
+English,Students from different year groups use or access dinner quality.,Neutral,Food / Mess
+English,The college has listed classroom lighting in its campus information.,Neutral,Infrastructure
+English,The support provided through waste disposal system is inadequate.,Negative,Safety and Hygiene
+English,I would rate hostel common areas poorly because it causes problems.,Negative,Hostel
+English,The quality of hostel common areas is poor.,Negative,Hostel
+English,"Overall, I am happy with classroom furniture.",Positive,Infrastructure
+English,"Overall, I am unhappy with lecture explanations.",Negative,Academics
+English,The current condition of bus cleanliness meets my expectations.,Positive,Transport
+English,There are several unresolved problems with course materials.,Negative,Academics
+English,Students can find details about admission process on the college notice board.,Neutral,Administration
+English,The college manages digital library very well.,Positive,Library
+English,I would rate waste disposal system poorly because it causes problems.,Negative,Safety and Hygiene
+English,The standard of document verification is below expectations.,Negative,Administration
+English,I would rate campus infrastructure poorly because it causes problems.,Negative,Infrastructure
+English,The quality of medical room is poor.,Negative,Campus Facilities
+English,I am satisfied with the quality of dining area.,Positive,Food / Mess
+English,I find complaint handling process inconvenient and unreliable.,Negative,Administration
+English,Students from different year groups use or access document verification.,Neutral,Administration
+English,The college manages syllabus very well.,Positive,Academics
+English,I would rate classroom lessons poorly because it causes problems.,Negative,Academics
+English,There are several unresolved problems with student help desk.,Negative,Administration
+English,The quality of food hygiene is excellent.,Positive,Food / Mess
+English,The college has not maintained an acceptable standard for pickup points.,Negative,Transport
+English,The college needs to improve serving process.,Negative,Food / Mess
+English,The department reviews information related to campus cleanliness each semester.,Neutral,Campus Facilities
+English,The college has listed dining area in its campus information.,Neutral,Food / Mess
+English,The support provided through safety measures is inadequate.,Negative,Safety and Hygiene
+English,I would rate bus seating poorly because it causes problems.,Negative,Transport
+English,I find library staff useful and convenient.,Positive,Library
+English,The quality of menu variety is poor.,Negative,Food / Mess
+English,I am satisfied with the quality of mentor.,Positive,Faculty
+English,Details about assignment instructions are shared during student orientation.,Neutral,Academics
+English,Students from different year groups use or access breakfast service.,Neutral,Food / Mess
+English,I find administrative response inconvenient and unreliable.,Negative,Administration
+English,The support provided through campus security arrangements is helpful.,Positive,Campus Facilities
+English,The college manages computer systems very well.,Positive,Infrastructure
+English,Details about waste disposal system are shared during student orientation.,Neutral,Safety and Hygiene
+English,The college publishes information about driver behaviour through its official channels.,Neutral,Transport
+English,I would rate mess staff highly because it works well.,Positive,Food / Mess
+English,The department maintains records related to recreation facilities.,Neutral,Campus Facilities
+English,The college has maintained a good standard for campus lighting at night.,Positive,Safety and Hygiene
+English,The schedule for electrical facilities is announced by the college.,Neutral,Infrastructure
+English,I am satisfied with the quality of parking area.,Positive,Campus Facilities
+English,I find library opening hours useful and convenient.,Positive,Library
+English,The college has listed hostel cleanliness in its campus information.,Neutral,Hostel
+English,I am pleased with how the college provides menu variety.,Positive,Food / Mess
+English,"Overall, I am happy with library staff.",Positive,Library
+English,I would rate washroom cleanliness poorly because it causes problems.,Negative,Safety and Hygiene
+English,The college has assigned responsibility for library opening hours to a staff member.,Neutral,Library
+English,The standard of dining area is good and reliable.,Positive,Food / Mess
+English,Students can depend on maintenance checks when needed.,Positive,Safety and Hygiene
+English,The college has a designated area or process for maintenance checks.,Neutral,Safety and Hygiene
+English,"There are no major problems with maintenance checks, and I am satisfied.",Positive,Safety and Hygiene
+English,The standard of bus seating is good and reliable.,Positive,Transport
+English,The schedule for academic support is announced by the college.,Neutral,Academics
+English,I am dissatisfied with the quality of room ventilation.,Negative,Hostel
+English,"There are no major problems with library opening hours, and I am satisfied.",Positive,Library
+English,Students can depend on certificate service when needed.,Positive,Administration
+English,I am satisfied with the quality of laboratory computers.,Positive,Infrastructure
+English,The college includes complaint handling process in its regular operations.,Neutral,Administration
+English,The department maintains records related to teaching assistant.,Neutral,Faculty
+English,"There are no major problems with drinking water facility, and I am satisfied.",Positive,Food / Mess
+English,The college publishes information about electrical facilities through its official channels.,Neutral,Infrastructure
+English,The college does not manage department faculty properly.,Negative,Faculty
+English,The current condition of document verification meets my expectations.,Positive,Administration
+English,Students can contact the relevant office for details about syllabus.,Neutral,Academics
+English,I would rate bus routes poorly because it causes problems.,Negative,Transport
+English,The college records updates related to lunch options in its administrative system.,Neutral,Food / Mess
+English,I would rate dinner quality highly because it works well.,Positive,Food / Mess
+English,The college has not maintained an acceptable standard for emergency arrangements.,Negative,Safety and Hygiene
+English,The quality of campus security arrangements is excellent.,Positive,Campus Facilities
+English,I find office staff useful and convenient.,Positive,Administration
+English,"Overall, I am happy with safety measures.",Positive,Safety and Hygiene
+English,The college includes academic adviser in its regular operations.,Neutral,Faculty
+English,There are several unresolved problems with campus hygiene.,Negative,Safety and Hygiene
+English,The college publishes information about office staff through its official channels.,Neutral,Administration
+English,The college manages transport office very well.,Positive,Transport
+English,The college needs to improve campus cleanliness.,Negative,Campus Facilities
+English,The standard of recreation facilities is good and reliable.,Positive,Campus Facilities
+English,The college has not maintained an acceptable standard for administrative response.,Negative,Administration
+English,The quality of course materials is poor.,Negative,Academics
+English,Information about bus cleanliness is available in the student handbook.,Neutral,Transport
+English,Students can contact the relevant office for details about administrative response.,Neutral,Administration
+English,The schedule for certificate service is announced by the college.,Neutral,Administration
+English,The college includes food hygiene in its regular operations.,Neutral,Food / Mess
+English,Information about maintenance checks is available in the student handbook.,Neutral,Safety and Hygiene
+English,The current condition of campus buildings is unacceptable.,Negative,Infrastructure
+English,The college has maintained a good standard for syllabus.,Positive,Academics
+English,The college manages library staff very well.,Positive,Library
+English,The college has a designated area or process for water supply.,Neutral,Hostel
+English,The arrangements for reference materials are described in college guidelines.,Neutral,Library
+English,Students from different year groups use or access transport office.,Neutral,Transport
+English,The quality of library opening hours is excellent.,Positive,Library
+English,The current condition of digital library is unacceptable.,Negative,Library
+English,The standard of campus facilities is good and reliable.,Positive,Campus Facilities
+English,The standard of certificate service is good and reliable.,Positive,Administration
+English,I have had a positive experience with bus routes.,Positive,Transport
+English,I am pleased with how the college provides bus seating.,Positive,Transport
+English,Details about instructor explanations are shared during student orientation.,Neutral,Faculty
+English,The department reviews information related to classroom lighting each semester.,Neutral,Infrastructure
+English,I appreciate the improvements made to bus routes.,Positive,Transport
+English,I have had a negative experience with breakfast service.,Negative,Food / Mess
+English,I find bus routes inconvenient and unreliable.,Negative,Transport
+English,The college records updates related to certificate service in its administrative system.,Neutral,Administration
+English,The college includes study environment in its regular operations.,Neutral,Hostel
+English,The college does not manage classroom fans properly.,Negative,Infrastructure
+English,The schedule for emergency arrangements is announced by the college.,Neutral,Safety and Hygiene
+English,I have had a negative experience with pickup points.,Negative,Transport
+English,I am dissatisfied with the quality of hostel staff.,Negative,Hostel
+English,The college records updates related to college buses in its administrative system.,Neutral,Transport
+English,I have had a positive experience with college buses.,Positive,Transport
+English,The college needs to improve campus hygiene.,Negative,Safety and Hygiene
+English,The college has not maintained an acceptable standard for practical sessions.,Negative,Academics
+English,The department maintains records related to library computers.,Neutral,Library
+English,The college includes campus infrastructure in its regular operations.,Neutral,Infrastructure
+English,The schedule for library study spaces is announced by the college.,Neutral,Library
+English,I appreciate the improvements made to exam schedule.,Positive,Academics
+English,Details about transport office are shared during student orientation.,Neutral,Transport
+English,The college needs to improve medical room.,Negative,Campus Facilities
+English,The college records updates related to food hygiene in its administrative system.,Neutral,Food / Mess
+English,There are several unresolved problems with department faculty.,Negative,Faculty
+English,I am satisfied with the quality of hostel facilities.,Positive,Hostel
+English,The college has a designated area or process for laboratory computers.,Neutral,Infrastructure
+English,Students can depend on mess food when needed.,Positive,Food / Mess
+English,"Overall, I am happy with library opening hours.",Positive,Library
+English,Details about drinking water hygiene are shared during student orientation.,Neutral,Safety and Hygiene
+English,The college manages guest lecturer very well.,Positive,Faculty
+English,The college has maintained a good standard for student records service.,Positive,Administration
+English,The support provided through breakfast service is inadequate.,Negative,Food / Mess
+English,The college needs to improve document verification.,Negative,Administration
+English,There are several unresolved problems with campus cleanliness.,Negative,Campus Facilities
+English,Students from different year groups use or access library staff.,Neutral,Library
+English,Information about breakfast service is available in the student handbook.,Neutral,Food / Mess
+English,The standard of teaching methods is good and reliable.,Positive,Academics
+English,The college has assigned responsibility for campus buildings to a staff member.,Neutral,Infrastructure
+English,The arrangements for bus seating are described in college guidelines.,Neutral,Transport
+English,The department reviews information related to hostel cleanliness each semester.,Neutral,Hostel
+English,I am disappointed with the current condition of office staff.,Negative,Administration
+English,The college does not manage safety measures properly.,Negative,Safety and Hygiene
+English,The quality of hostel cleanliness is excellent.,Positive,Hostel
+English,I have had a negative experience with department faculty.,Negative,Faculty
+English,The quality of hostel common areas is excellent.,Positive,Hostel
+English,The standard of dining area is below expectations.,Negative,Food / Mess
+English,Students can find details about first-aid arrangements on the college notice board.,Neutral,Safety and Hygiene
+English,I am satisfied with the quality of library staff.,Positive,Library
+English,The college has maintained a good standard for classroom space.,Positive,Infrastructure
+English,I have had a positive experience with computer systems.,Positive,Infrastructure
+English,The college records updates related to transport service in its administrative system.,Neutral,Transport
+English,The college does not manage book borrowing service properly.,Negative,Library
+English,The college has assigned responsibility for parking area to a staff member.,Neutral,Campus Facilities
+English,"Overall, I am unhappy with faculty feedback.",Negative,Academics
+English,The support provided through drinking water hygiene is helpful.,Positive,Safety and Hygiene
+English,"Overall, I am unhappy with campus cleanliness.",Negative,Campus Facilities
+English,"There are no major problems with classroom lessons, and I am satisfied.",Positive,Academics
+English,The current condition of student records service meets my expectations.,Positive,Administration
+English,I am dissatisfied with the quality of digital library.,Negative,Library
+English,The college has listed medical room in its campus information.,Neutral,Campus Facilities
+English,The support provided through library seating is helpful.,Positive,Library
+English,"There are no major problems with study environment, and I am satisfied.",Positive,Hostel
+English,The college has maintained a good standard for hostel staff.,Positive,Hostel
+English,Details about washroom cleanliness are shared during student orientation.,Neutral,Safety and Hygiene
+English,The college has not maintained an acceptable standard for campus infrastructure.,Negative,Infrastructure
+English,The quality of hostel rules is excellent.,Positive,Hostel
+English,The current condition of reference materials is unacceptable.,Negative,Library
+English,The college has maintained a good standard for mess food.,Positive,Food / Mess
+English,I find library collection inconvenient and unreliable.,Negative,Library
+English,The college includes laboratory equipment in its regular operations.,Neutral,Infrastructure
+English,The department maintains records related to laboratory equipment.,Neutral,Infrastructure
+English,There are several unresolved problems with lab instructor.,Negative,Faculty
+English,The support provided through campus Wi-Fi is inadequate.,Negative,Campus Facilities
+English,The college publishes information about mess staff through its official channels.,Neutral,Food / Mess
+English,Students can depend on library computers when needed.,Positive,Library
+English,I am satisfied with the quality of corridor cleanliness.,Positive,Safety and Hygiene
+English,The current condition of dining area meets my expectations.,Positive,Food / Mess
+English,The standard of dinner quality is good and reliable.,Positive,Food / Mess
+English,The arrangements for complaint handling process are described in college guidelines.,Neutral,Administration
+English,The department maintains records related to drinking water points.,Neutral,Campus Facilities
+English,Students can contact the relevant office for details about corridor cleanliness.,Neutral,Safety and Hygiene
+English,The arrangements for water supply are described in college guidelines.,Neutral,Hostel
+English,I would rate drinking water facility highly because it works well.,Positive,Food / Mess
+English,The college has a designated area or process for dinner quality.,Neutral,Food / Mess
+English,Students can contact the relevant office for details about fee payment process.,Neutral,Administration
+English,I have had a positive experience with library study spaces.,Positive,Library
+English,The college does not manage faculty response properly.,Negative,Faculty
+English,The arrangements for campus hygiene are described in college guidelines.,Neutral,Safety and Hygiene
+English,The quality of laboratory equipment is poor.,Negative,Infrastructure
+English,The quality of classroom fans is excellent.,Positive,Infrastructure
+English,The college has listed digital library in its campus information.,Neutral,Library
+English,Students from different year groups use or access mess food.,Neutral,Food / Mess
+English,The quality of classroom lessons is poor.,Negative,Academics
+English,The college needs to improve syllabus.,Negative,Academics
+English,"There are no major problems with laboratory computers, and I am satisfied.",Positive,Infrastructure
+English,I am satisfied with the quality of food hygiene.,Positive,Food / Mess
+English,The college does not manage waste disposal system properly.,Negative,Safety and Hygiene
+English,Information about room ventilation is available in the student handbook.,Neutral,Hostel
+English,The department reviews information related to mess food each semester.,Neutral,Food / Mess
+English,I would rate guest lecturer highly because it works well.,Positive,Faculty
+English,The department reviews information related to library staff each semester.,Neutral,Library
+English,The standard of library collection is below expectations.,Negative,Library
+English,Information about lunch options is available in the student handbook.,Neutral,Food / Mess
+English,I am disappointed with the current condition of corridor cleanliness.,Negative,Safety and Hygiene
+English,Students can find details about electrical facilities on the college notice board.,Neutral,Infrastructure
+English,The current condition of notice system meets my expectations.,Positive,Administration
+English,I find campus Wi-Fi useful and convenient.,Positive,Campus Facilities
+English,Students can depend on hostel cleanliness when needed.,Positive,Hostel
+English,I am dissatisfied with the quality of guest lecturer.,Negative,Faculty
+English,Students can depend on academic adviser when needed.,Positive,Faculty
+English,The department maintains records related to classroom space.,Neutral,Infrastructure
+English,Students can find details about mentor on the college notice board.,Neutral,Faculty
+English,Students can contact the relevant office for details about instructor explanations.,Neutral,Faculty
+English,I have had a negative experience with mess food.,Negative,Food / Mess
+English,The college has a designated area or process for drinking water facility.,Neutral,Food / Mess
+English,The support provided through drinking water hygiene is inadequate.,Negative,Safety and Hygiene
+English,Details about sports ground are shared during student orientation.,Neutral,Campus Facilities
+English,The current condition of teaching assistant meets my expectations.,Positive,Faculty
+English,The current condition of library staff meets my expectations.,Positive,Library
+English,The college has not maintained an acceptable standard for breakfast service.,Negative,Food / Mess
+English,I am disappointed with the current condition of water supply.,Negative,Hostel
+English,The college has listed campus hygiene in its campus information.,Neutral,Safety and Hygiene
+English,The arrangements for laboratory equipment are described in college guidelines.,Neutral,Infrastructure
+English,The standard of emergency arrangements is below expectations.,Negative,Safety and Hygiene
+English,The standard of library computers is good and reliable.,Positive,Library
+English,I find course materials useful and convenient.,Positive,Academics
+English,"Overall, I am unhappy with hostel rooms.",Negative,Hostel
+English,The department maintains records related to campus infrastructure.,Neutral,Infrastructure
+English,The college includes student activity areas in its regular operations.,Neutral,Campus Facilities
+English,The college publishes information about administrative response through its official channels.,Neutral,Administration
+English,I would rate teaching assistant highly because it works well.,Positive,Faculty
+English,The support provided through faculty response is helpful.,Positive,Faculty
+English,I am satisfied with the quality of admission process.,Positive,Administration
+English,Students can find details about bus cleanliness on the college notice board.,Neutral,Transport
+English,The college does not manage hostel rules properly.,Negative,Hostel
+English,The standard of menu variety is below expectations.,Negative,Food / Mess
+English,The current condition of complaint handling process meets my expectations.,Positive,Administration
+English,The schedule for hostel staff is announced by the college.,Neutral,Hostel
+English,Information about course instructor is available in the student handbook.,Neutral,Faculty
+English,Students from different year groups use or access course instructor.,Neutral,Faculty
+English,The current condition of sports ground is unacceptable.,Negative,Campus Facilities
+English,I appreciate the improvements made to college buses.,Positive,Transport
+English,The schedule for laboratory computers is announced by the college.,Neutral,Infrastructure
+English,The college includes reading rooms in its regular operations.,Neutral,Library
+English,The college has listed library opening hours in its campus information.,Neutral,Library
+English,The arrangements for instructor explanations are described in college guidelines.,Neutral,Faculty
+English,I find transport office useful and convenient.,Positive,Transport
+English,I find washroom cleanliness useful and convenient.,Positive,Safety and Hygiene
+English,The support provided through parking area is helpful.,Positive,Campus Facilities
+English,The arrangements for lab instructor are described in college guidelines.,Neutral,Faculty
+English,I appreciate the improvements made to maintenance checks.,Positive,Safety and Hygiene
+English,The support provided through library collection is inadequate.,Negative,Library
+English,The quality of drinking water hygiene is excellent.,Positive,Safety and Hygiene
+English,The department reviews information related to assignment instructions each semester.,Neutral,Academics
+English,Students cannot depend on maintenance checks when needed.,Negative,Safety and Hygiene
+English,The college has listed campus facilities in its campus information.,Neutral,Campus Facilities
+English,Details about lunch options are shared during student orientation.,Neutral,Food / Mess
+English,The college manages mentor very well.,Positive,Faculty
+English,The current condition of library seating is unacceptable.,Negative,Library
+English,The quality of guest lecturer is poor.,Negative,Faculty
+English,Students cannot depend on lecture explanations when needed.,Negative,Academics
+English,The standard of academic support is below expectations.,Negative,Academics
+English,The department reviews information related to fee payment process each semester.,Neutral,Administration
+English,The quality of notice system is excellent.,Positive,Administration
+English,I find hostel rules inconvenient and unreliable.,Negative,Hostel
+English,"Overall, I am unhappy with mess staff.",Negative,Food / Mess
+English,Information about medical room is available in the student handbook.,Neutral,Campus Facilities
+English,The quality of instructor explanations is poor.,Negative,Faculty
+English,"There are no major problems with drinking water hygiene, and I am satisfied.",Positive,Safety and Hygiene
+English,The college has listed faculty feedback in its campus information.,Neutral,Academics
+English,Students from different year groups use or access mess staff.,Neutral,Food / Mess
+English,I have had a positive experience with menu variety.,Positive,Food / Mess
+English,The standard of computer systems is below expectations.,Negative,Infrastructure
+English,The college has not maintained an acceptable standard for library computers.,Negative,Library
+English,Students can contact the relevant office for details about driver behaviour.,Neutral,Transport
+English,I find sports ground inconvenient and unreliable.,Negative,Campus Facilities
+English,I have had a negative experience with assignment instructions.,Negative,Academics
+English,The college records updates related to maintenance checks in its administrative system.,Neutral,Safety and Hygiene
+English,Students from different year groups use or access hostel cleanliness.,Neutral,Hostel
+English,I have had a positive experience with classroom space.,Positive,Infrastructure
+English,Students from different year groups use or access faculty response.,Neutral,Faculty
+English,Information about library computers is available in the student handbook.,Neutral,Library
+English,The schedule for admission process is announced by the college.,Neutral,Administration
+English,I appreciate the improvements made to hostel cleanliness.,Positive,Hostel
+English,The college does not manage bus routes properly.,Negative,Transport
+English,I would rate water supply highly because it works well.,Positive,Hostel
+English,I appreciate the improvements made to lab instructor.,Positive,Faculty
+English,The arrangements for classroom lighting are described in college guidelines.,Neutral,Infrastructure
+English,I find college buses inconvenient and unreliable.,Negative,Transport
+English,"There are no major problems with pickup points, and I am satisfied.",Positive,Transport
+English,Students cannot depend on computer systems when needed.,Negative,Infrastructure
+English,Students can find details about pickup points on the college notice board.,Neutral,Transport
+English,I would rate faculty response poorly because it causes problems.,Negative,Faculty
+English,The arrangements for driver behaviour are described in college guidelines.,Neutral,Transport
+English,The support provided through department faculty is helpful.,Positive,Faculty
+English,"Overall, I am happy with pickup points.",Positive,Transport
+English,Students cannot depend on course materials when needed.,Negative,Academics
+English,The college has not maintained an acceptable standard for lab instructor.,Negative,Faculty
+English,"There are no major problems with course instructor, and I am satisfied.",Positive,Faculty
+English,The college needs to improve recreation facilities.,Negative,Campus Facilities
+English,The support provided through administrative response is helpful.,Positive,Administration
+English,The schedule for student activity areas is announced by the college.,Neutral,Campus Facilities
+English,The current condition of reference materials meets my expectations.,Positive,Library
+English,I find food hygiene inconvenient and unreliable.,Negative,Food / Mess
+English,Students can contact the relevant office for details about parking area.,Neutral,Campus Facilities
+English,Details about transport schedule are shared during student orientation.,Neutral,Transport
+English,The department maintains records related to college buses.,Neutral,Transport
+English,Information about drinking water hygiene is available in the student handbook.,Neutral,Safety and Hygiene
+English,Students from different year groups use or access pickup points.,Neutral,Transport
+English,The college publishes information about teaching methods through its official channels.,Neutral,Academics
+English,The college needs to improve teaching methods.,Negative,Academics
+English,The college has a designated area or process for campus infrastructure.,Neutral,Infrastructure
+English,Students can contact the relevant office for details about library opening hours.,Neutral,Library
+English,The standard of hostel cleanliness is below expectations.,Negative,Hostel
+English,"Overall, I am happy with transport service.",Positive,Transport
+English,The department reviews information related to digital library each semester.,Neutral,Library
+English,The college has a designated area or process for mess staff.,Neutral,Food / Mess
+English,Students cannot depend on driver behaviour when needed.,Negative,Transport
+English,The standard of teaching methods is below expectations.,Negative,Academics
+English,Details about pickup points are shared during student orientation.,Neutral,Transport
+English,I am disappointed with the current condition of recreation facilities.,Negative,Campus Facilities
+English,The current condition of library computers is unacceptable.,Negative,Library
+English,The quality of campus security arrangements is poor.,Negative,Campus Facilities
+English,There are several unresolved problems with mess staff.,Negative,Food / Mess
+English,Students can depend on lecturer when needed.,Positive,Faculty
+English,I appreciate the improvements made to academic adviser.,Positive,Faculty
+English,The college publishes information about library opening hours through its official channels.,Neutral,Library
+English,The college publishes information about student records service through its official channels.,Neutral,Administration
+English,The college includes syllabus in its regular operations.,Neutral,Academics
+English,I am satisfied with the quality of lunch options.,Positive,Food / Mess
+English,The college manages food hygiene very well.,Positive,Food / Mess
+English,The quality of dining area is excellent.,Positive,Food / Mess
+English,The support provided through campus infrastructure is helpful.,Positive,Infrastructure
+English,The standard of library staff is below expectations.,Negative,Library
+English,Students can find details about book borrowing service on the college notice board.,Neutral,Library
+English,I would rate lecture explanations highly because it works well.,Positive,Academics
+English,The department reviews information related to student help desk each semester.,Neutral,Administration
+English,The college includes department faculty in its regular operations.,Neutral,Faculty
+English,The college has assigned responsibility for course instructor to a staff member.,Neutral,Faculty
+English,I find mentor inconvenient and unreliable.,Negative,Faculty
+English,I find hostel common areas inconvenient and unreliable.,Negative,Hostel
+English,Students can depend on transport office when needed.,Positive,Transport
+English,The quality of college buses is excellent.,Positive,Transport
+English,I appreciate the improvements made to library study spaces.,Positive,Library
+English,"Overall, I am unhappy with pickup points.",Negative,Transport
+English,I have had a positive experience with mentor.,Positive,Faculty
+English,I would rate lab instructor poorly because it causes problems.,Negative,Faculty
+English,I have had a negative experience with bus seating.,Negative,Transport
+English,The department reviews information related to medical room each semester.,Neutral,Campus Facilities
+English,The college has assigned responsibility for campus security arrangements to a staff member.,Neutral,Campus Facilities
+English,The department maintains records related to library opening hours.,Neutral,Library
+English,Students can contact the relevant office for details about campus cleanliness.,Neutral,Campus Facilities
+English,There are several unresolved problems with medical room.,Negative,Campus Facilities
+English,I am pleased with how the college provides student activity areas.,Positive,Campus Facilities
+English,The support provided through document verification is helpful.,Positive,Administration
+English,The college has listed driver behaviour in its campus information.,Neutral,Transport
+English,The current condition of computer systems meets my expectations.,Positive,Infrastructure
+English,The quality of campus Wi-Fi is excellent.,Positive,Campus Facilities
+English,Students can find details about student help desk on the college notice board.,Neutral,Administration
+English,Students can contact the relevant office for details about campus hygiene.,Neutral,Safety and Hygiene
+English,The college has not maintained an acceptable standard for maintenance checks.,Negative,Safety and Hygiene
+English,Students cannot depend on course instructor when needed.,Negative,Faculty
+English,The college has listed computer systems in its campus information.,Neutral,Infrastructure
+English,I find teaching methods useful and convenient.,Positive,Academics
+English,The arrangements for course materials are described in college guidelines.,Neutral,Academics
+English,The college includes dining area in its regular operations.,Neutral,Food / Mess
+English,The college has not maintained an acceptable standard for hostel staff.,Negative,Hostel
+English,There are several unresolved problems with teaching assistant.,Negative,Faculty
+English,The college manages hostel facilities very well.,Positive,Hostel
+English,Details about practical sessions are shared during student orientation.,Neutral,Academics
+English,The college does not manage campus facilities properly.,Negative,Campus Facilities
+English,Students from different year groups use or access library opening hours.,Neutral,Library
+English,The schedule for classroom fans is announced by the college.,Neutral,Infrastructure
+English,The college has assigned responsibility for library staff to a staff member.,Neutral,Library
+English,I am dissatisfied with the quality of laboratory equipment.,Negative,Infrastructure
+English,I find sports ground useful and convenient.,Positive,Campus Facilities
+English,The college does not manage library seating properly.,Negative,Library
+English,I am satisfied with the quality of waste disposal system.,Positive,Safety and Hygiene
+English,"Overall, I am unhappy with room ventilation.",Negative,Hostel
+English,I have had a positive experience with complaint handling process.,Positive,Administration
+English,"Overall, I am happy with library seating.",Positive,Library
+English,I am dissatisfied with the quality of computer systems.,Negative,Infrastructure
+English,The college manages hostel staff very well.,Positive,Hostel
+English,The college has not maintained an acceptable standard for classroom furniture.,Negative,Infrastructure
+English,I am dissatisfied with the quality of student help desk.,Negative,Administration
+English,I would rate campus hygiene highly because it works well.,Positive,Safety and Hygiene
+English,The quality of campus buildings is excellent.,Positive,Infrastructure
+English,The department maintains records related to department faculty.,Neutral,Faculty
+English,I have had a negative experience with reference materials.,Negative,Library
+English,I have had a positive experience with water supply.,Positive,Hostel
+English,The college has maintained a good standard for exam schedule.,Positive,Academics
+English,I appreciate the improvements made to campus cleanliness.,Positive,Campus Facilities
+English,I appreciate the improvements made to classroom lighting.,Positive,Infrastructure
+English,The schedule for study environment is announced by the college.,Neutral,Hostel
+English,The college needs to improve first-aid arrangements.,Negative,Safety and Hygiene
+English,"Overall, I am happy with campus lighting at night.",Positive,Safety and Hygiene
+English,"There are no major problems with library staff, and I am satisfied.",Positive,Library
+English,The arrangements for classroom lessons are described in college guidelines.,Neutral,Academics
+English,The college has a designated area or process for transport schedule.,Neutral,Transport
+English,I am pleased with how the college provides course instructor.,Positive,Faculty
+English,The current condition of library collection meets my expectations.,Positive,Library
+English,The support provided through food hygiene is inadequate.,Negative,Food / Mess
+English,The college needs to improve classroom lessons.,Negative,Academics
+English,The support provided through hostel cleanliness is inadequate.,Negative,Hostel
+English,The current condition of drinking water points is unacceptable.,Negative,Campus Facilities
+English,The college needs to improve classroom lighting.,Negative,Infrastructure
+English,The current condition of fee payment process is unacceptable.,Negative,Administration
+English,The college needs to improve digital library.,Negative,Library
+English,There are several unresolved problems with transport office.,Negative,Transport
+English,The department reviews information related to library computers each semester.,Neutral,Library
+English,I have had a positive experience with medical room.,Positive,Campus Facilities
+English,There are several unresolved problems with campus infrastructure.,Negative,Infrastructure
+English,The schedule for classroom lighting is announced by the college.,Neutral,Infrastructure
+English,I am disappointed with the current condition of transport office.,Negative,Transport
+English,The quality of campus cleanliness is excellent.,Positive,Campus Facilities
+English,Information about lab instructor is available in the student handbook.,Neutral,Faculty
+English,The college records updates related to teaching methods in its administrative system.,Neutral,Academics
+English,The college records updates related to mess food in its administrative system.,Neutral,Food / Mess
+English,Details about classroom space are shared during student orientation.,Neutral,Infrastructure
+English,I am dissatisfied with the quality of campus hygiene.,Negative,Safety and Hygiene
+English,The college includes faculty feedback in its regular operations.,Neutral,Academics
+English,The college manages transport schedule very well.,Positive,Transport
+English,I am dissatisfied with the quality of course instructor.,Negative,Faculty
+English,Students cannot depend on drinking water facility when needed.,Negative,Food / Mess
+English,The support provided through washroom cleanliness is inadequate.,Negative,Safety and Hygiene
+English,The college publishes information about hostel facilities through its official channels.,Neutral,Hostel
+English,Students from different year groups use or access office staff.,Neutral,Administration
+English,The college records updates related to lecture explanations in its administrative system.,Neutral,Academics
+English,Students cannot depend on academic support when needed.,Negative,Academics
+English,"Overall, I am happy with room ventilation.",Positive,Hostel
+English,The department reviews information related to library opening hours each semester.,Neutral,Library
+English,"Overall, I am unhappy with campus infrastructure.",Negative,Infrastructure
+English,"Overall, I am unhappy with laboratory computers.",Negative,Infrastructure
+English,The arrangements for campus cleanliness are described in college guidelines.,Neutral,Campus Facilities
+English,The college does not manage fee payment process properly.,Negative,Administration
+English,The college includes computer systems in its regular operations.,Neutral,Infrastructure
+English,The department maintains records related to emergency arrangements.,Neutral,Safety and Hygiene
+English,Students can depend on campus infrastructure when needed.,Positive,Infrastructure
+English,I am satisfied with the quality of study environment.,Positive,Hostel
+English,The college includes breakfast service in its regular operations.,Neutral,Food / Mess
+English,"There are no major problems with laboratory equipment, and I am satisfied.",Positive,Infrastructure
+English,I am dissatisfied with the quality of lecturer.,Negative,Faculty
+English,The college has assigned responsibility for breakfast service to a staff member.,Neutral,Food / Mess
+English,The support provided through student activity areas is helpful.,Positive,Campus Facilities
+English,Students from different year groups use or access course materials.,Neutral,Academics
+English,The department reviews information related to campus facilities each semester.,Neutral,Campus Facilities
+English,Information about pickup points is available in the student handbook.,Neutral,Transport
+English,The current condition of lecturer is unacceptable.,Negative,Faculty
+English,The support provided through serving process is helpful.,Positive,Food / Mess
+English,The schedule for library computers is announced by the college.,Neutral,Library
+English,The quality of student activity areas is poor.,Negative,Campus Facilities
+English,The quality of washroom cleanliness is poor.,Negative,Safety and Hygiene
+English,I would rate library staff highly because it works well.,Positive,Library
+English,I appreciate the improvements made to medical room.,Positive,Campus Facilities
+English,The college has assigned responsibility for digital library to a staff member.,Neutral,Library
+English,I have had a positive experience with corridor cleanliness.,Positive,Safety and Hygiene
+English,Students can contact the relevant office for details about library seating.,Neutral,Library
+English,"There are no major problems with digital library, and I am satisfied.",Positive,Library
+English,"Overall, I am happy with reading rooms.",Positive,Library
+English,The schedule for pickup points is announced by the college.,Neutral,Transport
+English,The support provided through lecturer is inadequate.,Negative,Faculty
+English,Students can depend on classroom lighting when needed.,Positive,Infrastructure
+English,Information about hostel rooms is available in the student handbook.,Neutral,Hostel
+English,The quality of water supply is poor.,Negative,Hostel
+English,The arrangements for library staff are described in college guidelines.,Neutral,Library
+English,The college includes library seating in its regular operations.,Neutral,Library
+English,The college has not maintained an acceptable standard for certificate service.,Negative,Administration
+English,The college has maintained a good standard for transport service.,Positive,Transport
+English,The standard of department faculty is below expectations.,Negative,Faculty
+English,Information about assignment instructions is available in the student handbook.,Neutral,Academics
+English,The college has a designated area or process for library staff.,Neutral,Library
+English,The current condition of laboratory computers is unacceptable.,Negative,Infrastructure
+English,Details about corridor cleanliness are shared during student orientation.,Neutral,Safety and Hygiene
+English,I find computer systems useful and convenient.,Positive,Infrastructure
+English,The college publishes information about guest lecturer through its official channels.,Neutral,Faculty
+English,The college has a designated area or process for first-aid arrangements.,Neutral,Safety and Hygiene
+English,The standard of academic adviser is below expectations.,Negative,Faculty
+English,The college does not manage first-aid arrangements properly.,Negative,Safety and Hygiene
+English,"Overall, I am unhappy with drinking water facility.",Negative,Food / Mess
+English,"Overall, I am happy with computer systems.",Positive,Infrastructure
+English,I would rate classroom space poorly because it causes problems.,Negative,Infrastructure
+English,Students can contact the relevant office for details about sports ground.,Neutral,Campus Facilities
+English,The quality of food hygiene is poor.,Negative,Food / Mess
+English,The support provided through corridor cleanliness is inadequate.,Negative,Safety and Hygiene
+English,The college has a designated area or process for hostel maintenance.,Neutral,Hostel
+English,Students can depend on instructor explanations when needed.,Positive,Faculty
+English,I find department faculty useful and convenient.,Positive,Faculty
+English,Students can depend on classroom furniture when needed.,Positive,Infrastructure
+English,Students from different year groups use or access hostel maintenance.,Neutral,Hostel
+English,The college has listed campus security arrangements in its campus information.,Neutral,Campus Facilities
+English,The support provided through campus cleanliness is helpful.,Positive,Campus Facilities
+English,The college has a designated area or process for lab instructor.,Neutral,Faculty
+English,Details about campus infrastructure are shared during student orientation.,Neutral,Infrastructure
+English,"There are no major problems with bus timings, and I am satisfied.",Positive,Transport
+English,The college needs to improve parking area.,Negative,Campus Facilities
+English,The college has listed drinking water facility in its campus information.,Neutral,Food / Mess
+English,Students can contact the relevant office for details about emergency arrangements.,Neutral,Safety and Hygiene
+English,I would rate classroom fans highly because it works well.,Positive,Infrastructure
+English,The college manages fee payment process very well.,Positive,Administration
+English,The schedule for dining area is announced by the college.,Neutral,Food / Mess
+English,The college has maintained a good standard for drinking water hygiene.,Positive,Safety and Hygiene
+English,I am pleased with how the college provides office staff.,Positive,Administration
+English,I am dissatisfied with the quality of student activity areas.,Negative,Campus Facilities
+English,The college has maintained a good standard for transport schedule.,Positive,Transport
+English,The college has listed first-aid arrangements in its campus information.,Neutral,Safety and Hygiene
+English,I am disappointed with the current condition of serving process.,Negative,Food / Mess
+English,The college has listed office staff in its campus information.,Neutral,Administration
+English,The college needs to improve drinking water points.,Negative,Campus Facilities
+English,The college includes maintenance checks in its regular operations.,Neutral,Safety and Hygiene
+English,The quality of breakfast service is poor.,Negative,Food / Mess
+English,Students can depend on sports ground when needed.,Positive,Campus Facilities
+English,I have had a negative experience with hostel rooms.,Negative,Hostel
+English,The college has listed hostel maintenance in its campus information.,Neutral,Hostel
+English,Information about water supply is available in the student handbook.,Neutral,Hostel
+English,I find book borrowing service useful and convenient.,Positive,Library
+English,I find first-aid arrangements useful and convenient.,Positive,Safety and Hygiene
+English,I find library collection useful and convenient.,Positive,Library
+English,The support provided through maintenance checks is inadequate.,Negative,Safety and Hygiene
+English,The college includes office staff in its regular operations.,Neutral,Administration
+English,The college has not maintained an acceptable standard for campus hygiene.,Negative,Safety and Hygiene
+English,The college has listed book borrowing service in its campus information.,Neutral,Library
+English,The college needs to improve campus facilities.,Negative,Campus Facilities
+English,Students cannot depend on guest lecturer when needed.,Negative,Faculty
+English,Students from different year groups use or access maintenance checks.,Neutral,Safety and Hygiene
+English,The college includes administrative response in its regular operations.,Neutral,Administration
+English,I am dissatisfied with the quality of teaching assistant.,Negative,Faculty
+English,I am dissatisfied with the quality of driver behaviour.,Negative,Transport
+English,The department reviews information related to department faculty each semester.,Neutral,Faculty
+English,Details about student records service are shared during student orientation.,Neutral,Administration
+English,The schedule for classroom space is announced by the college.,Neutral,Infrastructure
+English,The college has maintained a good standard for faculty response.,Positive,Faculty
+English,I have had a negative experience with library seating.,Negative,Library
+English,"Overall, I am unhappy with safety measures.",Negative,Safety and Hygiene
+English,I appreciate the improvements made to course instructor.,Positive,Faculty
+English,The college has not maintained an acceptable standard for drinking water hygiene.,Negative,Safety and Hygiene
+English,The college has not maintained an acceptable standard for washroom cleanliness.,Negative,Safety and Hygiene
+English,The support provided through library opening hours is inadequate.,Negative,Library
+English,I would rate drinking water facility poorly because it causes problems.,Negative,Food / Mess
+English,The arrangements for library seating are described in college guidelines.,Neutral,Library
+English,I have had a positive experience with library opening hours.,Positive,Library
+English,Students can depend on emergency arrangements when needed.,Positive,Safety and Hygiene
+English,The college has assigned responsibility for campus cleanliness to a staff member.,Neutral,Campus Facilities
+English,The schedule for guest lecturer is announced by the college.,Neutral,Faculty
+English,The college has assigned responsibility for safety measures to a staff member.,Neutral,Safety and Hygiene
+English,The department maintains records related to computer systems.,Neutral,Infrastructure
+English,The college includes bus cleanliness in its regular operations.,Neutral,Transport
+English,I would rate student help desk highly because it works well.,Positive,Administration
+English,The college does not manage digital library properly.,Negative,Library
+English,I would rate pickup points poorly because it causes problems.,Negative,Transport
+English,The department maintains records related to mess staff.,Neutral,Food / Mess
+English,The department maintains records related to faculty response.,Neutral,Faculty
+English,The standard of student activity areas is below expectations.,Negative,Campus Facilities
+English,The college has listed transport schedule in its campus information.,Neutral,Transport
+English,"Overall, I am unhappy with reading rooms.",Negative,Library
+English,Details about campus lighting at night are shared during student orientation.,Neutral,Safety and Hygiene
+English,The college records updates related to hostel cleanliness in its administrative system.,Neutral,Hostel
+English,The quality of sports ground is excellent.,Positive,Campus Facilities
+English,"Overall, I am unhappy with academic adviser.",Negative,Faculty
+English,There are several unresolved problems with lunch options.,Negative,Food / Mess
+English,The college manages book borrowing service very well.,Positive,Library
+English,I appreciate the improvements made to campus Wi-Fi.,Positive,Campus Facilities
+English,I am satisfied with the quality of lecturer.,Positive,Faculty
+English,The college does not manage hostel common areas properly.,Negative,Hostel
+English,The current condition of assignment instructions meets my expectations.,Positive,Academics
+English,I am dissatisfied with the quality of classroom furniture.,Negative,Infrastructure
+English,The standard of fee payment process is good and reliable.,Positive,Administration
+English,Students cannot depend on mess staff when needed.,Negative,Food / Mess
+English,The college publishes information about medical room through its official channels.,Neutral,Campus Facilities
+English,The current condition of campus hygiene is unacceptable.,Negative,Safety and Hygiene
+English,The college has a designated area or process for breakfast service.,Neutral,Food / Mess
+English,The department maintains records related to washroom cleanliness.,Neutral,Safety and Hygiene
+English,The college needs to improve course materials.,Negative,Academics
+English,I would rate college buses highly because it works well.,Positive,Transport
+English,The quality of mentor is excellent.,Positive,Faculty
+English,"Overall, I am happy with bus routes.",Positive,Transport
+English,The quality of hostel rooms is excellent.,Positive,Hostel
+English,I am satisfied with the quality of reference materials.,Positive,Library
+English,The schedule for complaint handling process is announced by the college.,Neutral,Administration
+English,The college has a designated area or process for classroom lighting.,Neutral,Infrastructure
+English,I am pleased with how the college provides administrative response.,Positive,Administration
+English,The quality of student records service is poor.,Negative,Administration
+English,I would rate guest lecturer poorly because it causes problems.,Negative,Faculty
+English,Information about mentor is available in the student handbook.,Neutral,Faculty
+English,I have had a positive experience with document verification.,Positive,Administration
+English,I am dissatisfied with the quality of academic support.,Negative,Academics
+English,Students can depend on notice system when needed.,Positive,Administration
+English,"Overall, I am unhappy with certificate service.",Negative,Administration
+English,The support provided through office staff is helpful.,Positive,Administration
+English,The schedule for faculty feedback is announced by the college.,Neutral,Academics
+English,There are several unresolved problems with book borrowing service.,Negative,Library
+English,The standard of library computers is below expectations.,Negative,Library
+English,The department maintains records related to hostel rooms.,Neutral,Hostel
+English,"There are no major problems with faculty response, and I am satisfied.",Positive,Faculty
+English,I am satisfied with the quality of notice system.,Positive,Administration
+English,The support provided through classroom fans is inadequate.,Negative,Infrastructure
+English,The quality of electrical facilities is poor.,Negative,Infrastructure
+English,The college has assigned responsibility for sports ground to a staff member.,Neutral,Campus Facilities
+English,I am satisfied with the quality of mess food.,Positive,Food / Mess
+English,I appreciate the improvements made to mentor.,Positive,Faculty
+English,Details about certificate service are shared during student orientation.,Neutral,Administration
+English,The quality of first-aid arrangements is excellent.,Positive,Safety and Hygiene
+English,The college records updates related to admission process in its administrative system.,Neutral,Administration
+English,The college does not manage academic support properly.,Negative,Academics
+English,The college does not manage library staff properly.,Negative,Library
+English,The college manages mess food very well.,Positive,Food / Mess
+English,The current condition of pickup points is unacceptable.,Negative,Transport
+English,The college has maintained a good standard for assignment instructions.,Positive,Academics
+English,The standard of bus cleanliness is good and reliable.,Positive,Transport
+English,I find room ventilation useful and convenient.,Positive,Hostel
+English,Students can contact the relevant office for details about college buses.,Neutral,Transport
+English,Students cannot depend on water supply when needed.,Negative,Hostel
+English,The schedule for digital library is announced by the college.,Neutral,Library
+English,I would rate instructor explanations highly because it works well.,Positive,Faculty
+English,The college publishes information about transport service through its official channels.,Neutral,Transport
+English,The arrangements for hostel common areas are described in college guidelines.,Neutral,Hostel
+English,Students can depend on library collection when needed.,Positive,Library
+English,Students from different year groups use or access classroom furniture.,Neutral,Infrastructure
+English,Information about instructor explanations is available in the student handbook.,Neutral,Faculty
+English,I am satisfied with the quality of classroom furniture.,Positive,Infrastructure
+English,The college has a designated area or process for medical room.,Neutral,Campus Facilities
+English,I appreciate the improvements made to parking area.,Positive,Campus Facilities
+English,The college has maintained a good standard for computer systems.,Positive,Infrastructure
+English,The standard of campus hygiene is below expectations.,Negative,Safety and Hygiene
+English,The college has assigned responsibility for hostel rooms to a staff member.,Neutral,Hostel
+English,The college needs to improve assignment instructions.,Negative,Academics
+English,The college has maintained a good standard for drinking water facility.,Positive,Food / Mess
+English,The college manages menu variety very well.,Positive,Food / Mess
+English,The college publishes information about laboratory computers through its official channels.,Neutral,Infrastructure
+English,I am dissatisfied with the quality of department faculty.,Negative,Faculty
+English,I would rate water supply poorly because it causes problems.,Negative,Hostel
+English,"There are no major problems with hostel cleanliness, and I am satisfied.",Positive,Hostel
+English,Students from different year groups use or access academic adviser.,Neutral,Faculty
+English,The college has not maintained an acceptable standard for college buses.,Negative,Transport
+English,Students can depend on hostel rooms when needed.,Positive,Hostel
+English,The college has a designated area or process for safety measures.,Neutral,Safety and Hygiene
+English,The schedule for campus security arrangements is announced by the college.,Neutral,Campus Facilities
+English,The college has maintained a good standard for campus security arrangements.,Positive,Campus Facilities
+English,The quality of recreation facilities is excellent.,Positive,Campus Facilities
+English,Students can find details about recreation facilities on the college notice board.,Neutral,Campus Facilities
+English,The standard of guest lecturer is below expectations.,Negative,Faculty
+English,Students can contact the relevant office for details about library staff.,Neutral,Library
+English,The current condition of faculty feedback is unacceptable.,Negative,Academics
+English,I am satisfied with the quality of laboratory equipment.,Positive,Infrastructure
+English,The schedule for course instructor is announced by the college.,Neutral,Faculty
+English,The college has maintained a good standard for dining area.,Positive,Food / Mess
+English,There are several unresolved problems with fee payment process.,Negative,Administration
+English,The college has a designated area or process for classroom furniture.,Neutral,Infrastructure
+English,I find food hygiene useful and convenient.,Positive,Food / Mess
+English,"Overall, I am happy with mentor.",Positive,Faculty
+English,Students can find details about lab instructor on the college notice board.,Neutral,Faculty
+English,The college includes mess staff in its regular operations.,Neutral,Food / Mess
+English,The arrangements for office staff are described in college guidelines.,Neutral,Administration
+English,The college has listed campus Wi-Fi in its campus information.,Neutral,Campus Facilities
+English,Students can contact the relevant office for details about food hygiene.,Neutral,Food / Mess
+English,Students can contact the relevant office for details about hostel maintenance.,Neutral,Hostel
+English,Students can contact the relevant office for details about bus seating.,Neutral,Transport
+English,I am pleased with how the college provides admission process.,Positive,Administration
+English,There are several unresolved problems with faculty response.,Negative,Faculty
+English,Students can depend on menu variety when needed.,Positive,Food / Mess
+English,The quality of academic adviser is poor.,Negative,Faculty
+English,Students from different year groups use or access parking area.,Neutral,Campus Facilities
+English,"Overall, I am unhappy with transport office.",Negative,Transport
+English,The college publishes information about practical sessions through its official channels.,Neutral,Academics
+English,I am pleased with how the college provides college buses.,Positive,Transport
+English,I find waste disposal system inconvenient and unreliable.,Negative,Safety and Hygiene
+English,Students cannot depend on administrative response when needed.,Negative,Administration
+English,The college has maintained a good standard for course instructor.,Positive,Faculty
+English,The college does not manage library collection properly.,Negative,Library
+English,The standard of electrical facilities is below expectations.,Negative,Infrastructure
+English,Information about classroom furniture is available in the student handbook.,Neutral,Infrastructure
+English,I am pleased with how the college provides complaint handling process.,Positive,Administration
+English,The college does not manage administrative response properly.,Negative,Administration
+English,The department reviews information related to campus security arrangements each semester.,Neutral,Campus Facilities
+English,I would rate lecturer poorly because it causes problems.,Negative,Faculty
+English,The standard of hostel common areas is good and reliable.,Positive,Hostel
+English,I am disappointed with the current condition of notice system.,Negative,Administration
+English,The college needs to improve library seating.,Negative,Library
+English,The standard of complaint handling process is below expectations.,Negative,Administration
+English,The college has assigned responsibility for lecturer to a staff member.,Neutral,Faculty
+English,I am satisfied with the quality of hostel staff.,Positive,Hostel
+English,The college has assigned responsibility for document verification to a staff member.,Neutral,Administration
+English,I appreciate the improvements made to reference materials.,Positive,Library
+English,I find recreation facilities useful and convenient.,Positive,Campus Facilities
+English,"Overall, I am unhappy with hostel facilities.",Negative,Hostel
+English,The college has maintained a good standard for certificate service.,Positive,Administration
+English,Students can find details about medical room on the college notice board.,Neutral,Campus Facilities
+English,I am satisfied with the quality of teaching assistant.,Positive,Faculty
+English,The college includes corridor cleanliness in its regular operations.,Neutral,Safety and Hygiene
+English,I find classroom space useful and convenient.,Positive,Infrastructure
+English,The department maintains records related to student activity areas.,Neutral,Campus Facilities
+English,The college records updates related to classroom space in its administrative system.,Neutral,Infrastructure
+English,The college records updates related to bus cleanliness in its administrative system.,Neutral,Transport
+English,Details about course materials are shared during student orientation.,Neutral,Academics
+English,I am dissatisfied with the quality of mess staff.,Negative,Food / Mess
+English,I have had a positive experience with laboratory equipment.,Positive,Infrastructure
+English,I appreciate the improvements made to hostel staff.,Positive,Hostel
+English,The college needs to improve reference materials.,Negative,Library
+English,I am dissatisfied with the quality of exam schedule.,Negative,Academics
+English,"Overall, I am unhappy with bus cleanliness.",Negative,Transport
+English,The college manages bus cleanliness very well.,Positive,Transport
+English,Students can depend on campus facilities when needed.,Positive,Campus Facilities
+English,I have had a negative experience with drinking water hygiene.,Negative,Safety and Hygiene
+English,Students cannot depend on pickup points when needed.,Negative,Transport
+English,The college publishes information about drinking water points through its official channels.,Neutral,Campus Facilities
+English,Details about campus cleanliness are shared during student orientation.,Neutral,Campus Facilities
+English,Students from different year groups use or access transport schedule.,Neutral,Transport
+English,The college has maintained a good standard for study environment.,Positive,Hostel
+English,The college does not manage office staff properly.,Negative,Administration
+English,The college publishes information about student help desk through its official channels.,Neutral,Administration
+English,The college has a designated area or process for department faculty.,Neutral,Faculty
+English,Students can depend on hostel staff when needed.,Positive,Hostel
+English,Students cannot depend on dining area when needed.,Negative,Food / Mess
+English,I find admission process inconvenient and unreliable.,Negative,Administration
+English,The schedule for hostel common areas is announced by the college.,Neutral,Hostel
+English,The college has assigned responsibility for menu variety to a staff member.,Neutral,Food / Mess
+English,The support provided through campus lighting at night is helpful.,Positive,Safety and Hygiene
+English,The college has maintained a good standard for corridor cleanliness.,Positive,Safety and Hygiene
+English,Students can contact the relevant office for details about laboratory computers.,Neutral,Infrastructure
+English,The schedule for corridor cleanliness is announced by the college.,Neutral,Safety and Hygiene
+English,Students can contact the relevant office for details about classroom lighting.,Neutral,Infrastructure
+English,The college publishes information about classroom lessons through its official channels.,Neutral,Academics
+English,I appreciate the improvements made to laboratory computers.,Positive,Infrastructure
+English,Students can contact the relevant office for details about electrical facilities.,Neutral,Infrastructure
+English,The college has listed lunch options in its campus information.,Neutral,Food / Mess
+English,The quality of drinking water hygiene is poor.,Negative,Safety and Hygiene
+English,The standard of maintenance checks is below expectations.,Negative,Safety and Hygiene
+English,I am disappointed with the current condition of safety measures.,Negative,Safety and Hygiene
+English,The college does not manage college buses properly.,Negative,Transport
+English,The quality of student records service is excellent.,Positive,Administration
+English,The quality of syllabus is excellent.,Positive,Academics
+English,The college needs to improve hostel rooms.,Negative,Hostel
+English,The college has maintained a good standard for teaching methods.,Positive,Academics
+English,The college has not maintained an acceptable standard for transport service.,Negative,Transport
+English,The college manages recreation facilities very well.,Positive,Campus Facilities
+English,I appreciate the improvements made to dining area.,Positive,Food / Mess
+English,Details about hostel maintenance are shared during student orientation.,Neutral,Hostel
+English,The schedule for medical room is announced by the college.,Neutral,Campus Facilities
+English,I have had a negative experience with campus buildings.,Negative,Infrastructure
+English,I appreciate the improvements made to corridor cleanliness.,Positive,Safety and Hygiene
+English,The schedule for campus infrastructure is announced by the college.,Neutral,Infrastructure
+English,Students from different year groups use or access library computers.,Neutral,Library
+English,I find certificate service useful and convenient.,Positive,Administration
+English,I am satisfied with the quality of classroom lighting.,Positive,Infrastructure
+English,Information about library seating is available in the student handbook.,Neutral,Library
+English,Students cannot depend on electrical facilities when needed.,Negative,Infrastructure
+English,Students can depend on safety measures when needed.,Positive,Safety and Hygiene
+English,I am disappointed with the current condition of menu variety.,Negative,Food / Mess
+English,The standard of classroom furniture is good and reliable.,Positive,Infrastructure
+English,The current condition of student records service is unacceptable.,Negative,Administration
+English,Information about hostel maintenance is available in the student handbook.,Neutral,Hostel
+English,I am dissatisfied with the quality of complaint handling process.,Negative,Administration
+English,"Overall, I am happy with hostel facilities.",Positive,Hostel
+English,Students from different year groups use or access bus cleanliness.,Neutral,Transport
+English,The college needs to improve campus Wi-Fi.,Negative,Campus Facilities
+English,The department maintains records related to instructor explanations.,Neutral,Faculty
+English,I find serving process useful and convenient.,Positive,Food / Mess
+English,The department reviews information related to library seating each semester.,Neutral,Library
+English,I am pleased with how the college provides hostel staff.,Positive,Hostel
+English,Students can find details about study environment on the college notice board.,Neutral,Hostel
+English,The schedule for course materials is announced by the college.,Neutral,Academics
+English,"Overall, I am unhappy with fee payment process.",Negative,Administration
+English,Students can contact the relevant office for details about course instructor.,Neutral,Faculty
+English,The college has listed mess food in its campus information.,Neutral,Food / Mess
+English,Information about document verification is available in the student handbook.,Neutral,Administration
+English,There are several unresolved problems with hostel rooms.,Negative,Hostel
+English,The college has maintained a good standard for classroom furniture.,Positive,Infrastructure
+English,The standard of mentor is below expectations.,Negative,Faculty
+English,The college publishes information about assignment instructions through its official channels.,Neutral,Academics
+English,The college has assigned responsibility for bus routes to a staff member.,Neutral,Transport
+English,I am satisfied with the quality of certificate service.,Positive,Administration
+English,The support provided through hostel facilities is inadequate.,Negative,Hostel
+English,I am pleased with how the college provides water supply.,Positive,Hostel
+English,Students can contact the relevant office for details about practical sessions.,Neutral,Academics
+English,I am pleased with how the college provides hostel rules.,Positive,Hostel
+English,The current condition of teaching methods is unacceptable.,Negative,Academics
+English,Students can find details about hostel rules on the college notice board.,Neutral,Hostel
+English,"Overall, I am happy with waste disposal system.",Positive,Safety and Hygiene
+English,Students can contact the relevant office for details about menu variety.,Neutral,Food / Mess
+English,The college has listed syllabus in its campus information.,Neutral,Academics
+English,"Overall, I am happy with dining area.",Positive,Food / Mess
+English,The department reviews information related to classroom space each semester.,Neutral,Infrastructure
+English,The college has assigned responsibility for food hygiene to a staff member.,Neutral,Food / Mess
+English,I find hostel maintenance inconvenient and unreliable.,Negative,Hostel
+English,I have had a negative experience with electrical facilities.,Negative,Infrastructure
+English,"Overall, I am happy with classroom fans.",Positive,Infrastructure
+English,The standard of driver behaviour is good and reliable.,Positive,Transport
+English,Students can depend on college buses when needed.,Positive,Transport
+English,I am pleased with how the college provides campus facilities.,Positive,Campus Facilities
+English,"Overall, I am unhappy with hostel maintenance.",Negative,Hostel
+English,The arrangements for study environment are described in college guidelines.,Neutral,Hostel
+English,The current condition of department faculty is unacceptable.,Negative,Faculty
+English,The college has assigned responsibility for instructor explanations to a staff member.,Neutral,Faculty
+English,The department reviews information related to hostel rooms each semester.,Neutral,Hostel
+English,I am dissatisfied with the quality of campus Wi-Fi.,Negative,Campus Facilities
+English,Details about laboratory computers are shared during student orientation.,Neutral,Infrastructure
+English,The support provided through laboratory computers is inadequate.,Negative,Infrastructure
+English,The schedule for faculty response is announced by the college.,Neutral,Faculty
+English,I have had a positive experience with drinking water points.,Positive,Campus Facilities
+English,The college includes electrical facilities in its regular operations.,Neutral,Infrastructure
+English,The college publishes information about reading rooms through its official channels.,Neutral,Library
+English,Details about student help desk are shared during student orientation.,Neutral,Administration
+English,Students from different year groups use or access computer systems.,Neutral,Infrastructure
+English,The college needs to improve washroom cleanliness.,Negative,Safety and Hygiene
+English,"Overall, I am happy with teaching methods.",Positive,Academics
+English,There are several unresolved problems with academic adviser.,Negative,Faculty
+English,I find bus seating useful and convenient.,Positive,Transport
+English,The arrangements for lunch options are described in college guidelines.,Neutral,Food / Mess
+English,Students can find details about notice system on the college notice board.,Neutral,Administration
+English,The quality of corridor cleanliness is excellent.,Positive,Safety and Hygiene
+English,The standard of classroom furniture is below expectations.,Negative,Infrastructure
+English,The current condition of student help desk meets my expectations.,Positive,Administration
+English,The college records updates related to practical sessions in its administrative system.,Neutral,Academics
+English,I am satisfied with the quality of campus cleanliness.,Positive,Campus Facilities
+English,The college has a designated area or process for administrative response.,Neutral,Administration
+English,The college publishes information about sports ground through its official channels.,Neutral,Campus Facilities
+English,I find syllabus useful and convenient.,Positive,Academics
+English,Students can depend on exam schedule when needed.,Positive,Academics
+English,I am pleased with how the college provides safety measures.,Positive,Safety and Hygiene
+English,The standard of course materials is good and reliable.,Positive,Academics
+English,The support provided through library staff is inadequate.,Negative,Library
+English,The college has maintained a good standard for course materials.,Positive,Academics
+English,"Overall, I am unhappy with driver behaviour.",Negative,Transport
+English,The schedule for transport schedule is announced by the college.,Neutral,Transport
+English,I appreciate the improvements made to administrative response.,Positive,Administration
+English,Students can contact the relevant office for details about hostel staff.,Neutral,Hostel
+English,The college has a designated area or process for reading rooms.,Neutral,Library
+English,I have had a positive experience with parking area.,Positive,Campus Facilities
+English,The quality of transport office is excellent.,Positive,Transport
+English,The support provided through certificate service is inadequate.,Negative,Administration
+English,The college records updates related to drinking water points in its administrative system.,Neutral,Campus Facilities
+English,There are several unresolved problems with serving process.,Negative,Food / Mess
+English,I find safety measures inconvenient and unreliable.,Negative,Safety and Hygiene
+English,I am dissatisfied with the quality of hostel maintenance.,Negative,Hostel
+English,The college has maintained a good standard for library study spaces.,Positive,Library
+English,The current condition of campus security arrangements meets my expectations.,Positive,Campus Facilities
+English,"There are no major problems with water supply, and I am satisfied.",Positive,Hostel
+English,I am disappointed with the current condition of hostel staff.,Negative,Hostel
+English,The college has assigned responsibility for student records service to a staff member.,Neutral,Administration
+English,The arrangements for document verification are described in college guidelines.,Neutral,Administration
+English,The support provided through study environment is inadequate.,Negative,Hostel
+English,I am disappointed with the current condition of practical sessions.,Negative,Academics
+English,The college needs to improve emergency arrangements.,Negative,Safety and Hygiene
+English,I would rate course materials poorly because it causes problems.,Negative,Academics
+English,I would rate hostel staff highly because it works well.,Positive,Hostel
+English,The college needs to improve hostel facilities.,Negative,Hostel
+English,The quality of administrative response is poor.,Negative,Administration
+English,The college does not manage study environment properly.,Negative,Hostel
+English,I am disappointed with the current condition of lecture explanations.,Negative,Academics
+English,The college manages notice system very well.,Positive,Administration
+English,I have had a positive experience with library computers.,Positive,Library
+English,I am pleased with how the college provides campus security arrangements.,Positive,Campus Facilities
+English,The current condition of study environment is unacceptable.,Negative,Hostel
+English,The support provided through hostel rooms is helpful.,Positive,Hostel
+English,The college includes bus timings in its regular operations.,Neutral,Transport
+English,I am pleased with how the college provides lecture explanations.,Positive,Academics
+English,Details about campus security arrangements are shared during student orientation.,Neutral,Campus Facilities
+English,The college manages teaching methods very well.,Positive,Academics
+English,The current condition of recreation facilities meets my expectations.,Positive,Campus Facilities
+English,The current condition of syllabus is unacceptable.,Negative,Academics
+English,The quality of driver behaviour is poor.,Negative,Transport
+English,The college includes hostel cleanliness in its regular operations.,Neutral,Hostel
+English,Details about transport service are shared during student orientation.,Neutral,Transport
+English,I have had a positive experience with bus seating.,Positive,Transport
+English,Students from different year groups use or access digital library.,Neutral,Library
+English,I appreciate the improvements made to campus buildings.,Positive,Infrastructure
+English,The support provided through transport office is helpful.,Positive,Transport
+English,Students from different year groups use or access library study spaces.,Neutral,Library
+English,The department reviews information related to first-aid arrangements each semester.,Neutral,Safety and Hygiene
+English,"Overall, I am happy with notice system.",Positive,Administration
+English,Students from different year groups use or access campus lighting at night.,Neutral,Safety and Hygiene
+English,The support provided through transport schedule is helpful.,Positive,Transport
+English,The college has not maintained an acceptable standard for dining area.,Negative,Food / Mess
+English,Students can depend on dinner quality when needed.,Positive,Food / Mess
+English,Students can depend on reading rooms when needed.,Positive,Library
+English,I am pleased with how the college provides library staff.,Positive,Library
+English,The college records updates related to waste disposal system in its administrative system.,Neutral,Safety and Hygiene
+English,The college records updates related to library collection in its administrative system.,Neutral,Library
+English,I am satisfied with the quality of water supply.,Positive,Hostel
+English,The current condition of exam schedule meets my expectations.,Positive,Academics
+English,"Overall, I am unhappy with mentor.",Negative,Faculty
+English,Students can depend on serving process when needed.,Positive,Food / Mess
+English,I am satisfied with the quality of lab instructor.,Positive,Faculty
+English,I have had a positive experience with laboratory computers.,Positive,Infrastructure
+English,I have had a negative experience with student help desk.,Negative,Administration
+English,There are several unresolved problems with exam schedule.,Negative,Academics
+English,The quality of academic support is poor.,Negative,Academics
+English,The support provided through parking area is inadequate.,Negative,Campus Facilities
+English,The quality of exam schedule is excellent.,Positive,Academics
+English,Students can depend on campus hygiene when needed.,Positive,Safety and Hygiene
+English,I appreciate the improvements made to campus infrastructure.,Positive,Infrastructure
+English,I am pleased with how the college provides hostel rooms.,Positive,Hostel
+English,The college has a designated area or process for document verification.,Neutral,Administration
+English,The support provided through admission process is helpful.,Positive,Administration
+English,The department maintains records related to serving process.,Neutral,Food / Mess
+English,The current condition of certificate service meets my expectations.,Positive,Administration
+English,The college includes campus facilities in its regular operations.,Neutral,Campus Facilities
+English,Students can contact the relevant office for details about bus cleanliness.,Neutral,Transport
+English,Students can find details about campus lighting at night on the college notice board.,Neutral,Safety and Hygiene
+English,I find bus cleanliness useful and convenient.,Positive,Transport
+English,The college needs to improve college buses.,Negative,Transport
+English,Students can depend on document verification when needed.,Positive,Administration
+English,The college has a designated area or process for fee payment process.,Neutral,Administration
+English,The college has assigned responsibility for lab instructor to a staff member.,Neutral,Faculty
+English,The arrangements for mentor are described in college guidelines.,Neutral,Faculty
+English,I am satisfied with the quality of washroom cleanliness.,Positive,Safety and Hygiene
+English,The quality of mess staff is poor.,Negative,Food / Mess
+English,I find corridor cleanliness useful and convenient.,Positive,Safety and Hygiene
+English,The college manages library collection very well.,Positive,Library
+English,The standard of study environment is good and reliable.,Positive,Hostel
+English,I am dissatisfied with the quality of lecture explanations.,Negative,Academics
+English,The college needs to improve dining area.,Negative,Food / Mess
+English,The college includes hostel rooms in its regular operations.,Neutral,Hostel
+English,The college does not manage teaching methods properly.,Negative,Academics
+English,The support provided through first-aid arrangements is inadequate.,Negative,Safety and Hygiene
+English,The schedule for campus buildings is announced by the college.,Neutral,Infrastructure
+English,The college has not maintained an acceptable standard for mess staff.,Negative,Food / Mess
+English,I find notice system useful and convenient.,Positive,Administration
+English,Students can depend on academic support when needed.,Positive,Academics
+English,I am satisfied with the quality of exam schedule.,Positive,Academics
+English,Details about hostel rules are shared during student orientation.,Neutral,Hostel
+English,The college needs to improve hostel maintenance.,Negative,Hostel
+English,I find parking area inconvenient and unreliable.,Negative,Campus Facilities
+English,The college has maintained a good standard for library staff.,Positive,Library
+English,The college has maintained a good standard for water supply.,Positive,Hostel
+English,Students can depend on bus cleanliness when needed.,Positive,Transport
+English,The schedule for hostel rules is announced by the college.,Neutral,Hostel
+English,The college has a designated area or process for exam schedule.,Neutral,Academics
+English,The department reviews information related to library collection each semester.,Neutral,Library
+English,I appreciate the improvements made to syllabus.,Positive,Academics
+English,The college has listed classroom space in its campus information.,Neutral,Infrastructure
+English,The support provided through teaching assistant is inadequate.,Negative,Faculty
+English,The schedule for bus routes is announced by the college.,Neutral,Transport
+English,I am pleased with how the college provides serving process.,Positive,Food / Mess
+English,The department maintains records related to sports ground.,Neutral,Campus Facilities
+English,The college has maintained a good standard for hostel facilities.,Positive,Hostel
+English,The college publishes information about bus timings through its official channels.,Neutral,Transport
+English,I have had a negative experience with campus hygiene.,Negative,Safety and Hygiene
+English,"Overall, I am unhappy with student help desk.",Negative,Administration
+English,I am disappointed with the current condition of classroom lessons.,Negative,Academics
+English,Students can contact the relevant office for details about medical room.,Neutral,Campus Facilities
+English,I appreciate the improvements made to laboratory equipment.,Positive,Infrastructure
+English,The arrangements for college buses are described in college guidelines.,Neutral,Transport
+English,There are several unresolved problems with practical sessions.,Negative,Academics
+English,The current condition of first-aid arrangements meets my expectations.,Positive,Safety and Hygiene
+English,"Overall, I am happy with course instructor.",Positive,Faculty
+English,The college has listed classroom fans in its campus information.,Neutral,Infrastructure
+English,The quality of student help desk is poor.,Negative,Administration
+English,Students can contact the relevant office for details about room ventilation.,Neutral,Hostel
+English,"Overall, I am happy with library collection.",Positive,Library
+English,The support provided through drinking water points is inadequate.,Negative,Campus Facilities
+English,The schedule for administrative response is announced by the college.,Neutral,Administration
+English,I am satisfied with the quality of student activity areas.,Positive,Campus Facilities
+English,"Overall, I am unhappy with washroom cleanliness.",Negative,Safety and Hygiene
+English,Students cannot depend on drinking water points when needed.,Negative,Campus Facilities
+English,Students can find details about emergency arrangements on the college notice board.,Neutral,Safety and Hygiene
+English,The current condition of transport office is unacceptable.,Negative,Transport
+English,The department maintains records related to faculty feedback.,Neutral,Academics
+English,The college has assigned responsibility for college buses to a staff member.,Neutral,Transport
+English,The college needs to improve teaching assistant.,Negative,Faculty
+English,The college publishes information about campus hygiene through its official channels.,Neutral,Safety and Hygiene
+English,Students from different year groups use or access fee payment process.,Neutral,Administration
+English,The college has maintained a good standard for library seating.,Positive,Library
+English,The college includes course instructor in its regular operations.,Neutral,Faculty
+English,The college has not maintained an acceptable standard for student records service.,Negative,Administration
+English,The standard of campus facilities is below expectations.,Negative,Campus Facilities
+English,I am dissatisfied with the quality of hostel rules.,Negative,Hostel
+English,I have had a negative experience with office staff.,Negative,Administration
+English,I would rate campus cleanliness highly because it works well.,Positive,Campus Facilities
+English,Students can depend on bus routes when needed.,Positive,Transport
+English,The department reviews information related to pickup points each semester.,Neutral,Transport
+English,"Overall, I am happy with office staff.",Positive,Administration
+English,The college manages practical sessions very well.,Positive,Academics
+English,Details about campus facilities are shared during student orientation.,Neutral,Campus Facilities
+English,The college publishes information about corridor cleanliness through its official channels.,Neutral,Safety and Hygiene
+English,The schedule for serving process is announced by the college.,Neutral,Food / Mess
+English,The college has assigned responsibility for certificate service to a staff member.,Neutral,Administration
+English,The schedule for teaching assistant is announced by the college.,Neutral,Faculty
+English,I am disappointed with the current condition of campus security arrangements.,Negative,Campus Facilities
+English,The support provided through medical room is inadequate.,Negative,Campus Facilities
+English,I would rate first-aid arrangements poorly because it causes problems.,Negative,Safety and Hygiene
+English,The quality of first-aid arrangements is poor.,Negative,Safety and Hygiene
+English,I am satisfied with the quality of campus facilities.,Positive,Campus Facilities
+English,The current condition of maintenance checks is unacceptable.,Negative,Safety and Hygiene
+English,The college has listed student help desk in its campus information.,Neutral,Administration
+English,The college records updates related to water supply in its administrative system.,Neutral,Hostel
+English,The current condition of course instructor meets my expectations.,Positive,Faculty
+English,"Overall, I am unhappy with campus lighting at night.",Negative,Safety and Hygiene
+English,The quality of hostel maintenance is excellent.,Positive,Hostel
+English,I find serving process inconvenient and unreliable.,Negative,Food / Mess
+English,The college has maintained a good standard for campus facilities.,Positive,Campus Facilities
+English,The schedule for drinking water points is announced by the college.,Neutral,Campus Facilities
+English,I find student help desk useful and convenient.,Positive,Administration
+English,I appreciate the improvements made to instructor explanations.,Positive,Faculty
+English,The support provided through classroom furniture is inadequate.,Negative,Infrastructure
+English,I am pleased with how the college provides department faculty.,Positive,Faculty
+English,The quality of breakfast service is excellent.,Positive,Food / Mess
+English,The college manages water supply very well.,Positive,Hostel
+English,I have had a positive experience with mess food.,Positive,Food / Mess
+English,I have had a negative experience with hostel common areas.,Negative,Hostel
+English,I would rate campus lighting at night poorly because it causes problems.,Negative,Safety and Hygiene
+English,I have had a positive experience with dinner quality.,Positive,Food / Mess
+English,I appreciate the improvements made to office staff.,Positive,Administration
+English,The college manages campus lighting at night very well.,Positive,Safety and Hygiene
+English,The department reviews information related to driver behaviour each semester.,Neutral,Transport
+English,The college publishes information about teaching assistant through its official channels.,Neutral,Faculty
+English,I am disappointed with the current condition of mess staff.,Negative,Food / Mess
+English,The college has listed electrical facilities in its campus information.,Neutral,Infrastructure
+English,"There are no major problems with mess staff, and I am satisfied.",Positive,Food / Mess
+English,The college has not maintained an acceptable standard for menu variety.,Negative,Food / Mess
+English,The college has assigned responsibility for academic support to a staff member.,Neutral,Academics
+English,I am satisfied with the quality of campus lighting at night.,Positive,Safety and Hygiene
+English,The arrangements for lecture explanations are described in college guidelines.,Neutral,Academics
+English,The college does not manage student activity areas properly.,Negative,Campus Facilities
+English,The college manages hostel rules very well.,Positive,Hostel
+English,"There are no major problems with parking area, and I am satisfied.",Positive,Campus Facilities
+English,The college includes lunch options in its regular operations.,Neutral,Food / Mess
+English,I have had a positive experience with lecture explanations.,Positive,Academics
+English,I find hostel rooms useful and convenient.,Positive,Hostel
+English,I would rate sports ground highly because it works well.,Positive,Campus Facilities
+English,I am disappointed with the current condition of library study spaces.,Negative,Library
+English,Students can depend on campus Wi-Fi when needed.,Positive,Campus Facilities
+English,The current condition of dinner quality meets my expectations.,Positive,Food / Mess
+English,The standard of washroom cleanliness is good and reliable.,Positive,Safety and Hygiene
+English,The support provided through notice system is helpful.,Positive,Administration
+English,The college has assigned responsibility for admission process to a staff member.,Neutral,Administration
+English,"There are no major problems with sports ground, and I am satisfied.",Positive,Campus Facilities
+English,The college needs to improve library collection.,Negative,Library
+English,I am dissatisfied with the quality of college buses.,Negative,Transport
+English,There are several unresolved problems with complaint handling process.,Negative,Administration
+English,The quality of library collection is excellent.,Positive,Library
+English,I find teaching assistant useful and convenient.,Positive,Faculty
+English,I am dissatisfied with the quality of library seating.,Negative,Library
+English,The quality of student activity areas is excellent.,Positive,Campus Facilities
+English,The college publishes information about laboratory equipment through its official channels.,Neutral,Infrastructure
+English,I am disappointed with the current condition of pickup points.,Negative,Transport
+English,The college has not maintained an acceptable standard for study environment.,Negative,Hostel
+English,The department maintains records related to driver behaviour.,Neutral,Transport
+English,There are several unresolved problems with drinking water points.,Negative,Campus Facilities
+English,"Overall, I am unhappy with teaching methods.",Negative,Academics
+English,The college has assigned responsibility for fee payment process to a staff member.,Neutral,Administration
+English,I find academic adviser inconvenient and unreliable.,Negative,Faculty
+English,The arrangements for drinking water hygiene are described in college guidelines.,Neutral,Safety and Hygiene
+English,The support provided through syllabus is inadequate.,Negative,Academics
+English,The college has not maintained an acceptable standard for bus seating.,Negative,Transport
+English,Students from different year groups use or access room ventilation.,Neutral,Hostel
+English,I am dissatisfied with the quality of dinner quality.,Negative,Food / Mess
+English,"Overall, I am unhappy with classroom lessons.",Negative,Academics
+English,The schedule for mess staff is announced by the college.,Neutral,Food / Mess
+English,"There are no major problems with emergency arrangements, and I am satisfied.",Positive,Safety and Hygiene
+English,I would rate hostel rooms highly because it works well.,Positive,Hostel
+English,The college publishes information about classroom lighting through its official channels.,Neutral,Infrastructure
+English,I appreciate the improvements made to student activity areas.,Positive,Campus Facilities
+English,The college records updates related to exam schedule in its administrative system.,Neutral,Academics
+English,Students from different year groups use or access exam schedule.,Neutral,Academics
+English,"Overall, I am happy with guest lecturer.",Positive,Faculty
+English,The arrangements for bus timings are described in college guidelines.,Neutral,Transport
+English,I would rate food hygiene poorly because it causes problems.,Negative,Food / Mess
+English,The college needs to improve hostel common areas.,Negative,Hostel
+English,Details about library opening hours are shared during student orientation.,Neutral,Library
+English,I would rate transport office highly because it works well.,Positive,Transport
+English,The college has listed waste disposal system in its campus information.,Neutral,Safety and Hygiene
+English,"Overall, I am happy with syllabus.",Positive,Academics
+English,I am disappointed with the current condition of academic support.,Negative,Academics
+English,Students cannot depend on laboratory computers when needed.,Negative,Infrastructure
+English,The college has maintained a good standard for maintenance checks.,Positive,Safety and Hygiene
+English,Students can contact the relevant office for details about first-aid arrangements.,Neutral,Safety and Hygiene
+English,"Overall, I am unhappy with laboratory equipment.",Negative,Infrastructure
+English,The college records updates related to safety measures in its administrative system.,Neutral,Safety and Hygiene
+English,Students cannot depend on laboratory equipment when needed.,Negative,Infrastructure
+English,I am disappointed with the current condition of classroom furniture.,Negative,Infrastructure
+English,Students can find details about guest lecturer on the college notice board.,Neutral,Faculty
+English,"There are no major problems with campus hygiene, and I am satisfied.",Positive,Safety and Hygiene
+English,The college has listed drinking water hygiene in its campus information.,Neutral,Safety and Hygiene
+English,The current condition of campus hygiene meets my expectations.,Positive,Safety and Hygiene
+English,The college has not maintained an acceptable standard for lunch options.,Negative,Food / Mess
+English,The college includes document verification in its regular operations.,Neutral,Administration
+English,I am satisfied with the quality of course materials.,Positive,Academics
+English,The current condition of exam schedule is unacceptable.,Negative,Academics
+English,Students can find details about document verification on the college notice board.,Neutral,Administration
+English,I am dissatisfied with the quality of faculty response.,Negative,Faculty
+English,Students from different year groups use or access department faculty.,Neutral,Faculty
+English,The support provided through bus timings is inadequate.,Negative,Transport
+English,I find hostel maintenance useful and convenient.,Positive,Hostel
+English,The support provided through student records service is helpful.,Positive,Administration
+English,The current condition of mess staff meets my expectations.,Positive,Food / Mess
+English,The college includes teaching assistant in its regular operations.,Neutral,Faculty
+English,Students cannot depend on emergency arrangements when needed.,Negative,Safety and Hygiene
+English,The department reviews information related to maintenance checks each semester.,Neutral,Safety and Hygiene
+English,I find exam schedule inconvenient and unreliable.,Negative,Academics
+English,There are several unresolved problems with college buses.,Negative,Transport
+English,Students cannot depend on campus buildings when needed.,Negative,Infrastructure
+English,The college records updates related to hostel rooms in its administrative system.,Neutral,Hostel
+English,Information about lecturer is available in the student handbook.,Neutral,Faculty
+English,The standard of book borrowing service is good and reliable.,Positive,Library
+English,The support provided through computer systems is helpful.,Positive,Infrastructure
+English,I have had a positive experience with book borrowing service.,Positive,Library
+English,Details about laboratory equipment are shared during student orientation.,Neutral,Infrastructure
+English,The support provided through room ventilation is helpful.,Positive,Hostel
+English,I find bus routes useful and convenient.,Positive,Transport
+English,I am satisfied with the quality of library study spaces.,Positive,Library
+English,The department reviews information related to emergency arrangements each semester.,Neutral,Safety and Hygiene
+English,I would rate hostel rules poorly because it causes problems.,Negative,Hostel
+English,I would rate laboratory equipment poorly because it causes problems.,Negative,Infrastructure
+English,I am pleased with how the college provides reading rooms.,Positive,Library
+English,The standard of drinking water hygiene is below expectations.,Negative,Safety and Hygiene
+English,The college has not maintained an acceptable standard for computer systems.,Negative,Infrastructure
+English,I have had a positive experience with library collection.,Positive,Library
+English,There are several unresolved problems with library study spaces.,Negative,Library
+English,The college has a designated area or process for waste disposal system.,Neutral,Safety and Hygiene
+English,"There are no major problems with drinking water points, and I am satisfied.",Positive,Campus Facilities
+English,"Overall, I am unhappy with serving process.",Negative,Food / Mess
+English,Students from different year groups use or access library collection.,Neutral,Library
+English,I am pleased with how the college provides practical sessions.,Positive,Academics
+English,The schedule for bus cleanliness is announced by the college.,Neutral,Transport
+English,The standard of bus routes is below expectations.,Negative,Transport
+English,I find classroom lighting inconvenient and unreliable.,Negative,Infrastructure
+English,The schedule for campus hygiene is announced by the college.,Neutral,Safety and Hygiene
+English,The college has not maintained an acceptable standard for first-aid arrangements.,Negative,Safety and Hygiene
+English,I would rate academic adviser highly because it works well.,Positive,Faculty
+English,I appreciate the improvements made to recreation facilities.,Positive,Campus Facilities
+English,The college needs to improve computer systems.,Negative,Infrastructure
+English,The department maintains records related to library collection.,Neutral,Library
+English,The college includes classroom furniture in its regular operations.,Neutral,Infrastructure
+English,I am pleased with how the college provides student help desk.,Positive,Administration
+English,The standard of corridor cleanliness is below expectations.,Negative,Safety and Hygiene
+English,The arrangements for washroom cleanliness are described in college guidelines.,Neutral,Safety and Hygiene
+English,The standard of practical sessions is below expectations.,Negative,Academics
+English,I am satisfied with the quality of campus security arrangements.,Positive,Campus Facilities
+English,Students can depend on hostel facilities when needed.,Positive,Hostel
+English,The college records updates related to pickup points in its administrative system.,Neutral,Transport
+English,"Overall, I am unhappy with drinking water hygiene.",Negative,Safety and Hygiene
+English,The college includes water supply in its regular operations.,Neutral,Hostel
+English,The support provided through mess food is helpful.,Positive,Food / Mess
+English,The college has not maintained an acceptable standard for bus routes.,Negative,Transport
+English,I find classroom furniture inconvenient and unreliable.,Negative,Infrastructure
+English,The department reviews information related to student records service each semester.,Neutral,Administration
+English,The department reviews information related to menu variety each semester.,Neutral,Food / Mess
+English,The college publishes information about campus cleanliness through its official channels.,Neutral,Campus Facilities
+English,The college has assigned responsibility for campus Wi-Fi to a staff member.,Neutral,Campus Facilities
+English,Details about library staff are shared during student orientation.,Neutral,Library
+English,The current condition of syllabus meets my expectations.,Positive,Academics
+English,The college includes campus hygiene in its regular operations.,Neutral,Safety and Hygiene
+English,Students can find details about practical sessions on the college notice board.,Neutral,Academics
+English,I am dissatisfied with the quality of instructor explanations.,Negative,Faculty
+English,Students cannot depend on mess food when needed.,Negative,Food / Mess
+English,I am dissatisfied with the quality of practical sessions.,Negative,Academics
+English,I find lecturer useful and convenient.,Positive,Faculty
+English,I appreciate the improvements made to electrical facilities.,Positive,Infrastructure
+English,I would rate library collection poorly because it causes problems.,Negative,Library
+English,"Overall, I am happy with mess staff.",Positive,Food / Mess
+English,I appreciate the improvements made to room ventilation.,Positive,Hostel
+English,"Overall, I am happy with hostel maintenance.",Positive,Hostel
+English,The standard of maintenance checks is good and reliable.,Positive,Safety and Hygiene
+English,I have had a positive experience with reference materials.,Positive,Library
+English,The department maintains records related to transport office.,Neutral,Transport
+English,The support provided through menu variety is helpful.,Positive,Food / Mess
+English,The current condition of library opening hours is unacceptable.,Negative,Library
+English,I have had a positive experience with notice system.,Positive,Administration
+English,I appreciate the improvements made to student help desk.,Positive,Administration
+English,The college manages exam schedule very well.,Positive,Academics
+English,The college has not maintained an acceptable standard for hostel cleanliness.,Negative,Hostel
+English,The college does not manage hostel maintenance properly.,Negative,Hostel
+English,Students can depend on office staff when needed.,Positive,Administration
+English,The college does not manage practical sessions properly.,Negative,Academics
+English,The standard of classroom lighting is good and reliable.,Positive,Infrastructure
+English,The college has listed library computers in its campus information.,Neutral,Library
+English,Students from different year groups use or access book borrowing service.,Neutral,Library
+English,The arrangements for campus security arrangements are described in college guidelines.,Neutral,Campus Facilities
+English,The college does not manage student help desk properly.,Negative,Administration
+English,I find recreation facilities inconvenient and unreliable.,Negative,Campus Facilities
+English,The arrangements for reading rooms are described in college guidelines.,Neutral,Library
+English,"Overall, I am unhappy with menu variety.",Negative,Food / Mess
+English,The college has assigned responsibility for library collection to a staff member.,Neutral,Library
+English,The college manages library seating very well.,Positive,Library
+English,The department maintains records related to mess food.,Neutral,Food / Mess
+English,The support provided through course materials is inadequate.,Negative,Academics
+English,The quality of drinking water points is excellent.,Positive,Campus Facilities
+English,The standard of campus hygiene is good and reliable.,Positive,Safety and Hygiene
+English,The college has maintained a good standard for lunch options.,Positive,Food / Mess
+English,Students can depend on first-aid arrangements when needed.,Positive,Safety and Hygiene
+English,The college does not manage drinking water hygiene properly.,Negative,Safety and Hygiene
+English,The schedule for lecture explanations is announced by the college.,Neutral,Academics
+English,I have had a negative experience with medical room.,Negative,Campus Facilities
+English,I have had a negative experience with hostel maintenance.,Negative,Hostel
+English,I have had a positive experience with bus cleanliness.,Positive,Transport
+English,The department reviews information related to bus timings each semester.,Neutral,Transport
+English,"Overall, I am happy with library computers.",Positive,Library
+English,The college has listed faculty response in its campus information.,Neutral,Faculty
+English,Students can find details about transport office on the college notice board.,Neutral,Transport
+English,The standard of document verification is good and reliable.,Positive,Administration
+English,Students can depend on library opening hours when needed.,Positive,Library
+English,I find dinner quality inconvenient and unreliable.,Negative,Food / Mess
+English,I am pleased with how the college provides fee payment process.,Positive,Administration
+English,I am disappointed with the current condition of bus seating.,Negative,Transport
+English,I have had a positive experience with campus lighting at night.,Positive,Safety and Hygiene
+English,I would rate corridor cleanliness highly because it works well.,Positive,Safety and Hygiene
+English,I would rate transport service poorly because it causes problems.,Negative,Transport
+English,I am dissatisfied with the quality of bus timings.,Negative,Transport
+English,The college has maintained a good standard for bus seating.,Positive,Transport
+English,"Overall, I am unhappy with classroom fans.",Negative,Infrastructure
+English,The schedule for academic adviser is announced by the college.,Neutral,Faculty
+English,The college does not manage lecture explanations properly.,Negative,Academics
+English,The current condition of menu variety meets my expectations.,Positive,Food / Mess
+English,The quality of sports ground is poor.,Negative,Campus Facilities
+English,The current condition of hostel rules is unacceptable.,Negative,Hostel
+English,There are several unresolved problems with maintenance checks.,Negative,Safety and Hygiene
+English,The college has listed hostel rooms in its campus information.,Neutral,Hostel
+English,The current condition of campus security arrangements is unacceptable.,Negative,Campus Facilities
+English,The standard of exam schedule is below expectations.,Negative,Academics
+English,I appreciate the improvements made to faculty feedback.,Positive,Academics
+English,The college manages hostel rooms very well.,Positive,Hostel
+English,The schedule for maintenance checks is announced by the college.,Neutral,Safety and Hygiene
+English,The department maintains records related to certificate service.,Neutral,Administration
+English,I would rate exam schedule poorly because it causes problems.,Negative,Academics
+English,Students from different year groups use or access guest lecturer.,Neutral,Faculty
+English,I have had a positive experience with academic adviser.,Positive,Faculty
+English,The college manages teaching assistant very well.,Positive,Faculty
+English,"Overall, I am unhappy with lecturer.",Negative,Faculty
+English,I am pleased with how the college provides laboratory computers.,Positive,Infrastructure
+English,The quality of mess food is excellent.,Positive,Food / Mess
+English,I am disappointed with the current condition of waste disposal system.,Negative,Safety and Hygiene
+English,The college has not maintained an acceptable standard for campus Wi-Fi.,Negative,Campus Facilities
+English,The support provided through medical room is helpful.,Positive,Campus Facilities
+English,Students can depend on classroom space when needed.,Positive,Infrastructure
+English,I would rate library computers poorly because it causes problems.,Negative,Library
+English,I am satisfied with the quality of course instructor.,Positive,Faculty
+English,The college does not manage student records service properly.,Negative,Administration
+English,The college records updates related to assignment instructions in its administrative system.,Neutral,Academics
+English,The current condition of hostel cleanliness is unacceptable.,Negative,Hostel
+English,The college does not manage laboratory computers properly.,Negative,Infrastructure
+English,Students cannot depend on recreation facilities when needed.,Negative,Campus Facilities
+English,I am disappointed with the current condition of library staff.,Negative,Library
+English,"Overall, I am happy with teaching assistant.",Positive,Faculty
+English,Students can contact the relevant office for details about classroom fans.,Neutral,Infrastructure
+English,I find course instructor inconvenient and unreliable.,Negative,Faculty
+English,I find campus lighting at night inconvenient and unreliable.,Negative,Safety and Hygiene
+English,The college manages maintenance checks very well.,Positive,Safety and Hygiene
+English,I am disappointed with the current condition of computer systems.,Negative,Infrastructure
+English,Students can contact the relevant office for details about lab instructor.,Neutral,Faculty
+English,The arrangements for classroom fans are described in college guidelines.,Neutral,Infrastructure
+English,The department maintains records related to hostel rules.,Neutral,Hostel
+English,Students can find details about campus Wi-Fi on the college notice board.,Neutral,Campus Facilities
+English,The quality of fee payment process is excellent.,Positive,Administration
+English,Students can depend on drinking water facility when needed.,Positive,Food / Mess
+English,I have had a positive experience with student records service.,Positive,Administration
+English,The support provided through electrical facilities is helpful.,Positive,Infrastructure
+English,The college has listed document verification in its campus information.,Neutral,Administration
+English,I find breakfast service inconvenient and unreliable.,Negative,Food / Mess
+English,The college records updates related to reference materials in its administrative system.,Neutral,Library
+English,There are several unresolved problems with room ventilation.,Negative,Hostel
+English,I find campus buildings useful and convenient.,Positive,Infrastructure
+English,The standard of serving process is below expectations.,Negative,Food / Mess
+English,The college does not manage washroom cleanliness properly.,Negative,Safety and Hygiene
+English,The standard of college buses is below expectations.,Negative,Transport
+English,Students can contact the relevant office for details about reference materials.,Neutral,Library
+English,The college has a designated area or process for library study spaces.,Neutral,Library
+English,"Overall, I am happy with academic adviser.",Positive,Faculty
+English,The college manages course instructor very well.,Positive,Faculty
+English,I would rate campus Wi-Fi poorly because it causes problems.,Negative,Campus Facilities
+English,I appreciate the improvements made to lunch options.,Positive,Food / Mess
+English,The college has maintained a good standard for driver behaviour.,Positive,Transport
+English,Students from different year groups use or access campus hygiene.,Neutral,Safety and Hygiene
+English,Details about hostel common areas are shared during student orientation.,Neutral,Hostel
+English,The college has a designated area or process for teaching assistant.,Neutral,Faculty
+English,The college has a designated area or process for mentor.,Neutral,Faculty
+English,I have had a positive experience with course instructor.,Positive,Faculty
+English,"Overall, I am happy with corridor cleanliness.",Positive,Safety and Hygiene
+English,The college includes hostel common areas in its regular operations.,Neutral,Hostel
+English,There are several unresolved problems with lecturer.,Negative,Faculty
+English,The standard of bus timings is good and reliable.,Positive,Transport
+English,Students from different year groups use or access campus security arrangements.,Neutral,Campus Facilities
+English,The support provided through bus cleanliness is inadequate.,Negative,Transport
+English,The college has assigned responsibility for reading rooms to a staff member.,Neutral,Library
+English,I find teaching methods inconvenient and unreliable.,Negative,Academics
+English,Students can find details about laboratory computers on the college notice board.,Neutral,Infrastructure
+English,The schedule for teaching methods is announced by the college.,Neutral,Academics
+English,I appreciate the improvements made to computer systems.,Positive,Infrastructure
+English,The college needs to improve driver behaviour.,Negative,Transport
+English,I am pleased with how the college provides washroom cleanliness.,Positive,Safety and Hygiene
+English,The schedule for lunch options is announced by the college.,Neutral,Food / Mess
+English,I would rate library opening hours highly because it works well.,Positive,Library
+English,The college includes transport office in its regular operations.,Neutral,Transport
+English,The arrangements for sports ground are described in college guidelines.,Neutral,Campus Facilities
+English,There are several unresolved problems with library seating.,Negative,Library
+English,I find student activity areas inconvenient and unreliable.,Negative,Campus Facilities
+English,There are several unresolved problems with menu variety.,Negative,Food / Mess
+English,The standard of waste disposal system is below expectations.,Negative,Safety and Hygiene
+English,The support provided through hostel rooms is inadequate.,Negative,Hostel
+English,I appreciate the improvements made to campus facilities.,Positive,Campus Facilities
+English,The college has maintained a good standard for book borrowing service.,Positive,Library
+English,Students can find details about library staff on the college notice board.,Neutral,Library
+English,I am pleased with how the college provides teaching methods.,Positive,Academics
+English,The college includes campus lighting at night in its regular operations.,Neutral,Safety and Hygiene
+English,I am satisfied with the quality of maintenance checks.,Positive,Safety and Hygiene
+English,The college manages campus Wi-Fi very well.,Positive,Campus Facilities
+English,The college includes library computers in its regular operations.,Neutral,Library
+English,The standard of food hygiene is below expectations.,Negative,Food / Mess
+English,The standard of administrative response is good and reliable.,Positive,Administration
+English,The college manages classroom fans very well.,Positive,Infrastructure
+English,The arrangements for mess staff are described in college guidelines.,Neutral,Food / Mess
+English,The college records updates related to library seating in its administrative system.,Neutral,Library
+English,Students from different year groups use or access hostel rules.,Neutral,Hostel
+English,The college records updates related to menu variety in its administrative system.,Neutral,Food / Mess
+English,The standard of bus routes is good and reliable.,Positive,Transport
+English,I have had a positive experience with exam schedule.,Positive,Academics
+English,The quality of office staff is excellent.,Positive,Administration
+English,The standard of reference materials is good and reliable.,Positive,Library
+English,The college manages hostel cleanliness very well.,Positive,Hostel
+English,The college has maintained a good standard for mentor.,Positive,Faculty
+English,The arrangements for menu variety are described in college guidelines.,Neutral,Food / Mess
+English,I appreciate the improvements made to dinner quality.,Positive,Food / Mess
+English,"Overall, I am unhappy with reference materials.",Negative,Library
+English,The college manages faculty response very well.,Positive,Faculty
+English,Students cannot depend on hostel maintenance when needed.,Negative,Hostel
+English,The schedule for classroom furniture is announced by the college.,Neutral,Infrastructure
+English,Students from different year groups use or access certificate service.,Neutral,Administration
+English,The quality of academic adviser is excellent.,Positive,Faculty
+English,Students cannot depend on washroom cleanliness when needed.,Negative,Safety and Hygiene
+English,The college needs to improve hostel rules.,Negative,Hostel
+English,Students can find details about faculty response on the college notice board.,Neutral,Faculty
+English,The college includes lab instructor in its regular operations.,Neutral,Faculty
+English,I am dissatisfied with the quality of study environment.,Negative,Hostel
+English,The current condition of drinking water facility is unacceptable.,Negative,Food / Mess
+English,I would rate book borrowing service poorly because it causes problems.,Negative,Library
+English,I appreciate the improvements made to first-aid arrangements.,Positive,Safety and Hygiene
+English,I would rate student records service highly because it works well.,Positive,Administration
+English,The college needs to improve bus seating.,Negative,Transport
+English,The standard of corridor cleanliness is good and reliable.,Positive,Safety and Hygiene
+English,The college records updates related to bus routes in its administrative system.,Neutral,Transport
+English,There are several unresolved problems with hostel rules.,Negative,Hostel
+English,I appreciate the improvements made to document verification.,Positive,Administration
+English,The standard of pickup points is below expectations.,Negative,Transport
+English,I have had a negative experience with dinner quality.,Negative,Food / Mess
+English,Information about reference materials is available in the student handbook.,Neutral,Library
+English,I would rate hostel common areas highly because it works well.,Positive,Hostel
+English,There are several unresolved problems with emergency arrangements.,Negative,Safety and Hygiene
+English,The college does not manage transport schedule properly.,Negative,Transport
+English,The department reviews information related to laboratory computers each semester.,Neutral,Infrastructure
+English,I have had a negative experience with academic support.,Negative,Academics
+English,The arrangements for mess food are described in college guidelines.,Neutral,Food / Mess
+English,The standard of drinking water facility is good and reliable.,Positive,Food / Mess
+English,The department maintains records related to medical room.,Neutral,Campus Facilities
+English,Students can find details about campus hygiene on the college notice board.,Neutral,Safety and Hygiene
+English,The schedule for hostel rooms is announced by the college.,Neutral,Hostel
+English,The college needs to improve classroom fans.,Negative,Infrastructure
+English,"There are no major problems with electrical facilities, and I am satisfied.",Positive,Infrastructure
+English,The standard of course instructor is below expectations.,Negative,Faculty
+English,The college records updates related to dinner quality in its administrative system.,Neutral,Food / Mess
+English,I am satisfied with the quality of library computers.,Positive,Library
+English,Students can find details about student activity areas on the college notice board.,Neutral,Campus Facilities
+English,The college needs to improve complaint handling process.,Negative,Administration
+English,The current condition of bus timings is unacceptable.,Negative,Transport
+English,The current condition of academic support is unacceptable.,Negative,Academics
+English,The college has listed classroom lessons in its campus information.,Neutral,Academics
+English,The department maintains records related to menu variety.,Neutral,Food / Mess
+English,The arrangements for safety measures are described in college guidelines.,Neutral,Safety and Hygiene
+English,The college manages dinner quality very well.,Positive,Food / Mess
+English,The college does not manage classroom furniture properly.,Negative,Infrastructure
+English,I am dissatisfied with the quality of campus lighting at night.,Negative,Safety and Hygiene
+English,The quality of library computers is excellent.,Positive,Library
+English,Students can find details about exam schedule on the college notice board.,Neutral,Academics
+English,The college needs to improve student activity areas.,Negative,Campus Facilities
+English,Students can find details about transport schedule on the college notice board.,Neutral,Transport
+English,I would rate drinking water points poorly because it causes problems.,Negative,Campus Facilities
+English,The arrangements for student records service are described in college guidelines.,Neutral,Administration
+English,I appreciate the improvements made to serving process.,Positive,Food / Mess
+English,The schedule for breakfast service is announced by the college.,Neutral,Food / Mess
+English,The quality of faculty response is excellent.,Positive,Faculty
+English,Information about department faculty is available in the student handbook.,Neutral,Faculty
+English,I would rate lecturer highly because it works well.,Positive,Faculty
+English,The college has assigned responsibility for assignment instructions to a staff member.,Neutral,Academics
+English,The college manages dining area very well.,Positive,Food / Mess
+English,The college needs to improve practical sessions.,Negative,Academics
+English,"There are no major problems with classroom lighting, and I am satisfied.",Positive,Infrastructure
+English,I have had a negative experience with practical sessions.,Negative,Academics
+English,The standard of lab instructor is good and reliable.,Positive,Faculty
+English,The schedule for reference materials is announced by the college.,Neutral,Library
+English,I would rate campus facilities poorly because it causes problems.,Negative,Campus Facilities
+English,The arrangements for campus buildings are described in college guidelines.,Neutral,Infrastructure
+English,The current condition of menu variety is unacceptable.,Negative,Food / Mess
+English,I am disappointed with the current condition of certificate service.,Negative,Administration
+English,The current condition of water supply is unacceptable.,Negative,Hostel
+English,The support provided through mentor is inadequate.,Negative,Faculty
+English,I have had a negative experience with washroom cleanliness.,Negative,Safety and Hygiene
+English,The quality of admission process is poor.,Negative,Administration
+English,I would rate corridor cleanliness poorly because it causes problems.,Negative,Safety and Hygiene
+English,I have had a negative experience with library computers.,Negative,Library
+English,The standard of hostel facilities is below expectations.,Negative,Hostel
+English,Students can find details about room ventilation on the college notice board.,Neutral,Hostel
+English,"Overall, I am happy with library study spaces.",Positive,Library
+English,Students can contact the relevant office for details about recreation facilities.,Neutral,Campus Facilities
+English,The college does not manage course materials properly.,Negative,Academics
+English,Students from different year groups use or access student records service.,Neutral,Administration
+English,I find campus infrastructure useful and convenient.,Positive,Infrastructure
+English,The standard of breakfast service is good and reliable.,Positive,Food / Mess
+English,I have had a negative experience with exam schedule.,Negative,Academics
+English,I find teaching assistant inconvenient and unreliable.,Negative,Faculty
+English,The college publishes information about recreation facilities through its official channels.,Neutral,Campus Facilities
+English,"There are no major problems with office staff, and I am satisfied.",Positive,Administration
+English,The department maintains records related to bus seating.,Neutral,Transport
+English,The support provided through library opening hours is helpful.,Positive,Library
+English,The quality of classroom fans is poor.,Negative,Infrastructure
+English,"Overall, I am happy with hostel rules.",Positive,Hostel
+English,The college publishes information about campus security arrangements through its official channels.,Neutral,Campus Facilities
+English,Students can depend on library study spaces when needed.,Positive,Library
+English,The support provided through digital library is inadequate.,Negative,Library
+English,The college has not maintained an acceptable standard for syllabus.,Negative,Academics
+English,The department reviews information related to dining area each semester.,Neutral,Food / Mess
+English,There are several unresolved problems with drinking water facility.,Negative,Food / Mess
+English,Students can contact the relevant office for details about dining area.,Neutral,Food / Mess
+English,I am pleased with how the college provides dinner quality.,Positive,Food / Mess
+English,The current condition of teaching assistant is unacceptable.,Negative,Faculty
+English,I find library seating useful and convenient.,Positive,Library
+English,Information about hostel staff is available in the student handbook.,Neutral,Hostel
+English,The current condition of corridor cleanliness is unacceptable.,Negative,Safety and Hygiene
+English,The standard of faculty feedback is below expectations.,Negative,Academics
+English,The quality of laboratory equipment is excellent.,Positive,Infrastructure
+English,The college has listed course materials in its campus information.,Neutral,Academics
+English,The current condition of faculty response is unacceptable.,Negative,Faculty
+English,The college has a designated area or process for campus security arrangements.,Neutral,Campus Facilities
+English,There are several unresolved problems with library computers.,Negative,Library
+English,The schedule for laboratory equipment is announced by the college.,Neutral,Infrastructure
+English,I am dissatisfied with the quality of first-aid arrangements.,Negative,Safety and Hygiene
+English,I would rate classroom lighting poorly because it causes problems.,Negative,Infrastructure
+English,The standard of office staff is good and reliable.,Positive,Administration
+English,I am dissatisfied with the quality of admission process.,Negative,Administration
+English,The quality of complaint handling process is poor.,Negative,Administration
+English,The schedule for exam schedule is announced by the college.,Neutral,Academics
+English,I find pickup points useful and convenient.,Positive,Transport
+English,The department maintains records related to campus buildings.,Neutral,Infrastructure
+English,The standard of lecture explanations is below expectations.,Negative,Academics
+English,I am satisfied with the quality of room ventilation.,Positive,Hostel
+English,Students can find details about campus cleanliness on the college notice board.,Neutral,Campus Facilities
+English,The support provided through classroom furniture is helpful.,Positive,Infrastructure
+English,The college has assigned responsibility for computer systems to a staff member.,Neutral,Infrastructure
+English,The college has assigned responsibility for transport service to a staff member.,Neutral,Transport
+English,The college has listed student records service in its campus information.,Neutral,Administration
+English,The standard of admission process is below expectations.,Negative,Administration
+English,I would rate library opening hours poorly because it causes problems.,Negative,Library
+English,The department reviews information related to office staff each semester.,Neutral,Administration
+English,The standard of bus cleanliness is below expectations.,Negative,Transport
+English,The college has listed exam schedule in its campus information.,Neutral,Academics
+English,I find transport schedule inconvenient and unreliable.,Negative,Transport
+English,Information about academic adviser is available in the student handbook.,Neutral,Faculty
+English,The college records updates related to library staff in its administrative system.,Neutral,Library
+English,The college includes menu variety in its regular operations.,Neutral,Food / Mess
+English,The department reviews information related to washroom cleanliness each semester.,Neutral,Safety and Hygiene
+English,The current condition of room ventilation meets my expectations.,Positive,Hostel
+English,I have had a positive experience with student help desk.,Positive,Administration
+English,I would rate drinking water hygiene highly because it works well.,Positive,Safety and Hygiene
+English,The college has maintained a good standard for hostel rules.,Positive,Hostel
+English,The support provided through hostel maintenance is inadequate.,Negative,Hostel
+English,Students can depend on assignment instructions when needed.,Positive,Academics
+English,I find fee payment process useful and convenient.,Positive,Administration
+English,I would rate student activity areas poorly because it causes problems.,Negative,Campus Facilities
+English,The college has listed washroom cleanliness in its campus information.,Neutral,Safety and Hygiene
+English,I appreciate the improvements made to transport schedule.,Positive,Transport
+English,I would rate hostel rooms poorly because it causes problems.,Negative,Hostel
+English,I find safety measures useful and convenient.,Positive,Safety and Hygiene
+English,The college records updates related to transport office in its administrative system.,Neutral,Transport
+English,I am disappointed with the current condition of parking area.,Negative,Campus Facilities
+English,I find faculty feedback useful and convenient.,Positive,Academics
+English,The college has listed drinking water points in its campus information.,Neutral,Campus Facilities
+English,Students can contact the relevant office for details about computer systems.,Neutral,Infrastructure
+English,I find faculty response inconvenient and unreliable.,Negative,Faculty
+English,The college has a designated area or process for book borrowing service.,Neutral,Library
+English,The college has assigned responsibility for emergency arrangements to a staff member.,Neutral,Safety and Hygiene
+English,I would rate computer systems poorly because it causes problems.,Negative,Infrastructure
+English,I am dissatisfied with the quality of bus cleanliness.,Negative,Transport
+English,The college has not maintained an acceptable standard for bus cleanliness.,Negative,Transport
+English,Students can find details about teaching methods on the college notice board.,Neutral,Academics
+English,The college manages drinking water points very well.,Positive,Campus Facilities
+English,The schedule for document verification is announced by the college.,Neutral,Administration
+English,I appreciate the improvements made to academic support.,Positive,Academics
+English,I have had a negative experience with hostel cleanliness.,Negative,Hostel
+English,The college records updates related to faculty response in its administrative system.,Neutral,Faculty
+English,The department reviews information related to electrical facilities each semester.,Neutral,Infrastructure
+English,I am disappointed with the current condition of classroom fans.,Negative,Infrastructure
+English,The standard of transport office is good and reliable.,Positive,Transport
+English,The department reviews information related to reading rooms each semester.,Neutral,Library
+English,The college includes bus seating in its regular operations.,Neutral,Transport
+English,The college publishes information about faculty feedback through its official channels.,Neutral,Academics
+English,The standard of water supply is good and reliable.,Positive,Hostel
+English,There are several unresolved problems with safety measures.,Negative,Safety and Hygiene
+English,The department reviews information related to administrative response each semester.,Neutral,Administration
+English,Information about safety measures is available in the student handbook.,Neutral,Safety and Hygiene
+English,The quality of laboratory computers is poor.,Negative,Infrastructure
+English,The college manages lecturer very well.,Positive,Faculty
+English,The college needs to improve hostel cleanliness.,Negative,Hostel
+English,The college records updates related to campus cleanliness in its administrative system.,Neutral,Campus Facilities
+English,I am dissatisfied with the quality of drinking water points.,Negative,Campus Facilities
+English,I have had a negative experience with certificate service.,Negative,Administration
+English,The college has not maintained an acceptable standard for bus timings.,Negative,Transport
+English,Students from different year groups use or access lecture explanations.,Neutral,Academics
+English,The current condition of classroom lessons meets my expectations.,Positive,Academics
+English,The college includes classroom fans in its regular operations.,Neutral,Infrastructure
+English,The quality of transport service is excellent.,Positive,Transport
+English,I have had a negative experience with serving process.,Negative,Food / Mess
+English,The support provided through bus seating is inadequate.,Negative,Transport
+English,I find bus cleanliness inconvenient and unreliable.,Negative,Transport
+English,I would rate laboratory equipment highly because it works well.,Positive,Infrastructure
+English,Students can depend on course materials when needed.,Positive,Academics
+English,The college has listed mess staff in its campus information.,Neutral,Food / Mess
+English,The support provided through student records service is inadequate.,Negative,Administration
+English,The college publishes information about menu variety through its official channels.,Neutral,Food / Mess
+English,The department reviews information related to campus lighting at night each semester.,Neutral,Safety and Hygiene
+English,I have had a negative experience with campus Wi-Fi.,Negative,Campus Facilities
+English,The college has assigned responsibility for lunch options to a staff member.,Neutral,Food / Mess
+English,I appreciate the improvements made to water supply.,Positive,Hostel
+English,I am dissatisfied with the quality of parking area.,Negative,Campus Facilities
+English,The college does not manage complaint handling process properly.,Negative,Administration
+English,I am dissatisfied with the quality of library computers.,Negative,Library
+English,The department reviews information related to safety measures each semester.,Neutral,Safety and Hygiene
+English,"Overall, I am unhappy with faculty response.",Negative,Faculty
+English,The college manages document verification very well.,Positive,Administration
+English,There are several unresolved problems with sports ground.,Negative,Campus Facilities
+English,"Overall, I am happy with lecturer.",Positive,Faculty
+English,"Overall, I am unhappy with lunch options.",Negative,Food / Mess
+English,The current condition of electrical facilities meets my expectations.,Positive,Infrastructure
+English,The college publishes information about transport office through its official channels.,Neutral,Transport
+English,The support provided through campus hygiene is helpful.,Positive,Safety and Hygiene
+English,There are several unresolved problems with hostel maintenance.,Negative,Hostel
+English,Students from different year groups use or access campus buildings.,Neutral,Infrastructure
+English,The college has assigned responsibility for pickup points to a staff member.,Neutral,Transport
+English,The quality of lecture explanations is poor.,Negative,Academics
+English,I am pleased with how the college provides instructor explanations.,Positive,Faculty
+English,I am satisfied with the quality of computer systems.,Positive,Infrastructure
+English,The quality of lecture explanations is excellent.,Positive,Academics
+English,The support provided through transport service is helpful.,Positive,Transport
+English,The college manages library study spaces very well.,Positive,Library
+English,The department maintains records related to hostel cleanliness.,Neutral,Hostel
+English,I am disappointed with the current condition of campus infrastructure.,Negative,Infrastructure
+English,The college has not maintained an acceptable standard for corridor cleanliness.,Negative,Safety and Hygiene
+English,Details about teaching methods are shared during student orientation.,Neutral,Academics
+English,"There are no major problems with academic adviser, and I am satisfied.",Positive,Faculty
+English,I have had a negative experience with lecturer.,Negative,Faculty
+English,"There are no major problems with admission process, and I am satisfied.",Positive,Administration
+English,I have had a positive experience with hostel rules.,Positive,Hostel
+English,Students cannot depend on sports ground when needed.,Negative,Campus Facilities
+English,"There are no major problems with classroom furniture, and I am satisfied.",Positive,Infrastructure
+English,The college publishes information about lunch options through its official channels.,Neutral,Food / Mess
+English,The support provided through academic adviser is helpful.,Positive,Faculty
+English,The quality of bus timings is poor.,Negative,Transport
+English,"Overall, I am unhappy with transport schedule.",Negative,Transport
+English,The support provided through reading rooms is inadequate.,Negative,Library
+English,The college manages classroom space very well.,Positive,Infrastructure
+English,"Overall, I am unhappy with admission process.",Negative,Administration
+English,I am satisfied with the quality of teaching methods.,Positive,Academics
+English,I find student help desk inconvenient and unreliable.,Negative,Administration
+English,I have had a negative experience with teaching methods.,Negative,Academics
+English,I would rate lecture explanations poorly because it causes problems.,Negative,Academics
+English,The college has listed library staff in its campus information.,Neutral,Library
+English,Students cannot depend on hostel rooms when needed.,Negative,Hostel
+English,There are several unresolved problems with reference materials.,Negative,Library
+English,The support provided through campus buildings is helpful.,Positive,Infrastructure
+English,The standard of fee payment process is below expectations.,Negative,Administration
+English,"There are no major problems with campus Wi-Fi, and I am satisfied.",Positive,Campus Facilities
+English,The standard of campus buildings is below expectations.,Negative,Infrastructure
+English,I am disappointed with the current condition of library computers.,Negative,Library
+English,I have had a negative experience with notice system.,Negative,Administration
+English,The quality of medical room is excellent.,Positive,Campus Facilities
+English,I have had a negative experience with document verification.,Negative,Administration
+English,I have had a negative experience with parking area.,Negative,Campus Facilities
+English,The college has not maintained an acceptable standard for drinking water facility.,Negative,Food / Mess
+English,The college does not manage teaching assistant properly.,Negative,Faculty
+English,The standard of laboratory computers is below expectations.,Negative,Infrastructure
+English,The current condition of classroom fans is unacceptable.,Negative,Infrastructure
+English,I would rate mess food highly because it works well.,Positive,Food / Mess
+English,I am disappointed with the current condition of campus hygiene.,Negative,Safety and Hygiene
+English,"Overall, I am unhappy with campus hygiene.",Negative,Safety and Hygiene
+English,I would rate menu variety poorly because it causes problems.,Negative,Food / Mess
+English,Students cannot depend on hostel staff when needed.,Negative,Hostel
+English,I have had a negative experience with drinking water points.,Negative,Campus Facilities
+English,The college has listed menu variety in its campus information.,Neutral,Food / Mess
+English,"Overall, I am happy with breakfast service.",Positive,Food / Mess
+English,There are several unresolved problems with office staff.,Negative,Administration
+English,"Overall, I am unhappy with library opening hours.",Negative,Library
+English,The college has maintained a good standard for classroom lighting.,Positive,Infrastructure
+English,I appreciate the improvements made to sports ground.,Positive,Campus Facilities
+English,The quality of emergency arrangements is poor.,Negative,Safety and Hygiene
+English,The college does not manage driver behaviour properly.,Negative,Transport
+English,The college has not maintained an acceptable standard for library study spaces.,Negative,Library
+English,Students can find details about lecture explanations on the college notice board.,Neutral,Academics
+English,Students can depend on food hygiene when needed.,Positive,Food / Mess
+English,"There are no major problems with campus lighting at night, and I am satisfied.",Positive,Safety and Hygiene
+English,I have had a negative experience with reading rooms.,Negative,Library
+English,I find classroom furniture useful and convenient.,Positive,Infrastructure
+English,I would rate mess food poorly because it causes problems.,Negative,Food / Mess
+English,I find hostel staff useful and convenient.,Positive,Hostel
+English,I am pleased with how the college provides notice system.,Positive,Administration
+English,"Overall, I am happy with instructor explanations.",Positive,Faculty
+English,"There are no major problems with instructor explanations, and I am satisfied.",Positive,Faculty
+English,Information about hostel facilities is available in the student handbook.,Neutral,Hostel
+English,Students cannot depend on waste disposal system when needed.,Negative,Safety and Hygiene
+English,Students can find details about student records service on the college notice board.,Neutral,Administration
+English,I am satisfied with the quality of library opening hours.,Positive,Library
+English,Students cannot depend on lunch options when needed.,Negative,Food / Mess
+English,The college has listed hostel rules in its campus information.,Neutral,Hostel
+English,"There are no major problems with mess food, and I am satisfied.",Positive,Food / Mess
+English,The support provided through drinking water points is helpful.,Positive,Campus Facilities
+English,The arrangements for transport office are described in college guidelines.,Neutral,Transport
+English,The college needs to improve student records service.,Negative,Administration
+English,The support provided through academic support is inadequate.,Negative,Academics
+English,The college has maintained a good standard for serving process.,Positive,Food / Mess
+English,The support provided through mentor is helpful.,Positive,Faculty
+English,The college records updates related to teaching assistant in its administrative system.,Neutral,Faculty
+English,I find transport service useful and convenient.,Positive,Transport
+English,I am pleased with how the college provides library study spaces.,Positive,Library
+English,I appreciate the improvements made to notice system.,Positive,Administration
+English,The current condition of campus Wi-Fi meets my expectations.,Positive,Campus Facilities
+English,The college does not manage dining area properly.,Negative,Food / Mess
+English,Students can depend on computer systems when needed.,Positive,Infrastructure
+English,The college has not maintained an acceptable standard for faculty feedback.,Negative,Academics
+English,The college has a designated area or process for food hygiene.,Neutral,Food / Mess
+English,Students cannot depend on library study spaces when needed.,Negative,Library
+English,The support provided through laboratory equipment is inadequate.,Negative,Infrastructure
+English,The college has a designated area or process for instructor explanations.,Neutral,Faculty
+English,The college has maintained a good standard for notice system.,Positive,Administration
+English,Students cannot depend on lecturer when needed.,Negative,Faculty
+English,Students can find details about course instructor on the college notice board.,Neutral,Faculty
+English,The standard of administrative response is below expectations.,Negative,Administration
+English,The college has a designated area or process for library seating.,Neutral,Library
+English,The quality of campus lighting at night is poor.,Negative,Safety and Hygiene
+English,The department maintains records related to campus Wi-Fi.,Neutral,Campus Facilities
+English,Students can contact the relevant office for details about dinner quality.,Neutral,Food / Mess
+English,I appreciate the improvements made to mess staff.,Positive,Food / Mess
+English,Students can find details about department faculty on the college notice board.,Neutral,Faculty
+English,I would rate syllabus poorly because it causes problems.,Negative,Academics
+English,The college publishes information about faculty response through its official channels.,Neutral,Faculty
+English,I have had a negative experience with drinking water facility.,Negative,Food / Mess
+English,I find campus security arrangements useful and convenient.,Positive,Campus Facilities
+English,The standard of instructor explanations is below expectations.,Negative,Faculty
+English,The standard of classroom space is below expectations.,Negative,Infrastructure
+English,The college publishes information about classroom fans through its official channels.,Neutral,Infrastructure
+English,The quality of campus infrastructure is excellent.,Positive,Infrastructure
+English,Details about medical room are shared during student orientation.,Neutral,Campus Facilities
+English,"Overall, I am unhappy with mess food.",Negative,Food / Mess
+English,The quality of maintenance checks is poor.,Negative,Safety and Hygiene
+English,I would rate classroom lessons highly because it works well.,Positive,Academics
+English,"There are no major problems with department faculty, and I am satisfied.",Positive,Faculty
+English,I am pleased with how the college provides certificate service.,Positive,Administration
+English,"Overall, I am happy with student records service.",Positive,Administration
+English,The college has assigned responsibility for faculty response to a staff member.,Neutral,Faculty

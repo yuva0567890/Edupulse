@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="{{ ui_lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}EduPulse{% endblock %} · EduPulse</title>
+  <meta name="description" content="Multilingual aspect-based sentiment and priority analysis for student feedback.">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script>try{var th=localStorage.getItem('ep-theme');if(th)document.documentElement.setAttribute('data-theme',th)}catch(e){}</script>
+  {% block head %}{% endblock %}
+</head>
+<body>
+{% macro langsel() %}
+  <select class="lang" aria-label="{{ t('language_ui') }}" onchange="location.href='{{ url_for('public.set_language', code='__') }}'.replace('__', this.value)">
+    {% for code, name in ui_languages.items() %}<option value="{{ code }}" {{ 'selected' if code == ui_lang }}>{{ name }}</option>{% endfor %}
+  </select>
+{% endmacro %}
+
+{% if admin_page %}
+<div class="mobile-bar">
+  <button class="menu-btn" onclick="document.getElementById('sb').classList.toggle('open')" aria-label="Menu">☰</button>
+  <span class="brand"><span class="logo">E</span>EduPulse</span>
+</div>
+<div class="shell">
+  <aside class="sidebar" id="sb">
+    <a class="brand" href="{{ url_for('public.index') }}"><span class="logo">E</span>EduPulse</a>
+    {% set ep = request.endpoint %}
+    <a class="item {{ 'active' if ep == 'admin.dashboard' }}" href="{{ url_for('admin.dashboard') }}"><span class="ico">📊</span>{{ t('dashboard') }}</a>
+    <a class="item {{ 'active' if ep in ('admin.explorer','admin.detail') }}" href="{{ url_for('admin.explorer') }}"><span class="ico">🗂️</span>{{ t('all_feedback') }}</a>
+    <a class="item {{ 'active' if ep == 'admin.issues' }}" href="{{ url_for('admin.issues') }}"><span class="ico">🎫</span>{{ t('issues') }}</a>
+    <a class="item {{ 'active' if ep == 'admin.analytics_page' }}" href="{{ url_for('admin.analytics_page') }}"><span class="ico">📈</span>{{ t('analytics') }}</a>
+    <a class="item {{ 'active' if ep == 'admin.model_performance' }}" href="{{ url_for('admin.model_performance') }}"><span class="ico">🧠</span>{{ t('model_performance') }}</a>
+    <a class="item {{ 'active' if ep == 'admin.settings' }}" href="{{ url_for('admin.settings') }}"><span class="ico">⚙️</span>{{ t('settings') }}</a>
+    <a class="item" href="{{ url_for('public.feedback') }}"><span class="ico">✍️</span>{{ t('give_feedback') }}</a>
+    <div class="bottom">
+      <span class="pill" title="{{ t('nlp_mode') }}"><span class="dot"></span>{{ t('nlp_mode') }}: {{ nlp_mode }}</span>
+      {{ langsel() }}
+      <button class="btn btn-ghost btn-sm" type="button" id="theme-toggle">🌓 Theme</button>
+      <form method="post" action="{{ url_for('admin.logout') }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <button class="btn btn-ghost btn-sm" style="width:100%">⏻ {{ t('logout') }}</button></form>
+    </div>
+  </aside>
+  <main class="main">{% block content %}{% endblock %}</main>
+</div>
+{% else %}
+<header class="topbar"><div class="inner">
+  <a class="brand" href="{{ url_for('public.index') }}"><span class="logo">E</span>EduPulse</a>
+  <nav class="nav" id="nav">
+    <a href="{{ url_for('public.index') }}" class="{{ 'active' if request.endpoint == 'public.index' }}">{{ t('home') }}</a>
+    <a href="{{ url_for('public.feedback') }}" class="{{ 'active' if request.endpoint == 'public.feedback' }}">{{ t('give_feedback') }}</a>
+    <a href="{{ url_for('admin.dashboard') }}">{{ t('dashboard') }}</a>
+  </nav>
+  <span class="spacer"></span>
+  <span class="pill" id="mode-pill"><span class="dot"></span>{{ t('nlp_mode') }}: {{ nlp_mode }}</span>
+  {{ langsel() }}
+  <button class="btn btn-ghost btn-sm" type="button" id="theme-toggle" aria-label="Theme">🌓</button>
+  {% if is_admin %}<form method="post" action="{{ url_for('admin.logout') }}" style="margin:0"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}"><button class="btn btn-ghost btn-sm">{{ t('logout') }}</button></form>
+  {% else %}<a class="btn btn-ghost btn-sm" href="{{ url_for('admin.login') }}">{{ t('login') }}</a>{% endif %}
+  <button class="menu-btn" onclick="document.getElementById('nav').classList.toggle('open')" aria-label="Menu">☰</button>
+</div></header>
+{% block full %}<div class="container">{% block pub %}{% endblock %}</div>{% endblock %}
+<footer class="footer">EduPulse · Multilingual ABSA for student feedback · English · தமிழ் · हिन्दी · Tanglish</footer>
+{% endif %}
+
+<div class="toasts" id="toasts"></div>
+<script id="flashes" type="application/json">{{ get_flashed_messages(with_categories=true)|tojson }}</script>
+<script>window.EP_LANG={{ ui_lang|tojson }};</script>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

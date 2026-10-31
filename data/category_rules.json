@@ -1,0 +1,6 @@
+{
+  "_comment": "Optional overrides for the rule-based category classifier. Keys: aspect_category, aspect_keywords, hostel_context. Restart the app after editing.",
+  "aspect_category": {},
+  "aspect_keywords": {},
+  "hostel_context": []
+}

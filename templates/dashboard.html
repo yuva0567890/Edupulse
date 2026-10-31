@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}{{ t('dashboard') }}{% endblock %}
+{% block head %}<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>{% endblock %}
+{% block content %}
+<div class="page-head"><div><h1>📊 EduPulse Admin {{ t('dashboard') }}</h1><p class="muted">Live analytics from stored student feedback</p></div>
+  <div class="row"><a class="btn btn-ghost btn-sm" href="{{ url_for('admin.explorer') }}">🗂️ {{ t('all_feedback') }}</a>
+  <a class="btn btn-ghost btn-sm" id="export-link" href="{{ url_for('admin.export_csv') }}">⬇ {{ t('export_csv') }}</a></div></div>
+
+<details class="card mb" open><summary>🔎 {{ t('filters') }}</summary>
+<form id="filters" onsubmit="return false" style="margin-top:.9rem"><div class="filters">
+  {% set show_search = true %}{% include "_filter_fields.html" %}
+  <div class="row" style="gap:.4rem"><button class="btn btn-primary btn-sm" id="apply">{{ t('apply') }}</button><button class="btn btn-ghost btn-sm" id="reset" type="button">{{ t('reset') }}</button></div>
+</div></form></details>
+
+<div id="empty" class="card empty" style="display:none"><div class="big">📭</div><h3>{{ t('no_feedback_yet') }}</h3><p>{{ t('no_data_hint') }}</p>
+  <a class="btn btn-primary" href="{{ url_for('public.feedback') }}">{{ t('give_feedback') }}</a></div>
+
+<div id="content">
+<div class="grid g4 mb" id="cards">
+  <div class="card stat"><span class="label">{{ t('total_feedback') }}</span><span class="value" data-k="total">…</span></div>
+  <div class="card stat"><span class="label">{{ t('academics') }}</span><span class="value" style="color:#3b5bdb" data-k="academics">…</span></div>
+  <div class="card stat"><span class="label">{{ t('hostel') }}</span><span class="value" style="color:#f76707" data-k="hostel">…</span></div>
+  <div class="card stat"><span class="label">{{ t('others') }}</span><span class="value" style="color:#12b886" data-k="others">…</span></div>
+  <div class="card stat"><span class="label">{{ t('positive') }}</span><span class="value c-positive" data-k="positive">…</span><span class="sub" id="sub-pos"></span></div>
+  <div class="card stat"><span class="label">{{ t('neutral') }}</span><span class="value c-neutral" data-k="neutral">…</span><span class="sub" id="sub-neu"></span></div>
+  <div class="card stat"><span class="label">{{ t('negative') }}</span><span class="value c-negative" data-k="negative_count">…</span><span class="sub" id="sub-neg"></span></div>
+  <div class="card stat"><span class="label">{{ t('high_priority') }}</span><span class="value" style="color:var(--high)" data-k="high_priority">…</span></div>
+  <div class="card stat"><span class="label">{{ t('critical_issues') }}</span><span class="value" style="color:var(--crit)" data-k="critical_priority">…</span></div>
+  <div class="card stat"><span class="label">{{ t('open_issues') }}</span><span class="value" style="color:var(--neg)" data-k="open_total">…</span><span class="sub" id="sub-open"></span></div>
+  <div class="card stat"><span class="label">{{ t('resolved_issues') }}</span><span class="value c-positive" data-k="resolved_total">…</span></div>
+</div>
+
+<div class="card mb"><h3>🚨 {{ t('critical_issues') }}</h3><div id="critical"></div></div>
+
+<div class="grid g-dash mb">
+  <div class="card chart-card"><h3>{{ t('sentiment_distribution') }}</h3><div class="chart-box"><canvas id="c-sent"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('category_distribution') }}</h3><div class="chart-box"><canvas id="c-cat"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('priority_distribution') }}</h3><div class="chart-box"><canvas id="c-prio"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('language_distribution') }}</h3><div class="chart-box"><canvas id="c-lang"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('category_sentiment') }}</h3><div class="chart-box"><canvas id="c-catsent"></canvas></div></div>
+  <div class="card chart-card"><h3>Category × {{ t('priority') }}</h3><div class="chart-box"><canvas id="c-catprio"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('department_analytics') }} (Department × Category)</h3><div class="chart-box"><canvas id="c-dept"></canvas></div></div>
+  <div class="card chart-card"><h3>{{ t('language') }} × {{ t('category') }}</h3><div class="chart-box"><canvas id="c-langcat"></canvas></div></div>
+</div>
+
+<div class="grid g-dash mb">
+  <div class="card"><div class="row"><h3 style="margin:0">📈 {{ t('trending_issues') }}</h3><span class="spacer"></span>
+    <div class="seg"><button data-p="7" class="on">7 {{ t('days') }}</button><button data-p="30">30</button><button data-p="90">90</button></div></div>
+    <div id="trending" style="margin-top:.8rem"></div></div>
+  <div class="card"><h3>🧠 {{ t('ai_summary') }}</h3><div id="summary"></div></div>
+</div>
+
+<div class="card mb"><h3>🧩 {{ t('recurring_issues') }}</h3><div id="similar"></div></div>
+<div class="card mb"><div class="row"><h3 style="margin:0">🕒 {{ t('recent_feedback') }}</h3><span class="spacer"></span><a class="small" href="{{ url_for('admin.explorer') }}">{{ t('all_feedback') }} →</a></div><div id="recent" style="margin-top:.8rem"></div></div>
+</div>
+<script>window.EP_I18N={Positive:{{ t('positive')|tojson }},Neutral:{{ t('neutral')|tojson }},Negative:{{ t('negative')|tojson }}};
+window.EP_ASPECTS={{ aspect_names|tojson }};</script>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/common.js') }}"></script><script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>{% endblock %}

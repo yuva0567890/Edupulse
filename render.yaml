@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: edupulse
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --workers 2 --threads 4 --timeout 120 --bind 0.0.0.0:$PORT
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ALLOW_SIGNUP     # production: only the first account may sign up unless this is "true"
+        value: "false"
+      - key: AUTO_SEED
+        value: "false"
+      - key: DATABASE_URL     # optional: add a Render PostgreSQL and link it here
+        sync: false

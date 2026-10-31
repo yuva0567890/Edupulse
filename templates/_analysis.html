@@ -1,0 +1,216 @@
+
+{% from "_macros.html" import sent_badge, prio_badge, sev_badge, terms, cat_badge, status_badge with context %}
+{% set top = d.rows[0] if d.rows else none %}
+
+<div class="card mb">
+  <div class="sentiment-hero">
+    <div class="ring c-{{ d.sentiment|lower }}">
+      <span>{{ sent_label(d.sentiment)|upper }}</span>
+    </div>
+
+    <div class="grow">
+      <div class="small muted">{{ t('sentiment') }}</div>
+      <div class="big-label c-{{ d.sentiment|lower }}">
+        {{ sent_label(d.sentiment)|upper }}
+      </div>
+      <div class="row small muted" style="gap:.6rem">
+        <span>
+          🌐 {{ t('detected_language') }}:
+          <b>{{ d.language }}</b>
+          {% if d.language_info and d.language_info.code_mixed %}
+            (code-mixed)
+          {% endif %}
+        </span>
+      </div>
+    </div>
+
+    <div style="min-width:200px">
+      <div class="small muted">{{ t('severity') }}</div>
+      <div>{{ sev_badge(d.severity) }}</div>
+
+      <div class="small muted" style="margin-top:.5rem">
+        {{ t('priority') }}
+      </div>
+      <div>
+        {{ prio_badge(d.priority) }}
+        <b>{{ d.score|round|int }}/100</b>
+      </div>
+
+      <div class="scorebar" style="margin-top:.4rem">
+        <i style="width:{{ d.score }}%;background:linear-gradient(90deg,var(--pos),var(--neu),var(--high),var(--crit))"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card mb">
+  <div class="row" style="gap:.6rem">
+    <span class="small muted">{{ t('category') }}</span>
+    {{ cat_badge(d.category) }}
+
+    {% if top %}
+      <span class="muted">→</span>
+      <b>{{ aspect_label(top.aspect) }}</b>
+      <span class="muted">→</span>
+      {{ sent_badge(top.sentiment) }}
+      <span class="muted">→</span>
+      {{ sev_badge(top.severity) }}
+      <span class="muted">→</span>
+      {{ prio_badge(top.priority) }}
+      <b>{{ top.score|round|int }}/100</b>
+    {% endif %}
+  </div>
+
+  {% if d.category_selected and d.category_selected != 'Auto Detect' and d.category_detected and d.category_selected != d.category_detected %}
+    <p class="small muted" style="margin:.6rem 0 0">
+      ℹ️ {{ t('detected_category') }}:
+      <b>{{ d.category_detected }}</b> · {{ d.category_selected }}
+    </p>
+  {% endif %}
+
+  {% if d.issue_id %}
+    <p class="small" style="margin:.6rem 0 0">
+      🎫 {{ t('issue_id') }}: <b>{{ d.issue_id }}</b>
+      · {{ t('status') }}: {{ status_badge(d.status) }}
+    </p>
+  {% endif %}
+</div>
+
+{% if not admin_page %}
+<div class="card mb">
+  <h3>💬 {{ t('admin_response') }}</h3>
+  {% if d.admin_response %}
+    <div class="quote">{{ d.admin_response }}</div>
+  {% else %}
+    <p class="muted small" style="margin:0">{{ t('no_response') }}</p>
+  {% endif %}
+  {% if d.status %}
+    <p class="small muted" style="margin:.6rem 0 0">
+      {{ t('your_status') }}: {{ status_badge(d.status) }}
+    </p>
+  {% endif %}
+</div>
+{% endif %}
+
+<div class="card mb">
+  <div class="small muted mb" style="margin-bottom:.4rem">
+    {{ t('raw_text') }}
+  </div>
+  <div class="quote">{{ d.text }}</div>
+</div>
+
+<h2>{{ t('aspects_detected') }}</h2>
+
+<div class="table-wrap mb">
+  <table>
+    <thead>
+      <tr>
+        <th>{{ t('category') }}</th>
+        <th>{{ t('aspect') }}</th>
+        <th>{{ t('sentiment') }}</th>
+        <th>{{ t('severity') }}</th>
+        <th>{{ t('priority') }}</th>
+        <th>{{ t('score') }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in d.rows %}
+      <tr>
+        <td>{{ cat_badge(r.category) }}</td>
+        <td><b>{{ aspect_label(r.aspect) }}</b></td>
+        <td>{{ sent_badge(r.sentiment) }}</td>
+        <td>{{ sev_badge(r.severity) }}</td>
+        <td>{{ prio_badge(r.priority) }}</td>
+        <td>{{ r.score|round|int }}/100</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% for r in d.rows %}
+<div class="card aspect-card a-{{ r.sentiment|lower }} mb">
+  <div class="row">
+    <h3 style="margin:0">{{ aspect_label(r.aspect) }}</h3>
+    {{ sent_badge(r.sentiment) }}
+    {{ prio_badge(r.priority) }}
+  </div>
+
+  {% if r.explanation.clause %}
+    <p class="muted small" style="margin:.6rem 0 0">
+      “{{ r.explanation.clause }}”
+    </p>
+  {% endif %}
+
+  <div class="grid g2 mt">
+    <div>
+      <div class="small muted">🔍 {{ t('why') }}</div>
+      <p style="margin:.3rem 0">
+        {{ (r.explanation.aspect.text or {}).get(ui_lang) }}
+      </p>
+      <div>{{ terms(r.explanation.aspect.terms or []) }}</div>
+
+      {% if r.explanation.keywords %}
+      <div class="small muted mt" style="margin-top:.6rem">
+        Aspect keywords:
+        {% for k in r.explanation.keywords %}
+          <span class="token">{{ k }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <div>
+      <div class="small muted">{{ t('priority_why') }}</div>
+      <p class="small" style="margin:.3rem 0 .8rem">
+        {{ (r.explanation.priority_why or {}).get(ui_lang) }}
+      </p>
+      <div class="reco {{ 'esc' if r.recommendation.escalate }}">
+        <div class="small muted">💡 {{ t('recommended_action') }}</div>
+        {{ r.recommendation.get(ui_lang) }}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+{% if d.overall_explanation and d.overall_explanation.terms %}
+<div class="card mb">
+  <h3>🔍 {{ t('why') }} ({{ sent_label(d.sentiment) }})</h3>
+  <p style="margin:.3rem 0">
+    {{ (d.overall_explanation.text or {}).get(ui_lang) }}
+  </p>
+  <div>{{ terms(d.overall_explanation.terms) }}</div>
+
+  {% for x in d.overall_explanation.terms %}
+  <div class="row small" style="margin-top:.35rem">
+    <span style="width:160px">{{ x.display }}</span>
+    <div class="scorebar grow">
+      <i style="width:{{ x.share }}%;background:var(--primary)"></i>
+    </div>
+    <span class="muted">{{ x.share }}%</span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if d.preprocessing and d.preprocessing.normalized %}
+<details class="card mb">
+  <summary>🧪 {{ t('normalized_text') }}</summary>
+  <p class="small mt" style="margin-top:.8rem">
+    <b>Tokens:</b>
+    {% for tk in d.preprocessing.tokens %}
+      <span class="token">{{ tk }}</span>
+    {% endfor %}
+  </p>
+  <p class="small">
+    <b>{{ t('normalized_text') }}:</b>
+    <code>{{ d.preprocessing.normalized }}</code>
+  </p>
+  <p class="small muted">
+    Each token is mapped to a shared English concept
+    (e.g. <i>romba → very</i>, <i>धीमा → slow</i>)
+    so one model can handle every language.
+  </p>
+</details>
+{% endif %}
